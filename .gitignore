@@ -1,0 +1,9 @@
+.env
+config/config.json
+*.pyc
+__pycache__/
+analysis_history/*.json
+match_data*.json
+*.xlsx
+.DS_Store
+venv/

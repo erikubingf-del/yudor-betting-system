@@ -1,0 +1,370 @@
+{
+  "match_id": "ElchevsRealMadrid_23112025",
+  "match_info": {
+    "id": "ElchevsRealMadrid_23112025",
+    "home": "Elche",
+    "away": "Real Madrid",
+    "league": "La Liga",
+    "date": "23/11/2025"
+  },
+  "timestamp": "2025-11-21T18:51:31.042829",
+  "consolidated_data": {
+    "game_id": "ElchevsRealMadrid_23112025",
+    "match_info": {
+      "home": "Elche",
+      "away": "Real Madrid",
+      "league": "La Liga",
+      "date": "23/11/2025"
+    },
+    "p_empate": 19.0,
+    "betfair_ah_market": null,
+    "q_scores": {
+      "Q1": {
+        "home_score": 3,
+        "away_score": 8,
+        "home_reasoning": "Elche: Héctor Fort (€10M, est. 6.8★), Rodrigo Mendoza (€9M, est. 6.9★), André Silva (€3M, est. 6.7★), Affengruber (€7.5M, est. 6.6★) → Total 4.8 → +3",
+        "away_reasoning": "Real Madrid: Mbappé (€180M, 7.8★), Bellingham (€180M, 7.7★), Vinicius (€150M, 7.6★), Valverde (€130M, 7.5★) → Total 11.2 → +8",
+        "sources": [
+          "Transfermarkt (values)",
+          "SofaScore (estimated ratings based on performance)"
+        ]
+      },
+      "Q2": {
+        "home_score": 2,
+        "away_score": 7,
+        "home_reasoning": "Elche: 1.08 G/J + 1.30 xG → +2",
+        "away_reasoning": "Real Madrid: 2.17 G/J + 2.25 xG → +7",
+        "sources": [
+          "FootyStats (goals)",
+          "FootyStats (xG)"
+        ]
+      },
+      "Q3": {
+        "home_score": 1,
+        "away_score": 5,
+        "home_reasoning": "Elche: Limited bench options, promoted team with few high-value substitutes → +1",
+        "away_reasoning": "Real Madrid: Deep squad with Rodrygo (€80M), Güler (€60M), Tchouaméni (€75M), quality in all positions → +5",
+        "sources": [
+          "Transfermarkt (squad depth)"
+        ]
+      },
+      "Q4": {
+        "home_score": 3,
+        "away_score": 5,
+        "home_reasoning": "Elche: 1.17 GA/J + 1.32 xGA → +3",
+        "away_reasoning": "Real Madrid: 0.83 GA/J + 1.09 xGA → +5",
+        "sources": [
+          "FootyStats (goals against)",
+          "FootyStats (xGA)"
+        ]
+      },
+      "Q5": {
+        "home_score": 2,
+        "away_score": 7,
+        "home_reasoning": "Eder Sarabia: Experienced Spanish coach but limited top-level success → +2",
+        "away_reasoning": "Xabi Alonso: World Cup winner, Champions League player, rising managerial star → +7",
+        "sources": [
+          "SportsMole (manager context)"
+        ]
+      },
+      "Q6": {
+        "home_score": 3,
+        "away_score": 5,
+        "home_reasoning": "Elche 4-1-4-1: Defensive formation against superior opposition → +3",
+        "away_reasoning": "Real Madrid flexible system with Bellingham behind Mbappé-Vinicius → +5",
+        "sources": [
+          "SportsMole (formations)"
+        ]
+      },
+      "Q7": {
+        "home_score": 2,
+        "away_score": 3,
+        "home_reasoning": "Elche: Mid-table team, likely balanced transitions → +2",
+        "away_reasoning": "Real Madrid: Quality in transitions but not ultra-high press style → +3",
+        "sources": [
+          "Default estimation based on team style"
+        ]
+      },
+      "Q8": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "No specific set-piece data available → +2 default",
+        "away_reasoning": "No specific set-piece data available → +2 default",
+        "sources": [
+          "Default estimation"
+        ]
+      },
+      "Q9": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "Elche 11th position, mid-table, no immediate pressure → 0",
+        "away_reasoning": "Real Madrid top of table, 3 points ahead but comfortable → 0",
+        "sources": [
+          "FootyStats (league position)"
+        ]
+      },
+      "Q10": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No derby or special context identified → 0",
+        "away_reasoning": "No derby or special context identified → 0",
+        "sources": [
+          "Local media headlines"
+        ]
+      },
+      "Q11": {
+        "home_score": 2,
+        "away_score": 4,
+        "home_reasoning": "Elche: 3W-6D-3L overall, estimated 2W in last 5 → +2",
+        "away_reasoning": "Real Madrid: 10W-1D-1L overall, estimated 4W in last 5 → +4",
+        "sources": [
+          "FootyStats (overall record)"
+        ]
+      },
+      "Q12": {
+        "home_score": 1,
+        "away_score": 3,
+        "home_reasoning": "Elche: Likely faced mixed opposition quality, mid-table performance → +1",
+        "away_reasoning": "Real Madrid: Strong record against quality opposition in La Liga → +3",
+        "sources": [
+          "Estimated from league performance"
+        ]
+      },
+      "Q13": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "Elche: 1.08 G vs 1.30 xG (+0.22) → slightly unlucky → +2",
+        "away_reasoning": "Real Madrid: 2.17 G vs 2.25 xG (+0.08) → neutral → +2",
+        "sources": [
+          "FootyStats (xG delta)"
+        ]
+      },
+      "Q14": {
+        "home_score": 1,
+        "away_score": 5,
+        "home_reasoning": "Elche: Mid-table performance, limited quality indicators → +1",
+        "away_reasoning": "Real Madrid: Top of table, excellent xG performance, quality displays → +5",
+        "sources": [
+          "FootyStats (performance metrics)"
+        ]
+      },
+      "Q15": {
+        "home_score": 0,
+        "away_score": -8,
+        "home_reasoning": "No major injuries to key players reported → 0",
+        "away_reasoning": "Militão injured (key defender), Alaba with overload issue → -8",
+        "sources": [
+          "SportsMole (team news)",
+          "Local media (injury reports)"
+        ]
+      },
+      "Q16": {
+        "home_score": -4,
+        "away_score": -4,
+        "home_reasoning": "Pedro Bigas (defender) could be out → -4",
+        "away_reasoning": "Militão + Alaba issues, Rüdiger/Carvajal sidelined → -4",
+        "sources": [
+          "SportsMole (injury list)"
+        ]
+      },
+      "Q17": {
+        "home_score": 6,
+        "away_score": 6,
+        "home_reasoning": "Elche: 2.0 PPG at home (3W-3D-0L), strong home record → +6",
+        "away_reasoning": "Real Madrid: 2.17 PPG away (4W-1D-1L), excellent away form → +6",
+        "sources": [
+          "FootyStats (home/away form)"
+        ]
+      },
+      "Q18": {
+        "home_score": 0,
+        "away_score": 5,
+        "home_reasoning": "Elche vs Real Madrid: Historical record heavily favors Madrid → 0",
+        "away_reasoning": "Real Madrid: Dominant H2H record, won 4-0 last meeting → +5",
+        "sources": [
+          "SportsMole (H2H history)"
+        ]
+      },
+      "Q19": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No negative H2H scenario applies → 0",
+        "away_reasoning": "N/A for away team → 0",
+        "sources": [
+          "Historical data"
+        ]
+      }
+    },
+    "category_totals": {
+      "technique": {
+        "home": 8,
+        "away": 25
+      },
+      "tactics": {
+        "home": 7,
+        "away": 15
+      },
+      "motivation": {
+        "home": 0,
+        "away": 0
+      },
+      "form": {
+        "home": 3,
+        "away": 7
+      },
+      "performance": {
+        "home": 3,
+        "away": 7
+      },
+      "injuries": {
+        "home": -4,
+        "away": -12
+      },
+      "home_away": {
+        "home": 6,
+        "away": 11
+      }
+    },
+    "raw_scores": {
+      "raw_casa": 23,
+      "raw_vis": 53
+    },
+    "data_quality": {
+      "score": 78,
+      "assessment": "Good",
+      "breakdown": {
+        "q1_player_values": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q2_xg": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q3_bench": {
+          "points": 1.5,
+          "status": "estimated"
+        },
+        "q4_xga": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q5_manager": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q6_formations": {
+          "points": 5,
+          "status": "confirmed"
+        },
+        "q7_pressing": {
+          "points": 1,
+          "status": "default"
+        },
+        "q8_set_pieces": {
+          "points": 1,
+          "status": "default"
+        },
+        "q9_league": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q10_derby": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q11_form": {
+          "points": 2,
+          "status": "estimated"
+        },
+        "q12_opponent": {
+          "points": 2,
+          "status": "estimated"
+        },
+        "q13_xg_delta": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q14_ratings": {
+          "points": 2.5,
+          "status": "estimated"
+        },
+        "q15_injuries": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q16_cluster": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q17_home_away": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q18_h2h": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q19_h2h_negative": {
+          "points": 4,
+          "status": "complete"
+        },
+        "betfair_draw": {
+          "points": 0,
+          "status": "not_needed_blind_pricing"
+        },
+        "betfair_ah": {
+          "points": 0,
+          "status": "not_needed_blind_pricing"
+        },
+        "local_media": {
+          "points": 5,
+          "status": "available"
+        },
+        "sportsmole": {
+          "points": 5,
+          "status": "available"
+        }
+      },
+      "missing_critical": [],
+      "proceed": true,
+      "confidence_note": "Good data quality. FootyStats API provided excellent xG and form data. Some estimates used for detailed form analysis and set pieces."
+    },
+    "notes": [
+      "Q1: Squad values from Transfermarkt complete, ratings estimated based on performance",
+      "Q2: Excellent xG data from FootyStats API",
+      "Q3: Bench depth estimated from squad values - Real Madrid clearly superior",
+      "Q5: Manager quality assessed from SportsMole context and general knowledge",
+      "Q6: Formations confirmed from SportsMole preview",
+      "Q7: No pressing stats available - used tactical defaults",
+      "Q8: No set-piece data - used defaults",
+      "Q11-Q12: Form estimated from overall season records",
+      "Q15: Clear injury impact for Real Madrid (Militão, Alaba issues)",
+      "Q16: Multiple defensive injuries for both teams",
+      "Q17: Excellent home/away data from FootyStats",
+      "Using blind pricing - no Betfair odds included",
+      "P(Empate) calculated from FootyStats draw odds: 100/5.25 = 19.0%"
+    ]
+  },
+  "yudor_analysis": {
+    "match_id": "ElchevsRealMadrid_23112025",
+    "raw_casa": 23,
+    "raw_vis": 53,
+    "delta": -30,
+    "yudor_ah_fair": 1.0,
+    "pr_casa": 0.175,
+    "pr_vis": 0.635,
+    "pr_empate": 0.19,
+    "cs_final": 72,
+    "tier": 1,
+    "r_home": 0.42,
+    "r_away": 0.28,
+    "r_fav": 0.28,
+    "r_dog": 0.42,
+    "rbr": -0.2,
+    "r_score": 0.35,
+    "edge_synthetic": 32,
+    "decision": "VETO",
+    "reasoning": "R_score 0.35 exceeds 0.25 threshold, high risk due to Elche home advantage vs injury-hit Madrid defense"
+  }
+}

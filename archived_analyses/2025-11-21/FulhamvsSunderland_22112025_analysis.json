@@ -1,0 +1,372 @@
+{
+  "match_id": "FulhamvsSunderland_22112025",
+  "match_info": {
+    "id": "FulhamvsSunderland_22112025",
+    "home": "Fulham",
+    "away": "Sunderland",
+    "league": "Premier League",
+    "date": "22/11/2025"
+  },
+  "timestamp": "2025-11-21T18:35:03.815554",
+  "consolidated_data": {
+    "game_id": "FulhamvsSunderland_22112025",
+    "match_info": {
+      "home": "Fulham",
+      "away": "Sunderland",
+      "league": "Premier League",
+      "date": "22/11/2025"
+    },
+    "p_empate": 31.1,
+    "betfair_ah_market": {
+      "line": "N/A",
+      "odds": "N/A"
+    },
+    "q_scores": {
+      "Q1": {
+        "home_score": 4,
+        "away_score": 6,
+        "home_reasoning": "Fulham: Kevin (€30M), Smith Rowe (€28M), Iwobi (€28M), Andersen (€27M) → Total: 6.1 → +4",
+        "away_reasoning": "Sunderland: Diarra (€32M), Adingra (€25M), Rigg (€25M), Geertruida (€20M) → Total: 7.8 → +6",
+        "sources": [
+          "Transfermarkt squad values"
+        ]
+      },
+      "Q2": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "Fulham: 1.09 G/J + 1.27 xG → +2",
+        "away_reasoning": "Sunderland: 1.27 G/J + 1.12 xG → +2",
+        "sources": [
+          "FootyStats goals_scored_avg",
+          "FootyStats xg_for_avg"
+        ]
+      },
+      "Q3": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "Estimated depth for mid-table PL team → +2",
+        "away_reasoning": "Estimated depth for newly-promoted team → +2",
+        "sources": [
+          "Default estimation"
+        ]
+      },
+      "Q4": {
+        "home_score": 1,
+        "away_score": 5,
+        "home_reasoning": "Fulham: 1.45 GA/J + 1.38 xGA → +1",
+        "away_reasoning": "Sunderland: 0.91 GA/J + 1.58 xGA → +5",
+        "sources": [
+          "FootyStats goals_conceded_avg",
+          "FootyStats xg_against_avg"
+        ]
+      },
+      "Q5": {
+        "home_score": 4,
+        "away_score": 2,
+        "home_reasoning": "Marco Silva: 10+ years international experience, 3rd longest-serving PL manager → +4",
+        "away_reasoning": "Regis Le Bris: New to Premier League, limited international experience → +2",
+        "sources": [
+          "SportsMole preview",
+          "News headlines"
+        ]
+      },
+      "Q6": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "Formation not confirmed in available data → +0",
+        "away_reasoning": "Formation not confirmed in available data → +0",
+        "sources": [
+          "Default - formations not available"
+        ]
+      },
+      "Q7": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "Default balanced transitions → +2",
+        "away_reasoning": "Default balanced transitions → +2",
+        "sources": [
+          "Default estimation"
+        ]
+      },
+      "Q8": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "Default set piece capability → +2",
+        "away_reasoning": "Default set piece capability → +2",
+        "sources": [
+          "Default estimation"
+        ]
+      },
+      "Q9": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "Fulham 15th position, mid-table, no must-win pressure → +0",
+        "away_reasoning": "Sunderland 4th position, comfortable in table, no must-win pressure → +0",
+        "sources": [
+          "FootyStats league position"
+        ]
+      },
+      "Q10": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No derby/rivalry context found in sources → +0",
+        "away_reasoning": "No derby/rivalry context found in sources → +0",
+        "sources": [
+          "SportsMole preview",
+          "News headlines"
+        ]
+      },
+      "Q11": {
+        "home_score": 1,
+        "away_score": 2,
+        "home_reasoning": "Fulham: 3W in 11 games overall, poor recent form → +1",
+        "away_reasoning": "Sunderland: 5W in 11 games, unbeaten in 4 before break → +2",
+        "sources": [
+          "FootyStats wins_overall",
+          "SportsMole preview"
+        ]
+      },
+      "Q12": {
+        "home_score": 0,
+        "away_score": 3,
+        "home_reasoning": "Fulham form against weaker opposition, limited quality wins → +0",
+        "away_reasoning": "Sunderland drew with Arsenal, beat stronger opponents → +3",
+        "sources": [
+          "SportsMole preview - Arsenal draw mentioned"
+        ]
+      },
+      "Q13": {
+        "home_score": 1,
+        "away_score": 0,
+        "home_reasoning": "Fulham: xG(1.27) > Goals(1.09) by +0.18 → slightly unlucky → +1",
+        "away_reasoning": "Sunderland: Goals(1.27) > xG(1.12) by +0.15 → slightly lucky → +0",
+        "sources": [
+          "FootyStats xG vs goals comparison"
+        ]
+      },
+      "Q14": {
+        "home_score": 1,
+        "away_score": 1,
+        "home_reasoning": "Estimated based on underperforming xG → +1",
+        "away_reasoning": "Estimated based on overperforming xG → +1",
+        "sources": [
+          "Estimated from xG performance"
+        ]
+      },
+      "Q15": {
+        "home_score": -8,
+        "away_score": 0,
+        "home_reasoning": "Rodrigo Muniz (key striker) out with hamstring surgery → -8",
+        "away_reasoning": "No key players ruled out → +0",
+        "sources": [
+          "SportsMole team news"
+        ]
+      },
+      "Q16": {
+        "home_score": 0,
+        "away_score": -4,
+        "home_reasoning": "Antonee Robinson (LB) out, no defensive cluster → +0",
+        "away_reasoning": "Dennis Cirkin, Aji Alese both out - 2+ defenders → -4",
+        "sources": [
+          "SportsMole team news"
+        ]
+      },
+      "Q17": {
+        "home_score": 10,
+        "away_score": 4,
+        "home_reasoning": "Home: 3W/1D/1L at home (excellent). Away: 0W/1D/5L away (terrible) → 6+4 = +10",
+        "away_reasoning": "Home: 3W/3D/0L at home (good). Away: 2W/1D/2L away (average) → 4+0 = +4",
+        "sources": [
+          "FootyStats home/away records"
+        ]
+      },
+      "Q18": {
+        "home_score": 1,
+        "away_score": 0,
+        "home_reasoning": "SportsMole mentions Fulham lost last league game vs Sunderland, but won FA Cup replay → +1",
+        "away_reasoning": "No recent home wins vs Fulham mentioned → +0",
+        "sources": [
+          "SportsMole preview H2H reference"
+        ]
+      },
+      "Q19": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No evidence of 0 wins in last 3 H2H at home → +0",
+        "away_reasoning": "Not applicable for away team → +0",
+        "sources": [
+          "SportsMole preview"
+        ]
+      }
+    },
+    "category_totals": {
+      "technique": {
+        "home": 9,
+        "away": 15
+      },
+      "tactics": {
+        "home": 8,
+        "away": 6
+      },
+      "motivation": {
+        "home": 0,
+        "away": 0
+      },
+      "form": {
+        "home": 1,
+        "away": 5
+      },
+      "performance": {
+        "home": 2,
+        "away": 1
+      },
+      "injuries": {
+        "home": -8,
+        "away": -4
+      },
+      "home_away": {
+        "home": 11,
+        "away": 4
+      }
+    },
+    "raw_scores": {
+      "raw_casa": 23,
+      "raw_vis": 27
+    },
+    "data_quality": {
+      "score": 75,
+      "assessment": "Good",
+      "breakdown": {
+        "q1_player_values": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q2_xg": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q3_bench": {
+          "points": 1,
+          "status": "default"
+        },
+        "q4_xga": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q5_manager": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q6_formations": {
+          "points": 1,
+          "status": "default"
+        },
+        "q7_pressing": {
+          "points": 1,
+          "status": "default"
+        },
+        "q8_set_pieces": {
+          "points": 1,
+          "status": "default"
+        },
+        "q9_league": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q10_derby": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q11_form": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q12_opponent": {
+          "points": 2,
+          "status": "partial"
+        },
+        "q13_xg_delta": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q14_ratings": {
+          "points": 1.5,
+          "status": "estimated"
+        },
+        "q15_injuries": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q16_cluster": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q17_home_away": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q18_h2h": {
+          "points": 2,
+          "status": "partial"
+        },
+        "q19_h2h_negative": {
+          "points": 2,
+          "status": "complete"
+        },
+        "betfair_draw": {
+          "points": 0,
+          "status": "missing"
+        },
+        "betfair_ah": {
+          "points": 0,
+          "status": "missing"
+        },
+        "local_media": {
+          "points": 5,
+          "status": "available"
+        },
+        "sportsmole": {
+          "points": 5,
+          "status": "available"
+        }
+      },
+      "missing_critical": [],
+      "proceed": true,
+      "confidence_note": "Good data quality. FootyStats provided excellent xG and form data. Missing Betfair odds but using blind pricing. Some tactical details defaulted."
+    },
+    "notes": [
+      "P(Empate) calculated from FootyStats odds: 100/3.22 = 31.1%",
+      "Q3: Bench depth estimated - no detailed substitute data available",
+      "Q6: Formation data not available from sources - used default 0/0",
+      "Q7: Pressing statistics not available - used default +2 for both teams",
+      "Q8: Set piece data not available - used default +2 for both teams",
+      "Q14: Performance ratings estimated from xG delta patterns",
+      "Q15: Fulham missing Rodrigo Muniz (key striker) - significant penalty applied",
+      "Q16: Sunderland missing 2+ defenders (Cirkin, Alese) - defensive cluster penalty",
+      "Excellent FootyStats data for xG, goals, form, and league positions",
+      "SportsMole provided good injury and team news coverage",
+      "Using blind pricing - no Betfair AH market data available"
+    ]
+  },
+  "yudor_analysis": {
+    "match_id": "FulhamvsSunderland_22112025",
+    "raw_casa": 23,
+    "raw_vis": 27,
+    "delta": -4,
+    "yudor_ah_fair": 1.25,
+    "pr_casa": 0.234,
+    "pr_vis": 0.455,
+    "pr_empate": 0.311,
+    "cs_final": 62,
+    "tier": 2,
+    "r_home": 0.42,
+    "r_away": 0.31,
+    "r_fav": 0.31,
+    "r_dog": 0.42,
+    "rbr": -0.15,
+    "r_score": 0.37,
+    "edge_synthetic": 40,
+    "decision": "VETO",
+    "reasoning": "R-Score 0.37 exceeds 0.25 threshold but conditions for FLIP not met (RBR -0.15 < 0.25). Significant injury concerns for Fulham (key striker out) and defensive cluster for Sunderland create high variance environment."
+  }
+}

@@ -1,0 +1,377 @@
+{
+  "match_id": "BayernMunichvsFreiburg_22112025",
+  "match_info": {
+    "id": "BayernMunichvsFreiburg_22112025",
+    "home": "Bayern Munich",
+    "away": "Freiburg",
+    "league": "Bundesliga",
+    "date": "22/11/2025"
+  },
+  "timestamp": "2025-11-21T17:19:25.496251",
+  "consolidated_data": {
+    "game_id": "BayernMunichvsFreiburg_22112025",
+    "match_info": {
+      "home": "Bayern Munich",
+      "away": "Freiburg",
+      "league": "Bundesliga",
+      "date": "22/11/2025"
+    },
+    "p_empate": 25.0,
+    "betfair_ah_market": null,
+    "q_scores": {
+      "Q1": {
+        "home_score": 8,
+        "away_score": 3,
+        "home_reasoning": "Bayern: Kane (€75M, top scorer 13 goals), Musiala (€140M), Olise (€130M), Upamecano (€60M) → Elite values across all positions → +8",
+        "away_reasoning": "Freiburg: Atubolu (€18M), Lienhart (€12M), Manzambi (€15M), Eggestein (€10M) → Mid-tier values → +3",
+        "sources": [
+          "Transfermarkt (squad values)",
+          "FootyStats (goals data)"
+        ]
+      },
+      "Q2": {
+        "home_score": 7,
+        "away_score": 2,
+        "home_reasoning": "Bayern: 3.5 G/J + 2.27 xG → Both metrics excellent → +7",
+        "away_reasoning": "Freiburg: 1.3 G/J + 1.29 xG → Both around average → +2",
+        "sources": [
+          "FootyStats (goals_scored_avg)",
+          "FootyStats (xg_for_avg)"
+        ]
+      },
+      "Q3": {
+        "home_score": 5,
+        "away_score": 2,
+        "home_reasoning": "Bayern: Deep squad with Gnabry (€22M), Goretzka (€22M), Davies (€50M) as subs → Quality across all positions → +5",
+        "away_reasoning": "Freiburg: Limited depth, Philipp (€800k), Höler (€3M) as backup options → Weak bench → +2",
+        "sources": [
+          "Transfermarkt (squad depth)",
+          "SportsMole (predicted lineups)"
+        ]
+      },
+      "Q4": {
+        "home_score": 5,
+        "away_score": 1,
+        "home_reasoning": "Bayern: 0.6 GA/J + 0.92 xGA → Exceptional defensive stats → +5",
+        "away_reasoning": "Freiburg: 1.4 GA/J + 1.32 xGA → Poor defensive metrics → +1",
+        "sources": [
+          "FootyStats (goals_conceded_avg)",
+          "FootyStats (xg_against_avg)"
+        ]
+      },
+      "Q5": {
+        "home_score": 7,
+        "away_score": 4,
+        "home_reasoning": "Vincent Kompany: Champions League winner as player, top-tier manager experience → +7",
+        "away_reasoning": "Julian Schuster: Led club to 5th place last season, solid experience but not elite level → +4",
+        "sources": [
+          "SportsMole (manager context)",
+          "Local media (coaching background)"
+        ]
+      },
+      "Q6": {
+        "home_score": 4,
+        "away_score": 4,
+        "home_reasoning": "Bayern probable 4-2-3-1 vs Freiburg's 4-2-3-1 → Tactical symmetry → +4",
+        "away_reasoning": "Freiburg probable 4-2-3-1 vs Bayern's 4-2-3-1 → Tactical symmetry → +4",
+        "sources": [
+          "SportsMole (predicted lineups)",
+          "Tactical formation analysis"
+        ]
+      },
+      "Q7": {
+        "home_score": 3,
+        "away_score": 2,
+        "home_reasoning": "Bayern: High-quality transitions with pace and technical ability → +3",
+        "away_reasoning": "Freiburg: Counter-attacking style but limited pace in transition → +2",
+        "sources": [
+          "SportsMole (tactical analysis)",
+          "Default estimation"
+        ]
+      },
+      "Q8": {
+        "home_score": 3,
+        "away_score": 2,
+        "home_reasoning": "Bayern: Strong set-piece delivery with Kane, Kimmich → +3",
+        "away_reasoning": "Freiburg: Grifo provides set-piece threat → +2",
+        "sources": [
+          "Squad analysis (set-piece takers)",
+          "Default estimation"
+        ]
+      },
+      "Q9": {
+        "home_score": 6,
+        "away_score": 0,
+        "home_reasoning": "Bayern: 1st place, 6-point gap but title race context in Germany → +6",
+        "away_reasoning": "Freiburg: 10th place, mid-table, no immediate pressure → 0",
+        "sources": [
+          "FootyStats (league position)",
+          "Local media (title race)"
+        ]
+      },
+      "Q10": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No derby context, no manager debut, no revenge storyline → 0",
+        "away_reasoning": "No derby context, no manager debut, no revenge storyline → 0",
+        "sources": [
+          "SportsMole (match preview)",
+          "Local media analysis"
+        ]
+      },
+      "Q11": {
+        "home_score": 4,
+        "away_score": 1,
+        "home_reasoning": "Bayern: 9W-1D-0L in last 10 → Excellent form → +4",
+        "away_reasoning": "Freiburg: 3W-4D-3L in last 10 → Poor form → +1",
+        "sources": [
+          "FootyStats (wins_overall)",
+          "League standings"
+        ]
+      },
+      "Q12": {
+        "home_score": 3,
+        "away_score": 1,
+        "home_reasoning": "Bayern: Quality opponents faced in Champions League and Bundesliga → +3",
+        "away_reasoning": "Freiburg: Mixed opposition quality, some weaker teams → +1",
+        "sources": [
+          "SportsMole (recent matches)",
+          "Competition context"
+        ]
+      },
+      "Q13": {
+        "home_score": 0,
+        "away_score": 2,
+        "home_reasoning": "Bayern: 35 goals vs 22.7 xG → Overperforming by +1.2 per game (lucky) → 0",
+        "away_reasoning": "Freiburg: 13 goals vs 12.9 xG → Slight underperformance (unlucky) → +2",
+        "sources": [
+          "FootyStats (goals vs xG comparison)"
+        ]
+      },
+      "Q14": {
+        "home_score": 5,
+        "away_score": 1,
+        "home_reasoning": "Bayern: Dominant performances, winning 16/17 before Union draw → +5",
+        "away_reasoning": "Freiburg: Inconsistent performances, limited quality shown → +1",
+        "sources": [
+          "SportsMole (performance analysis)",
+          "Match reports"
+        ]
+      },
+      "Q15": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No key player injuries confirmed → 0",
+        "away_reasoning": "No key player injuries confirmed → 0",
+        "sources": [
+          "SportsMole (team news)",
+          "Injury reports"
+        ]
+      },
+      "Q16": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No defensive cluster injuries → 0",
+        "away_reasoning": "No defensive cluster injuries → 0",
+        "sources": [
+          "SportsMole (team news)",
+          "Injury reports"
+        ]
+      },
+      "Q17": {
+        "home_score": 10,
+        "away_score": 3,
+        "home_reasoning": "Bayern: Perfect home record (5W-0D-0L), 4.0 G/J at home → +6 base + +4 bonus = +10",
+        "away_reasoning": "Freiburg: Poor away record (1W-2D-2L), 0.8 G/J away → +3",
+        "sources": [
+          "FootyStats (home/away splits)"
+        ]
+      },
+      "Q18": {
+        "home_score": 5,
+        "away_score": 0,
+        "home_reasoning": "Bayern: Strong H2H record at Allianz Arena historically → +5",
+        "away_reasoning": "Freiburg: Poor H2H record at Bayern → 0",
+        "sources": [
+          "SportsMole (H2H context)",
+          "Historical data"
+        ]
+      },
+      "Q19": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No negative H2H pattern at home → 0",
+        "away_reasoning": "Not applicable for away team → 0",
+        "sources": [
+          "H2H analysis"
+        ]
+      }
+    },
+    "category_totals": {
+      "technique": {
+        "home": 25,
+        "away": 8
+      },
+      "tactics": {
+        "home": 17,
+        "away": 12
+      },
+      "motivation": {
+        "home": 6,
+        "away": 0
+      },
+      "form": {
+        "home": 7,
+        "away": 2
+      },
+      "performance": {
+        "home": 5,
+        "away": 3
+      },
+      "injuries": {
+        "home": 0,
+        "away": 0
+      },
+      "home_away": {
+        "home": 15,
+        "away": 3
+      }
+    },
+    "raw_scores": {
+      "raw_casa": 75,
+      "raw_vis": 28
+    },
+    "data_quality": {
+      "score": 85,
+      "assessment": "Excellent",
+      "breakdown": {
+        "q1_player_values": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q2_xg": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q3_bench": {
+          "points": 2.5,
+          "status": "estimated"
+        },
+        "q4_xga": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q5_manager": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q6_formations": {
+          "points": 2.5,
+          "status": "inferred"
+        },
+        "q7_pressing": {
+          "points": 1,
+          "status": "default"
+        },
+        "q8_set_pieces": {
+          "points": 1,
+          "status": "default"
+        },
+        "q9_league": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q10_derby": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q11_form": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q12_opponent": {
+          "points": 2,
+          "status": "estimated"
+        },
+        "q13_xg_delta": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q14_ratings": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q15_injuries": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q16_cluster": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q17_home_away": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q18_h2h": {
+          "points": 3,
+          "status": "estimated"
+        },
+        "q19_h2h_negative": {
+          "points": 4,
+          "status": "complete"
+        },
+        "betfair_draw": {
+          "points": 0,
+          "status": "missing"
+        },
+        "betfair_ah": {
+          "points": 0,
+          "status": "missing"
+        },
+        "local_media": {
+          "points": 5,
+          "status": "available"
+        },
+        "sportsmole": {
+          "points": 5,
+          "status": "available"
+        }
+      },
+      "missing_critical": [],
+      "proceed": true,
+      "confidence_note": "Excellent data quality from FootyStats API and SportsMole. Missing only Betfair data (using blind pricing)."
+    },
+    "notes": [
+      "FootyStats API provided complete xG and form data",
+      "Transfermarkt squad values available for both teams",
+      "SportsMole preview confirms team news and tactical setup",
+      "Q6: Formations inferred from predicted lineups",
+      "Q7/Q8: Used tactical analysis and defaults",
+      "Q12: Opponent quality estimated from competition context",
+      "Q18: H2H estimated from historical Bayern dominance",
+      "No Betfair data - using blind pricing approach",
+      "Bayern heavily favored with massive technical and form advantages"
+    ]
+  },
+  "yudor_analysis": {
+    "match_id": "BayernMunichvsFreiburg_22112025",
+    "raw_casa": 75,
+    "raw_vis": 28,
+    "delta": 47,
+    "yudor_ah_fair": -1.5,
+    "pr_casa": 0.615,
+    "pr_vis": 0.135,
+    "pr_empate": 0.25,
+    "cs_final": 78,
+    "tier": 1,
+    "r_home": 0.12,
+    "r_away": 0.35,
+    "r_fav": 0.12,
+    "r_dog": 0.35,
+    "rbr": -0.49,
+    "r_score": 0.12,
+    "decision": "CORE",
+    "reasoning": "Strong favorite with excellent CS_final (78) and low R-Score (0.12). Massive technical advantage justifies heavy handicap."
+  }
+}

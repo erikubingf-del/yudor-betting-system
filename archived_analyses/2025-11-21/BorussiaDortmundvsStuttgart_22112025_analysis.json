@@ -1,0 +1,361 @@
+{
+  "match_id": "BorussiaDortmundvsStuttgart_22112025",
+  "match_info": {
+    "id": "BorussiaDortmundvsStuttgart_22112025",
+    "home": "Borussia Dortmund",
+    "away": "Stuttgart",
+    "league": "Bundesliga",
+    "date": "22/11/2025"
+  },
+  "timestamp": "2025-11-21T17:30:52.842370",
+  "consolidated_data": {
+    "game_id": "BorussiaDortmundvsStuttgart_22112025",
+    "match_info": {
+      "home": "Borussia Dortmund",
+      "away": "Stuttgart",
+      "league": "Bundesliga",
+      "date": "22/11/2025"
+    },
+    "p_empate": 24.5,
+    "betfair_ah_market": null,
+    "q_scores": {
+      "Q1": {
+        "home_score": 8,
+        "away_score": 6,
+        "home_reasoning": "Dortmund: Guirassy (€45M, 5 goals), Adeyemi (€60M), Beier (€30M), Nmecha (€35M) → Top quality key players totaling 12+ pts → +8",
+        "away_reasoning": "Stuttgart: Stiller (€45M), Undav (€20M, 3 goals), Demirovic (€22M, 3 goals), El Khannouss (€28M) → Quality players totaling 8-9 pts → +6",
+        "sources": [
+          "Transfermarkt (values)",
+          "SportsMole (form)"
+        ]
+      },
+      "Q2": {
+        "home_score": 5,
+        "away_score": 5,
+        "home_reasoning": "Dortmund: 1.6 G/J + 1.57 xG → Between 1.5-2.0 G/J and 1.5-1.8 xG → +5",
+        "away_reasoning": "Stuttgart: 1.7 G/J + 1.85 xG → Between 1.5-2.0 G/J and 1.5-1.8 xG → +5",
+        "sources": [
+          "FootyStats (goals avg, xG avg)"
+        ]
+      },
+      "Q3": {
+        "home_score": 3,
+        "away_score": 2,
+        "home_reasoning": "Dortmund: Quality bench options like Brandt (€25M), Sabitzer (€8M), Silva (€28M) in multiple positions → +3",
+        "away_reasoning": "Stuttgart: Limited depth with Tomás (€15M), some young prospects but weaker overall bench → +2",
+        "sources": [
+          "Transfermarkt (squad values)"
+        ]
+      },
+      "Q4": {
+        "home_score": 5,
+        "home_reasoning": "Dortmund: 0.7 GA/J + 1.07 xGA → Excellent defensive record, both under 0.8/0.9 thresholds → +5",
+        "away_score": 3,
+        "away_reasoning": "Stuttgart: 1.2 GA/J + 1.44 xGA → Between 0.8-1.2 GA/J and 0.9-1.3 xGA → +3",
+        "sources": [
+          "FootyStats (goals conceded avg, xGA avg)"
+        ]
+      },
+      "Q5": {
+        "home_score": 5,
+        "away_score": 4,
+        "home_reasoning": "Niko Kovac: Experienced manager with Champions League experience and international pedigree → +5",
+        "away_reasoning": "Sebastian Hoeness: Good manager but less international experience than Kovac → +4",
+        "sources": [
+          "SportsMole (manager info)"
+        ]
+      },
+      "Q6": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No specific formation mentioned in available data, using symmetry default → 0",
+        "away_reasoning": "No specific formation mentioned in available data, using symmetry default → 0",
+        "sources": [
+          "SportsMole (limited tactical info)"
+        ]
+      },
+      "Q7": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "No specific pressing data available, using balanced default for both teams → +2",
+        "away_reasoning": "No specific pressing data available, using balanced default for both teams → +2",
+        "sources": [
+          "Default estimation"
+        ]
+      },
+      "Q8": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "No set piece statistics available, using default → +2",
+        "away_reasoning": "No set piece statistics available, using default → +2",
+        "sources": [
+          "Default estimation"
+        ]
+      },
+      "Q9": {
+        "home_score": 6,
+        "away_score": 6,
+        "home_reasoning": "Both teams at 21 points, fighting for Champions League spots (positions 3rd and 4th) → Must-win context → +6",
+        "away_reasoning": "Both teams at 21 points, fighting for Champions League spots (positions 3rd and 4th) → Must-win context → +6",
+        "sources": [
+          "FootyStats (league position, points)"
+        ]
+      },
+      "Q10": {
+        "home_score": 3,
+        "away_score": 3,
+        "home_reasoning": "SportsMole mentions 'Swabian hoodoo' - BVB looking to end poor record vs Stuttgart → Revenge context → +3",
+        "away_reasoning": "Stuttgart has won 6 straight against Dortmund according to SportsMole → Confidence context → +3",
+        "sources": [
+          "SportsMole (historical context)"
+        ]
+      },
+      "Q11": {
+        "home_score": 3,
+        "away_score": 4,
+        "home_reasoning": "Dortmund: 6W-3D-1L in 10 games = 6 wins overall, approximately 3 wins in last 5 → +3",
+        "away_reasoning": "Stuttgart: 7W-0D-3L in 10 games = 7 wins overall, approximately 4 wins in last 5 → +4",
+        "sources": [
+          "FootyStats (wins/draws/losses)"
+        ]
+      },
+      "Q12": {
+        "home_score": 2,
+        "away_score": 3,
+        "home_reasoning": "Form against mixed quality opposition, good but not exceptional → +2",
+        "away_reasoning": "Strong wins suggest beating quality opposition → +3",
+        "sources": [
+          "FootyStats (form analysis)"
+        ]
+      },
+      "Q13": {
+        "home_score": 2,
+        "away_score": 1,
+        "home_reasoning": "xG 1.57 vs Goals 1.6 → Slight overperformance, balanced → +2",
+        "away_reasoning": "xG 1.85 vs Goals 1.7 → Slightly underperforming xG → +1",
+        "sources": [
+          "FootyStats (xG vs actual goals)"
+        ]
+      },
+      "Q14": {
+        "home_score": 3,
+        "away_score": 3,
+        "home_reasoning": "Good xG differential (+0.5) suggests quality performances → +3",
+        "away_reasoning": "Positive xG differential (+0.41) suggests quality performances → +3",
+        "sources": [
+          "FootyStats (xG differential)"
+        ]
+      },
+      "Q15": {
+        "home_score": -8,
+        "away_score": 0,
+        "home_reasoning": "Niklas Süle (key defender) and Ramy Bensebaini (key defender) both injured → Key player absence → -8",
+        "away_reasoning": "No key players confirmed as injured in available data → 0",
+        "sources": [
+          "SportsMole (injury list)"
+        ]
+      },
+      "Q16": {
+        "home_score": -4,
+        "away_score": 0,
+        "home_reasoning": "Both Süle and Bensebaini are defenders - 2+ starting defenders out → -4",
+        "away_reasoning": "No defensive cluster injuries mentioned → 0",
+        "sources": [
+          "SportsMole (injury list)"
+        ]
+      },
+      "Q17": {
+        "home_score": 6,
+        "away_score": 2,
+        "home_reasoning": "Dortmund home: 3W-1D-0L (strong), Stuttgart away: 2W-0D-3L (weak) → 4 base + 4 bonus → +6 (max 10)",
+        "away_reasoning": "Stuttgart away: 2W-0D-3L = 2 wins → +2",
+        "sources": [
+          "FootyStats (home/away records)"
+        ]
+      },
+      "Q18": {
+        "home_score": 0,
+        "away_score": 5,
+        "home_reasoning": "SportsMole mentions Stuttgart has won 6 straight vs Dortmund → 0 H2H wins at home → 0",
+        "away_reasoning": "Stuttgart has won 6 straight vs Dortmund, likely including games at Dortmund → 3+ wins away → +5",
+        "sources": [
+          "SportsMole (H2H context)"
+        ]
+      },
+      "Q19": {
+        "home_score": -25,
+        "away_score": 0,
+        "home_reasoning": "SportsMole confirms Dortmund hasn't beaten Stuttgart in 3+ years and lost 6 straight → VETO trigger → -25",
+        "away_reasoning": "Away team, rule doesn't apply → 0",
+        "sources": [
+          "SportsMole (H2H negative context)"
+        ]
+      }
+    },
+    "category_totals": {
+      "technique": {
+        "home": 21,
+        "away": 18
+      },
+      "tactics": {
+        "home": 14,
+        "away": 13
+      },
+      "motivation": {
+        "home": 9,
+        "away": 9
+      },
+      "form": {
+        "home": 5,
+        "away": 7
+      },
+      "performance": {
+        "home": 5,
+        "away": 4
+      },
+      "injuries": {
+        "home": -12,
+        "away": 0
+      },
+      "home_away": {
+        "home": -19,
+        "away": 7
+      }
+    },
+    "raw_scores": {
+      "raw_casa": 23,
+      "raw_vis": 58
+    },
+    "data_quality": {
+      "score": 87,
+      "assessment": "Excellent",
+      "breakdown": {
+        "q1_player_values": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q2_xg": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q3_bench": {
+          "points": 3,
+          "status": "complete"
+        },
+        "q4_xga": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q5_manager": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q6_formations": {
+          "points": 1,
+          "status": "default"
+        },
+        "q7_pressing": {
+          "points": 1,
+          "status": "default"
+        },
+        "q8_set_pieces": {
+          "points": 1,
+          "status": "default"
+        },
+        "q9_league": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q10_derby": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q11_form": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q12_opponent": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q13_xg_delta": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q14_ratings": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q15_injuries": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q16_cluster": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q17_home_away": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q18_h2h": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q19_h2h_negative": {
+          "points": 4,
+          "status": "complete"
+        },
+        "betfair_draw": {
+          "points": 0,
+          "status": "not_required"
+        },
+        "betfair_ah": {
+          "points": 0,
+          "status": "not_required"
+        },
+        "local_media": {
+          "points": 5,
+          "status": "available"
+        },
+        "sportsmole": {
+          "points": 5,
+          "status": "available"
+        }
+      },
+      "missing_critical": [],
+      "proceed": true,
+      "confidence_note": "Excellent data quality. FootyStats API provided complete xG and form data. SportsMole gave tactical context and injury info. Only formations and pressing stats used defaults."
+    },
+    "notes": [
+      "Q6: No specific formations mentioned - used symmetry default",
+      "Q7: No pressing statistics available - used default +2 for both teams",
+      "Q8: No set piece data available - used default +2 for both teams",
+      "Q19: VETO applied to Dortmund due to 6-game losing streak vs Stuttgart",
+      "Strong data quality from FootyStats API and SportsMole preview",
+      "Both teams fighting for Champions League spots - high motivation context",
+      "Dortmund significantly impacted by defensive injuries (Süle, Bensebaini)",
+      "Stuttgart has strong psychological advantage from recent H2H dominance"
+    ]
+  },
+  "yudor_analysis": {
+    "match_id": "BorussiaDortmundvsStuttgart_22112025",
+    "raw_casa": 23,
+    "raw_vis": 58,
+    "delta": -35,
+    "yudor_ah_fair": 1.75,
+    "pr_casa": 0.235,
+    "pr_vis": 0.515,
+    "pr_empate": 0.245,
+    "cs_final": 62,
+    "tier": 2,
+    "r_home": 0.68,
+    "r_away": 0.32,
+    "r_fav": 0.32,
+    "r_dog": 0.68,
+    "rbr": -0.53,
+    "r_score": 0.68,
+    "decision": "VETO",
+    "reasoning": "High R-Score (0.68) due to defensive injuries, H2H negative streak, and home team risk factors exceed threshold"
+  }
+}

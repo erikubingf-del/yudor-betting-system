@@ -1,0 +1,365 @@
+{
+  "match_id": "NewcastleUnitedvsManchesterCity_22112025",
+  "match_info": {
+    "id": "NewcastleUnitedvsManchesterCity_22112025",
+    "home": "Newcastle United",
+    "away": "Manchester City",
+    "league": "Premier League",
+    "date": "22/11/2025"
+  },
+  "timestamp": "2025-11-21T17:25:19.042045",
+  "consolidated_data": {
+    "game_id": "NewcastleUnitedvsManchesterCity_22112025",
+    "match_info": {
+      "home": "Newcastle United",
+      "away": "Manchester City",
+      "league": "Premier League",
+      "date": "22/11/2025"
+    },
+    "p_empate": 27.0,
+    "betfair_ah_market": "Not available - using blind pricing",
+    "q_scores": {
+      "Q1": {
+        "home_score": 5,
+        "away_score": 8,
+        "home_reasoning": "Newcastle: Bruno Guimarães (€80M), Anthony Gordon (€65M), Nick Woltemade (€65M), Sven Botman (€40M) → Total ~8.2 → +5",
+        "away_reasoning": "Man City: Haaland (€180M), Foden (€80M), Marmoush (€75M), Gvardiol (€75M) → Total ~13.2 → +8",
+        "sources": [
+          "Transfermarkt (squad values)"
+        ]
+      },
+      "Q2": {
+        "home_score": 2,
+        "away_score": 7,
+        "home_reasoning": "Newcastle: 1.0 G/J + 1.46 xG → +2",
+        "away_reasoning": "Man City: 2.09 G/J + 1.64 xG → +7",
+        "sources": [
+          "FootyStats (goals per game, xG averages)"
+        ]
+      },
+      "Q3": {
+        "home_score": 2,
+        "away_score": 4,
+        "home_reasoning": "Newcastle: Quality subs include Ramsey (€40M), Joelinton (€35M), Barnes (€35M) but limited depth in defense → +2",
+        "away_reasoning": "Man City: Deep squad with Reijnders (€70M), Stones (€22M), Aké (€22M), Cherki (€45M), strong bench in all positions → +4",
+        "sources": [
+          "Transfermarkt (squad depth analysis)"
+        ]
+      },
+      "Q4": {
+        "home_score": 1,
+        "away_score": 5,
+        "home_reasoning": "Newcastle: 1.27 GA/J + 1.34 xGA → +1",
+        "away_reasoning": "Man City: 0.73 GA/J + 1.10 xGA → +5",
+        "sources": [
+          "FootyStats (goals conceded, xGA)"
+        ]
+      },
+      "Q5": {
+        "home_score": 4,
+        "away_score": 7,
+        "home_reasoning": "Eddie Howe: 5+ years in Premier League, established manager → +4",
+        "away_reasoning": "Pep Guardiola: Champions League winner, multiple titles, top-5 world manager → +7",
+        "sources": [
+          "SportsMole (manager context)"
+        ]
+      },
+      "Q6": {
+        "home_score": 3,
+        "away_score": 3,
+        "home_reasoning": "Newcastle likely 4-3-3 vs City's flexible system → neutral tactical matchup → +3",
+        "away_reasoning": "Man City adaptable formation vs Newcastle's structure → neutral → +3",
+        "sources": [
+          "SportsMole (tactical preview - formations not explicitly confirmed)"
+        ]
+      },
+      "Q7": {
+        "home_score": 2,
+        "away_score": 4,
+        "home_reasoning": "Newcastle: Moderate pressing, balanced transitions → +2 (default)",
+        "away_reasoning": "Man City: High technical ability, excellent transition play under Guardiola → +4",
+        "sources": [
+          "Estimated from tactical style - no specific pressing data"
+        ]
+      },
+      "Q8": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "Newcastle: No specific set-piece data → +2 (default)",
+        "away_reasoning": "Man City: No specific set-piece data → +2 (default)",
+        "sources": [
+          "Default values - no set-piece statistics available"
+        ]
+      },
+      "Q9": {
+        "home_score": 0,
+        "away_score": 6,
+        "home_reasoning": "Newcastle: 14th position, safe from relegation, no title race → +0",
+        "away_reasoning": "Man City: 2nd place, 4 points behind Arsenal in title race → +6",
+        "sources": [
+          "FootyStats (league positions)",
+          "Sky Sports (title race context)"
+        ]
+      },
+      "Q10": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No derby, revenge, or manager debut context found → +0",
+        "away_reasoning": "No special motivational context → +0",
+        "sources": [
+          "SportsMole preview",
+          "Sky Sports headlines"
+        ]
+      },
+      "Q11": {
+        "home_score": 1,
+        "away_score": 4,
+        "home_reasoning": "Newcastle: 3W in 11 games overall → recent form poor → +1",
+        "away_reasoning": "Man City: 7W in 11 games overall, strong recent form → +4",
+        "sources": [
+          "FootyStats (wins/losses record)"
+        ]
+      },
+      "Q12": {
+        "home_score": 1,
+        "away_score": 3,
+        "home_reasoning": "Newcastle: Wins against weaker opposition → +1",
+        "away_reasoning": "Man City: Beat Liverpool 3-0, quality wins → +3",
+        "sources": [
+          "Sky Sports (recent results)",
+          "SportsMole (Liverpool win)"
+        ]
+      },
+      "Q13": {
+        "home_score": 3,
+        "away_score": 1,
+        "home_reasoning": "Newcastle: xG 1.46 > Goals 1.0 (+0.46 unlucky) → +3",
+        "away_reasoning": "Man City: Goals 2.09 > xG 1.64 (+0.45 lucky) → +1",
+        "sources": [
+          "FootyStats (xG vs actual goals comparison)"
+        ]
+      },
+      "Q14": {
+        "home_score": 2,
+        "away_score": 4,
+        "home_reasoning": "Newcastle: Underperforming position suggests average performances → +2",
+        "away_reasoning": "Man City: Strong performances, 2nd place, quality displays → +4",
+        "sources": [
+          "FootyStats (league position)",
+          "SportsMole (performance context)"
+        ]
+      },
+      "Q15": {
+        "home_score": 0,
+        "away_score": -8,
+        "home_reasoning": "No key player injuries reported → 0",
+        "away_reasoning": "Rodri (key player) still absent with hamstring → -8",
+        "sources": [
+          "SportsMole (Rodri injury)",
+          "Sky Sports (team news)"
+        ]
+      },
+      "Q16": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "Dan Burn suspended but no defensive cluster → 0",
+        "away_reasoning": "No defensive cluster reported → 0",
+        "sources": [
+          "SportsMole (team news)"
+        ]
+      },
+      "Q17": {
+        "home_score": 8,
+        "away_score": 2,
+        "home_reasoning": "Newcastle: Home PPG 1.8 (3W/2L at home) vs City Away PPG 1.4 (2W/2L away) → +6 base + +2 bonus → +8",
+        "away_reasoning": "Man City: Away form weaker (1.4 PPG) vs Newcastle's home strength → +2",
+        "sources": [
+          "FootyStats (home/away PPG, wins/losses)"
+        ]
+      },
+      "Q18": {
+        "home_score": 0,
+        "away_score": 5,
+        "home_reasoning": "Newcastle: Poor H2H record vs City (1W in last 35 meetings) → +0",
+        "away_reasoning": "Man City: Dominant H2H record (12 away wins vs Newcastle) → +5",
+        "sources": [
+          "SportsMole (H2H historical record)"
+        ]
+      },
+      "Q19": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "Not triggered - Newcastle has had some success historically → 0",
+        "away_reasoning": "Not applicable for away team → 0",
+        "sources": [
+          "SportsMole (H2H context)"
+        ]
+      }
+    },
+    "category_totals": {
+      "technique": {
+        "home": 10,
+        "away": 24
+      },
+      "tactics": {
+        "home": 11,
+        "away": 16
+      },
+      "motivation": {
+        "home": 0,
+        "away": 6
+      },
+      "form": {
+        "home": 2,
+        "away": 7
+      },
+      "performance": {
+        "home": 5,
+        "away": 5
+      },
+      "injuries": {
+        "home": 0,
+        "away": -8
+      },
+      "home_away": {
+        "home": 8,
+        "away": 7
+      }
+    },
+    "raw_scores": {
+      "raw_casa": 36,
+      "raw_vis": 57
+    },
+    "data_quality": {
+      "score": 82,
+      "assessment": "Good",
+      "breakdown": {
+        "q1_player_values": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q2_xg": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q3_bench": {
+          "points": 3,
+          "status": "complete"
+        },
+        "q4_xga": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q5_manager": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q6_formations": {
+          "points": 2.5,
+          "status": "inferred"
+        },
+        "q7_pressing": {
+          "points": 1,
+          "status": "default"
+        },
+        "q8_set_pieces": {
+          "points": 1,
+          "status": "default"
+        },
+        "q9_league": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q10_derby": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q11_form": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q12_opponent": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q13_xg_delta": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q14_ratings": {
+          "points": 2.5,
+          "status": "inferred"
+        },
+        "q15_injuries": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q16_cluster": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q17_home_away": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q18_h2h": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q19_h2h_negative": {
+          "points": 4,
+          "status": "complete"
+        },
+        "betfair_draw": {
+          "points": 0,
+          "status": "missing - using blind pricing"
+        },
+        "betfair_ah": {
+          "points": 0,
+          "status": "missing - using blind pricing"
+        },
+        "local_media": {
+          "points": 5,
+          "status": "available"
+        },
+        "sportsmole": {
+          "points": 5,
+          "status": "available"
+        }
+      },
+      "missing_critical": [],
+      "proceed": true,
+      "confidence_note": "Good data quality. FootyStats API provided excellent xG, form, and positional data. Missing Betfair odds but using blind pricing as intended. Some tactical details inferred."
+    },
+    "notes": [
+      "P(Empate) estimated at 27.0% from match context (no Betfair draw odds)",
+      "Q6: Formations inferred from tactical context - not explicitly confirmed",
+      "Q7: Pressing stats unavailable - used tactical style estimation",
+      "Q8: Set-piece data not available - used defaults",
+      "Q15: Rodri injury crucial for City - major absence confirmed",
+      "FootyStats provided comprehensive statistical foundation",
+      "SportsMole preview excellent for team news and tactical context",
+      "City's title race motivation significant factor vs Newcastle's mid-table position"
+    ]
+  },
+  "yudor_analysis": {
+    "match_id": "NewcastleUnitedvsManchesterCity_22112025",
+    "raw_casa": 36,
+    "raw_vis": 57,
+    "delta": -21,
+    "yudor_ah_fair": 1.0,
+    "pr_casa": 0.28,
+    "pr_vis": 0.45,
+    "pr_empate": 0.27,
+    "cs_final": 68,
+    "tier": 2,
+    "r_home": 0.35,
+    "r_away": 0.28,
+    "r_fav": 0.28,
+    "r_dog": 0.35,
+    "rbr": -0.11,
+    "r_score": 0.28,
+    "decision": "VETO",
+    "reasoning": "R_score 0.28 exceeds 0.25 threshold but no FLIP conditions met (RBR negative). Moderate risk with City's Rodri absence and Newcastle's home advantage creating uncertainty."
+  }
+}

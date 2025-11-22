@@ -1,0 +1,372 @@
+{
+  "match_id": "BournemouthvsWestHamUnited_22112025",
+  "match_info": {
+    "id": "BournemouthvsWestHamUnited_22112025",
+    "home": "Bournemouth",
+    "away": "West Ham United",
+    "league": "Premier League",
+    "date": "22/11/2025"
+  },
+  "timestamp": "2025-11-21T18:32:43.600286",
+  "consolidated_data": {
+    "game_id": "BournemouthvsWestHamUnited_22112025",
+    "match_info": {
+      "home": "Bournemouth",
+      "away": "West Ham United",
+      "league": "Premier League",
+      "date": "22/11/2025"
+    },
+    "p_empate": 25.0,
+    "betfair_ah_market": {
+      "line": "No AH data available",
+      "odds": "No AH data available"
+    },
+    "q_scores": {
+      "Q1": {
+        "home_score": 6,
+        "away_score": 4,
+        "home_reasoning": "Bournemouth top players: Semenyo (€55M), Evanilson (€40M), Diakité (€35M), Kluivert (€35M) → Average €41.25M per key player → +6",
+        "away_reasoning": "West Ham top players: Bowen (€40M), Paquetá (€35M), Fernandes (€32M), Todibo (€25M) → Average €33M per key player → +4",
+        "sources": [
+          "Transfermarkt (squad values)"
+        ]
+      },
+      "Q2": {
+        "home_score": 4,
+        "away_score": 2,
+        "home_reasoning": "Bournemouth: 1.55 G/J + 1.43 xG → Average performance range → +4",
+        "away_reasoning": "West Ham: 1.18 G/J + 1.26 xG → Below average offensive output → +2",
+        "sources": [
+          "FootyStats (goals per game, xG averages)"
+        ]
+      },
+      "Q3": {
+        "home_score": 3,
+        "away_score": 2,
+        "home_reasoning": "Bournemouth: Quality bench with Brooks (€12M), Ünal (€10M), Christie (€10M) covering multiple positions → +3",
+        "away_reasoning": "West Ham: Some depth with Ward-Prowse (€8M), Wilson (€7M) but limited quality in defense → +2",
+        "sources": [
+          "Transfermarkt (bench values)",
+          "SportsMole (squad depth analysis)"
+        ]
+      },
+      "Q4": {
+        "home_score": 5,
+        "away_score": 1,
+        "home_reasoning": "Bournemouth: 1.64 GA/J overall but exceptional 0.4 GA/J at home + 0.97 xGA at home → Excellent home defense → +5",
+        "away_reasoning": "West Ham: 2.09 GA/J + 1.69 xGA → Poor defensive record → +1",
+        "sources": [
+          "FootyStats (goals against, xGA data)"
+        ]
+      },
+      "Q5": {
+        "home_score": 4,
+        "away_score": 5,
+        "home_reasoning": "Andoni Iraola: Experienced La Liga coach, proven tactical acumen, 2+ years building Bournemouth system → +4",
+        "away_reasoning": "Nuno Espirito Santo: Premier League veteran, Champions League experience with Wolves, proven track record → +5",
+        "sources": [
+          "SportsMole preview",
+          "News headlines context"
+        ]
+      },
+      "Q6": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "Formation data not confirmed in sources - using default neutral scoring → 0",
+        "away_reasoning": "Formation data not confirmed in sources - using default neutral scoring → 0",
+        "sources": [
+          "No formation data available"
+        ]
+      },
+      "Q7": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "No specific pressing data available - using default balanced transitions → +2",
+        "away_reasoning": "No specific pressing data available - using default balanced transitions → +2",
+        "sources": [
+          "Default - no pressing stats available"
+        ]
+      },
+      "Q8": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "No set-piece specific data available - using default → +2",
+        "away_reasoning": "No set-piece specific data available - using default → +2",
+        "sources": [
+          "Default - no set-piece data"
+        ]
+      },
+      "Q9": {
+        "home_score": 0,
+        "away_score": 12,
+        "home_reasoning": "Bournemouth 9th position, 18 points - comfortable mid-table, no pressure → 0",
+        "away_reasoning": "West Ham 18th position, 10 points - relegation battle, within 3 points of safety → Must-win situation → +12",
+        "sources": [
+          "FootyStats (league positions)",
+          "Sky Sports analysis mentions relegation concern"
+        ]
+      },
+      "Q10": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No derby, manager debut, or revenge context found in sources → 0",
+        "away_reasoning": "No derby, manager debut, or revenge context found in sources → 0",
+        "sources": [
+          "SportsMole preview",
+          "News headlines"
+        ]
+      },
+      "Q11": {
+        "home_score": 2,
+        "away_score": 1,
+        "home_reasoning": "Bournemouth recent form: 2 losses mentioned (City, Villa) but had good run before - estimate 2W in last 5 → +2",
+        "away_reasoning": "West Ham: Back-to-back wins mentioned (Newcastle, Burnley) but poor overall - estimate 1W in last 5 → +1",
+        "sources": [
+          "SportsMole preview",
+          "Sky Sports match reports"
+        ]
+      },
+      "Q12": {
+        "home_score": 1,
+        "away_score": 1,
+        "home_reasoning": "Recent losses to top teams (City, Villa) - playing strong opposition → +1",
+        "away_reasoning": "Recent wins against mid-table/lower teams (Newcastle, Burnley) → +1",
+        "sources": [
+          "SportsMole preview",
+          "Match context from news"
+        ]
+      },
+      "Q13": {
+        "home_score": 2,
+        "away_score": 1,
+        "home_reasoning": "Bournemouth: 17 goals vs 15.73 xG (1.43×11) → Slightly outperforming xG → +2",
+        "away_reasoning": "West Ham: 13 goals vs 13.86 xG (1.26×11) → Slightly underperforming xG → +1",
+        "sources": [
+          "FootyStats (goals vs xG calculation)"
+        ]
+      },
+      "Q14": {
+        "home_score": 2,
+        "away_score": 1,
+        "home_reasoning": "No specific rating data but decent xG performance suggests reasonable quality → +2",
+        "away_reasoning": "Poor xG differential (-0.43) suggests below-average performance quality → +1",
+        "sources": [
+          "FootyStats (xG differential as proxy)"
+        ]
+      },
+      "Q15": {
+        "home_score": -8,
+        "away_score": -8,
+        "home_reasoning": "Semenyo (key player, €55M, top scorer) listed as doubtful with ankle injury → -8 penalty",
+        "away_reasoning": "Paquetá (key player, €35M, joint top scorer) suspended due to 5 yellow cards → -8 penalty",
+        "sources": [
+          "SportsMole team news",
+          "Sky Sports preview"
+        ]
+      },
+      "Q16": {
+        "home_score": -4,
+        "away_score": 0,
+        "home_reasoning": "Adam Smith (captain, defender) ruled out with head injury, Fabianski (GK) touch-and-go → 2+ defensive absences → -4",
+        "away_reasoning": "Fabianski and Mavropanos listed as touch-and-go but not confirmed out → 0",
+        "sources": [
+          "SportsMole team news"
+        ]
+      },
+      "Q17": {
+        "home_score": 8,
+        "away_score": 2,
+        "home_reasoning": "Bournemouth home: 2.6 PPG (4W/1D/0L) vs West Ham away: 0.8 PPG (1W/1D/3L) → Strong home advantage → +8",
+        "away_reasoning": "West Ham away form poor: 0.8 PPG, only 1 win in 5 away → +2",
+        "sources": [
+          "FootyStats (home/away form data)"
+        ]
+      },
+      "Q18": {
+        "home_score": 3,
+        "away_score": 0,
+        "home_reasoning": "SportsMole mentions West Ham haven't beaten Bournemouth recently, lost 8 straight PL games → Bournemouth dominant at home → +3",
+        "away_reasoning": "H2H record poor against Bournemouth at their ground → 0",
+        "sources": [
+          "SportsMole H2H context"
+        ]
+      },
+      "Q19": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No indication of complete home dominance collapse in H2H → 0",
+        "away_reasoning": "Not applicable for away team → 0",
+        "sources": [
+          "SportsMole H2H analysis"
+        ]
+      }
+    },
+    "category_totals": {
+      "technique": {
+        "home": 18,
+        "away": 9
+      },
+      "tactics": {
+        "home": 8,
+        "away": 9
+      },
+      "motivation": {
+        "home": 0,
+        "away": 12
+      },
+      "form": {
+        "home": 3,
+        "away": 2
+      },
+      "performance": {
+        "home": 4,
+        "away": 2
+      },
+      "injuries": {
+        "home": -12,
+        "away": -8
+      },
+      "home_away": {
+        "home": 11,
+        "away": 2
+      }
+    },
+    "raw_scores": {
+      "raw_casa": 32,
+      "raw_vis": 28
+    },
+    "data_quality": {
+      "score": 78,
+      "assessment": "Good",
+      "breakdown": {
+        "q1_player_values": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q2_xg": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q3_bench": {
+          "points": 3,
+          "status": "complete"
+        },
+        "q4_xga": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q5_manager": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q6_formations": {
+          "points": 1,
+          "status": "default"
+        },
+        "q7_pressing": {
+          "points": 1,
+          "status": "default"
+        },
+        "q8_set_pieces": {
+          "points": 1,
+          "status": "default"
+        },
+        "q9_league": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q10_derby": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q11_form": {
+          "points": 2,
+          "status": "estimated"
+        },
+        "q12_opponent": {
+          "points": 2,
+          "status": "estimated"
+        },
+        "q13_xg_delta": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q14_ratings": {
+          "points": 2.5,
+          "status": "partial"
+        },
+        "q15_injuries": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q16_cluster": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q17_home_away": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q18_h2h": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q19_h2h_negative": {
+          "points": 4,
+          "status": "complete"
+        },
+        "betfair_draw": {
+          "points": 0,
+          "status": "missing"
+        },
+        "betfair_ah": {
+          "points": 0,
+          "status": "missing"
+        },
+        "local_media": {
+          "points": 5,
+          "status": "available"
+        },
+        "sportsmole": {
+          "points": 5,
+          "status": "available"
+        }
+      },
+      "missing_critical": [],
+      "proceed": true,
+      "confidence_note": "Good data quality. FootyStats provides reliable xG and form data. Missing formations and detailed tactical stats, no Betfair odds per blind pricing protocol."
+    },
+    "notes": [
+      "Q6: No formation data available from sources - used neutral default",
+      "Q7: No pressing statistics available - used default balanced scoring",
+      "Q8: No set-piece data available - used default scoring",
+      "Q11-Q12: Form estimated from match reports and recent results context",
+      "Q15: Both teams hit with key player penalties - Semenyo injury doubt, Paquetá suspension",
+      "Q16: Bournemouth defensive cluster penalty for Smith + potential Fabianski issues",
+      "H2H: SportsMole indicates West Ham's poor recent record vs Bournemouth",
+      "No Betfair odds data per blind pricing protocol",
+      "West Ham in relegation battle (18th) vs Bournemouth comfortable (9th)"
+    ]
+  },
+  "yudor_analysis": {
+    "match_id": "BournemouthvsWestHamUnited_22112025",
+    "raw_casa": 32,
+    "raw_vis": 28,
+    "delta": 4,
+    "yudor_ah_fair": -0.25,
+    "pr_casa": 0.375,
+    "pr_vis": 0.375,
+    "pr_empate": 0.25,
+    "cs_final": 68,
+    "tier": 2,
+    "r_home": 0.32,
+    "r_away": 0.28,
+    "r_fav": 0.32,
+    "r_dog": 0.28,
+    "rbr": 0.067,
+    "r_score": 0.3,
+    "edge_synthetic": 8,
+    "decision": "VETO",
+    "reasoning": "R_score 0.30 exceeds 0.25 threshold, both teams have key player absences, insufficient edge for FLIP"
+  }
+}

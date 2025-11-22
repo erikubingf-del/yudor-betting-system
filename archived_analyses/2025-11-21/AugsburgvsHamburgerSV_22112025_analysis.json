@@ -1,0 +1,371 @@
+{
+  "match_id": "AugsburgvsHamburgerSV_22112025",
+  "match_info": {
+    "id": "AugsburgvsHamburgerSV_22112025",
+    "home": "Augsburg",
+    "away": "Hamburger SV",
+    "league": "Bundesliga",
+    "date": "22/11/2025"
+  },
+  "timestamp": "2025-11-21T17:28:36.746403",
+  "consolidated_data": {
+    "game_id": "AugsburgvsHamburgerSV_22112025",
+    "match_info": {
+      "home": "Augsburg",
+      "away": "Hamburger SV",
+      "league": "Bundesliga",
+      "date": "22/11/2025"
+    },
+    "p_empate": 27.9,
+    "betfair_ah_market": {
+      "line": "Not available - using blind pricing",
+      "odds": "Not available"
+    },
+    "q_scores": {
+      "Q1": {
+        "home_score": 3,
+        "away_score": 5,
+        "home_reasoning": "Augsburg: Rieder (€6M, 3 goals), Claude-Maurice (€15M), Kömür (€12M), Matsima (€22M) → Total 6.3 → +3",
+        "away_reasoning": "Hamburg: Philippe (€4M, 3 goals), Vieira (€18M), Königsdörffer (€6M), Vuskovic (€18M) → Total 8.2 → +5",
+        "sources": [
+          "Transfermarkt (values)",
+          "FootyStats (goals)",
+          "SportsMole (key players)"
+        ]
+      },
+      "Q2": {
+        "home_score": 2,
+        "away_score": 0,
+        "home_reasoning": "Augsburg: 1.4 G/J + 1.33 xG → +2",
+        "away_reasoning": "Hamburg: 0.9 G/J + 1.46 xG → 0 (G/J < 1.0)",
+        "sources": [
+          "FootyStats (goals_scored_avg)",
+          "FootyStats (xg_for_avg)"
+        ]
+      },
+      "Q3": {
+        "home_score": 2,
+        "away_score": 3,
+        "home_reasoning": "Augsburg: Limited quality subs visible, mid-table squad depth → +2",
+        "away_reasoning": "Hamburg: Glatzel, Pherai, multiple €2-4M subs available → +3",
+        "sources": [
+          "Transfermarkt (squad)",
+          "SportsMole (preview)"
+        ]
+      },
+      "Q4": {
+        "home_score": 0,
+        "away_score": 1,
+        "home_reasoning": "Augsburg: 2.4 GA/J + 1.54 xGA → 0 (both > thresholds)",
+        "away_reasoning": "Hamburg: 1.6 GA/J + 1.72 xGA → +1 (GA/J in 1.2-1.5 range)",
+        "sources": [
+          "FootyStats (goals_conceded_avg)",
+          "FootyStats (xg_against_avg)"
+        ]
+      },
+      "Q5": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "Wagner: Experienced Bundesliga manager, default assessment → +2",
+        "away_reasoning": "Polzin: Recent appointment, building experience → +2",
+        "sources": [
+          "SportsMole (manager names)",
+          "News headlines (context)"
+        ]
+      },
+      "Q6": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "Formation not confirmed in sources → 0 (symmetry)",
+        "away_reasoning": "Formation not confirmed in sources → 0 (symmetry)",
+        "sources": [
+          "SportsMole (incomplete tactical info)"
+        ]
+      },
+      "Q7": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "No pressing data available, using +2 default",
+        "away_reasoning": "No pressing data available, using +2 default",
+        "sources": [
+          "Default estimation"
+        ]
+      },
+      "Q8": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "No set-piece data available, using +2 default",
+        "away_reasoning": "No set-piece data available, using +2 default",
+        "sources": [
+          "Default estimation"
+        ]
+      },
+      "Q9": {
+        "home_score": 12,
+        "away_score": 6,
+        "home_reasoning": "Augsburg: 15th place, 7 points, relegation battle context → +12",
+        "away_reasoning": "Hamburg: 13th place, 9 points, above relegation zone → +6",
+        "sources": [
+          "FootyStats (position)",
+          "News headlines (pressure context)"
+        ]
+      },
+      "Q10": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No derby or special context found in sources → 0",
+        "away_reasoning": "No derby or special context found in sources → 0",
+        "sources": [
+          "News headlines",
+          "SportsMole (no special context)"
+        ]
+      },
+      "Q11": {
+        "home_score": 1,
+        "away_score": 1,
+        "home_reasoning": "Augsburg: 2 wins in 10 games overall, poor recent form → +1",
+        "away_reasoning": "Hamburg: 2 wins in 10 games overall, similar poor form → +1",
+        "sources": [
+          "FootyStats (wins_overall)"
+        ]
+      },
+      "Q12": {
+        "home_score": 1,
+        "away_score": 1,
+        "home_reasoning": "Quality of recent opponents not detailed, estimated from poor results → +1",
+        "away_reasoning": "Drew with Dortmund (quality opponent) but overall poor → +1",
+        "sources": [
+          "SportsMole (recent results)",
+          "News (Dortmund draw)"
+        ]
+      },
+      "Q13": {
+        "home_score": 0,
+        "away_reasoning": "Hamburg: xG (1.46) > Goals (0.9) +0.56 → +3 (unlucky)",
+        "away_score": 3,
+        "sources": [
+          "FootyStats (xg vs goals comparison)"
+        ]
+      },
+      "Q14": {
+        "home_score": 1,
+        "away_score": 1,
+        "home_reasoning": "No ratings data available, estimated from poor overall performance → +1",
+        "away_reasoning": "No ratings data available, estimated from poor overall performance → +1",
+        "sources": [
+          "Estimated from FootyStats performance"
+        ]
+      },
+      "Q15": {
+        "home_score": -8,
+        "away_score": -8,
+        "home_reasoning": "Gouweleeuw (key defender) out with serious knee injury → -8",
+        "away_reasoning": "Poulsen (key striker) out with hip injury → -8",
+        "sources": [
+          "SportsMole (team news)",
+          "News headlines (injuries)"
+        ]
+      },
+      "Q16": {
+        "home_score": 0,
+        "away_score": -4,
+        "home_reasoning": "Only 1 defender out (Gouweleeuw) → 0",
+        "away_reasoning": "Omari (defender) also out with ankle injury → -4",
+        "sources": [
+          "SportsMole (team news)"
+        ]
+      },
+      "Q17": {
+        "home_score": 2,
+        "away_score": 0,
+        "home_reasoning": "Home: 1 win in 5 home games → +2; Away: 0 wins in 5 away → 0 bonus → +2",
+        "away_reasoning": "Away: 0 wins in 5 away games → 0",
+        "sources": [
+          "FootyStats (home/away records)"
+        ]
+      },
+      "Q18": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No recent H2H data at this venue available → 0",
+        "away_reasoning": "No recent H2H data available → 0",
+        "sources": [
+          "SportsMole (first meeting since 2018)"
+        ]
+      },
+      "Q19": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No sufficient H2H history for negative scenario → 0",
+        "away_reasoning": "Not applicable for away team → 0",
+        "sources": [
+          "SportsMole (insufficient H2H data)"
+        ]
+      }
+    },
+    "category_totals": {
+      "technique": {
+        "home": 7,
+        "away": 8
+      },
+      "tactics": {
+        "home": 6,
+        "away": 6
+      },
+      "motivation": {
+        "home": 12,
+        "away": 6
+      },
+      "form": {
+        "home": 2,
+        "away": 2
+      },
+      "performance": {
+        "home": 1,
+        "away": 4
+      },
+      "injuries": {
+        "home": -8,
+        "away": -12
+      },
+      "home_away": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    "raw_scores": {
+      "raw_casa": 22,
+      "raw_vis": 14
+    },
+    "data_quality": {
+      "score": 78,
+      "assessment": "Good",
+      "breakdown": {
+        "q1_player_values": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q2_xg": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q3_bench": {
+          "points": 1.5,
+          "status": "estimated"
+        },
+        "q4_xga": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q5_manager": {
+          "points": 1,
+          "status": "default"
+        },
+        "q6_formations": {
+          "points": 1,
+          "status": "default"
+        },
+        "q7_pressing": {
+          "points": 1,
+          "status": "default"
+        },
+        "q8_set_pieces": {
+          "points": 1,
+          "status": "default"
+        },
+        "q9_league": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q10_derby": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q11_form": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q12_opponent": {
+          "points": 2,
+          "status": "estimated"
+        },
+        "q13_xg_delta": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q14_ratings": {
+          "points": 1,
+          "status": "estimated"
+        },
+        "q15_injuries": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q16_cluster": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q17_home_away": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q18_h2h": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q19_h2h_negative": {
+          "points": 2,
+          "status": "complete"
+        },
+        "betfair_draw": {
+          "points": 0,
+          "status": "missing"
+        },
+        "betfair_ah": {
+          "points": 0,
+          "status": "missing"
+        },
+        "local_media": {
+          "points": 5,
+          "status": "available"
+        },
+        "sportsmole": {
+          "points": 5,
+          "status": "available"
+        }
+      },
+      "missing_critical": [],
+      "proceed": true,
+      "confidence_note": "Good data quality. FootyStats provides excellent xG and form data. Missing Betfair odds (blind pricing). Some tactical details estimated."
+    },
+    "notes": [
+      "P(Empate) calculated from FootyStats odds: 100/3.58 = 27.9%",
+      "Q6-Q8: Limited tactical data - used defaults",
+      "Q15: Both teams have key player injuries confirmed",
+      "Q16: Hamburg has defensive cluster issue (Omari + potential others)",
+      "Q18-Q19: Limited H2H history (first meeting since 2018)",
+      "Strong relegation battle context for both teams",
+      "FootyStats API provided excellent underlying data"
+    ]
+  },
+  "yudor_analysis": {
+    "match_id": "AugsburgvsHamburgerSV_22112025",
+    "raw_casa": 22,
+    "raw_vis": 14,
+    "delta": 8,
+    "yudor_ah_fair": -0.75,
+    "pr_casa": 0.435,
+    "pr_vis": 0.285,
+    "pr_empate": 0.279,
+    "cs_final": 68,
+    "tier": 2,
+    "r_home": 0.32,
+    "r_away": 0.28,
+    "r_fav": 0.32,
+    "r_dog": 0.28,
+    "rbr": 0.07,
+    "r_score": 0.3,
+    "decision": "VETO",
+    "reasoning": "R-Score 0.30 exceeds 0.25 threshold. Key injuries to both sides create high variance risk despite Augsburg's home motivation advantage."
+  }
+}

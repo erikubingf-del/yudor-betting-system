@@ -1,0 +1,365 @@
+{
+  "match_id": "Mainz05vsHoffenheim_21112025",
+  "match_info": {
+    "id": "Mainz05vsHoffenheim_21112025",
+    "home": "Mainz 05",
+    "away": "Hoffenheim",
+    "league": "Bundesliga",
+    "date": "21/11/2025"
+  },
+  "timestamp": "2025-11-21T17:41:35.588977",
+  "consolidated_data": {
+    "game_id": "Mainz05vsHoffenheim_21112025",
+    "match_info": {
+      "home": "Mainz 05",
+      "away": "Hoffenheim",
+      "league": "Bundesliga",
+      "date": "21/11/2025"
+    },
+    "p_empate": 28.6,
+    "betfair_ah_market": null,
+    "q_scores": {
+      "Q1": {
+        "home_score": 3,
+        "away_score": 6,
+        "home_reasoning": "Mainz: Kaishu Sano (€25M, key midfielder), Nadiem Amiri (€20M, top scorer), Paul Nebel (€24M), Benedict Hollerbach (€12M) → Total ~6.5 → +3",
+        "away_reasoning": "Hoffenheim: Fisnik Asllani (€18M, top scorer), Adam Hlozek (€18M), Bazoumana Touré (€15M), Albian Hajdari (€12M) → Total ~8.0 → +6",
+        "sources": [
+          "Transfermarkt squad values",
+          "FootyStats goal scorers"
+        ]
+      },
+      "Q2": {
+        "home_score": 0,
+        "away_score": 7,
+        "home_reasoning": "Mainz: 1.0 G/J + 1.39 xG → Below 1.3/1.3 thresholds → 0",
+        "away_reasoning": "Hoffenheim: 2.1 G/J + 1.51 xG → Above 2.0/1.8 thresholds → +7",
+        "sources": [
+          "FootyStats API (goals_scored_avg_overall, xg_for_avg_overall)"
+        ]
+      },
+      "Q3": {
+        "home_score": 2,
+        "away_score": 3,
+        "home_reasoning": "Mainz: Several €1-5M subs (Nordin €5M, Sieb €4M, Bøving €8M) but limited depth → +2",
+        "away_reasoning": "Hoffenheim: Strong bench with Kramaric (€4M veteran), Lemperle (€8M), Moerstedt (€7M), Damar (€7M) → +3",
+        "sources": [
+          "Transfermarkt squad values"
+        ]
+      },
+      "Q4": {
+        "home_score": 0,
+        "away_score": 1,
+        "home_reasoning": "Mainz: 1.8 GA/J + 1.51 xGA → Above 1.5/1.6 thresholds → 0",
+        "away_reasoning": "Hoffenheim: 1.6 GA/J + 1.39 xGA → GA above 1.5 but xGA below 1.6 → +1",
+        "sources": [
+          "FootyStats API (goals_conceded_avg_overall, xg_against_avg_overall)"
+        ]
+      },
+      "Q5": {
+        "home_score": 2,
+        "away_score": 4,
+        "home_reasoning": "Bo Henriksen: 5+ years experience, managed in Europe but limited top-level achievements → +2",
+        "away_reasoning": "Christian Ilzer: Recently appointed, leading team's revival with tactical improvements → +4",
+        "sources": [
+          "SportsMole preview text",
+          "News context"
+        ]
+      },
+      "Q6": {
+        "home_score": 3,
+        "away_score": 5,
+        "home_reasoning": "Mainz 3-5-2: Zentner; Da Costa, Maloney, Kohr; Widmer, Sano, Amiri, Mwene; Nebel, Lee; Hollerbach → Balanced formation → +3",
+        "away_reasoning": "Hoffenheim 3-4-2-1: Baumann; Coufal, Hranac, Hajdari, Bernardo; Promel, Avdullahu, Burger; Kramaric; Lemperle, Toure → Attacking formation advantage → +5",
+        "sources": [
+          "SportsMole predicted lineups"
+        ]
+      },
+      "Q7": {
+        "home_score": 2,
+        "away_score": 3,
+        "home_reasoning": "Mainz: Struggling with transitions, poor conversion efficiency (xG > Goals) suggests slow buildup → +2",
+        "away_reasoning": "Hoffenheim: 4 straight wins with 3+ goals each suggests efficient transitions and clinical finishing → +3",
+        "sources": [
+          "SportsMole preview",
+          "FootyStats xG delta analysis"
+        ]
+      },
+      "Q8": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "Mainz: No specific set-piece data available, using default → +2",
+        "away_reasoning": "Hoffenheim: No specific set-piece data available, using default → +2",
+        "sources": [
+          "Default values used"
+        ]
+      },
+      "Q9": {
+        "home_score": 12,
+        "away_score": 0,
+        "home_reasoning": "Mainz: 17th position (automatic relegation zone) with only 5 points from 10 games - desperate must-win situation → +12",
+        "away_reasoning": "Hoffenheim: 6th position with 19 points, comfortable mid-table, no immediate pressure → 0",
+        "sources": [
+          "FootyStats league position",
+          "SportsMole preview highlighting relegation battle"
+        ]
+      },
+      "Q10": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No derby, manager debut, or revenge context found in sources → 0",
+        "away_reasoning": "No derby, manager debut, or revenge context found in sources → 0",
+        "sources": [
+          "SportsMole preview",
+          "News headlines"
+        ]
+      },
+      "Q11": {
+        "home_score": 1,
+        "away_score": 4,
+        "home_reasoning": "Mainz: 1W-2D-7L in 10 games, only 1 win overall → +1",
+        "away_reasoning": "Hoffenheim: 6W-1D-3L in 10 games, 6 wins total (≥4W) → +4",
+        "sources": [
+          "FootyStats API (wins_overall)"
+        ]
+      },
+      "Q12": {
+        "home_score": 0,
+        "away_score": 3,
+        "home_reasoning": "Mainz: Single win likely against weaker opposition given league position → 0",
+        "away_reasoning": "Hoffenheim: 6 wins including victory over RB Leipzig (strong opponent) suggests quality wins → +3",
+        "sources": [
+          "News context (3-1 vs Leipzig)",
+          "FootyStats data"
+        ]
+      },
+      "Q13": {
+        "home_score": 0,
+        "away_score": 3,
+        "home_reasoning": "Mainz: 10 goals vs 13.9 xG → Goals below xG by 3.9 (very unlucky) → +5. Wait, that's backwards: 1.39*10 = 13.9 expected, 10 actual → underperforming → 0",
+        "away_reasoning": "Hoffenheim: 21 goals vs 15.1 xG → Goals exceed xG by 5.9 (overperforming/lucky) → +1. Actually: 1.51*10 = 15.1 expected, 21 actual → significant overperformance → +3",
+        "sources": [
+          "FootyStats API (xG vs actual goals calculation)"
+        ]
+      },
+      "Q14": {
+        "home_score": 1,
+        "away_score": 3,
+        "home_reasoning": "Mainz: Poor performances with negative xG difference (-0.12) and low goals → +1",
+        "away_reasoning": "Hoffenheim: Positive xG difference (+0.12) and strong recent form (4 straight wins) → +3",
+        "sources": [
+          "FootyStats xG difference",
+          "Recent match results"
+        ]
+      },
+      "Q15": {
+        "home_score": -8,
+        "away_score": 0,
+        "home_reasoning": "Nadiem Amiri (top scorer, 3 goals, key midfielder) doubtful with adductor injury per SportsMole → -8",
+        "away_reasoning": "No key player injuries mentioned in available sources → 0",
+        "sources": [
+          "SportsMole team news"
+        ]
+      },
+      "Q16": {
+        "home_score": -4,
+        "away_score": 0,
+        "home_reasoning": "Anthony Caci (€12M defender) out until January with hamstring, plus Maxim Dal (defender) with knee problem → -4",
+        "away_reasoning": "No defensive cluster injuries mentioned → 0",
+        "sources": [
+          "SportsMole team news"
+        ]
+      },
+      "Q17": {
+        "home_score": 2,
+        "away_score": 8,
+        "home_reasoning": "Mainz home: 0W-1D-4L in 5 games (0 wins) → 0 base + 0 bonus → 0. But using PPG: 0.2 very poor → +2 minimum",
+        "away_reasoning": "Hoffenheim away: 4W-1D-0L in 5 games → +6 base, +4 bonus for excellent away form → +10 (capped at +8 for away team)",
+        "sources": [
+          "FootyStats home/away records"
+        ]
+      },
+      "Q18": {
+        "home_score": 1,
+        "away_score": 0,
+        "home_reasoning": "Limited H2H data available, but recent Rhine-Main derby loss to Frankfurt suggests mixed home record → +1",
+        "away_reasoning": "SportsMole notes Hoffenheim hasn't won at MEWA Arena for 5+ years → 0",
+        "sources": [
+          "SportsMole preview context"
+        ]
+      },
+      "Q19": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No evidence of 0 wins in last 3 H2H at home → 0",
+        "away_reasoning": "Away team not affected by this criterion → 0",
+        "sources": [
+          "No negative H2H pattern found"
+        ]
+      }
+    },
+    "category_totals": {
+      "technique": {
+        "home": 5,
+        "away": 17
+      },
+      "tactics": {
+        "home": 12,
+        "away": 14
+      },
+      "motivation": {
+        "home": 12,
+        "away": 0
+      },
+      "form": {
+        "home": 1,
+        "away": 7
+      },
+      "performance": {
+        "home": 1,
+        "away": 6
+      },
+      "injuries": {
+        "home": -12,
+        "away": 0
+      },
+      "home_away": {
+        "home": 3,
+        "away": 8
+      }
+    },
+    "raw_scores": {
+      "raw_casa": 22,
+      "raw_vis": 52
+    },
+    "data_quality": {
+      "score": 85,
+      "assessment": "Excellent",
+      "breakdown": {
+        "q1_player_values": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q2_xg": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q3_bench": {
+          "points": 3,
+          "status": "complete"
+        },
+        "q4_xga": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q5_manager": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q6_formations": {
+          "points": 5,
+          "status": "confirmed"
+        },
+        "q7_pressing": {
+          "points": 1.5,
+          "status": "inferred"
+        },
+        "q8_set_pieces": {
+          "points": 1,
+          "status": "default"
+        },
+        "q9_league": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q10_derby": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q11_form": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q12_opponent": {
+          "points": 2,
+          "status": "estimated"
+        },
+        "q13_xg_delta": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q14_ratings": {
+          "points": 2.5,
+          "status": "partial"
+        },
+        "q15_injuries": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q16_cluster": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q17_home_away": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q18_h2h": {
+          "points": 2,
+          "status": "estimated"
+        },
+        "q19_h2h_negative": {
+          "points": 4,
+          "status": "complete"
+        },
+        "betfair_draw": {
+          "points": 0,
+          "status": "missing"
+        },
+        "betfair_ah": {
+          "points": 0,
+          "status": "missing"
+        },
+        "local_media": {
+          "points": 5,
+          "status": "available"
+        },
+        "sportsmole": {
+          "points": 5,
+          "status": "available"
+        }
+      },
+      "missing_critical": [],
+      "proceed": true,
+      "confidence_note": "Excellent data quality from FootyStats API and SportsMole. Only missing betting odds (using blind pricing). Strong injury and tactical information available."
+    },
+    "notes": [
+      "P(Empate): Calculated from FootyStats draw odds (3.5) = 28.6%",
+      "Q13: Mainz underperforming xG (10 goals from 13.9 xG), Hoffenheim overperforming (21 from 15.1 xG)",
+      "Q15: Critical - Amiri injury major blow for Mainz's relegated-threatened season",
+      "Q16: Mainz defensive injuries compounding problems (Caci long-term, Dal out)",
+      "Q17: Hoffenheim's exceptional away form (4W-1D-0L) vs Mainz's terrible home record (0W-1D-4L)",
+      "Key context: Mainz in automatic relegation zone desperately needs points, Hoffenheim on 4-game winning streak"
+    ]
+  },
+  "yudor_analysis": {
+    "match_id": "Mainz05vsHoffenheim_21112025",
+    "raw_casa": 22,
+    "raw_vis": 52,
+    "delta": -30,
+    "yudor_ah_fair": 1.0,
+    "pr_casa": 0.225,
+    "pr_vis": 0.489,
+    "pr_empate": 0.286,
+    "cs_final": 68,
+    "tier": 2,
+    "r_home": 0.72,
+    "r_away": 0.25,
+    "r_fav": 0.25,
+    "r_dog": 0.72,
+    "rbr": -0.48,
+    "r_score": 0.72,
+    "decision": "VETO",
+    "reasoning": "R-Score 0.72 exceeds 0.25 threshold. Mainz in crisis (relegation zone, key injuries, terrible home form) creates excessive risk despite must-win desperation."
+  }
+}

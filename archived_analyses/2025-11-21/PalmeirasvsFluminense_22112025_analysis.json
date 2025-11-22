@@ -1,0 +1,367 @@
+{
+  "match_id": "PalmeirasvsFluminense_22112025",
+  "match_info": {
+    "id": "PalmeirasvsFluminense_22112025",
+    "home": "Palmeiras",
+    "away": "Fluminense",
+    "league": "Brasileirão",
+    "date": "22/11/2025"
+  },
+  "timestamp": "2025-11-21T17:27:31.341145",
+  "consolidated_data": {
+    "game_id": "PalmeirasvsFluminense_22112025",
+    "match_info": {
+      "home": "Palmeiras",
+      "away": "Fluminense",
+      "league": "Brasileirão",
+      "date": "22/11/2025"
+    },
+    "p_empate": 23.8,
+    "betfair_ah_market": null,
+    "q_scores": {
+      "Q1": {
+        "home_score": 8,
+        "away_score": 3,
+        "home_reasoning": "Palmeiras: Vitor Roque (€20M, striker), Andreas Pereira (€18M, CAM), Facundo Torres (€15M, winger), Joaquín Piquerez (€15M, LB) → Total 13.5 → +8",
+        "away_reasoning": "Fluminense: Martinelli (€14M, DM), Hércules (€10M, CM), John Kennedy (€6M, striker), Luciano Acosta (€6M, CAM) → Total 7.25 → +3",
+        "sources": [
+          "Transfermarkt (squad values)"
+        ]
+      },
+      "Q2": {
+        "home_score": 6,
+        "away_score": 2,
+        "home_reasoning": "Palmeiras: 1.58 G/J + 1.6 xG → Total 3.18 → +6",
+        "away_reasoning": "Fluminense: 0.87 G/J + 1.21 xG → Total 2.08 → +2",
+        "sources": [
+          "FootyStats (goals_scored_avg, xg_for_avg)"
+        ]
+      },
+      "Q3": {
+        "home_score": 4,
+        "away_score": 2,
+        "home_reasoning": "Palmeiras: Quality subs include Allan (€4M), Felipe Anderson (€3M), José López (€12M), Emiliano Martinez (€9M) → +4",
+        "away_reasoning": "Fluminense: Limited quality bench depth, main subs Everaldo (€500k), Keno (€500k) → +2",
+        "sources": [
+          "Transfermarkt (squad depth)",
+          "SportsMole (team news)"
+        ]
+      },
+      "Q4": {
+        "home_score": 5,
+        "away_score": 3,
+        "home_reasoning": "Palmeiras: 0.87 GA/J + 1.11 xGA → Excellent defense → +5",
+        "away_reasoning": "Fluminense: 1.03 GA/J + 1.28 xGA → Above average defense → +3",
+        "sources": [
+          "FootyStats (goals_conceded_avg, xg_against_avg)"
+        ]
+      },
+      "Q5": {
+        "home_score": 7,
+        "away_score": 2,
+        "home_reasoning": "Abel Ferreira: Champions League winner with Porto, multiple Brazilian titles with Palmeiras → Top 5 manager → +7",
+        "away_reasoning": "Zubeldía: Recent appointment, limited international experience → <2 years relevant → +2",
+        "sources": [
+          "SportsMole (manager context)",
+          "Local media"
+        ]
+      },
+      "Q6": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "Formation data not confirmed in sources → Default symmetry → 0",
+        "away_reasoning": "Formation data not confirmed in sources → Default symmetry → 0",
+        "sources": [
+          "SportsMole (limited tactical info)"
+        ]
+      },
+      "Q7": {
+        "home_score": 3,
+        "away_score": 2,
+        "home_reasoning": "High possession (58% avg) suggests controlled pressing style → +3",
+        "away_reasoning": "Lower possession team, likely counter-attacking setup → +2",
+        "sources": [
+          "FootyStats (possession data)",
+          "SportsMole (tactical hints)"
+        ]
+      },
+      "Q8": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "No specific set-piece data available → Default estimation → +2",
+        "away_reasoning": "No specific set-piece data available → Default estimation → +2",
+        "sources": [
+          "Default estimation - no set piece stats available"
+        ]
+      },
+      "Q9": {
+        "home_score": 12,
+        "away_score": 0,
+        "home_reasoning": "Palmeiras 2nd place (73 pts), 2 points behind Flamengo (71 vs 73 from table data) → Title race context → +12",
+        "away_reasoning": "Fluminense 13th place (46 pts), mid-table safety → No must-win pressure → 0",
+        "sources": [
+          "FootyStats (league positions)",
+          "Local media (title race headlines)"
+        ]
+      },
+      "Q10": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No derby, manager debut, or revenge context identified → 0",
+        "away_reasoning": "No derby, manager debut, or revenge context identified → 0",
+        "sources": [
+          "Local media analysis",
+          "SportsMole preview"
+        ]
+      },
+      "Q11": {
+        "home_score": 4,
+        "away_score": 1,
+        "home_reasoning": "Palmeiras: Strong overall record (22W from 38 games = 58% win rate) → Estimated 4/5 recent wins → +4",
+        "away_reasoning": "Fluminense: Poor record (12W from 38 games = 32% win rate) → Estimated 1/5 recent wins → +1",
+        "sources": [
+          "FootyStats (overall win rates as proxy)"
+        ]
+      },
+      "Q12": {
+        "home_score": 3,
+        "away_score": 0,
+        "home_reasoning": "Strong win rate suggests victories against quality opposition → +3",
+        "away_reasoning": "Poor win rate suggests few quality victories → 0",
+        "sources": [
+          "FootyStats (estimated from overall performance)"
+        ]
+      },
+      "Q13": {
+        "home_score": 2,
+        "away_score": 1,
+        "home_reasoning": "Palmeiras: xG 1.6 vs Goals 1.58 → Slight underperformance but balanced → +2",
+        "away_reasoning": "Fluminense: xG 1.21 vs Goals 0.87 → Significantly unlucky (underperforming by 0.34) → +1",
+        "sources": [
+          "FootyStats (xg vs actual goals comparison)"
+        ]
+      },
+      "Q14": {
+        "home_score": 3,
+        "away_score": 1,
+        "home_reasoning": "Strong goal difference (+27) and xG performance suggests quality displays → +3",
+        "away_reasoning": "Poor goal difference (-6) and underperforming xG suggests inconsistent quality → +1",
+        "sources": [
+          "FootyStats (goal difference, xG performance)"
+        ]
+      },
+      "Q15": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No key player injuries mentioned for Palmeiras → 0",
+        "away_reasoning": "Thiago Silva and Ganso out, but not necessarily top G/A or key defender → 0",
+        "sources": [
+          "SportsMole team news",
+          "Local media injury reports"
+        ]
+      },
+      "Q16": {
+        "home_score": 0,
+        "away_score": -4,
+        "home_reasoning": "No defensive cluster injuries mentioned → 0",
+        "away_reasoning": "Missing Renê (LB) and potentially Thiago Silva (CB) → 2+ defenders out → -4",
+        "sources": [
+          "SportsMole team news",
+          "Local media injury reports"
+        ]
+      },
+      "Q17": {
+        "home_score": 7,
+        "away_score": 2,
+        "home_reasoning": "Palmeiras home: 12W from 19 (63%) → +4 base; Away opponent: 5W from 19 away (26%) → +3 bonus → Total +7",
+        "away_reasoning": "Fluminense away: 5W from 19 (26%) → +1 base; Home opponent: 12W from 19 home (63%) → +1 bonus → Total +2",
+        "sources": [
+          "FootyStats (home/away records)"
+        ]
+      },
+      "Q18": {
+        "home_score": 1,
+        "away_score": 0,
+        "home_reasoning": "SportsMole mentions Palmeiras haven't won at Fluminense since 2017, but this is Palmeiras at home → Estimated 1 recent win → +1",
+        "away_reasoning": "Away team → 0 by definition",
+        "sources": [
+          "SportsMole H2H context (limited data)"
+        ]
+      },
+      "Q19": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No evidence of 0 wins in last 3 H2H at home → 0",
+        "away_reasoning": "Away team → N/A → 0",
+        "sources": [
+          "SportsMole H2H context"
+        ]
+      }
+    },
+    "category_totals": {
+      "technique": {
+        "home": 23,
+        "away": 10
+      },
+      "tactics": {
+        "home": 12,
+        "away": 6
+      },
+      "motivation": {
+        "home": 12,
+        "away": 0
+      },
+      "form": {
+        "home": 7,
+        "away": 1
+      },
+      "performance": {
+        "home": 5,
+        "away": 2
+      },
+      "injuries": {
+        "home": 0,
+        "away": -4
+      },
+      "home_away": {
+        "home": 8,
+        "away": 2
+      }
+    },
+    "raw_scores": {
+      "raw_casa": 67,
+      "raw_vis": 17
+    },
+    "data_quality": {
+      "score": 75,
+      "assessment": "Good",
+      "breakdown": {
+        "q1_player_values": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q2_xg": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q3_bench": {
+          "points": 3,
+          "status": "complete"
+        },
+        "q4_xga": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q5_manager": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q6_formations": {
+          "points": 1,
+          "status": "default"
+        },
+        "q7_pressing": {
+          "points": 1.5,
+          "status": "inferred"
+        },
+        "q8_set_pieces": {
+          "points": 1,
+          "status": "default"
+        },
+        "q9_league": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q10_derby": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q11_form": {
+          "points": 2,
+          "status": "estimated"
+        },
+        "q12_opponent": {
+          "points": 2,
+          "status": "estimated"
+        },
+        "q13_xg_delta": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q14_ratings": {
+          "points": 2.5,
+          "status": "partial"
+        },
+        "q15_injuries": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q16_cluster": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q17_home_away": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q18_h2h": {
+          "points": 2,
+          "status": "estimated"
+        },
+        "q19_h2h_negative": {
+          "points": 2,
+          "status": "estimated"
+        },
+        "betfair_draw": {
+          "points": 0,
+          "status": "missing"
+        },
+        "betfair_ah": {
+          "points": 0,
+          "status": "missing"
+        },
+        "local_media": {
+          "points": 5,
+          "status": "available"
+        },
+        "sportsmole": {
+          "points": 5,
+          "status": "available"
+        }
+      },
+      "missing_critical": [],
+      "proceed": true,
+      "confidence_note": "Good data quality. FootyStats API provided excellent statistical foundation. Missing Betfair odds (blind pricing), some tactical details, and exact recent form."
+    },
+    "notes": [
+      "P(Empate) calculated from FootyStats odds: 100/4.2 = 23.8%",
+      "Q6: Formation data not available - used default symmetry",
+      "Q8: No set-piece statistics found - used default +2 for both teams",
+      "Q11/Q12: Recent form estimated from overall season performance due to lack of last-5 data",
+      "Q16: Fluminense missing Renê (LB) and potentially Thiago Silva (CB) confirmed",
+      "Q18/Q19: Limited H2H data available in sources",
+      "Title race context clear: Palmeiras 2 points behind Flamengo with games remaining",
+      "Blind pricing mode: No Betfair AH market data included"
+    ]
+  },
+  "yudor_analysis": {
+    "match_id": "PalmeirasvsFluminense_22112025",
+    "raw_casa": 67,
+    "raw_vis": 17,
+    "delta": 50,
+    "yudor_ah_fair": -1.75,
+    "pr_casa": 0.674,
+    "pr_vis": 0.088,
+    "pr_empate": 0.238,
+    "cs_final": 78,
+    "tier": 1,
+    "r_home": 0.18,
+    "r_away": 0.42,
+    "r_fav": 0.18,
+    "r_dog": 0.42,
+    "rbr": -0.4,
+    "r_score": 0.18,
+    "decision": "CORE",
+    "reasoning": "Strong home favorite with massive technique/motivation edge, low R-Score indicates minimal risk"
+  }
+}

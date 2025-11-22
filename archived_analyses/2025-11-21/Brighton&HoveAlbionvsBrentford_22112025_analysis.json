@@ -1,0 +1,366 @@
+{
+  "match_id": "Brighton&HoveAlbionvsBrentford_22112025",
+  "match_info": {
+    "id": "Brighton&HoveAlbionvsBrentford_22112025",
+    "home": "Brighton & Hove Albion",
+    "away": "Brentford",
+    "league": "Premier League",
+    "date": "22/11/2025"
+  },
+  "timestamp": "2025-11-21T18:33:54.306606",
+  "consolidated_data": {
+    "game_id": "PREM_20251122_BHA_BRE",
+    "match_info": {
+      "home": "Brighton & Hove Albion",
+      "away": "Brentford",
+      "league": "Premier League",
+      "date": "22/11/2025"
+    },
+    "p_empate": 26.7,
+    "betfair_ah_market": "Not available - BLIND PRICING mode",
+    "q_scores": {
+      "Q1": {
+        "home_score": 5,
+        "away_score": 4,
+        "home_reasoning": "Brighton: Baleba (€60M, top value), Verbruggen (€35M), van Hecke (€35M), Minteh (€35M) → Total ~7.5 → +5",
+        "away_reasoning": "Brentford: Collins (€35M), Ouattara (€35M), Damsgaard (€30M), Schade (€30M) → Total ~6.5 → +4",
+        "sources": [
+          "Transfermarkt (squad values)"
+        ]
+      },
+      "Q2": {
+        "home_score": 4,
+        "away_score": 3,
+        "home_reasoning": "Brighton: 1.55 G/J + 1.43 xG → Average power → +4",
+        "away_reasoning": "Brentford: 1.55 G/J + 1.29 xG → Slightly below → +3",
+        "sources": [
+          "FootyStats (goals_scored_avg_overall, xg_for_avg_overall)"
+        ]
+      },
+      "Q3": {
+        "home_score": 3,
+        "away_score": 2,
+        "home_reasoning": "Brighton: Quality subs include Gruda (€28M), Ayari (€28M), Gómez (€20M) → Good depth → +3",
+        "away_reasoning": "Brentford: Jensen (€14M), Lewis-Potter (€25M), limited high-value depth → +2",
+        "sources": [
+          "Transfermarkt (bench values)",
+          "SportsMole (team news)"
+        ]
+      },
+      "Q4": {
+        "home_score": 4,
+        "away_score": 1,
+        "home_reasoning": "Brighton: 1.36 GA/J + 1.26 xGA → Solid defense → +4",
+        "away_reasoning": "Brentford: 1.55 GA/J + 1.38 xGA → Above average conceding → +1",
+        "sources": [
+          "FootyStats (goals_conceded_avg_overall, xg_against_avg_overall)"
+        ]
+      },
+      "Q5": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "Fabian Hurzeler: Young manager (32), limited top-level experience → +2",
+        "away_reasoning": "Keith Andrews: Interim/new manager, limited Premier League experience → +2",
+        "sources": [
+          "SportsMole (manager info)"
+        ]
+      },
+      "Q6": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "Formation not specified in available data → Default symmetry",
+        "away_reasoning": "Formation not specified in available data → Default symmetry",
+        "sources": [
+          "SportsMole (formations not detailed)"
+        ]
+      },
+      "Q7": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "No pressing data available → Default balanced transitions → +2",
+        "away_reasoning": "No pressing data available → Default balanced transitions → +2",
+        "sources": [
+          "Default - no pressing data available"
+        ]
+      },
+      "Q8": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "No set-piece data available → Default average → +2",
+        "away_reasoning": "No set-piece data available → Default average → +2",
+        "sources": [
+          "Default - no set-piece data available"
+        ]
+      },
+      "Q9": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "Brighton 11th position, 16 points → Mid-table, no must-win pressure → 0",
+        "away_reasoning": "Brentford 12th position, 16 points → Mid-table, no must-win pressure → 0",
+        "sources": [
+          "FootyStats (league position)",
+          "SportsMole (no crisis context)"
+        ]
+      },
+      "Q10": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No derby context found - regular Premier League fixture",
+        "away_reasoning": "No derby context found - regular Premier League fixture",
+        "sources": [
+          "SportsMole (no special rivalry context)",
+          "News headlines"
+        ]
+      },
+      "Q11": {
+        "home_score": 3,
+        "away_score": 3,
+        "home_reasoning": "Brighton form: W3 D2 L0 at home (excellent home form) → +3",
+        "away_reasoning": "Brentford recent wins: 3W in last 4 matches mentioned → +3",
+        "sources": [
+          "FootyStats (home record)",
+          "SportsMole (recent form)"
+        ]
+      },
+      "Q12": {
+        "home_score": 3,
+        "away_score": 2,
+        "home_reasoning": "Brighton: Unbeaten in 9 home games, beat quality opposition → +3",
+        "away_reasoning": "Brentford: Wins against decent teams but struggled away → +2",
+        "sources": [
+          "SportsMole (opponent quality context)"
+        ]
+      },
+      "Q13": {
+        "home_score": 2,
+        "away_score": 0,
+        "home_reasoning": "Brighton: xG 1.43 vs Goals 1.55 → Slightly overperforming but close → +2",
+        "away_reasoning": "Brentford: xG 1.29 vs Goals 1.55 → Significantly overperforming → 0",
+        "sources": [
+          "FootyStats (xG vs actual goals)"
+        ]
+      },
+      "Q14": {
+        "home_score": 2,
+        "away_score": 1,
+        "home_reasoning": "Brighton: Consistent performances, positive xG differential → +2",
+        "away_reasoning": "Brentford: Negative xG differential (-0.09) suggests lucky results → +1",
+        "sources": [
+          "FootyStats (xg_diff_overall)"
+        ]
+      },
+      "Q15": {
+        "home_score": -8,
+        "away_score": -8,
+        "home_reasoning": "Brighton: Mitoma (€35M, key player) ruled out → -8",
+        "away_reasoning": "Brentford: Carvalho (€14M, key creative player) out for season → -8",
+        "sources": [
+          "SportsMole (injury news)",
+          "News headlines"
+        ]
+      },
+      "Q16": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "Brighton: No cluster of defensive injuries mentioned → 0",
+        "away_reasoning": "Brentford: No cluster of defensive injuries mentioned → 0",
+        "sources": [
+          "SportsMole (team news)"
+        ]
+      },
+      "Q17": {
+        "home_score": 8,
+        "away_score": 1,
+        "home_reasoning": "Brighton home: 3W 2D 0L (excellent) + Brentford away: 1W 4L (poor) → +8",
+        "away_reasoning": "Brentford away: 1W 4L (very poor away form) → +1",
+        "sources": [
+          "FootyStats (home/away records)"
+        ]
+      },
+      "Q18": {
+        "home_score": 1,
+        "away_score": 0,
+        "home_reasoning": "Brighton: Limited H2H success at home vs Brentford → +1",
+        "away_reasoning": "Brentford: Last win at Brighton in 2016 (Championship) → 0",
+        "sources": [
+          "SportsMole (H2H context)"
+        ]
+      },
+      "Q19": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No recent H2H dominance by visitors → No veto → 0",
+        "away_reasoning": "No recent H2H dominance by home → No veto → 0",
+        "sources": [
+          "SportsMole (H2H history)"
+        ]
+      }
+    },
+    "category_totals": {
+      "technique": {
+        "home": 16,
+        "away": 10
+      },
+      "tactics": {
+        "home": 6,
+        "away": 6
+      },
+      "motivation": {
+        "home": 0,
+        "away": 0
+      },
+      "form": {
+        "home": 6,
+        "away": 5
+      },
+      "performance": {
+        "home": 4,
+        "away": 1
+      },
+      "injuries": {
+        "home": -8,
+        "away": -8
+      },
+      "home_away": {
+        "home": 9,
+        "away": 1
+      }
+    },
+    "raw_scores": {
+      "raw_casa": 33,
+      "raw_vis": 15
+    },
+    "data_quality": {
+      "score": 78,
+      "assessment": "Good",
+      "breakdown": {
+        "q1_player_values": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q2_xg": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q3_bench": {
+          "points": 3,
+          "status": "complete"
+        },
+        "q4_xga": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q5_manager": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q6_formations": {
+          "points": 1,
+          "status": "default"
+        },
+        "q7_pressing": {
+          "points": 1,
+          "status": "default"
+        },
+        "q8_set_pieces": {
+          "points": 1,
+          "status": "default"
+        },
+        "q9_league": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q10_derby": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q11_form": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q12_opponent": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q13_xg_delta": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q14_ratings": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q15_injuries": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q16_cluster": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q17_home_away": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q18_h2h": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q19_h2h_negative": {
+          "points": 4,
+          "status": "complete"
+        },
+        "betfair_draw": {
+          "points": 10,
+          "status": "calculated from odds"
+        },
+        "betfair_ah": {
+          "points": 0,
+          "status": "missing - blind pricing"
+        },
+        "local_media": {
+          "points": 5,
+          "status": "available"
+        },
+        "sportsmole": {
+          "points": 5,
+          "status": "available"
+        }
+      },
+      "missing_critical": [],
+      "proceed": true,
+      "confidence_note": "Good data quality. Missing detailed tactical data (formations, pressing, set-pieces) and Betfair AH market but all critical scoring data available."
+    },
+    "notes": [
+      "Q6: Formation details not available - used default symmetry",
+      "Q7: No pressing statistics available - used default +2 for both teams",
+      "Q8: No set-piece data available - used default +2 for both teams",
+      "Q15: Both teams have key player injuries - Mitoma (Brighton) and Carvalho (Brentford)",
+      "P(Empate) calculated from FootyStats draw odds: 100/3.75 = 26.7%",
+      "Betfair AH market not available - operating in BLIND PRICING mode",
+      "FootyStats provided excellent xG, form, and goals data",
+      "Brighton's strong home form (unbeaten in 9) vs Brentford's poor away form (1W 4L) creates significant home advantage"
+    ]
+  },
+  "yudor_analysis": {
+    "match_id": "PREM_20251122_BHA_BRE",
+    "raw_casa": 33,
+    "raw_vis": 15,
+    "delta": 18,
+    "yudor_ah_fair": -1.25,
+    "pr_casa": 0.538,
+    "pr_vis": 0.195,
+    "pr_empate": 0.267,
+    "cs_final": 72,
+    "tier": 1,
+    "r_home": 0.28,
+    "r_away": 0.35,
+    "r_fav": 0.28,
+    "r_dog": 0.35,
+    "rbr": -0.11,
+    "r_score": 0.28,
+    "edge_synthetic": 40,
+    "decision": "CORE",
+    "reasoning": "Strong home advantage, CS_final 72 qualifies for Tier 1, R-Score 0.28 below VETO threshold, proceed with CORE entry"
+  }
+}

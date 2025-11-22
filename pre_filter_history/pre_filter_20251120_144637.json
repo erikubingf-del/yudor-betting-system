@@ -1,0 +1,1115 @@
+{
+  "timestamp": "2025-11-20T14:46:37.102080",
+  "input_file": "/Users/erikfigueiredo/Documents/GitHub/yudor-betting-system/matches_all.txt",
+  "total_games": 48,
+  "scraped_games": 48,
+  "threshold": 70,
+  "priority_games": 0,
+  "filtered_out": 48,
+  "results": [
+    {
+      "match_id": "ValenciavsLevante_21112025",
+      "match_info": {
+        "id": "ValenciavsLevante_21112025",
+        "home": "Valencia",
+        "away": "Levante",
+        "league": "La Liga",
+        "date": "21/11/2025"
+      },
+      "quality_score": 25,
+      "assessment": "Poor",
+      "proceed": false,
+      "urls": {
+        "sofascore": "NOT_FOUND",
+        "whoscored": "NOT_FOUND",
+        "flashscore": "NOT_FOUND",
+        "sportsmole": "NOT_FOUND",
+        "tm_home": "https://www.transfermarkt.com.br/fc-valencia/startseite/verein/1049",
+        "tm_away": "https://www.transfermarkt.com.br/ud-levante/startseite/verein/3368",
+        "news_home": "https://www.marca.com/futbol/valencia.html",
+        "news_away": "https://www.marca.com/futbol/levante.html"
+      }
+    },
+    {
+      "match_id": "Mainz05vsHoffenheim_21112025",
+      "match_info": {
+        "id": "Mainz05vsHoffenheim_21112025",
+        "home": "Mainz 05",
+        "away": "Hoffenheim",
+        "league": "Bundesliga",
+        "date": "21/11/2025"
+      },
+      "quality_score": 25,
+      "assessment": "Poor",
+      "proceed": false,
+      "urls": {
+        "sofascore": "NOT_FOUND",
+        "whoscored": "NOT_FOUND",
+        "flashscore": "NOT_FOUND",
+        "sportsmole": "NOT_FOUND",
+        "tm_home": "https://www.transfermarkt.com.br/1-fsv-mainz-05/startseite/verein/39",
+        "tm_away": "https://www.transfermarkt.com.br/tsg-1899-hoffenheim/startseite/verein/533",
+        "news_home": "https://bulinews.com/mainz",
+        "news_away": "https://bulinews.com/hoffenheim"
+      }
+    },
+    {
+      "match_id": "LiverpoolvsNottinghamForest_22112025",
+      "match_info": {
+        "id": "LiverpoolvsNottinghamForest_22112025",
+        "home": "Liverpool",
+        "away": "Nottingham Forest",
+        "league": "Premier League",
+        "date": "22/11/2025"
+      },
+      "quality_score": 15,
+      "assessment": "Poor",
+      "proceed": false,
+      "urls": {
+        "sofascore": "NOT_FOUND",
+        "whoscored": "NOT_FOUND",
+        "flashscore": "NOT_FOUND",
+        "sportsmole": "NOT_FOUND",
+        "tm_home": "NOT_FOUND",
+        "tm_away": "NOT_FOUND",
+        "news_home": "https://www.skysports.com/liverpool",
+        "news_away": "NOT_FOUND"
+      }
+    },
+    {
+      "match_id": "BayernMunichvsFreiburg_22112025",
+      "match_info": {
+        "id": "BayernMunichvsFreiburg_22112025",
+        "home": "Bayern Munich",
+        "away": "Freiburg",
+        "league": "Bundesliga",
+        "date": "22/11/2025"
+      },
+      "quality_score": 15,
+      "assessment": "Poor",
+      "proceed": false,
+      "urls": {
+        "sofascore": "NOT_FOUND",
+        "whoscored": "NOT_FOUND",
+        "flashscore": "NOT_FOUND",
+        "sportsmole": "NOT_FOUND",
+        "tm_home": "NOT_FOUND",
+        "tm_away": "NOT_FOUND",
+        "news_home": "https://bulinews.com/bayern-munich",
+        "news_away": "NOT_FOUND"
+      }
+    },
+    {
+      "match_id": "FlamengovsRedBullBragantino_22112025",
+      "match_info": {
+        "id": "FlamengovsRedBullBragantino_22112025",
+        "home": "Flamengo",
+        "away": "Red Bull Bragantino",
+        "league": "Brasileirão",
+        "date": "22/11/2025"
+      },
+      "quality_score": 15,
+      "assessment": "Poor",
+      "proceed": false,
+      "urls": {
+        "sofascore": "NOT_FOUND",
+        "whoscored": "NOT_FOUND",
+        "flashscore": "NOT_FOUND",
+        "sportsmole": "NOT_FOUND",
+        "tm_home": "https://www.transfermarkt.com.br/clube-de-regatas-do-flamengo/startseite/verein/614",
+        "tm_away": "NOT_FOUND",
+        "news_home": "https://ge.globo.com/futebol/times/flamengo/",
+        "news_away": "NOT_FOUND"
+      }
+    },
+    {
+      "match_id": "PalmeirasvsFluminense_22112025",
+      "match_info": {
+        "id": "PalmeirasvsFluminense_22112025",
+        "home": "Palmeiras",
+        "away": "Fluminense",
+        "league": "Brasileirão",
+        "date": "22/11/2025"
+      },
+      "quality_score": 15,
+      "assessment": "Poor",
+      "proceed": false,
+      "urls": {
+        "sofascore": "NOT_FOUND",
+        "whoscored": "NOT_FOUND",
+        "flashscore": "NOT_FOUND",
+        "sportsmole": "NOT_FOUND",
+        "tm_home": "NOT_FOUND",
+        "tm_away": "NOT_FOUND",
+        "news_home": "https://ge.globo.com/futebol/times/palmeiras/",
+        "news_away": "NOT_FOUND"
+      }
+    },
+    {
+      "match_id": "ArsenalvsTottenhamHotspur_23112025",
+      "match_info": {
+        "id": "ArsenalvsTottenhamHotspur_23112025",
+        "home": "Arsenal",
+        "away": "Tottenham Hotspur",
+        "league": "Premier League",
+        "date": "23/11/2025"
+      },
+      "quality_score": 15,
+      "assessment": "Poor",
+      "proceed": false,
+      "urls": {
+        "sofascore": "NOT_FOUND",
+        "whoscored": "NOT_FOUND",
+        "flashscore": "NOT_FOUND",
+        "sportsmole": "NOT_FOUND",
+        "tm_home": "https://www.transfermarkt.com.br/fc-arsenal/startseite/verein/11",
+        "tm_away": "NOT_FOUND",
+        "news_home": "https://www.skysports.com/arsenal",
+        "news_away": "NOT_FOUND"
+      }
+    },
+    {
+      "match_id": "ElchevsRealMadrid_23112025",
+      "match_info": {
+        "id": "ElchevsRealMadrid_23112025",
+        "home": "Elche",
+        "away": "Real Madrid",
+        "league": "La Liga",
+        "date": "23/11/2025"
+      },
+      "quality_score": 15,
+      "assessment": "Poor",
+      "proceed": false,
+      "urls": {
+        "sofascore": "NOT_FOUND",
+        "whoscored": "NOT_FOUND",
+        "flashscore": "NOT_FOUND",
+        "sportsmole": "NOT_FOUND",
+        "tm_home": "NOT_FOUND",
+        "tm_away": "https://www.transfermarkt.com.br/real-madrid/startseite/verein/418",
+        "news_home": "NOT_FOUND",
+        "news_away": "https://www.marca.com/futbol/real-madrid.html"
+      }
+    },
+    {
+      "match_id": "SportRecifevsVitória_23112025",
+      "match_info": {
+        "id": "SportRecifevsVitória_23112025",
+        "home": "Sport Recife",
+        "away": "Vitória",
+        "league": "Brasileirão",
+        "date": "23/11/2025"
+      },
+      "quality_score": 15,
+      "assessment": "Poor",
+      "proceed": false,
+      "urls": {
+        "sofascore": "NOT_FOUND",
+        "whoscored": "NOT_FOUND",
+        "flashscore": "NOT_FOUND",
+        "sportsmole": "NOT_FOUND",
+        "tm_home": "NOT_FOUND",
+        "tm_away": "NOT_FOUND",
+        "news_home": "https://ge.globo.com/pe/futebol/times/sport/",
+        "news_away": "NOT_FOUND"
+      }
+    },
+    {
+      "match_id": "BarcelonavsAthleticClub_22112025",
+      "match_info": {
+        "id": "BarcelonavsAthleticClub_22112025",
+        "home": "Barcelona",
+        "away": "Athletic Club",
+        "league": "La Liga",
+        "date": "22/11/2025"
+      },
+      "quality_score": 5,
+      "assessment": "Critical Failure",
+      "proceed": false,
+      "urls": {
+        "sofascore": "NOT_FOUND",
+        "whoscored": "NOT_FOUND",
+        "flashscore": "NOT_FOUND",
+        "sportsmole": "NOT_FOUND",
+        "tm_home": "NOT_FOUND",
+        "tm_away": "NOT_FOUND",
+        "news_home": "https://www.marca.com/futbol/barcelona.html",
+        "news_away": "NOT_FOUND"
+      }
+    },
+    {
+      "match_id": "BurnleyvsChelsea_22112025",
+      "match_info": {
+        "id": "BurnleyvsChelsea_22112025",
+        "home": "Burnley",
+        "away": "Chelsea",
+        "league": "Premier League",
+        "date": "22/11/2025"
+      },
+      "quality_score": 0,
+      "assessment": "Critical Failure",
+      "proceed": false,
+      "urls": {
+        "sofascore": "NOT_FOUND",
+        "whoscored": "NOT_FOUND",
+        "flashscore": "NOT_FOUND",
+        "sportsmole": "NOT_FOUND",
+        "tm_home": "NOT_FOUND",
+        "tm_away": "NOT_FOUND",
+        "news_home": "NOT_FOUND",
+        "news_away": "NOT_FOUND"
+      }
+    },
+    {
+      "match_id": "BournemouthvsWestHamUnited_22112025",
+      "match_info": {
+        "id": "BournemouthvsWestHamUnited_22112025",
+        "home": "Bournemouth",
+        "away": "West Ham United",
+        "league": "Premier League",
+        "date": "22/11/2025"
+      },
+      "quality_score": 0,
+      "assessment": "Critical Failure",
+      "proceed": false,
+      "urls": {
+        "sofascore": "NOT_FOUND",
+        "whoscored": "NOT_FOUND",
+        "flashscore": "NOT_FOUND",
+        "sportsmole": "NOT_FOUND",
+        "tm_home": "NOT_FOUND",
+        "tm_away": "NOT_FOUND",
+        "news_home": "NOT_FOUND",
+        "news_away": "NOT_FOUND"
+      }
+    },
+    {
+      "match_id": "Brighton&HoveAlbionvsBrentford_22112025",
+      "match_info": {
+        "id": "Brighton&HoveAlbionvsBrentford_22112025",
+        "home": "Brighton & Hove Albion",
+        "away": "Brentford",
+        "league": "Premier League",
+        "date": "22/11/2025"
+      },
+      "quality_score": 0,
+      "assessment": "Critical Failure",
+      "proceed": false,
+      "urls": {
+        "sofascore": "NOT_FOUND",
+        "whoscored": "NOT_FOUND",
+        "flashscore": "NOT_FOUND",
+        "sportsmole": "NOT_FOUND",
+        "tm_home": "NOT_FOUND",
+        "tm_away": "NOT_FOUND",
+        "news_home": "NOT_FOUND",
+        "news_away": "NOT_FOUND"
+      }
+    },
+    {
+      "match_id": "FulhamvsSunderland_22112025",
+      "match_info": {
+        "id": "FulhamvsSunderland_22112025",
+        "home": "Fulham",
+        "away": "Sunderland",
+        "league": "Premier League",
+        "date": "22/11/2025"
+      },
+      "quality_score": 0,
+      "assessment": "Poor",
+      "proceed": false,
+      "urls": {
+        "sofascore": "NOT_FOUND",
+        "whoscored": "NOT_FOUND",
+        "flashscore": "NOT_FOUND",
+        "sportsmole": "NOT_FOUND",
+        "tm_home": "NOT_FOUND",
+        "tm_away": "NOT_FOUND",
+        "news_home": "NOT_FOUND",
+        "news_away": "NOT_FOUND"
+      }
+    },
+    {
+      "match_id": "WolverhamptonvsCrystalPalace_22112025",
+      "match_info": {
+        "id": "WolverhamptonvsCrystalPalace_22112025",
+        "home": "Wolverhampton",
+        "away": "Crystal Palace",
+        "league": "Premier League",
+        "date": "22/11/2025"
+      },
+      "quality_score": 0,
+      "assessment": "Critical Failure",
+      "proceed": false,
+      "urls": {
+        "sofascore": "NOT_FOUND",
+        "whoscored": "NOT_FOUND",
+        "flashscore": "NOT_FOUND",
+        "sportsmole": "NOT_FOUND",
+        "tm_home": "NOT_FOUND",
+        "tm_away": "NOT_FOUND",
+        "news_home": "NOT_FOUND",
+        "news_away": "NOT_FOUND"
+      }
+    },
+    {
+      "match_id": "NewcastleUnitedvsManchesterCity_22112025",
+      "match_info": {
+        "id": "NewcastleUnitedvsManchesterCity_22112025",
+        "home": "Newcastle United",
+        "away": "Manchester City",
+        "league": "Premier League",
+        "date": "22/11/2025"
+      },
+      "quality_score": 0,
+      "assessment": "Critical Failure",
+      "proceed": false,
+      "urls": {
+        "sofascore": "NOT_FOUND",
+        "whoscored": "NOT_FOUND",
+        "flashscore": "NOT_FOUND",
+        "sportsmole": "NOT_FOUND",
+        "tm_home": "NOT_FOUND",
+        "tm_away": "NOT_FOUND",
+        "news_home": "NOT_FOUND",
+        "news_away": "NOT_FOUND"
+      }
+    },
+    {
+      "match_id": "AlavésvsCeltaVigo_22112025",
+      "match_info": {
+        "id": "AlavésvsCeltaVigo_22112025",
+        "home": "Alavés",
+        "away": "Celta Vigo",
+        "league": "La Liga",
+        "date": "22/11/2025"
+      },
+      "quality_score": 0,
+      "assessment": "Critical Failure",
+      "proceed": false,
+      "urls": {
+        "sofascore": "NOT_FOUND",
+        "whoscored": "NOT_FOUND",
+        "flashscore": "NOT_FOUND",
+        "sportsmole": "NOT_FOUND",
+        "tm_home": "NOT_FOUND",
+        "tm_away": "NOT_FOUND",
+        "news_home": "NOT_FOUND",
+        "news_away": "NOT_FOUND"
+      }
+    },
+    {
+      "match_id": "OsasunavsRealSociedad_22112025",
+      "match_info": {
+        "id": "OsasunavsRealSociedad_22112025",
+        "home": "Osasuna",
+        "away": "Real Sociedad",
+        "league": "La Liga",
+        "date": "22/11/2025"
+      },
+      "quality_score": 0,
+      "assessment": "Poor",
+      "proceed": false,
+      "urls": {
+        "sofascore": "NOT_FOUND",
+        "whoscored": "NOT_FOUND",
+        "flashscore": "NOT_FOUND",
+        "sportsmole": "NOT_FOUND",
+        "tm_home": "NOT_FOUND",
+        "tm_away": "NOT_FOUND",
+        "news_home": "NOT_FOUND",
+        "news_away": "NOT_FOUND"
+      }
+    },
+    {
+      "match_id": "VillarrealvsMallorca_22112025",
+      "match_info": {
+        "id": "VillarrealvsMallorca_22112025",
+        "home": "Villarreal",
+        "away": "Mallorca",
+        "league": "La Liga",
+        "date": "22/11/2025"
+      },
+      "quality_score": 0,
+      "assessment": "Poor",
+      "proceed": false,
+      "urls": {
+        "sofascore": "NOT_FOUND",
+        "whoscored": "NOT_FOUND",
+        "flashscore": "NOT_FOUND",
+        "sportsmole": "NOT_FOUND",
+        "tm_home": "NOT_FOUND",
+        "tm_away": "NOT_FOUND",
+        "news_home": "NOT_FOUND",
+        "news_away": "NOT_FOUND"
+      }
+    },
+    {
+      "match_id": "AugsburgvsHamburgerSV_22112025",
+      "match_info": {
+        "id": "AugsburgvsHamburgerSV_22112025",
+        "home": "Augsburg",
+        "away": "Hamburger SV",
+        "league": "Bundesliga",
+        "date": "22/11/2025"
+      },
+      "quality_score": 0,
+      "assessment": "Critical Failure",
+      "proceed": false,
+      "urls": {
+        "sofascore": "NOT_FOUND",
+        "whoscored": "NOT_FOUND",
+        "flashscore": "NOT_FOUND",
+        "sportsmole": "NOT_FOUND",
+        "tm_home": "NOT_FOUND",
+        "tm_away": "NOT_FOUND",
+        "news_home": "NOT_FOUND",
+        "news_away": "NOT_FOUND"
+      }
+    },
+    {
+      "match_id": "BorussiaDortmundvsStuttgart_22112025",
+      "match_info": {
+        "id": "BorussiaDortmundvsStuttgart_22112025",
+        "home": "Borussia Dortmund",
+        "away": "Stuttgart",
+        "league": "Bundesliga",
+        "date": "22/11/2025"
+      },
+      "quality_score": 0,
+      "assessment": "Critical Failure",
+      "proceed": false,
+      "urls": {
+        "sofascore": "NOT_FOUND",
+        "whoscored": "NOT_FOUND",
+        "flashscore": "NOT_FOUND",
+        "sportsmole": "NOT_FOUND",
+        "tm_home": "NOT_FOUND",
+        "tm_away": "NOT_FOUND",
+        "news_home": "NOT_FOUND",
+        "news_away": "NOT_FOUND"
+      }
+    },
+    {
+      "match_id": "HeidenheimvsBorussiaMönchengladbach_22112025",
+      "match_info": {
+        "id": "HeidenheimvsBorussiaMönchengladbach_22112025",
+        "home": "Heidenheim",
+        "away": "Borussia Mönchengladbach",
+        "league": "Bundesliga",
+        "date": "22/11/2025"
+      },
+      "quality_score": 0,
+      "assessment": "Poor",
+      "proceed": false,
+      "urls": {
+        "sofascore": "NOT_FOUND",
+        "whoscored": "NOT_FOUND",
+        "flashscore": "NOT_FOUND",
+        "sportsmole": "NOT_FOUND",
+        "tm_home": "NOT_FOUND",
+        "tm_away": "NOT_FOUND",
+        "news_home": "NOT_FOUND",
+        "news_away": "NOT_FOUND"
+      }
+    },
+    {
+      "match_id": "WolfsburgvsBayerLeverkusen_22112025",
+      "match_info": {
+        "id": "WolfsburgvsBayerLeverkusen_22112025",
+        "home": "Wolfsburg",
+        "away": "Bayer Leverkusen",
+        "league": "Bundesliga",
+        "date": "22/11/2025"
+      },
+      "quality_score": 0,
+      "assessment": "Poor",
+      "proceed": false,
+      "urls": {
+        "sofascore": "NOT_FOUND",
+        "whoscored": "NOT_FOUND",
+        "flashscore": "NOT_FOUND",
+        "sportsmole": "NOT_FOUND",
+        "tm_home": "NOT_FOUND",
+        "tm_away": "NOT_FOUND",
+        "news_home": "NOT_FOUND",
+        "news_away": "NOT_FOUND"
+      }
+    },
+    {
+      "match_id": "FCKölnvsEintrachtFrankfurt_22112025",
+      "match_info": {
+        "id": "FCKölnvsEintrachtFrankfurt_22112025",
+        "home": "FC Köln",
+        "away": "Eintracht Frankfurt",
+        "league": "Bundesliga",
+        "date": "22/11/2025"
+      },
+      "quality_score": 0,
+      "assessment": "Critical Failure",
+      "proceed": false,
+      "urls": {
+        "sofascore": "NOT_FOUND",
+        "whoscored": "NOT_FOUND",
+        "flashscore": "NOT_FOUND",
+        "sportsmole": "NOT_FOUND",
+        "tm_home": "NOT_FOUND",
+        "tm_away": "NOT_FOUND",
+        "news_home": "NOT_FOUND",
+        "news_away": "NOT_FOUND"
+      }
+    },
+    {
+      "match_id": "CagliarivsGenoa_22112025",
+      "match_info": {
+        "id": "CagliarivsGenoa_22112025",
+        "home": "Cagliari",
+        "away": "Genoa",
+        "league": "Serie A",
+        "date": "22/11/2025"
+      },
+      "quality_score": 0,
+      "assessment": "Critical Failure",
+      "proceed": false,
+      "urls": {
+        "sofascore": "NOT_FOUND",
+        "whoscored": "NOT_FOUND",
+        "flashscore": "NOT_FOUND",
+        "sportsmole": "NOT_FOUND",
+        "tm_home": "NOT_FOUND",
+        "tm_away": "NOT_FOUND",
+        "news_home": "NOT_FOUND",
+        "news_away": "NOT_FOUND"
+      }
+    },
+    {
+      "match_id": "UdinesevsBologna_22112025",
+      "match_info": {
+        "id": "UdinesevsBologna_22112025",
+        "home": "Udinese",
+        "away": "Bologna",
+        "league": "Serie A",
+        "date": "22/11/2025"
+      },
+      "quality_score": 0,
+      "assessment": "Poor",
+      "proceed": false,
+      "urls": {
+        "sofascore": "NOT_FOUND",
+        "whoscored": "NOT_FOUND",
+        "flashscore": "NOT_FOUND",
+        "sportsmole": "NOT_FOUND",
+        "tm_home": "NOT_FOUND",
+        "tm_away": "NOT_FOUND",
+        "news_home": "NOT_FOUND",
+        "news_away": "NOT_FOUND"
+      }
+    },
+    {
+      "match_id": "FiorentinavsJuventus_22112025",
+      "match_info": {
+        "id": "FiorentinavsJuventus_22112025",
+        "home": "Fiorentina",
+        "away": "Juventus",
+        "league": "Serie A",
+        "date": "22/11/2025"
+      },
+      "quality_score": 0,
+      "assessment": "Critical Failure",
+      "proceed": false,
+      "urls": {
+        "sofascore": "NOT_FOUND",
+        "whoscored": "NOT_FOUND",
+        "flashscore": "NOT_FOUND",
+        "sportsmole": "NOT_FOUND",
+        "tm_home": "NOT_FOUND",
+        "tm_away": "NOT_FOUND",
+        "news_home": "NOT_FOUND",
+        "news_away": "NOT_FOUND"
+      }
+    },
+    {
+      "match_id": "NapolivsAtalanta_22112025",
+      "match_info": {
+        "id": "NapolivsAtalanta_22112025",
+        "home": "Napoli",
+        "away": "Atalanta",
+        "league": "Serie A",
+        "date": "22/11/2025"
+      },
+      "quality_score": 0,
+      "assessment": "Poor",
+      "proceed": false,
+      "urls": {
+        "sofascore": "NOT_FOUND",
+        "whoscored": "NOT_FOUND",
+        "flashscore": "NOT_FOUND",
+        "sportsmole": "NOT_FOUND",
+        "tm_home": "NOT_FOUND",
+        "tm_away": "NOT_FOUND",
+        "news_home": "NOT_FOUND",
+        "news_away": "NOT_FOUND"
+      }
+    },
+    {
+      "match_id": "BotafogovsGrêmio_22112025",
+      "match_info": {
+        "id": "BotafogovsGrêmio_22112025",
+        "home": "Botafogo",
+        "away": "Grêmio",
+        "league": "Brasileirão",
+        "date": "22/11/2025"
+      },
+      "quality_score": 0,
+      "assessment": "Poor",
+      "proceed": false,
+      "urls": {
+        "sofascore": "NOT_FOUND",
+        "whoscored": "NOT_FOUND",
+        "flashscore": "NOT_FOUND",
+        "sportsmole": "NOT_FOUND",
+        "tm_home": "NOT_FOUND",
+        "tm_away": "NOT_FOUND",
+        "news_home": "NOT_FOUND",
+        "news_away": "NOT_FOUND"
+      }
+    },
+    {
+      "match_id": "LeedsUnitedvsAstonVilla_23112025",
+      "match_info": {
+        "id": "LeedsUnitedvsAstonVilla_23112025",
+        "home": "Leeds United",
+        "away": "Aston Villa",
+        "league": "Premier League",
+        "date": "23/11/2025"
+      },
+      "quality_score": 0,
+      "assessment": "Poor",
+      "proceed": false,
+      "urls": {
+        "sofascore": "NOT_FOUND",
+        "whoscored": "NOT_FOUND",
+        "flashscore": "NOT_FOUND",
+        "sportsmole": "NOT_FOUND",
+        "tm_home": "NOT_FOUND",
+        "tm_away": "NOT_FOUND",
+        "news_home": "NOT_FOUND",
+        "news_away": "NOT_FOUND"
+      }
+    },
+    {
+      "match_id": "RealOviedovsRayoVallecano_23112025",
+      "match_info": {
+        "id": "RealOviedovsRayoVallecano_23112025",
+        "home": "Real Oviedo",
+        "away": "Rayo Vallecano",
+        "league": "La Liga",
+        "date": "23/11/2025"
+      },
+      "quality_score": 0,
+      "assessment": "Critical Failure",
+      "proceed": false,
+      "urls": {
+        "sofascore": "NOT_FOUND",
+        "whoscored": "NOT_FOUND",
+        "flashscore": "NOT_FOUND",
+        "sportsmole": "NOT_FOUND",
+        "tm_home": "NOT_FOUND",
+        "tm_away": "NOT_FOUND",
+        "news_home": "NOT_FOUND",
+        "news_away": "NOT_FOUND"
+      }
+    },
+    {
+      "match_id": "RealBetisvsGirona_23112025",
+      "match_info": {
+        "id": "RealBetisvsGirona_23112025",
+        "home": "Real Betis",
+        "away": "Girona",
+        "league": "La Liga",
+        "date": "23/11/2025"
+      },
+      "quality_score": 0,
+      "assessment": "Critical Failure",
+      "proceed": false,
+      "urls": {
+        "sofascore": "NOT_FOUND",
+        "whoscored": "NOT_FOUND",
+        "flashscore": "NOT_FOUND",
+        "sportsmole": "NOT_FOUND",
+        "tm_home": "NOT_FOUND",
+        "tm_away": "NOT_FOUND",
+        "news_home": "NOT_FOUND",
+        "news_away": "NOT_FOUND"
+      }
+    },
+    {
+      "match_id": "GetafevsAtléticoMadrid_23112025",
+      "match_info": {
+        "id": "GetafevsAtléticoMadrid_23112025",
+        "home": "Getafe",
+        "away": "Atlético Madrid",
+        "league": "La Liga",
+        "date": "23/11/2025"
+      },
+      "quality_score": 0,
+      "assessment": "Poor",
+      "proceed": false,
+      "urls": {
+        "sofascore": "NOT_FOUND",
+        "whoscored": "NOT_FOUND",
+        "flashscore": "NOT_FOUND",
+        "sportsmole": "NOT_FOUND",
+        "tm_home": "NOT_FOUND",
+        "tm_away": "NOT_FOUND",
+        "news_home": "NOT_FOUND",
+        "news_away": "NOT_FOUND"
+      }
+    },
+    {
+      "match_id": "RBLeipzigvsWerderBremen_23112025",
+      "match_info": {
+        "id": "RBLeipzigvsWerderBremen_23112025",
+        "home": "RB Leipzig",
+        "away": "Werder Bremen",
+        "league": "Bundesliga",
+        "date": "23/11/2025"
+      },
+      "quality_score": 0,
+      "assessment": "Critical Failure",
+      "proceed": false,
+      "urls": {
+        "sofascore": "NOT_FOUND",
+        "whoscored": "NOT_FOUND",
+        "flashscore": "NOT_FOUND",
+        "sportsmole": "NOT_FOUND",
+        "tm_home": "NOT_FOUND",
+        "tm_away": "NOT_FOUND",
+        "news_home": "NOT_FOUND",
+        "news_away": "NOT_FOUND"
+      }
+    },
+    {
+      "match_id": "St.PaulivsUnionBerlin_23112025",
+      "match_info": {
+        "id": "St.PaulivsUnionBerlin_23112025",
+        "home": "St. Pauli",
+        "away": "Union Berlin",
+        "league": "Bundesliga",
+        "date": "23/11/2025"
+      },
+      "quality_score": 0,
+      "assessment": "Poor",
+      "proceed": false,
+      "urls": {
+        "sofascore": "NOT_FOUND",
+        "whoscored": "NOT_FOUND",
+        "flashscore": "NOT_FOUND",
+        "sportsmole": "NOT_FOUND",
+        "tm_home": "NOT_FOUND",
+        "tm_away": "NOT_FOUND",
+        "news_home": "NOT_FOUND",
+        "news_away": "NOT_FOUND"
+      }
+    },
+    {
+      "match_id": "VeronavsParma_23112025",
+      "match_info": {
+        "id": "VeronavsParma_23112025",
+        "home": "Verona",
+        "away": "Parma",
+        "league": "Serie A",
+        "date": "23/11/2025"
+      },
+      "quality_score": 0,
+      "assessment": "Critical Failure",
+      "proceed": false,
+      "urls": {
+        "sofascore": "NOT_FOUND",
+        "whoscored": "NOT_FOUND",
+        "flashscore": "NOT_FOUND",
+        "sportsmole": "NOT_FOUND",
+        "tm_home": "NOT_FOUND",
+        "tm_away": "NOT_FOUND",
+        "news_home": "NOT_FOUND",
+        "news_away": "NOT_FOUND"
+      }
+    },
+    {
+      "match_id": "CremonesevsRoma_23112025",
+      "match_info": {
+        "id": "CremonesevsRoma_23112025",
+        "home": "Cremonese",
+        "away": "Roma",
+        "league": "Serie A",
+        "date": "23/11/2025"
+      },
+      "quality_score": 0,
+      "assessment": "Poor",
+      "proceed": false,
+      "urls": {
+        "sofascore": "NOT_FOUND",
+        "whoscored": "NOT_FOUND",
+        "flashscore": "NOT_FOUND",
+        "sportsmole": "NOT_FOUND",
+        "tm_home": "NOT_FOUND",
+        "tm_away": "NOT_FOUND",
+        "news_home": "NOT_FOUND",
+        "news_away": "NOT_FOUND"
+      }
+    },
+    {
+      "match_id": "LaziovsLecce_23112025",
+      "match_info": {
+        "id": "LaziovsLecce_23112025",
+        "home": "Lazio",
+        "away": "Lecce",
+        "league": "Serie A",
+        "date": "23/11/2025"
+      },
+      "quality_score": 0,
+      "assessment": "Critical Failure",
+      "proceed": false,
+      "urls": {
+        "sofascore": "NOT_FOUND",
+        "whoscored": "NOT_FOUND",
+        "flashscore": "NOT_FOUND",
+        "sportsmole": "NOT_FOUND",
+        "tm_home": "NOT_FOUND",
+        "tm_away": "NOT_FOUND",
+        "news_home": "NOT_FOUND",
+        "news_away": "NOT_FOUND"
+      }
+    },
+    {
+      "match_id": "InterMilanvsACMilan_23112025",
+      "match_info": {
+        "id": "InterMilanvsACMilan_23112025",
+        "home": "Inter Milan",
+        "away": "AC Milan",
+        "league": "Serie A",
+        "date": "23/11/2025"
+      },
+      "quality_score": 0,
+      "assessment": "Critical Failure",
+      "proceed": false,
+      "urls": {
+        "sofascore": "NOT_FOUND",
+        "whoscored": "NOT_FOUND",
+        "flashscore": "NOT_FOUND",
+        "sportsmole": "NOT_FOUND",
+        "tm_home": "NOT_FOUND",
+        "tm_away": "NOT_FOUND",
+        "news_home": "NOT_FOUND",
+        "news_away": "NOT_FOUND"
+      }
+    },
+    {
+      "match_id": "SãoPaulovsJuventude_23112025",
+      "match_info": {
+        "id": "SãoPaulovsJuventude_23112025",
+        "home": "São Paulo",
+        "away": "Juventude",
+        "league": "Brasileirão",
+        "date": "23/11/2025"
+      },
+      "quality_score": 0,
+      "assessment": "Poor",
+      "proceed": false,
+      "urls": {
+        "sofascore": "NOT_FOUND",
+        "whoscored": "NOT_FOUND",
+        "flashscore": "NOT_FOUND",
+        "sportsmole": "NOT_FOUND",
+        "tm_home": "NOT_FOUND",
+        "tm_away": "NOT_FOUND",
+        "news_home": "NOT_FOUND",
+        "news_away": "NOT_FOUND"
+      }
+    },
+    {
+      "match_id": "BahiavsVascodaGama_23112025",
+      "match_info": {
+        "id": "BahiavsVascodaGama_23112025",
+        "home": "Bahia",
+        "away": "Vasco da Gama",
+        "league": "Brasileirão",
+        "date": "23/11/2025"
+      },
+      "quality_score": 0,
+      "assessment": "Poor",
+      "proceed": false,
+      "urls": {
+        "sofascore": "NOT_FOUND",
+        "whoscored": "NOT_FOUND",
+        "flashscore": "NOT_FOUND",
+        "sportsmole": "NOT_FOUND",
+        "tm_home": "NOT_FOUND",
+        "tm_away": "NOT_FOUND",
+        "news_home": "NOT_FOUND",
+        "news_away": "NOT_FOUND"
+      }
+    },
+    {
+      "match_id": "CruzeirovsCorinthians_23112025",
+      "match_info": {
+        "id": "CruzeirovsCorinthians_23112025",
+        "home": "Cruzeiro",
+        "away": "Corinthians",
+        "league": "Brasileirão",
+        "date": "23/11/2025"
+      },
+      "quality_score": 0,
+      "assessment": "Poor",
+      "proceed": false,
+      "urls": {
+        "sofascore": "NOT_FOUND",
+        "whoscored": "NOT_FOUND",
+        "flashscore": "NOT_FOUND",
+        "sportsmole": "NOT_FOUND",
+        "tm_home": "NOT_FOUND",
+        "tm_away": "NOT_FOUND",
+        "news_home": "NOT_FOUND",
+        "news_away": "NOT_FOUND"
+      }
+    },
+    {
+      "match_id": "ManchesterUnitedvsEverton_24112025",
+      "match_info": {
+        "id": "ManchesterUnitedvsEverton_24112025",
+        "home": "Manchester United",
+        "away": "Everton",
+        "league": "Premier League",
+        "date": "24/11/2025"
+      },
+      "quality_score": 0,
+      "assessment": "Critical Failure",
+      "proceed": false,
+      "urls": {
+        "sofascore": "NOT_FOUND",
+        "whoscored": "NOT_FOUND",
+        "flashscore": "NOT_FOUND",
+        "sportsmole": "NOT_FOUND",
+        "tm_home": "NOT_FOUND",
+        "tm_away": "NOT_FOUND",
+        "news_home": "NOT_FOUND",
+        "news_away": "NOT_FOUND"
+      }
+    },
+    {
+      "match_id": "EspanyolvsSevilla_24112025",
+      "match_info": {
+        "id": "EspanyolvsSevilla_24112025",
+        "home": "Espanyol",
+        "away": "Sevilla",
+        "league": "La Liga",
+        "date": "24/11/2025"
+      },
+      "quality_score": 0,
+      "assessment": "Poor",
+      "proceed": false,
+      "urls": {
+        "sofascore": "NOT_FOUND",
+        "whoscored": "NOT_FOUND",
+        "flashscore": "NOT_FOUND",
+        "sportsmole": "NOT_FOUND",
+        "tm_home": "NOT_FOUND",
+        "tm_away": "NOT_FOUND",
+        "news_home": "NOT_FOUND",
+        "news_away": "NOT_FOUND"
+      }
+    },
+    {
+      "match_id": "TorinovsComo_24112025",
+      "match_info": {
+        "id": "TorinovsComo_24112025",
+        "home": "Torino",
+        "away": "Como",
+        "league": "Serie A",
+        "date": "24/11/2025"
+      },
+      "quality_score": 0,
+      "assessment": "Poor",
+      "proceed": false,
+      "urls": {
+        "sofascore": "NOT_FOUND",
+        "whoscored": "NOT_FOUND",
+        "flashscore": "NOT_FOUND",
+        "sportsmole": "NOT_FOUND",
+        "tm_home": "NOT_FOUND",
+        "tm_away": "NOT_FOUND",
+        "news_home": "NOT_FOUND",
+        "news_away": "NOT_FOUND"
+      }
+    },
+    {
+      "match_id": "SassuolovsPisa_24112025",
+      "match_info": {
+        "id": "SassuolovsPisa_24112025",
+        "home": "Sassuolo",
+        "away": "Pisa",
+        "league": "Serie A",
+        "date": "24/11/2025"
+      },
+      "quality_score": 0,
+      "assessment": "Poor",
+      "proceed": false,
+      "urls": {
+        "sofascore": "NOT_FOUND",
+        "whoscored": "NOT_FOUND",
+        "flashscore": "NOT_FOUND",
+        "sportsmole": "NOT_FOUND",
+        "tm_home": "NOT_FOUND",
+        "tm_away": "NOT_FOUND",
+        "news_home": "NOT_FOUND",
+        "news_away": "NOT_FOUND"
+      }
+    },
+    {
+      "match_id": "MirassolvsCeará_24112025",
+      "match_info": {
+        "id": "MirassolvsCeará_24112025",
+        "home": "Mirassol",
+        "away": "Ceará",
+        "league": "Brasileirão",
+        "date": "24/11/2025"
+      },
+      "quality_score": 0,
+      "assessment": "Critical Failure",
+      "proceed": false,
+      "urls": {
+        "sofascore": "NOT_FOUND",
+        "whoscored": "NOT_FOUND",
+        "flashscore": "NOT_FOUND",
+        "sportsmole": "NOT_FOUND",
+        "tm_home": "NOT_FOUND",
+        "tm_away": "NOT_FOUND",
+        "news_home": "NOT_FOUND",
+        "news_away": "NOT_FOUND"
+      }
+    },
+    {
+      "match_id": "InternacionalvsSantos_24112025",
+      "match_info": {
+        "id": "InternacionalvsSantos_24112025",
+        "home": "Internacional",
+        "away": "Santos",
+        "league": "Brasileirão",
+        "date": "24/11/2025"
+      },
+      "quality_score": 0,
+      "assessment": "Critical Failure",
+      "proceed": false,
+      "urls": {
+        "sofascore": "NOT_FOUND",
+        "whoscored": "NOT_FOUND",
+        "flashscore": "NOT_FOUND",
+        "sportsmole": "NOT_FOUND",
+        "tm_home": "NOT_FOUND",
+        "tm_away": "NOT_FOUND",
+        "news_home": "NOT_FOUND",
+        "news_away": "NOT_FOUND"
+      }
+    }
+  ]
+}

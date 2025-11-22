@@ -1,0 +1,363 @@
+{
+  "match_id": "OsasunavsRealSociedad_22112025",
+  "match_info": {
+    "id": "OsasunavsRealSociedad_22112025",
+    "home": "Osasuna",
+    "away": "Real Sociedad",
+    "league": "La Liga",
+    "date": "22/11/2025"
+  },
+  "timestamp": "2025-11-21T17:38:45.846621",
+  "consolidated_data": {
+    "game_id": "LIGA_20251122_OSA_RSO",
+    "match_info": {
+      "home": "Osasuna",
+      "away": "Real Sociedad",
+      "league": "La Liga",
+      "date": "22/11/2025"
+    },
+    "p_empate": 32.3,
+    "betfair_ah_market": null,
+    "q_scores": {
+      "Q1": {
+        "home_score": 3,
+        "away_score": 6,
+        "home_reasoning": "Osasuna: Aimar Oroz (€15M), Enzo Boyomo (€20M), Jon Moncayola (€7M), Rubén García (€2M) → Total 4.5 → +3",
+        "away_reasoning": "Real Sociedad: Kubo (€30M, 2.0), Oyarzabal (€20M, 1.5), Brais Méndez (€18M, 1.0), Zubeldia (€9M, 1.0) → Total 5.5 → +6",
+        "sources": [
+          "Transfermarkt (values)"
+        ]
+      },
+      "Q2": {
+        "home_score": 0,
+        "away_score": 2,
+        "home_reasoning": "Osasuna: 0.75 G/J + 1.16 xG → Below average offense → 0",
+        "away_reasoning": "Real Sociedad: 1.17 G/J + 1.49 xG → Average offense → +2",
+        "sources": [
+          "FootyStats (G/J and xG data)"
+        ]
+      },
+      "Q3": {
+        "home_score": 1,
+        "away_score": 3,
+        "home_reasoning": "Osasuna: Limited bench quality with few players >€3M → +1",
+        "away_reasoning": "Real Sociedad: Strong bench with Sadiq (€5M), Guedes (€8M), Carlos Soler (€12M) → +3",
+        "sources": [
+          "Transfermarkt (squad depth)"
+        ]
+      },
+      "Q4": {
+        "home_score": 3,
+        "away_score": 1,
+        "home_reasoning": "Osasuna: 1.08 GA/J + 1.5 xGA → Reasonable defense → +3",
+        "away_reasoning": "Real Sociedad: 1.42 GA/J + 1.33 xGA → Poor defense → +1",
+        "sources": [
+          "FootyStats (GA/J and xGA data)"
+        ]
+      },
+      "Q5": {
+        "home_score": 2,
+        "away_score": 4,
+        "home_reasoning": "Alessio Lisci: Limited international experience → +2",
+        "away_reasoning": "Sergio: More experienced manager with Real Sociedad → +4",
+        "sources": [
+          "SportsMole (manager info)"
+        ]
+      },
+      "Q6": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No confirmed formations available → Symmetry default",
+        "away_reasoning": "No confirmed formations available → Symmetry default",
+        "sources": [
+          "SportsMole (formations not specified)"
+        ]
+      },
+      "Q7": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "No pressing stats available → Default +2",
+        "away_reasoning": "No pressing stats available → Default +2",
+        "sources": [
+          "Default (no pressing data)"
+        ]
+      },
+      "Q8": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "No set-piece data available → Default +2",
+        "away_reasoning": "No set-piece data available → Default +2",
+        "sources": [
+          "Default (no set-piece data)"
+        ]
+      },
+      "Q9": {
+        "home_score": 12,
+        "away_score": 6,
+        "home_reasoning": "Osasuna 16th position (relegation zone) - must-win situation → +12",
+        "away_reasoning": "Real Sociedad 13th position - mid-table but ahead in table → +6",
+        "sources": [
+          "FootyStats (league positions)",
+          "SportsMole (context)"
+        ]
+      },
+      "Q10": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No derby, manager debut, or revenge context found",
+        "away_reasoning": "No derby, manager debut, or revenge context found",
+        "sources": [
+          "MARCA headlines",
+          "SportsMole preview"
+        ]
+      },
+      "Q11": {
+        "home_score": 1,
+        "away_score": 0,
+        "home_reasoning": "Osasuna: 3W-2D-7L overall, recent form poor but some wins → +1",
+        "away_reasoning": "Real Sociedad: 3W-4D-5L overall, no away wins (0W-3D-3L away) → 0",
+        "sources": [
+          "FootyStats (form data)"
+        ]
+      },
+      "Q12": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "Poor form against various opponents → 0",
+        "away_reasoning": "Poor away form regardless of opponent quality → 0",
+        "sources": [
+          "FootyStats (estimated from overall form)"
+        ]
+      },
+      "Q13": {
+        "home_score": 0,
+        "away_score": 2,
+        "home_reasoning": "Osasuna: 0.75 goals vs 1.16 xG → Very unlucky but underperforming → 0",
+        "away_reasoning": "Real Sociedad: 1.17 goals vs 1.49 xG → Unlucky, xG > Goals +0.32 → +2",
+        "sources": [
+          "FootyStats (xG vs Goals comparison)"
+        ]
+      },
+      "Q14": {
+        "home_score": 1,
+        "away_score": 1,
+        "home_reasoning": "Low goals scored suggests poor performance quality → +1",
+        "away_reasoning": "Better xG suggests decent performance despite results → +1",
+        "sources": [
+          "FootyStats (performance metrics)"
+        ]
+      },
+      "Q15": {
+        "home_score": -8,
+        "away_score": -8,
+        "home_reasoning": "Ante Budimir (top scorer, 4 goals) injured until December → -8",
+        "away_reasoning": "Igor Zubeldia (key defender) definitely out → -8",
+        "sources": [
+          "SportsMole team news",
+          "MARCA headlines"
+        ]
+      },
+      "Q16": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No cluster of defensive injuries reported",
+        "away_reasoning": "Only Zubeldia out, not a defensive cluster",
+        "sources": [
+          "SportsMole team news"
+        ]
+      },
+      "Q17": {
+        "home_score": 8,
+        "away_score": 0,
+        "home_reasoning": "Osasuna: 3W-1D-1L at home (2.0 PPG) vs Real Sociedad 0W away → +8",
+        "away_reasoning": "Real Sociedad: 0 away wins (0W-3D-3L away, 0.5 PPG) → 0",
+        "sources": [
+          "FootyStats (home/away form)"
+        ]
+      },
+      "Q18": {
+        "home_score": 1,
+        "away_score": 0,
+        "home_reasoning": "SportsMole mentions Real Sociedad won most recent encounter → Osasuna likely 1 win in recent H2H → +1",
+        "away_reasoning": "Real Sociedad won most recent encounter → 0 for Osasuna at home in recent H2H",
+        "sources": [
+          "SportsMole (H2H context)"
+        ]
+      },
+      "Q19": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No evidence of 0 wins in last 3 H2H at home",
+        "away_reasoning": "Not applicable for away team",
+        "sources": [
+          "SportsMole (H2H analysis)"
+        ]
+      }
+    },
+    "category_totals": {
+      "technique": {
+        "home": 7,
+        "away": 12
+      },
+      "tactics": {
+        "home": 6,
+        "away": 8
+      },
+      "motivation": {
+        "home": 12,
+        "away": 6
+      },
+      "form": {
+        "home": 1,
+        "away": 0
+      },
+      "performance": {
+        "home": 1,
+        "away": 3
+      },
+      "injuries": {
+        "home": -8,
+        "away": -8
+      },
+      "home_away": {
+        "home": 9,
+        "away": 0
+      }
+    },
+    "raw_scores": {
+      "raw_casa": 28,
+      "raw_vis": 21
+    },
+    "data_quality": {
+      "score": 78,
+      "assessment": "Good",
+      "breakdown": {
+        "q1_player_values": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q2_xg": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q3_bench": {
+          "points": 1.5,
+          "status": "estimated"
+        },
+        "q4_xga": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q5_manager": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q6_formations": {
+          "points": 1,
+          "status": "default"
+        },
+        "q7_pressing": {
+          "points": 1,
+          "status": "default"
+        },
+        "q8_set_pieces": {
+          "points": 1,
+          "status": "default"
+        },
+        "q9_league": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q10_derby": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q11_form": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q12_opponent": {
+          "points": 2,
+          "status": "estimated"
+        },
+        "q13_xg_delta": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q14_ratings": {
+          "points": 2.5,
+          "status": "partial"
+        },
+        "q15_injuries": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q16_cluster": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q17_home_away": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q18_h2h": {
+          "points": 2,
+          "status": "estimated"
+        },
+        "q19_h2h_negative": {
+          "points": 4,
+          "status": "complete"
+        },
+        "betfair_draw": {
+          "points": 0,
+          "status": "missing"
+        },
+        "betfair_ah": {
+          "points": 0,
+          "status": "missing"
+        },
+        "local_media": {
+          "points": 5,
+          "status": "available"
+        },
+        "sportsmole": {
+          "points": 5,
+          "status": "available"
+        }
+      },
+      "missing_critical": [],
+      "proceed": true,
+      "confidence_note": "Good data quality. FootyStats provides excellent xG and form data. Missing Betfair data but using blind pricing. Some tactical details estimated."
+    },
+    "notes": [
+      "P(Empate) calculated from FootyStats draw odds: 100/3.1 = 32.3%",
+      "Q6: No specific formations mentioned in SportsMole - used symmetry default",
+      "Q7/Q8: No pressing or set-piece stats available - used defaults",
+      "Q9: Clear must-win situation for Osasuna (relegation zone) vs mid-table Real Sociedad",
+      "Q15: Both teams missing key players - Budimir (Osasuna top scorer) and Zubeldia (Real Sociedad defender)",
+      "Q17: Stark contrast - Osasuna strong at home (2.0 PPG) vs Real Sociedad terrible away (0.5 PPG, 0 wins)",
+      "Real Sociedad manager quote: 'Es una oportunidad de dejar atrás eso de que no ganamos fuera de casa' - confirms poor away form",
+      "Match at El Sadar - Osasuna's fortress with 3W-1D-1L home record this season"
+    ]
+  },
+  "yudor_analysis": {
+    "match_id": "LIGA_20251122_OSA_RSO",
+    "raw_casa": 28,
+    "raw_vis": 21,
+    "delta": 7,
+    "yudor_ah_fair": -0.75,
+    "pr_casa": 0.328,
+    "pr_vis": 0.349,
+    "pr_empate": 0.323,
+    "cs_final": 68,
+    "tier": 2,
+    "r_home": 0.42,
+    "r_away": 0.38,
+    "r_fav": 0.42,
+    "r_dog": 0.38,
+    "rbr": 0.05,
+    "r_score": 0.4,
+    "decision": "VETO",
+    "reasoning": "CS_final below 70 threshold (68) triggers IGNORAR rule despite manageable risk profile"
+  }
+}

@@ -1,0 +1,371 @@
+{
+  "match_id": "UdinesevsBologna_22112025",
+  "match_info": {
+    "id": "UdinesevsBologna_22112025",
+    "home": "Udinese",
+    "away": "Bologna",
+    "league": "Serie A",
+    "date": "22/11/2025"
+  },
+  "timestamp": "2025-11-21T18:42:14.018841",
+  "consolidated_data": {
+    "game_id": "UdinesevsBologna_22112025",
+    "match_info": {
+      "home": "Udinese",
+      "away": "Bologna",
+      "league": "Serie A",
+      "date": "22/11/2025"
+    },
+    "p_empate": 30.8,
+    "betfair_ah_market": {
+      "note": "Using blind pricing - no Betfair data available"
+    },
+    "q_scores": {
+      "Q1": {
+        "home_score": 3,
+        "away_score": 6,
+        "home_reasoning": "Udinese: Zaniolo (€12M), Arthur Atta (€12M), Solet (€18M), Karlström (€4M) → Total ~5.5 points → +3",
+        "away_reasoning": "Bologna: Castro (€35M), Orsolini (€25M), Lucumí (€25M), Ferguson (€20M) → Total ~8.5 points → +6",
+        "sources": [
+          "Transfermarkt (squad values)"
+        ]
+      },
+      "Q2": {
+        "home_score": 2,
+        "away_score": 5,
+        "home_reasoning": "Udinese: 1.09 G/J + 1.28 xG → Below average offensive output → +2",
+        "away_reasoning": "Bologna: 1.64 G/J + 1.39 xG → Strong offensive metrics, close to +5 threshold → +5",
+        "sources": [
+          "FootyStats API (goals_scored_avg, xg_for_avg)"
+        ]
+      },
+      "Q3": {
+        "home_score": 2,
+        "away_score": 3,
+        "home_reasoning": "Udinese: Mid-table team with some quality subs like Lovrić (€8.5M), Ekkelenkamp (€7M) → +2",
+        "away_reasoning": "Bologna: Champions League team with deeper squad including Pobega, Freuler, Fabbian → +3",
+        "sources": [
+          "Transfermarkt (bench values)",
+          "Estimated based on squad depth"
+        ]
+      },
+      "Q4": {
+        "home_score": 0,
+        "away_score": 5,
+        "home_reasoning": "Udinese: 1.55 GA/J + 1.36 xGA → Second-worst defense in Serie A per SportsMole → 0",
+        "away_reasoning": "Bologna: 0.73 GA/J + 1.01 xGA → Excellent defensive record, well below 0.8 threshold → +5",
+        "sources": [
+          "FootyStats API (goals_conceded_avg, xg_against_avg)",
+          "SportsMole preview"
+        ]
+      },
+      "Q5": {
+        "home_score": 2,
+        "away_score": 5,
+        "home_reasoning": "Kosta Runjaic: Second year at Udinese, limited international experience → +2",
+        "away_reasoning": "Vincenzo Italiano: Former Fiorentina manager, European experience, lifted Coppa Italia → +5",
+        "sources": [
+          "SportsMole preview text"
+        ]
+      },
+      "Q6": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "Formation data not confirmed in preview - using symmetry default → 0",
+        "away_reasoning": "Formation data not confirmed in preview - using symmetry default → 0",
+        "sources": [
+          "SportsMole preview (formations not specified)"
+        ]
+      },
+      "Q7": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "No specific pressing data available - using balanced default → +2",
+        "away_reasoning": "No specific pressing data available - using balanced default → +2",
+        "sources": [
+          "Default (no pressing stats available)"
+        ]
+      },
+      "Q8": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "No set-piece data available - using default → +2",
+        "away_reasoning": "No set-piece data available - using default → +2",
+        "sources": [
+          "Default (no set-piece stats available)"
+        ]
+      },
+      "Q9": {
+        "home_score": 0,
+        "away_score": 6,
+        "home_reasoning": "Udinese: 10th position (15 pts) - mid-table, no must-win pressure → 0",
+        "away_reasoning": "Bologna: 5th position (21 pts) - fighting for Champions League qualification → +6",
+        "sources": [
+          "FootyStats API (position, points)"
+        ]
+      },
+      "Q10": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No derby, debut, or revenge context found in preview → 0",
+        "away_reasoning": "No derby, debut, or revenge context found in preview → 0",
+        "sources": [
+          "SportsMole preview",
+          "Local media headlines"
+        ]
+      },
+      "Q11": {
+        "home_score": 1,
+        "away_score": 3,
+        "home_reasoning": "Udinese: 4W-3D-4L overall, recent loss to Roma suggests ~1 win in last 5 → +1",
+        "away_reasoning": "Bologna: 6W-3D-2L overall, beat Napoli last match, strong form → ~3 wins in last 5 → +3",
+        "sources": [
+          "FootyStats API (wins/draws/losses)",
+          "SportsMole preview"
+        ]
+      },
+      "Q12": {
+        "home_score": 1,
+        "away_score": 2,
+        "home_reasoning": "Form adjusted for opponent quality - Q11 score minus 1 for estimation → +1",
+        "away_reasoning": "Beat quality opposition including Napoli - Q11 score minus 1 for estimation → +2",
+        "sources": [
+          "Estimated from Q11",
+          "SportsMole (mentions Napoli victory)"
+        ]
+      },
+      "Q13": {
+        "home_score": 0,
+        "away_score": 3,
+        "home_reasoning": "Udinese: 1.09 Goals vs 1.28 xG → Underperforming xG by 0.19, but not enough for bonus → 0",
+        "away_reasoning": "Bologna: 1.64 Goals vs 1.39 xG → Overperforming xG by 0.25, lucky finishing → +1... wait, criteria reversed → +3",
+        "sources": [
+          "FootyStats API (xG vs Goals comparison)"
+        ]
+      },
+      "Q14": {
+        "home_score": 1,
+        "away_score": 3,
+        "home_reasoning": "Mid-table performance suggests average ratings ~6.5-6.7 → +1",
+        "away_reasoning": "Strong league position and good underlying metrics suggest ratings >6.7 → +3",
+        "sources": [
+          "Estimated from league position and performance"
+        ]
+      },
+      "Q15": {
+        "home_score": 0,
+        "away_score": -8,
+        "home_reasoning": "Davis and Zaniolo both available per SportsMole, key players healthy → 0",
+        "away_reasoning": "Skorupski (GK), Freuler, Immobile all injured per SportsMole - multiple key players out → -8",
+        "sources": [
+          "SportsMole team news"
+        ]
+      },
+      "Q16": {
+        "home_score": 0,
+        "away_score": -4,
+        "home_reasoning": "Only Kristensen returning from injury, defense largely intact → 0",
+        "away_reasoning": "Skorupski (GK) + Cambiaghi and Holm injured on international duty - defensive cluster → -4",
+        "sources": [
+          "SportsMole team news"
+        ]
+      },
+      "Q17": {
+        "home_score": 4,
+        "away_score": 1,
+        "home_reasoning": "Udinese home: 2W-2D-1L (1.6 PPG) = ~2 wins → +2, Away weak: 2W-1D-3L (1.17 PPG) = bonus +2 → Total +4",
+        "away_reasoning": "Bologna home: 4W-1D-0L (2.6 PPG) = excellent, but away: 2W-2D-2L (1.33 PPG) = decent → +1",
+        "sources": [
+          "FootyStats API (home/away records)"
+        ]
+      },
+      "Q18": {
+        "home_score": 1,
+        "away_score": 0,
+        "home_reasoning": "SportsMole mentions 'won only one of their last 11 top-flight clashes with Bologna' - suggests some historical advantage → +1",
+        "away_reasoning": "Won only once in last 9 visits to Udine per SportsMole → 0",
+        "sources": [
+          "SportsMole H2H history"
+        ]
+      },
+      "Q19": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No extreme negative H2H pattern mentioned → 0",
+        "away_reasoning": "Away team - not applicable → 0",
+        "sources": [
+          "SportsMole H2H history"
+        ]
+      }
+    },
+    "category_totals": {
+      "technique": {
+        "home": 7,
+        "away": 16
+      },
+      "tactics": {
+        "home": 6,
+        "away": 9
+      },
+      "motivation": {
+        "home": 0,
+        "away": 6
+      },
+      "form": {
+        "home": 2,
+        "away": 5
+      },
+      "performance": {
+        "home": 1,
+        "away": 6
+      },
+      "injuries": {
+        "home": 0,
+        "away": -12
+      },
+      "home_away": {
+        "home": 5,
+        "away": 1
+      }
+    },
+    "raw_scores": {
+      "raw_casa": 21,
+      "raw_vis": 31
+    },
+    "data_quality": {
+      "score": 75,
+      "assessment": "Good",
+      "breakdown": {
+        "q1_player_values": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q2_xg": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q3_bench": {
+          "points": 1.5,
+          "status": "estimated"
+        },
+        "q4_xga": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q5_manager": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q6_formations": {
+          "points": 1,
+          "status": "default"
+        },
+        "q7_pressing": {
+          "points": 1,
+          "status": "default"
+        },
+        "q8_set_pieces": {
+          "points": 1,
+          "status": "default"
+        },
+        "q9_league": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q10_derby": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q11_form": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q12_opponent": {
+          "points": 2,
+          "status": "estimated"
+        },
+        "q13_xg_delta": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q14_ratings": {
+          "points": 2.5,
+          "status": "estimated"
+        },
+        "q15_injuries": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q16_cluster": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q17_home_away": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q18_h2h": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q19_h2h_negative": {
+          "points": 4,
+          "status": "complete"
+        },
+        "betfair_draw": {
+          "points": 0,
+          "status": "missing"
+        },
+        "betfair_ah": {
+          "points": 0,
+          "status": "missing"
+        },
+        "local_media": {
+          "points": 2.5,
+          "status": "partial"
+        },
+        "sportsmole": {
+          "points": 5,
+          "status": "available"
+        }
+      },
+      "missing_critical": [
+        "Betfair odds missing - using blind pricing"
+      ],
+      "proceed": true,
+      "confidence_note": "Good data quality. FootyStats provides excellent quantitative data. Missing formations and detailed pressing stats reduced tactical analysis precision."
+    },
+    "notes": [
+      "P(Empate): Calculated from FootyStats odds (100/3.25 = 30.8%)",
+      "Q6: Formations not specified in SportsMole preview - used default 0/0",
+      "Q7: No pressing statistics available - used default +2 both teams",
+      "Q8: Set-piece data not available - used default +2 both teams",
+      "Q15: Bologna heavily impacted by injuries to Skorupski, Freuler, Immobile per SportsMole",
+      "Q16: Bologna also has defensive cluster with GK + international duty injuries",
+      "Key insight: Bologna's superior squad quality offset by significant injury crisis",
+      "Udinese described as having 'league's second-worst defensive record' in SportsMole",
+      "Bologna fighting for Champions League qualification (5th, 21pts) vs mid-table Udinese (10th, 15pts)"
+    ]
+  },
+  "yudor_analysis": {
+    "match_id": "UdinesevsBologna_22112025",
+    "raw_casa": 21,
+    "raw_vis": 31,
+    "delta": -10,
+    "yudor_ah_fair": 1.0,
+    "pr_casa": 0.213,
+    "pr_vis": 0.479,
+    "pr_empate": 0.308,
+    "cs_final": 68,
+    "tier": 2,
+    "r_home": 0.25,
+    "r_away": 0.42,
+    "r_fav": 0.42,
+    "r_dog": 0.25,
+    "rbr": 0.25,
+    "r_score": 0.42,
+    "edge_synthetic": 32,
+    "decision": "VETO",
+    "reasoning": "R_score 0.42 exceeds 0.25 threshold. Bologna injuries (Skorupski, Freuler, Immobile) create high risk despite superior squad quality."
+  }
+}

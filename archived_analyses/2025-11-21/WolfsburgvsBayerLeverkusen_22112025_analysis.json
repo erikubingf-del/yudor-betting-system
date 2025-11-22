@@ -1,0 +1,363 @@
+{
+  "match_id": "WolfsburgvsBayerLeverkusen_22112025",
+  "match_info": {
+    "id": "WolfsburgvsBayerLeverkusen_22112025",
+    "home": "Wolfsburg",
+    "away": "Bayer Leverkusen",
+    "league": "Bundesliga",
+    "date": "22/11/2025"
+  },
+  "timestamp": "2025-11-21T20:11:46.082635",
+  "consolidated_data": {
+    "game_id": "WolfsburgvsBayerLeverkusen_22112025",
+    "match_info": {
+      "home": "Wolfsburg",
+      "away": "Bayer Leverkusen",
+      "league": "Bundesliga",
+      "date": "22/11/2025"
+    },
+    "p_empate": 26.3,
+    "betfair_ah_market": null,
+    "q_scores": {
+      "Q1": {
+        "home_score": 3,
+        "away_score": 6,
+        "home_reasoning": "Wolfsburg: Amoura (€32M, likely 7.0★), Wimmer (€15M), Majer (€17M), Koulierakis (€25M) → Top players but limited star quality → +3",
+        "away_reasoning": "Bayer Leverkusen: Strong squad quality expected for 5th place team with 2.4 G/J → Estimated high-value players and ratings → +6",
+        "sources": [
+          "Transfermarkt (values)",
+          "FootyStats (form suggests quality)"
+        ]
+      },
+      "Q2": {
+        "home_score": 0,
+        "away_score": 7,
+        "home_reasoning": "Wolfsburg: 1.2 G/J + 1.34 xG → Below criteria thresholds → 0",
+        "away_reasoning": "Bayer Leverkusen: 2.4 G/J + 1.6 xG → G/J > 2.0 AND xG > 1.5 → +7",
+        "sources": [
+          "FootyStats (goals_scored_avg, xg_for_avg)"
+        ]
+      },
+      "Q3": {
+        "home_score": 1,
+        "away_score": 2,
+        "home_reasoning": "Wolfsburg: Mid-table team with some depth visible in squad but many injuries → +1",
+        "away_reasoning": "Bayer Leverkusen: Strong 5th place team, likely good depth → +2 default",
+        "sources": [
+          "Transfermarkt (squad), SportsMole (injury list)"
+        ]
+      },
+      "Q4": {
+        "home_score": 0,
+        "away_score": 3,
+        "home_reasoning": "Wolfsburg: 1.8 GA/J + 1.9 xGA → Both above 1.5 threshold → 0",
+        "away_reasoning": "Bayer Leverkusen: 1.4 GA/J + 1.31 xGA → GA/J 0.8-1.5 AND xGA 0.9-1.6 → +3",
+        "sources": [
+          "FootyStats (goals_conceded_avg, xg_against_avg)"
+        ]
+      },
+      "Q5": {
+        "home_score": 2,
+        "away_score": 5,
+        "home_reasoning": "Daniel Bauer: Interim coach from U-19s, no major experience → +2 default",
+        "away_reasoning": "Kasper Hjulmand: Experienced international manager, Denmark NT background → +5",
+        "sources": [
+          "SportsMole (manager info)"
+        ]
+      },
+      "Q6": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No confirmed formations in preview - using symmetry → 0",
+        "away_reasoning": "No confirmed formations in preview - using symmetry → 0",
+        "sources": [
+          "SportsMole (formations not specified)"
+        ]
+      },
+      "Q7": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "No pressing stats available - using balanced default → +2",
+        "away_reasoning": "No pressing stats available - using balanced default → +2",
+        "sources": [
+          "Default (no pressing data available)"
+        ]
+      },
+      "Q8": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "No set-piece data available - using default → +2",
+        "away_reasoning": "No set-piece data available - using default → +2",
+        "sources": [
+          "Default (no set-piece data)"
+        ]
+      },
+      "Q9": {
+        "home_score": 12,
+        "away_score": 0,
+        "home_reasoning": "Wolfsburg: 14th place, 1 point above relegation zone → Relegation battle → +12",
+        "away_reasoning": "Bayer Leverkusen: 5th place, comfortable position → No must-win context → 0",
+        "sources": [
+          "FootyStats (league position)"
+        ]
+      },
+      "Q10": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No derby, manager debut already occurred, no revenge context found → 0",
+        "away_reasoning": "No derby, established manager, no revenge context found → 0",
+        "sources": [
+          "SportsMole (no special context)",
+          "News headlines (no derby mentions)"
+        ]
+      },
+      "Q11": {
+        "home_score": 1,
+        "away_score": 3,
+        "home_reasoning": "Wolfsburg: 2W in 10 matches overall → Extrapolating ~1W in last 5 → +1",
+        "away_reasoning": "Bayer Leverkusen: 6W in 10 matches overall → Extrapolating ~3W in last 5 → +3",
+        "sources": [
+          "FootyStats (wins_overall as proxy for recent form)"
+        ]
+      },
+      "Q12": {
+        "home_score": 1,
+        "away_score": 2,
+        "home_reasoning": "Limited wins against weak opposition estimated → +1",
+        "away_reasoning": "Better wins against varied opposition estimated → +2",
+        "sources": [
+          "Estimated from overall form quality"
+        ]
+      },
+      "Q13": {
+        "home_score": 0,
+        "away_score": 2,
+        "home_reasoning": "Wolfsburg: 12 Goals vs 13.4 xG → Goals < xG by 0.14 → Very lucky/neutral → 0",
+        "away_reasoning": "Bayer Leverkusen: 24 Goals vs 16.0 xG → Goals > xG by 0.8 → Very lucky but strong performance → +2",
+        "sources": [
+          "FootyStats (goals vs xG calculation)"
+        ]
+      },
+      "Q14": {
+        "home_score": 1,
+        "away_score": 3,
+        "home_reasoning": "Poor league position and negative xG diff suggests poor performance quality → +1",
+        "away_reasoning": "5th place and positive attacking output suggests good performance → +3",
+        "sources": [
+          "FootyStats (position, xG trends)"
+        ]
+      },
+      "Q15": {
+        "home_score": -8,
+        "away_score": 0,
+        "home_reasoning": "Key injuries: Moritz Jenz (CB), Joakim Maehle (key player), multiple others → Key player absent → -8",
+        "away_reasoning": "Leverkusen injuries less severe per SportsMole → 0",
+        "sources": [
+          "SportsMole (team news section)"
+        ]
+      },
+      "Q16": {
+        "home_score": -4,
+        "away_score": 0,
+        "home_reasoning": "Wolfsburg: Moritz Jenz (CB) + Denis Vavro returning but other defensive issues → 2+ defenders out → -4",
+        "away_reasoning": "No major defensive cluster issues mentioned → 0",
+        "sources": [
+          "SportsMole (injury list)"
+        ]
+      },
+      "Q17": {
+        "home_score": 0,
+        "away_score": 5,
+        "home_reasoning": "Wolfsburg: 0W at home (0/5), terrible home form → 0 base + 0 bonus → 0",
+        "away_reasoning": "Bayer Leverkusen: 2W away (2/4) + Wolfsburg weak at home (≤1W) → +2 base + +4 bonus → +6 (capped at 5)",
+        "sources": [
+          "FootyStats (wins_home, wins_away)"
+        ]
+      },
+      "Q18": {
+        "home_score": 1,
+        "away_score": 0,
+        "home_reasoning": "No H2H data available - using minimal home advantage → +1",
+        "away_reasoning": "No H2H data available - Leverkusen gets 0 as away team → 0",
+        "sources": [
+          "Default (no H2H data found)"
+        ]
+      },
+      "Q19": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No H2H data available - cannot apply veto → 0",
+        "away_reasoning": "Away team - N/A → 0",
+        "sources": [
+          "Default (insufficient H2H data)"
+        ]
+      }
+    },
+    "category_totals": {
+      "technique": {
+        "home": 4,
+        "away": 15
+      },
+      "tactics": {
+        "home": 9,
+        "away": 9
+      },
+      "motivation": {
+        "home": 12,
+        "away": 0
+      },
+      "form": {
+        "home": 2,
+        "away": 5
+      },
+      "performance": {
+        "home": 1,
+        "away": 5
+      },
+      "injuries": {
+        "home": -12,
+        "away": 0
+      },
+      "home_away": {
+        "home": 1,
+        "away": 5
+      }
+    },
+    "raw_scores": {
+      "raw_casa": 17,
+      "raw_vis": 39
+    },
+    "data_quality": {
+      "score": 75,
+      "assessment": "Good",
+      "breakdown": {
+        "q1_player_values": {
+          "points": 2.5,
+          "status": "partial"
+        },
+        "q2_xg": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q3_bench": {
+          "points": 1.5,
+          "status": "estimated"
+        },
+        "q4_xga": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q5_manager": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q6_formations": {
+          "points": 1,
+          "status": "default"
+        },
+        "q7_pressing": {
+          "points": 1,
+          "status": "default"
+        },
+        "q8_set_pieces": {
+          "points": 1,
+          "status": "default"
+        },
+        "q9_league": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q10_derby": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q11_form": {
+          "points": 2.5,
+          "status": "estimated"
+        },
+        "q12_opponent": {
+          "points": 2,
+          "status": "estimated"
+        },
+        "q13_xg_delta": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q14_ratings": {
+          "points": 2.5,
+          "status": "inferred"
+        },
+        "q15_injuries": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q16_cluster": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q17_home_away": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q18_h2h": {
+          "points": 1,
+          "status": "default"
+        },
+        "q19_h2h_negative": {
+          "points": 2,
+          "status": "default"
+        },
+        "betfair_draw": {
+          "points": 0,
+          "status": "missing"
+        },
+        "betfair_ah": {
+          "points": 0,
+          "status": "missing"
+        },
+        "local_media": {
+          "points": 5,
+          "status": "available"
+        },
+        "sportsmole": {
+          "points": 5,
+          "status": "available"
+        }
+      },
+      "missing_critical": [],
+      "proceed": true,
+      "confidence_note": "Good data quality. FootyStats provides excellent core metrics. Missing Betfair data and some tactical details, but sufficient for analysis."
+    },
+    "notes": [
+      "Q1: Partial player values from Transfermarkt, quality estimated from league performance",
+      "Q6/Q7/Q8: SportsMole preview lacks detailed tactical analysis - used defaults",
+      "Q11/Q12: Form estimated from overall season record as last-5 not specifically available",
+      "Q15/Q16: Excellent injury information from SportsMole - Wolfsburg heavily impacted",
+      "Q18/Q19: No H2H data found in any source",
+      "Key insight: Wolfsburg in crisis (relegation battle, injuries, managerial change) vs Leverkusen flying high",
+      "Draw odds calculated from FootyStats market odds: 100/3.8 = 26.3%",
+      "No Betfair AH data available - using blind pricing approach"
+    ]
+  },
+  "yudor_analysis": {
+    "match_id": "WolfsburgvsBayerLeverkusen_22112025",
+    "raw_casa": 17,
+    "raw_vis": 39,
+    "delta": -22,
+    "yudor_ah_fair": 1.25,
+    "pr_casa": 0.265,
+    "pr_vis": 0.485,
+    "pr_empate": 0.263,
+    "cs_final": 67,
+    "tier": 2,
+    "r_home": 0.82,
+    "r_away": 0.21,
+    "r_fav": 0.21,
+    "r_dog": 0.82,
+    "rbr": -0.59,
+    "r_score": 0.82,
+    "edge_synthetic": 40,
+    "decision": "VETO",
+    "reasoning": "High R-score (0.82) due to Wolfsburg crisis: relegation battle, key injuries, interim manager, terrible home form. Risk too high despite potential edge."
+  }
+}

@@ -1,0 +1,370 @@
+{
+  "match_id": "St.PaulivsUnionBerlin_23112025",
+  "match_info": {
+    "id": "St.PaulivsUnionBerlin_23112025",
+    "home": "St. Pauli",
+    "away": "Union Berlin",
+    "league": "Bundesliga",
+    "date": "23/11/2025"
+  },
+  "timestamp": "2025-11-21T18:52:56.633195",
+  "consolidated_data": {
+    "game_id": "St.PaulivsUnionBerlin_23112025",
+    "match_info": {
+      "home": "St. Pauli",
+      "away": "Union Berlin",
+      "league": "Bundesliga",
+      "date": "23/11/2025"
+    },
+    "p_empate": 33.6,
+    "betfair_ah_market": {
+      "line": "not_available",
+      "odds": "not_available"
+    },
+    "q_scores": {
+      "Q1": {
+        "home_score": 3,
+        "away_score": 6,
+        "home_reasoning": "St. Pauli: Sinani (€3.0M), Hountondji (€5.0M), Afolayan (€3.0M), Smith (€6.0M) → Total 3.4 → +3",
+        "away_reasoning": "Union Berlin: Ansah (€10.0M), Ilic (€6.0M), Burke (€4.0M), Querfeld (€15.0M) → Total 7.0 → +6",
+        "sources": [
+          "Transfermarkt squad values"
+        ]
+      },
+      "Q2": {
+        "home_score": 0,
+        "away_score": 2,
+        "home_reasoning": "St. Pauli: 0.9 G/J + 1.4 xG → Below criteria threshold → 0",
+        "away_reasoning": "Union Berlin: 1.3 G/J + 1.29 xG → ≈ 1.0 baseline → +2",
+        "sources": [
+          "FootyStats API (goals_scored_avg, xg_for_avg)"
+        ]
+      },
+      "Q3": {
+        "home_score": 1,
+        "away_score": 2,
+        "home_reasoning": "St. Pauli: Squad depth limited, few quality substitutes with high values → +1",
+        "away_reasoning": "Union Berlin: Better squad depth with multiple €4M+ substitutes → +2",
+        "sources": [
+          "Transfermarkt squad values (estimated)"
+        ]
+      },
+      "Q4": {
+        "home_score": 0,
+        "away_score": 1,
+        "home_reasoning": "St. Pauli: 2.0 GA/J + 1.29 xGA → Very poor defensive record → 0",
+        "away_reasoning": "Union Berlin: 1.7 GA/J + 1.64 xGA → Above threshold → +1",
+        "sources": [
+          "FootyStats API (goals_conceded_avg, xg_against_avg)"
+        ]
+      },
+      "Q5": {
+        "home_score": 2,
+        "away_score": 4,
+        "home_reasoning": "Blessin: Limited international experience, under pressure → +2",
+        "away_reasoning": "Union Berlin manager: Established Bundesliga experience, stable position → +4",
+        "sources": [
+          "Local media context (estimated)"
+        ]
+      },
+      "Q6": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "Formations not confirmed in available sources → 0",
+        "away_reasoning": "Formations not confirmed in available sources → 0",
+        "sources": [
+          "SportsMole preview (formations not specified)"
+        ]
+      },
+      "Q7": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "Default estimation for Bundesliga teams → +2",
+        "away_reasoning": "Default estimation for Bundesliga teams → +2",
+        "sources": [
+          "Default (no pressing stats available)"
+        ]
+      },
+      "Q8": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "Default estimation → +2",
+        "away_reasoning": "Default estimation → +2",
+        "sources": [
+          "Default (no set-piece data)"
+        ]
+      },
+      "Q9": {
+        "home_score": 12,
+        "away_score": 0,
+        "home_reasoning": "St. Pauli: Position 16, relegation battle (within 3 points of drop zone) → +12",
+        "away_reasoning": "Union Berlin: Position 11, mid-table, no urgent pressure → 0",
+        "sources": [
+          "FootyStats API league positions"
+        ]
+      },
+      "Q10": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No derby, debut, or revenge context found → 0",
+        "away_reasoning": "No derby, debut, or revenge context found → 0",
+        "sources": [
+          "News headlines, SportsMole preview"
+        ]
+      },
+      "Q11": {
+        "home_score": 1,
+        "away_score": 2,
+        "home_reasoning": "St. Pauli: From form analysis, approximately 1 win in last 5 → +1",
+        "away_reasoning": "Union Berlin: From form analysis, approximately 2 wins in last 5 → +2",
+        "sources": [
+          "FootyStats API (estimated from ppg and record)"
+        ]
+      },
+      "Q12": {
+        "home_score": 1,
+        "away_score": 2,
+        "home_reasoning": "Limited wins against quality opposition → +1",
+        "away_reasoning": "Better performance against varied opposition → +2",
+        "sources": [
+          "FootyStats API (estimated from overall performance)"
+        ]
+      },
+      "Q13": {
+        "home_score": 3,
+        "away_score": 0,
+        "home_reasoning": "St. Pauli: xG 1.4 > Goals 0.9 (+0.5 difference) → Unlucky → +3",
+        "away_reasoning": "Union Berlin: xG 1.29 ≈ Goals 1.3 (balanced) → +2",
+        "sources": [
+          "FootyStats API (xg_for_avg vs goals_scored_avg)"
+        ]
+      },
+      "Q14": {
+        "home_score": 1,
+        "away_score": 2,
+        "home_reasoning": "Poor overall performance, low points per game → +1",
+        "away_reasoning": "Moderate performance, better ppg → +2",
+        "sources": [
+          "FootyStats API (ppg, overall performance)"
+        ]
+      },
+      "Q15": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No key player injuries confirmed → 0",
+        "away_reasoning": "No key player injuries confirmed → 0",
+        "sources": [
+          "SportsMole team news (no specific injuries mentioned)"
+        ]
+      },
+      "Q16": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No defensive cluster injuries mentioned → 0",
+        "away_reasoning": "No defensive cluster injuries mentioned → 0",
+        "sources": [
+          "SportsMole team news"
+        ]
+      },
+      "Q17": {
+        "home_score": 2,
+        "away_score": 0,
+        "home_reasoning": "St. Pauli: 1 home win in 5 (weak) but Union worse away → +2 relative advantage",
+        "away_reasoning": "Union Berlin: 1 away win in 4 (poor away record) → 0",
+        "sources": [
+          "FootyStats API (home/away splits)"
+        ]
+      },
+      "Q18": {
+        "home_score": 3,
+        "away_score": 1,
+        "home_reasoning": "SportsMole H2H: St. Pauli won 3-2 at home in 2019, shows can compete → +3",
+        "away_reasoning": "Union Berlin: Won 1-0 away in August 2024 → +1",
+        "sources": [
+          "SportsMole H2H results"
+        ]
+      },
+      "Q19": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "Not applicable - St. Pauli has home wins in H2H history → 0",
+        "away_reasoning": "Not applicable → 0",
+        "sources": [
+          "SportsMole H2H results"
+        ]
+      }
+    },
+    "category_totals": {
+      "technique": {
+        "home": 4,
+        "away": 10
+      },
+      "tactics": {
+        "home": 6,
+        "away": 8
+      },
+      "motivation": {
+        "home": 12,
+        "away": 0
+      },
+      "form": {
+        "home": 2,
+        "away": 4
+      },
+      "performance": {
+        "home": 4,
+        "away": 4
+      },
+      "injuries": {
+        "home": 0,
+        "away": 0
+      },
+      "home_away": {
+        "home": 5,
+        "away": 1
+      }
+    },
+    "raw_scores": {
+      "raw_casa": 33,
+      "raw_vis": 27
+    },
+    "data_quality": {
+      "score": 75,
+      "assessment": "Good",
+      "breakdown": {
+        "q1_player_values": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q2_xg": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q3_bench": {
+          "points": 1.5,
+          "status": "estimated"
+        },
+        "q4_xga": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q5_manager": {
+          "points": 1,
+          "status": "default"
+        },
+        "q6_formations": {
+          "points": 1,
+          "status": "default"
+        },
+        "q7_pressing": {
+          "points": 1,
+          "status": "default"
+        },
+        "q8_set_pieces": {
+          "points": 1,
+          "status": "default"
+        },
+        "q9_league": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q10_derby": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q11_form": {
+          "points": 2,
+          "status": "estimated"
+        },
+        "q12_opponent": {
+          "points": 2,
+          "status": "estimated"
+        },
+        "q13_xg_delta": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q14_ratings": {
+          "points": 2.5,
+          "status": "partial"
+        },
+        "q15_injuries": {
+          "points": 2,
+          "status": "estimated"
+        },
+        "q16_cluster": {
+          "points": 2,
+          "status": "estimated"
+        },
+        "q17_home_away": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q18_h2h": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q19_h2h_negative": {
+          "points": 4,
+          "status": "complete"
+        },
+        "betfair_draw": {
+          "points": 0,
+          "status": "missing"
+        },
+        "betfair_ah": {
+          "points": 0,
+          "status": "missing"
+        },
+        "local_media": {
+          "points": 2.5,
+          "status": "partial"
+        },
+        "sportsmole": {
+          "points": 5,
+          "status": "available"
+        }
+      },
+      "missing_critical": [
+        "Betfair odds not available - using FootyStats odds for P(Empate)"
+      ],
+      "proceed": true,
+      "confidence_note": "Good data quality. FootyStats API provided excellent xG and form data. Missing tactical details and betting odds."
+    },
+    "notes": [
+      "Q1: Complete Transfermarkt squad data available",
+      "Q2-Q4: High-quality xG and goals data from FootyStats API",
+      "Q6: No formation data found in SportsMole preview",
+      "Q7-Q8: Default scores used for pressing and set-piece data",
+      "Q9: Clear relegation battle context for St. Pauli (pos 16)",
+      "Q11-Q12: Form estimated from FootyStats ppg and record data",
+      "Q13: St. Pauli significantly underperforming xG (unlucky)",
+      "Q15-Q16: No specific injury news in SportsMole preview",
+      "Q17: Union Berlin very poor away form (0.75 ppg away vs 1.5 home)",
+      "Q18: Good H2H data from SportsMole",
+      "P(Empate): Calculated from FootyStats draw odds (2.98 → 33.6%)",
+      "No Betfair data - cannot calculate betting edge"
+    ]
+  },
+  "yudor_analysis": {
+    "match_id": "St.PaulivsUnionBerlin_23112025",
+    "raw_casa": 33,
+    "raw_vis": 27,
+    "delta": 6,
+    "yudor_ah_fair": -0.5,
+    "pr_casa": 0.332,
+    "pr_vis": 0.27,
+    "pr_empate": 0.336,
+    "cs_final": 68,
+    "tier": 2,
+    "r_home": 0.42,
+    "r_away": 0.31,
+    "r_fav": 0.42,
+    "r_dog": 0.31,
+    "rbr": 0.15,
+    "r_score": 0.42,
+    "edge_synthetic": 16,
+    "decision": "VETO",
+    "reasoning": "R_Score 0.42 exceeds 0.25 threshold. High risk from relegation pressure, poor away form, and limited data quality on tactical aspects."
+  }
+}

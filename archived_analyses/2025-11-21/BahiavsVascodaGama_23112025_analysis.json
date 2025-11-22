@@ -1,0 +1,364 @@
+{
+  "match_id": "BahiavsVascodaGama_23112025",
+  "match_info": {
+    "id": "BahiavsVascodaGama_23112025",
+    "home": "Bahia",
+    "away": "Vasco da Gama",
+    "league": "Brasileirão",
+    "date": "23/11/2025"
+  },
+  "timestamp": "2025-11-21T20:03:38.209958",
+  "consolidated_data": {
+    "game_id": "BahiavsVascodaGama_23112025",
+    "match_info": {
+      "home": "Bahia",
+      "away": "Vasco da Gama",
+      "league": "Brasileirão",
+      "date": "23/11/2025"
+    },
+    "p_empate": 25.6,
+    "betfair_ah_market": {
+      "note": "Blind pricing - no Betfair data required"
+    },
+    "q_scores": {
+      "Q1": {
+        "home_score": 5,
+        "away_score": 6,
+        "home_reasoning": "Bahia: Jean Lucas (€10M), Luciano Juba (€8M), Erick Pulga (€8M), Santiago Mingo (€8M) → Total ~6.5 → +5",
+        "away_reasoning": "Vasco: Rayan (€18M), Matheus França (€10M), Léo Jardim (€7M), Robert Renan (€7.5M) → Total ~8.5 → +6",
+        "sources": [
+          "Transfermarkt squad values"
+        ]
+      },
+      "Q2": {
+        "home_score": 4,
+        "away_score": 2,
+        "home_reasoning": "Bahia: 1.29 G/J + 1.32 xG → Moderate offense → +4",
+        "away_reasoning": "Vasco: 1.13 G/J + 1.10 xG → Below average offense → +2",
+        "sources": [
+          "FootyStats API (goals_scored_avg_overall, xg_for_avg_overall)"
+        ]
+      },
+      "Q3": {
+        "home_score": 2,
+        "away_score": 3,
+        "home_reasoning": "Mid-table Brazilian team - estimated moderate bench depth → +2",
+        "away_reasoning": "Larger squad with more valuable subs (Coutinho, multiple €3M+ players) → +3",
+        "sources": [
+          "Transfermarkt squad data - estimated from squad size and values"
+        ]
+      },
+      "Q4": {
+        "home_score": 5,
+        "away_score": 1,
+        "home_reasoning": "Bahia: 1.29 GA/J + 1.23 xGA → Good defensive balance → +5",
+        "away_reasoning": "Vasco: 1.47 GA/J + 1.47 xGA → Poor defense → +1",
+        "sources": [
+          "FootyStats API (goals_conceded_avg_overall, xg_against_avg_overall)"
+        ]
+      },
+      "Q5": {
+        "home_score": 4,
+        "away_score": 2,
+        "home_reasoning": "Rogério Ceni - experienced Brazilian manager with 10+ years → +4",
+        "away_reasoning": "Rafael Paiva - less experienced manager → +2",
+        "sources": [
+          "SportsMole preview, local media context"
+        ]
+      },
+      "Q6": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No specific formation data available → Symmetry → 0",
+        "away_reasoning": "No specific formation data available → Symmetry → 0",
+        "sources": [
+          "SportsMole preview - formations not specified"
+        ]
+      },
+      "Q7": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "No pressing data available - using default for balanced transitions → +2",
+        "away_reasoning": "No pressing data available - using default for balanced transitions → +2",
+        "sources": [
+          "Default - no pressing stats available"
+        ]
+      },
+      "Q8": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "No set piece data available - using default → +2",
+        "away_reasoning": "No set piece data available - using default → +2",
+        "sources": [
+          "Default - no set piece data available"
+        ]
+      },
+      "Q9": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "8th place (53 pts) - mid-table, no urgent pressure → 0",
+        "away_reasoning": "10th place (50 pts) - mid-table, no urgent pressure → 0",
+        "sources": [
+          "FootyStats API (position, points)"
+        ]
+      },
+      "Q10": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No derby, manager debut, or revenge context found → 0",
+        "away_reasoning": "No derby, manager debut, or revenge context found → 0",
+        "sources": [
+          "SportsMole preview, local media headlines"
+        ]
+      },
+      "Q11": {
+        "home_score": 2,
+        "away_score": 1,
+        "home_reasoning": "Home PPG 1.89 suggests ~3-4 wins in last 5 home games → +2-3 (estimated +2)",
+        "away_reasoning": "Away PPG 0.79 suggests ~1-2 wins in last 5 away games → +1",
+        "sources": [
+          "FootyStats API (ppg_home, ppg_away) - estimated from season averages"
+        ]
+      },
+      "Q12": {
+        "home_score": 2,
+        "away_score": 1,
+        "home_reasoning": "Mid-table opposition quality - moderate normalization → +2",
+        "away_reasoning": "Facing stronger opposition (8th vs 10th) → +1",
+        "sources": [
+          "FootyStats position data - estimated opponent quality"
+        ]
+      },
+      "Q13": {
+        "home_score": 2,
+        "away_score": 0,
+        "home_reasoning": "xG 1.32 vs Goals 1.29 → Slightly unlucky (+0.03) → +2",
+        "away_reasoning": "xG 1.10 vs Goals 1.13 → Slightly overperforming (-0.03) → +1 (close to 0)",
+        "sources": [
+          "FootyStats API (xg_for_avg_overall vs goals_scored_avg_overall)"
+        ]
+      },
+      "Q14": {
+        "home_score": 2,
+        "away_score": 1,
+        "home_reasoning": "No individual ratings available - estimated from xG performance → +2",
+        "away_reasoning": "No individual ratings available - estimated from poor xG performance → +1",
+        "sources": [
+          "Estimated from xG data - no individual player ratings available"
+        ]
+      },
+      "Q15": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "Rezende (€800k volante) injured - not a key player by Q1 criteria → 0",
+        "away_reasoning": "No key player injuries identified → 0",
+        "sources": [
+          "SportsMole team news, Transfermarkt values"
+        ]
+      },
+      "Q16": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No defensive cluster injuries identified → 0",
+        "away_reasoning": "Hugo Moura suspended (midfielder, not defender) → 0",
+        "sources": [
+          "SportsMole team news"
+        ]
+      },
+      "Q17": {
+        "home_score": 8,
+        "away_score": 2,
+        "home_reasoning": "Home PPG 1.89 (strong) vs Away PPG 0.79 (weak) → Base +6 + Bonus +2 → +8",
+        "away_reasoning": "Away PPG 0.79 (poor away record) → +2",
+        "sources": [
+          "FootyStats API (ppg_home vs ppg_away)"
+        ]
+      },
+      "Q18": {
+        "home_score": 1,
+        "away_score": 0,
+        "home_reasoning": "No specific H2H at home data, but historical context suggests minimal advantage → +1",
+        "away_reasoning": "Playing away in H2H → 0",
+        "sources": [
+          "SportsMole mention of reverse fixture - insufficient H2H home data"
+        ]
+      },
+      "Q19": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No evidence of 0 wins in last 3 H2H at home → 0",
+        "away_reasoning": "N/A for away team → 0",
+        "sources": [
+          "No negative H2H pattern identified"
+        ]
+      }
+    },
+    "category_totals": {
+      "technique": {
+        "home": 16,
+        "away": 11
+      },
+      "tactics": {
+        "home": 8,
+        "away": 6
+      },
+      "motivation": {
+        "home": 0,
+        "away": 0
+      },
+      "form": {
+        "home": 4,
+        "away": 2
+      },
+      "performance": {
+        "home": 4,
+        "away": 1
+      },
+      "injuries": {
+        "home": 0,
+        "away": 0
+      },
+      "home_away": {
+        "home": 9,
+        "away": 2
+      }
+    },
+    "raw_scores": {
+      "raw_casa": 41,
+      "raw_vis": 22
+    },
+    "data_quality": {
+      "score": 72,
+      "assessment": "Good",
+      "breakdown": {
+        "q1_player_values": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q2_xg": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q3_bench": {
+          "points": 1.5,
+          "status": "estimated"
+        },
+        "q4_xga": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q5_manager": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q6_formations": {
+          "points": 1,
+          "status": "default"
+        },
+        "q7_pressing": {
+          "points": 1,
+          "status": "default"
+        },
+        "q8_set_pieces": {
+          "points": 1,
+          "status": "default"
+        },
+        "q9_league": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q10_derby": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q11_form": {
+          "points": 2,
+          "status": "estimated"
+        },
+        "q12_opponent": {
+          "points": 2,
+          "status": "estimated"
+        },
+        "q13_xg_delta": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q14_ratings": {
+          "points": 1.5,
+          "status": "estimated"
+        },
+        "q15_injuries": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q16_cluster": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q17_home_away": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q18_h2h": {
+          "points": 1,
+          "status": "partial"
+        },
+        "q19_h2h_negative": {
+          "points": 4,
+          "status": "complete"
+        },
+        "betfair_draw": {
+          "points": 10,
+          "status": "calculated_from_odds"
+        },
+        "betfair_ah": {
+          "points": 0,
+          "status": "blind_pricing"
+        },
+        "local_media": {
+          "points": 5,
+          "status": "available"
+        },
+        "sportsmole": {
+          "points": 5,
+          "status": "available"
+        }
+      },
+      "missing_critical": [],
+      "proceed": true,
+      "confidence_note": "Good data quality. Strong FootyStats API data for core metrics. Missing tactical details and precise form data."
+    },
+    "notes": [
+      "P(Empate): Calculated from FootyStats odds_ft_draw (3.9) → 25.6%",
+      "Q3: Bench depth estimated from Transfermarkt squad size and values",
+      "Q6-Q8: No tactical details available - used defaults",
+      "Q11-Q12: Form estimated from season PPG averages, not last 5 games",
+      "Q14: No individual player ratings - estimated from xG performance",
+      "Q18: Insufficient H2H home data - minimal scoring applied",
+      "FootyStats API provided excellent core data (xG, goals, position, PPG)",
+      "Local media shows Bahia criticism after loss to Fortaleza; Vasco in 'holiday mode'",
+      "Coutinho suspended for Vasco - not considered key player by value criteria"
+    ]
+  },
+  "yudor_analysis": {
+    "match_id": "BahiavsVascodaGama_23112025",
+    "raw_casa": 41,
+    "raw_vis": 22,
+    "delta": 19,
+    "yudor_ah_fair": -1.0,
+    "pr_casa": 0.356,
+    "pr_vis": 0.388,
+    "pr_empate": 0.256,
+    "cs_final": 68,
+    "tier": 2,
+    "r_home": 0.23,
+    "r_away": 0.31,
+    "r_fav": 0.23,
+    "r_dog": 0.31,
+    "rbr": -0.15,
+    "r_score": 0.23,
+    "edge_synthetic": 32.0,
+    "decision": "EXP",
+    "reasoning": "R-Score 0.23 in EXP range (0.15-0.25), Tier 2, synthetic edge 32% for blind pricing"
+  }
+}

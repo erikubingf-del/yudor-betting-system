@@ -1,0 +1,171 @@
+{
+  "match_id": "MirassolvsCeará_24112025",
+  "match_info": {
+    "id": "MirassolvsCeará_24112025",
+    "home": "Mirassol",
+    "away": "Ceará",
+    "league": "Brasileirão",
+    "date": "24/11/2025"
+  },
+  "timestamp": "2025-11-21T20:09:33.329094",
+  "consolidated_data": {
+    "game_id": "MirassolvsCeará_24112025",
+    "match_info": {
+      "home": "Mirassol",
+      "away": "Ceará",
+      "league": "Brasileirão",
+      "date": "24/11/2025"
+    },
+    "data_quality": {
+      "score": 35,
+      "assessment": "Poor",
+      "breakdown": {
+        "q1_player_values": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q2_xg": {
+          "points": 0,
+          "status": "missing"
+        },
+        "q3_bench": {
+          "points": 1.5,
+          "status": "estimated"
+        },
+        "q4_xga": {
+          "points": 0,
+          "status": "missing"
+        },
+        "q5_manager": {
+          "points": 1,
+          "status": "default"
+        },
+        "q6_formations": {
+          "points": 1,
+          "status": "default"
+        },
+        "q7_pressing": {
+          "points": 1,
+          "status": "default"
+        },
+        "q8_set_pieces": {
+          "points": 1,
+          "status": "default"
+        },
+        "q9_league": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q10_derby": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q11_form": {
+          "points": 0,
+          "status": "missing"
+        },
+        "q12_opponent": {
+          "points": 0,
+          "status": "missing"
+        },
+        "q13_xg_delta": {
+          "points": 0,
+          "status": "missing"
+        },
+        "q14_ratings": {
+          "points": 0,
+          "status": "missing"
+        },
+        "q15_injuries": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q16_cluster": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q17_home_away": {
+          "points": 0,
+          "status": "missing"
+        },
+        "q18_h2h": {
+          "points": 0,
+          "status": "missing"
+        },
+        "q19_h2h_negative": {
+          "points": 0,
+          "status": "missing"
+        },
+        "betfair_draw": {
+          "points": 0,
+          "status": "missing"
+        },
+        "betfair_ah": {
+          "points": 0,
+          "status": "missing"
+        },
+        "local_media": {
+          "points": 5,
+          "status": "available"
+        },
+        "sportsmole": {
+          "points": 5,
+          "status": "available"
+        }
+      },
+      "missing_critical": [
+        "Q2: No xG data available - cannot assess offense",
+        "Q4: No xGA data available - cannot assess defense",
+        "Q11: No form data (last 5 games) - cannot assess recent performance",
+        "Q17: No home/away form data - cannot assess venue advantage",
+        "FootyStats API: Complete failure - no statistical data"
+      ],
+      "proceed": false,
+      "confidence_note": "Insufficient critical data. Only squad values and basic context available. Cannot reliably analyze offensive/defensive capabilities, form, or recent performance."
+    },
+    "recommendation": "SKIP - Insufficient data quality for reliable analysis",
+    "available_data_summary": {
+      "transfermarkt_squad_values": "✓ Complete for both teams",
+      "sportsmole_preview": "✓ Available with basic team news",
+      "local_media": "✓ Headlines about recent results and Libertadores qualification",
+      "league_positions": "✓ Mirassol 4th (60pts), Ceará 14th (42pts)",
+      "missing_critical": [
+        "xG/xGA statistics",
+        "Goals per game averages",
+        "Recent form (last 5 games)",
+        "Home/away specific form",
+        "Head-to-head records",
+        "Betting market data"
+      ]
+    },
+    "notes": [
+      "FootyStats API returned no data - primary statistical source failed",
+      "Cannot calculate Q2, Q4, Q11, Q12, Q13, Q14, Q17, Q18, Q19 without form/xG data",
+      "Only basic squad analysis possible from Transfermarkt",
+      "SportsMole preview lacks tactical detail and formations",
+      "Local media shows Mirassol qualified for Libertadores, Ceará struggling",
+      "Match context: Mirassol (4th, 60pts) vs Ceará (14th, 42pts) - significant gap in table"
+    ]
+  },
+  "yudor_analysis": {
+    "match_id": "MirassolvsCeará_24112025",
+    "raw_casa": 62.5,
+    "raw_vis": 37.5,
+    "delta": 25.0,
+    "yudor_ah_fair": -0.75,
+    "pr_casa": 0.5,
+    "pr_vis": 0.25,
+    "pr_empate": 0.25,
+    "cs_final": 45,
+    "tier": 3,
+    "r_home": 0.35,
+    "r_away": 0.45,
+    "r_fav": 0.35,
+    "r_dog": 0.45,
+    "rbr": -0.125,
+    "r_score": 0.4,
+    "edge_synthetic": 24.0,
+    "decision": "VETO",
+    "reasoning": "R-Score 0.40 exceeds 0.25 threshold, insufficient data quality (35/100) creates high uncertainty, FLIP conditions not met due to low CS_final"
+  }
+}

@@ -1,0 +1,367 @@
+{
+  "match_id": "SãoPaulovsJuventude_23112025",
+  "match_info": {
+    "id": "SãoPaulovsJuventude_23112025",
+    "home": "São Paulo",
+    "away": "Juventude",
+    "league": "Brasileirão",
+    "date": "23/11/2025"
+  },
+  "timestamp": "2025-11-21T18:57:54.335315",
+  "consolidated_data": {
+    "game_id": "SaoPaulovsJuventude_23112025",
+    "match_info": {
+      "home": "São Paulo",
+      "away": "Juventude",
+      "league": "Brasileirão",
+      "date": "23/11/2025"
+    },
+    "p_empate": 27.0,
+    "betfair_ah_market": null,
+    "q_scores": {
+      "Q1": {
+        "home_score": 6,
+        "away_score": 1,
+        "home_reasoning": "São Paulo: Pablo Maia (€8M), Ferreirinha (€8M), Marcos Antônio (€8M), Nahuel Ferraresi (€5M) → Total 7.25 → +6",
+        "away_reasoning": "Juventude: Gabriel Veron (€4M), Emerson Batalla (€3M), Juan Sforza (€2M), Mandaca (€1.5M) → Total 2.6 → +1",
+        "sources": [
+          "Transfermarkt (squad values)"
+        ]
+      },
+      "Q2": {
+        "home_score": 3,
+        "away_score": 1,
+        "home_reasoning": "São Paulo: 1.39 G/J + 1.17 xG → +3",
+        "away_reasoning": "Juventude: 1.26 G/J + 1.23 xG → +1",
+        "sources": [
+          "FootyStats (goals avg and xG)"
+        ]
+      },
+      "Q3": {
+        "home_score": 3,
+        "away_score": 1,
+        "home_reasoning": "São Paulo: Quality subs available in MID (Oscar €3M, Alisson €1.8M), DEF (Sabino €1M), ATK (André Silva €4M) → +3",
+        "away_reasoning": "Juventude: Limited bench quality with few players >€1M → +1",
+        "sources": [
+          "Transfermarkt (squad depth)"
+        ]
+      },
+      "Q4": {
+        "home_score": 3,
+        "away_score": 1,
+        "home_reasoning": "São Paulo: 1.13 GA/J + 1.15 xGA → +3",
+        "away_reasoning": "Juventude: 1.55 GA/J + 1.41 xGA → +1",
+        "sources": [
+          "FootyStats (defensive stats)"
+        ]
+      },
+      "Q5": {
+        "home_score": 5,
+        "away_score": 2,
+        "home_reasoning": "Hernán Crespo: Former Chelsea/Lazio striker, international experience, second spell at São Paulo → +5",
+        "away_reasoning": "Claudio Tencati: Limited international profile → +2",
+        "sources": [
+          "SportsMole (manager profiles)"
+        ]
+      },
+      "Q6": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "Formation data not clearly specified in sources → +2 (symmetry)",
+        "away_reasoning": "Formation data not clearly specified in sources → +2 (symmetry)",
+        "sources": [
+          "SportsMole (limited tactical data)"
+        ]
+      },
+      "Q7": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "No specific pressing stats available → +2 (default)",
+        "away_reasoning": "No specific pressing stats available → +2 (default)",
+        "sources": [
+          "Default estimation"
+        ]
+      },
+      "Q8": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "No set-piece data available → +2 (default)",
+        "away_reasoning": "No set-piece data available → +2 (default)",
+        "sources": [
+          "Default estimation"
+        ]
+      },
+      "Q9": {
+        "home_score": 0,
+        "away_score": 12,
+        "home_reasoning": "São Paulo: 6th place, 59 pts - secure mid-table position → +0",
+        "away_reasoning": "Juventude: 15th place, 45 pts - relegation battle context → +12",
+        "sources": [
+          "FootyStats (league positions)",
+          "Local media (relegation analysis)"
+        ]
+      },
+      "Q10": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No derby, manager debut, or revenge context identified → +0",
+        "away_reasoning": "No derby, manager debut, or revenge context identified → +0",
+        "sources": [
+          "SportsMole preview",
+          "Local media"
+        ]
+      },
+      "Q11": {
+        "home_score": 2,
+        "away_score": 1,
+        "home_reasoning": "São Paulo: Recent form showing mixed results, estimated 2W in last 5 → +2",
+        "away_reasoning": "Juventude: Poor form mentioned ('1 win in 10 games'), estimated 1W in last 5 → +1",
+        "sources": [
+          "SportsMole (form analysis)",
+          "FootyStats PPG"
+        ]
+      },
+      "Q12": {
+        "home_score": 2,
+        "away_score": 1,
+        "home_reasoning": "São Paulo: Mixed opposition quality, some strong teams faced → +2",
+        "away_reasoning": "Juventude: Limited quality wins, mainly against weaker opposition → +1",
+        "sources": [
+          "SportsMole (opponent analysis)",
+          "FootyStats results"
+        ]
+      },
+      "Q13": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "São Paulo: Goals ≈ xG (1.39 vs 1.17) - balanced performance → +2",
+        "away_reasoning": "Juventude: Goals ≈ xG (1.26 vs 1.23) - balanced performance → +2",
+        "sources": [
+          "FootyStats (xG delta calculation)"
+        ]
+      },
+      "Q14": {
+        "home_score": 2,
+        "away_score": 1,
+        "home_reasoning": "São Paulo: Decent performances but no specific rating data → +2 (estimated)",
+        "away_reasoning": "Juventude: Poor overall performances mentioned → +1",
+        "sources": [
+          "SportsMole (performance analysis)"
+        ]
+      },
+      "Q15": {
+        "home_score": -8,
+        "away_score": 0,
+        "home_reasoning": "São Paulo: Lucas Moura (key player) injured with knee issues, Oscar also injured → -8",
+        "away_reasoning": "Juventude: No key player injuries mentioned → +0",
+        "sources": [
+          "SportsMole team news",
+          "Local media (injury reports)"
+        ]
+      },
+      "Q16": {
+        "home_score": 0,
+        "away_score": -4,
+        "home_reasoning": "São Paulo: No defensive cluster injuries → +0",
+        "away_reasoning": "Juventude: Ewerthon, Cipriano, Rodrigo Sam (2+ defenders) out → -4",
+        "sources": [
+          "SportsMole team news"
+        ]
+      },
+      "Q17": {
+        "home_score": 8,
+        "away_score": 2,
+        "home_reasoning": "São Paulo: Strong home record (2.05 PPG home vs 1.05 away) → +8",
+        "away_reasoning": "Juventude: Poor away record (0.79 PPG away vs 1.58 home) → +2",
+        "sources": [
+          "FootyStats (home/away PPG)"
+        ]
+      },
+      "Q18": {
+        "home_score": 1,
+        "away_score": 1,
+        "home_reasoning": "H2H data not clearly available, estimated moderate home advantage → +1",
+        "away_reasoning": "H2H data not clearly available → +1",
+        "sources": [
+          "Estimated from general data"
+        ]
+      },
+      "Q19": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No severe H2H negative pattern identified → +0",
+        "away_reasoning": "No severe H2H negative pattern identified → +0",
+        "sources": [
+          "Limited H2H data available"
+        ]
+      }
+    },
+    "category_totals": {
+      "technique": {
+        "home": 15,
+        "away": 4
+      },
+      "tactics": {
+        "home": 9,
+        "away": 6
+      },
+      "motivation": {
+        "home": 0,
+        "away": 12
+      },
+      "form": {
+        "home": 4,
+        "away": 2
+      },
+      "performance": {
+        "home": 4,
+        "away": 3
+      },
+      "injuries": {
+        "home": -8,
+        "away": -4
+      },
+      "home_away": {
+        "home": 9,
+        "away": 3
+      }
+    },
+    "raw_scores": {
+      "raw_casa": 33,
+      "raw_vis": 26
+    },
+    "data_quality": {
+      "score": 72,
+      "assessment": "Good",
+      "breakdown": {
+        "q1_player_values": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q2_xg": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q3_bench": {
+          "points": 3,
+          "status": "complete"
+        },
+        "q4_xga": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q5_manager": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q6_formations": {
+          "points": 1,
+          "status": "default"
+        },
+        "q7_pressing": {
+          "points": 1,
+          "status": "default"
+        },
+        "q8_set_pieces": {
+          "points": 1,
+          "status": "default"
+        },
+        "q9_league": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q10_derby": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q11_form": {
+          "points": 2,
+          "status": "estimated"
+        },
+        "q12_opponent": {
+          "points": 2,
+          "status": "estimated"
+        },
+        "q13_xg_delta": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q14_ratings": {
+          "points": 1,
+          "status": "estimated"
+        },
+        "q15_injuries": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q16_cluster": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q17_home_away": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q18_h2h": {
+          "points": 1,
+          "status": "estimated"
+        },
+        "q19_h2h_negative": {
+          "points": 2,
+          "status": "estimated"
+        },
+        "betfair_draw": {
+          "points": 0,
+          "status": "missing"
+        },
+        "betfair_ah": {
+          "points": 0,
+          "status": "missing"
+        },
+        "local_media": {
+          "points": 5,
+          "status": "available"
+        },
+        "sportsmole": {
+          "points": 5,
+          "status": "available"
+        }
+      },
+      "missing_critical": [],
+      "proceed": true,
+      "confidence_note": "Good data quality. FootyStats provides excellent core metrics. Missing tactical details and betting odds but sufficient for analysis."
+    },
+    "notes": [
+      "Q6-Q8: Limited tactical data available - used defaults",
+      "Q11-Q12: Form estimated from SportsMole narrative and PPG data",
+      "Q15: São Paulo has significant injury problems with Lucas Moura and Oscar out",
+      "Q16: Juventude missing multiple defenders",
+      "Q17: Clear home/away advantage patterns from FootyStats",
+      "Q18-Q19: H2H data limited - estimated neutral",
+      "P(Empate): Calculated from odds_ft_draw = 3.7 → 27.0%",
+      "No Betfair AH market - using BLIND PRICING approach",
+      "Juventude in relegation battle (15th, 45pts) vs mid-table São Paulo (6th, 59pts)"
+    ]
+  },
+  "yudor_analysis": {
+    "match_id": "SaoPaulovsJuventude_23112025",
+    "raw_casa": 33,
+    "raw_vis": 26,
+    "delta": 7,
+    "yudor_ah_fair": -0.25,
+    "pr_casa": 44.5,
+    "pr_vis": 28.5,
+    "pr_empate": 27.0,
+    "cs_final": 65,
+    "tier": 2,
+    "r_home": 0.34,
+    "r_away": 0.41,
+    "r_fav": 0.34,
+    "r_dog": 0.41,
+    "rbr": -0.09,
+    "r_score": 0.34,
+    "edge_synthetic": 8.0,
+    "decision": "VETO",
+    "reasoning": "CS_final below 70 threshold (65). R_score above 0.25 with key player injuries for home favorite."
+  }
+}

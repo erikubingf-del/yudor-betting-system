@@ -1,0 +1,364 @@
+{
+  "match_id": "CruzeirovsCorinthians_23112025",
+  "match_info": {
+    "id": "CruzeirovsCorinthians_23112025",
+    "home": "Cruzeiro",
+    "away": "Corinthians",
+    "league": "Brasileirão",
+    "date": "23/11/2025"
+  },
+  "timestamp": "2025-11-21T17:36:31.228530",
+  "consolidated_data": {
+    "game_id": "CruzeirovsCorinthians_23112025",
+    "match_info": {
+      "home": "Cruzeiro",
+      "away": "Corinthians",
+      "league": "Brasileirão",
+      "date": "23/11/2025"
+    },
+    "p_empate": 30.3,
+    "betfair_ah_market": null,
+    "q_scores": {
+      "Q1": {
+        "home_score": 6,
+        "away_score": 6,
+        "home_reasoning": "Cruzeiro: Kaio Jorge (€17M, top scorer 19 goals), Matheus Pereira (€12M, 7 assists), Luis Sinisterra (€15M), Fabrício Bruno (€10M) → Total 8.2 → +6",
+        "away_reasoning": "Corinthians: Yuri Alberto (€22M, 10 goals), Rodrigo Garro (€13M), Breno Bidon (€12M), Hugo Souza (€10M) → Total 8.5 → +6",
+        "sources": [
+          "Transfermarkt (values)",
+          "FootyStats (performance)"
+        ]
+      },
+      "Q2": {
+        "home_score": 3,
+        "away_score": 4,
+        "home_reasoning": "Cruzeiro: 1.13 G/J + 1.26 xG → +3",
+        "away_reasoning": "Corinthians: 1.42 G/J + 1.39 xG → +4",
+        "sources": [
+          "FootyStats (G/J and xG averages)"
+        ]
+      },
+      "Q3": {
+        "home_score": 3,
+        "away_score": 3,
+        "home_reasoning": "Quality subs: Gabriel Barbosa (€5M), Wanderson (€5M), Marquinhos (€5M) across positions → +3",
+        "away_reasoning": "Quality subs: Memphis Depay (€9M), Talles Magno (€6M), Gui Negão (€5M) across positions → +3",
+        "sources": [
+          "Transfermarkt (bench values)"
+        ]
+      },
+      "Q4": {
+        "home_score": 3,
+        "away_score": 1,
+        "home_reasoning": "Cruzeiro: 1.08 GA/J + 1.27 xGA → +3",
+        "away_reasoning": "Corinthians: 1.18 GA/J + 1.26 xGA → +1",
+        "sources": [
+          "FootyStats (defensive metrics)"
+        ]
+      },
+      "Q5": {
+        "home_score": 4,
+        "away_score": 5,
+        "home_reasoning": "Leonardo Jardim: 10+ years international experience, Portuguese title winner → +4",
+        "away_reasoning": "Dorival Junior: Brazil national team manager, Champions League semifinalist experience → +5",
+        "sources": [
+          "SportsMole preview text"
+        ]
+      },
+      "Q6": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "Formations not specified in available sources → 0/0 symmetry",
+        "away_reasoning": "Formations not specified in available sources → 0/0 symmetry",
+        "sources": [
+          "SportsMole (formations not detailed)"
+        ]
+      },
+      "Q7": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "No pressing stats available - used balanced default → +2",
+        "away_reasoning": "No pressing stats available - used balanced default → +2",
+        "sources": [
+          "Default (no pressing data available)"
+        ]
+      },
+      "Q8": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "No set piece statistics available - used default → +2",
+        "away_reasoning": "No set piece statistics available - used default → +2",
+        "sources": [
+          "Default (no set piece data)"
+        ]
+      },
+      "Q9": {
+        "home_score": 6,
+        "away_score": 6,
+        "home_reasoning": "Cruzeiro 9th (52pts) - fighting for Libertadores qualification → +6",
+        "away_reasoning": "Corinthians 7th (56pts) - also in Libertadores hunt, headlines mention 'quatro finais' → +6",
+        "sources": [
+          "FootyStats (positions)",
+          "Local media headlines"
+        ]
+      },
+      "Q10": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No derby, manager debut, or revenge context found → 0",
+        "away_reasoning": "No derby, manager debut, or revenge context found → 0",
+        "sources": [
+          "SportsMole preview",
+          "Local media"
+        ]
+      },
+      "Q11": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "Cruzeiro recent form: 10W-5D-4L at home, estimated 2W in last 5 → +2",
+        "away_reasoning": "Corinthians recent form: 5W-3D-11L away, estimated 2W in last 5 → +2",
+        "sources": [
+          "FootyStats (overall form data)"
+        ]
+      },
+      "Q12": {
+        "home_score": 1,
+        "away_score": 1,
+        "home_reasoning": "Form quality estimated as mid-table level → Q11-1 = +1",
+        "away_reasoning": "Form quality estimated as mid-table level → Q11-1 = +1",
+        "sources": [
+          "Estimated from Q11"
+        ]
+      },
+      "Q13": {
+        "home_score": 0,
+        "away_score": 1,
+        "home_reasoning": "Goals 1.13 vs xG 1.26 = -0.13 (slightly unlucky) → 0",
+        "away_reasoning": "Goals 1.42 vs xG 1.39 = +0.03 (performing to xG) → +1",
+        "sources": [
+          "FootyStats (xG vs actual goals)"
+        ]
+      },
+      "Q14": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "No rating data available - used balanced default → +2",
+        "away_reasoning": "No rating data available - used balanced default → +2",
+        "sources": [
+          "Default (no performance ratings)"
+        ]
+      },
+      "Q15": {
+        "home_score": 0,
+        "away_score": -8,
+        "home_reasoning": "No key player injuries mentioned → 0",
+        "away_reasoning": "Yuri Alberto (back injury) ruled out - he's top scorer and key player → -8",
+        "sources": [
+          "SportsMole team news"
+        ]
+      },
+      "Q16": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No defensive cluster injuries → 0",
+        "away_reasoning": "Only one defender mentioned injured → 0",
+        "sources": [
+          "SportsMole team news"
+        ]
+      },
+      "Q17": {
+        "home_score": 8,
+        "away_score": 2,
+        "home_reasoning": "Cruzeiro home: 10W-5D-4L (strong) → +6, Corinthians away: 5W-3D-11L (poor) → +2 bonus = 8",
+        "away_reasoning": "Corinthians away: 5W-3D-11L → +2",
+        "sources": [
+          "FootyStats (home/away records)"
+        ]
+      },
+      "Q18": {
+        "home_score": 3,
+        "away_score": 0,
+        "home_reasoning": "SportsMole mentions Cruzeiro won last two home games vs Corinthians, including 2-1 in Nov 2024 → +3",
+        "away_reasoning": "Lost recent H2H at opponent's venue → 0",
+        "sources": [
+          "SportsMole (H2H record)"
+        ]
+      },
+      "Q19": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No negative H2H scenario - won recent home games vs opponent → 0",
+        "away_reasoning": "Not applicable for away team → 0",
+        "sources": [
+          "SportsMole (H2H context)"
+        ]
+      }
+    },
+    "category_totals": {
+      "technique": {
+        "home": 12,
+        "away": 13
+      },
+      "tactics": {
+        "home": 9,
+        "away": 10
+      },
+      "motivation": {
+        "home": 6,
+        "away": 6
+      },
+      "form": {
+        "home": 3,
+        "away": 3
+      },
+      "performance": {
+        "home": 2,
+        "away": 3
+      },
+      "injuries": {
+        "home": 0,
+        "away": -8
+      },
+      "home_away": {
+        "home": 11,
+        "away": 2
+      }
+    },
+    "raw_scores": {
+      "raw_casa": 43,
+      "raw_vis": 29
+    },
+    "data_quality": {
+      "score": 72,
+      "assessment": "Good",
+      "breakdown": {
+        "q1_player_values": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q2_xg": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q3_bench": {
+          "points": 3,
+          "status": "complete"
+        },
+        "q4_xga": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q5_manager": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q6_formations": {
+          "points": 1,
+          "status": "default"
+        },
+        "q7_pressing": {
+          "points": 1,
+          "status": "default"
+        },
+        "q8_set_pieces": {
+          "points": 1,
+          "status": "default"
+        },
+        "q9_league": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q10_derby": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q11_form": {
+          "points": 2,
+          "status": "estimated"
+        },
+        "q12_opponent": {
+          "points": 2,
+          "status": "estimated"
+        },
+        "q13_xg_delta": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q14_ratings": {
+          "points": 1,
+          "status": "default"
+        },
+        "q15_injuries": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q16_cluster": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q17_home_away": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q18_h2h": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q19_h2h_negative": {
+          "points": 4,
+          "status": "complete"
+        },
+        "betfair_draw": {
+          "points": 10,
+          "status": "calculated from FootyStats odds"
+        },
+        "betfair_ah": {
+          "points": 0,
+          "status": "missing"
+        },
+        "local_media": {
+          "points": 5,
+          "status": "available"
+        },
+        "sportsmole": {
+          "points": 5,
+          "status": "available"
+        }
+      },
+      "missing_critical": [],
+      "proceed": true,
+      "confidence_note": "Good data quality. FootyStats provided excellent core metrics. Missing some tactical details and betting data."
+    },
+    "notes": [
+      "P(Empate) calculated from FootyStats draw odds (3.3) = 30.3%",
+      "Q6: Formation details not available in SportsMole preview",
+      "Q7: No pressing statistics available - used defaults",
+      "Q8: Set piece data not provided",
+      "Q11/Q12: Form estimated from season records due to lack of last-5 specific data",
+      "Q15: Yuri Alberto injury confirmed in SportsMole team news",
+      "Q17: Strong home/away differential favoring Cruzeiro",
+      "Q18: H2H dominance confirmed in SportsMole preview",
+      "No Betfair data available - using blind pricing approach"
+    ]
+  },
+  "yudor_analysis": {
+    "match_id": "CruzeirovsCorinthians_23112025",
+    "raw_casa": 43,
+    "raw_vis": 29,
+    "delta": 14,
+    "yudor_ah_fair": -0.75,
+    "pr_casa": 0.378,
+    "pr_vis": 0.319,
+    "pr_empate": 0.303,
+    "cs_final": 68,
+    "tier": 2,
+    "r_home": 0.24,
+    "r_away": 0.41,
+    "r_fav": 0.24,
+    "r_dog": 0.41,
+    "rbr": -0.26,
+    "r_score": 0.41,
+    "decision": "VETO",
+    "reasoning": "High away team risk (0.41) due to key striker injury and poor away form"
+  }
+}

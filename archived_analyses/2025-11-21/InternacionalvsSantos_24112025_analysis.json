@@ -1,0 +1,371 @@
+{
+  "match_id": "InternacionalvsSantos_24112025",
+  "match_info": {
+    "id": "InternacionalvsSantos_24112025",
+    "home": "Internacional",
+    "away": "Santos",
+    "league": "Brasileirão",
+    "date": "24/11/2025"
+  },
+  "timestamp": "2025-11-21T20:10:38.900583",
+  "consolidated_data": {
+    "game_id": "InternacionalvsSantos_24112025",
+    "match_info": {
+      "home": "Internacional",
+      "away": "Santos",
+      "league": "Brasileirão",
+      "date": "24/11/2025"
+    },
+    "p_empate": 25.0,
+    "betfair_ah_market": null,
+    "q_scores": {
+      "Q1": {
+        "home_score": 6,
+        "away_score": 8,
+        "home_reasoning": "Internacional: Vitão (€12M), Alexandro Bernabei (€7M), Ricardo Mathias (€7M), Rafael Borré (€6M) → Total 8.0 → +6",
+        "away_reasoning": "Santos: Neymar (€11M), Benjamín Rollheiser (€8M), Gabriel Brazão (€8M), Álvaro Barreal (€5M) → Total 8.0 → +8 (Neymar premium)",
+        "sources": [
+          "Transfermarkt (squad values)"
+        ]
+      },
+      "Q2": {
+        "home_score": 5,
+        "away_score": 2,
+        "home_reasoning": "Internacional: 1.39 G/J + 1.42 xG → Above average offense → +5",
+        "away_reasoning": "Santos: Low goals scored (relegation battle) + poor attacking stats → +2",
+        "sources": [
+          "FootyStats API (goals avg, xG)"
+        ]
+      },
+      "Q3": {
+        "home_score": 3,
+        "away_score": 3,
+        "home_reasoning": "Good bench with Bruno Henrique, Alan Rodríguez, and quality youth → +3",
+        "away_reasoning": "Decent bench with Tiquinho Soares, Thaciano, multiple options → +3",
+        "sources": [
+          "Transfermarkt (squad depth)",
+          "SportsMole (team news)"
+        ]
+      },
+      "Q4": {
+        "home_score": 5,
+        "away_score": 0,
+        "home_reasoning": "Internacional: 0.95 GA/J + 1.02 xGA → Excellent defense → +5",
+        "away_reasoning": "Santos: Relegated team, poor defensive record → 0",
+        "sources": [
+          "FootyStats API (goals conceded avg, xGA)"
+        ]
+      },
+      "Q5": {
+        "home_score": 4,
+        "away_score": 2,
+        "home_reasoning": "Ramón Díaz: Experienced Argentine manager with international pedigree → +4",
+        "away_reasoning": "Limited info on Santos manager, likely interim/inexperienced → +2",
+        "sources": [
+          "SportsMole (preview)",
+          "Local media (news headlines)"
+        ]
+      },
+      "Q6": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "Formations not specified in preview → 0",
+        "away_reasoning": "Formations not specified in preview → 0",
+        "sources": [
+          "SportsMole (tactical info not detailed)"
+        ]
+      },
+      "Q7": {
+        "home_score": 3,
+        "away_score": 2,
+        "home_reasoning": "Better organized team with good transitions (inferred from position) → +3",
+        "away_reasoning": "Struggling team, likely poor transitions → +2",
+        "sources": [
+          "SportsMole (preview context)",
+          "FootyStats (team quality indicators)"
+        ]
+      },
+      "Q8": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "No specific set-piece data → Default +2",
+        "away_reasoning": "No specific set-piece data → Default +2",
+        "sources": [
+          "Default estimation"
+        ]
+      },
+      "Q9": {
+        "home_score": 0,
+        "away_score": 12,
+        "home_reasoning": "Internacional 15th position, relatively safe from relegation → 0",
+        "away_reasoning": "Santos 16th position, fighting relegation (3 points from safety) → +12",
+        "sources": [
+          "Transfermarkt (league table)",
+          "Local media (relegation battle context)"
+        ]
+      },
+      "Q10": {
+        "home_score": 0,
+        "away_score": 5,
+        "home_reasoning": "No special context found → 0",
+        "away_reasoning": "Neymar return narrative + relegation pressure + manager under fire → +5",
+        "sources": [
+          "Local media (Neymar headlines)",
+          "SportsMole (pressure context)"
+        ]
+      },
+      "Q11": {
+        "home_score": 3,
+        "away_score": 1,
+        "home_reasoning": "Recent wins including Ceará victory → 3 wins in last 5 → +3",
+        "away_reasoning": "Poor recent form, mostly losses → 1 win in last 5 → +1",
+        "sources": [
+          "Local media (Ceará win mentioned)",
+          "FootyStats (overall record)"
+        ]
+      },
+      "Q12": {
+        "home_score": 3,
+        "away_score": 1,
+        "home_reasoning": "Wins against mixed opposition quality → +3",
+        "away_reasoning": "Few wins, mostly against weaker teams → +1",
+        "sources": [
+          "FootyStats (form context)",
+          "League position analysis"
+        ]
+      },
+      "Q13": {
+        "home_score": 2,
+        "away_score": 0,
+        "home_reasoning": "xG (1.42) ≈ Goals (1.39) - balanced performance → +2",
+        "away_reasoning": "Likely underperforming xG given relegation position → 0",
+        "sources": [
+          "FootyStats API (xG vs goals comparison)"
+        ]
+      },
+      "Q14": {
+        "home_score": 3,
+        "away_score": 1,
+        "home_reasoning": "Decent performances, mid-table consistency → +3",
+        "away_reasoning": "Poor performances, relegation zone → +1",
+        "sources": [
+          "FootyStats (performance metrics)",
+          "League position context"
+        ]
+      },
+      "Q15": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No key player injuries mentioned → 0",
+        "away_reasoning": "No key player injuries mentioned → 0",
+        "sources": [
+          "SportsMole (team news)",
+          "Local media"
+        ]
+      },
+      "Q16": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No defensive cluster injuries → 0",
+        "away_reasoning": "No defensive cluster injuries → 0",
+        "sources": [
+          "SportsMole (team news)"
+        ]
+      },
+      "Q17": {
+        "home_score": 8,
+        "away_score": 2,
+        "home_reasoning": "Internacional: Home PPG 2.0, strong home record (11W-5D-3L) → +6 base + +2 bonus → +8",
+        "away_reasoning": "Santos: Poor away record in relegation battle → +2",
+        "sources": [
+          "FootyStats API (home/away PPG, win rates)"
+        ]
+      },
+      "Q18": {
+        "home_score": 3,
+        "away_score": 0,
+        "home_reasoning": "SportsMole mentions 6-match unbeaten run vs Santos + 7-1 record win → +3",
+        "away_reasoning": "Poor H2H record at Internacional → 0",
+        "sources": [
+          "SportsMole (H2H context)"
+        ]
+      },
+      "Q19": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No extreme negative H2H scenario → 0",
+        "away_reasoning": "N/A for away team → 0",
+        "sources": [
+          "SportsMole (H2H analysis)"
+        ]
+      }
+    },
+    "category_totals": {
+      "technique": {
+        "home": 14,
+        "away": 10
+      },
+      "tactics": {
+        "home": 9,
+        "away": 6
+      },
+      "motivation": {
+        "home": 0,
+        "away": 17
+      },
+      "form": {
+        "home": 6,
+        "away": 2
+      },
+      "performance": {
+        "home": 5,
+        "away": 1
+      },
+      "injuries": {
+        "home": 0,
+        "away": 0
+      },
+      "home_away": {
+        "home": 11,
+        "away": 2
+      }
+    },
+    "raw_scores": {
+      "raw_casa": 45,
+      "raw_vis": 38
+    },
+    "data_quality": {
+      "score": 75,
+      "assessment": "Good",
+      "breakdown": {
+        "q1_player_values": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q2_xg": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q3_bench": {
+          "points": 3,
+          "status": "complete"
+        },
+        "q4_xga": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q5_manager": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q6_formations": {
+          "points": 0,
+          "status": "missing"
+        },
+        "q7_pressing": {
+          "points": 1.5,
+          "status": "inferred"
+        },
+        "q8_set_pieces": {
+          "points": 1,
+          "status": "default"
+        },
+        "q9_league": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q10_derby": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q11_form": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q12_opponent": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q13_xg_delta": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q14_ratings": {
+          "points": 2.5,
+          "status": "estimated"
+        },
+        "q15_injuries": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q16_cluster": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q17_home_away": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q18_h2h": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q19_h2h_negative": {
+          "points": 4,
+          "status": "complete"
+        },
+        "betfair_draw": {
+          "points": 0,
+          "status": "missing"
+        },
+        "betfair_ah": {
+          "points": 0,
+          "status": "missing"
+        },
+        "local_media": {
+          "points": 5,
+          "status": "available"
+        },
+        "sportsmole": {
+          "points": 5,
+          "status": "available"
+        }
+      },
+      "missing_critical": [],
+      "proceed": true,
+      "confidence_note": "Good data quality. Missing Betfair data (blind pricing), formations not detailed in preview, some estimations for performance ratings."
+    },
+    "notes": [
+      "FootyStats API provided excellent xG and form data",
+      "SportsMole preview highlighted Neymar context and H2H record",
+      "Transfermarkt squad values complete for both teams",
+      "Q6: Formations not specified in SportsMole preview",
+      "Q8: No set-piece statistics available - used defaults",
+      "Q9: Clear relegation battle context for Santos vs mid-table Internacional",
+      "Q10: Strong Neymar return narrative + relegation pressure for Santos",
+      "Q17: Internacional strong home record (2.0 PPG) vs Santos away struggles",
+      "Q18: SportsMole mentions Internacional's 6-game unbeaten streak vs Santos"
+    ]
+  },
+  "yudor_analysis": {
+    "match_id": "InternacionalvsSantos_24112025",
+    "raw_casa": 45,
+    "raw_vis": 38,
+    "delta": 7,
+    "yudor_ah_fair": -0.25,
+    "pr_casa": 0.415,
+    "pr_vis": 0.335,
+    "pr_empate": 0.25,
+    "cs_final": 72,
+    "tier": 1,
+    "r_home": 0.18,
+    "r_away": 0.41,
+    "r_fav": 0.18,
+    "r_dog": 0.41,
+    "rbr": -0.39,
+    "r_score": 0.18,
+    "edge_synthetic": 8.0,
+    "decision": "CORE",
+    "reasoning": "Strong CS_final (72), low R_score (0.18), home favorite with solid edge. Santos motivation (+17) offset by Internacional's superior technique/tactics."
+  }
+}

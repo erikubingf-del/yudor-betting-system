@@ -1,0 +1,363 @@
+{
+  "match_id": "AlavésvsCeltaVigo_22112025",
+  "match_info": {
+    "id": "AlavésvsCeltaVigo_22112025",
+    "home": "Alavés",
+    "away": "Celta Vigo",
+    "league": "La Liga",
+    "date": "22/11/2025"
+  },
+  "timestamp": "2025-11-21T18:37:24.167442",
+  "consolidated_data": {
+    "game_id": "AlavésvsCeltaVigo_22112025",
+    "match_info": {
+      "home": "Alavés",
+      "away": "Celta Vigo",
+      "league": "La Liga",
+      "date": "22/11/2025"
+    },
+    "p_empate": 25.0,
+    "betfair_ah_market": {
+      "line": "N/A",
+      "odds": "N/A"
+    },
+    "q_scores": {
+      "Q1": {
+        "home_score": 3,
+        "away_score": 6,
+        "home_reasoning": "Alavés: Antonio Blanco (€10M), Carlos Vicente (€10M), Lucas Boyé (€5M), Jon Pacheco (€4M) → Total 4.5 → +3",
+        "away_reasoning": "Celta: Óscar Mingueza (€18M), Javi Rodríguez (€15M), Hugo Sotelo (€12M), Bryan Zaragoza (€12M) → Total 8.5 → +6",
+        "sources": [
+          "Transfermarkt (values)"
+        ]
+      },
+      "Q2": {
+        "home_score": 2,
+        "away_score": 4,
+        "home_reasoning": "Alavés: 0.92 G/J + 1.33 xG → Decent xG but poor conversion → +2",
+        "away_reasoning": "Celta: 1.25 G/J + 1.35 xG → Good balance of G/J and xG → +4",
+        "sources": [
+          "FootyStats (goals/xG)"
+        ]
+      },
+      "Q3": {
+        "home_score": 2,
+        "away_score": 3,
+        "home_reasoning": "Mid-table team with decent squad depth from Transfermarkt → +2",
+        "away_reasoning": "Larger squad with multiple €10M+ players on bench → +3",
+        "sources": [
+          "Transfermarkt (estimated)"
+        ]
+      },
+      "Q4": {
+        "home_score": 5,
+        "away_score": 1,
+        "home_reasoning": "Alavés: 0.92 GA/J + 1.24 xGA → Excellent defensive record → +5",
+        "away_reasoning": "Celta: 1.5 GA/J + 1.5 xGA → Poor defensive stats → +1",
+        "sources": [
+          "FootyStats (goals against/xGA)"
+        ]
+      },
+      "Q5": {
+        "home_score": 4,
+        "away_score": 2,
+        "home_reasoning": "Eduardo Coudet: Experienced manager with international background → +4",
+        "away_reasoning": "Claudio Giraldez: Younger manager, less proven at top level → +2",
+        "sources": [
+          "SportsMole (manager info)"
+        ]
+      },
+      "Q6": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No tactical formations confirmed in sources → +0",
+        "away_reasoning": "No tactical formations confirmed in sources → +0",
+        "sources": [
+          "No formation data available"
+        ]
+      },
+      "Q7": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "Default for defensive-minded team → +2",
+        "away_reasoning": "Default for balanced team → +2",
+        "sources": [
+          "Default estimate"
+        ]
+      },
+      "Q8": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "Default estimate → +2",
+        "away_reasoning": "Default estimate → +2",
+        "sources": [
+          "Default estimate"
+        ]
+      },
+      "Q9": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "10th position, 15 points - comfortable mid-table → +0",
+        "away_reasoning": "14th position, 13 points - safe from relegation → +0",
+        "sources": [
+          "FootyStats (table position)"
+        ]
+      },
+      "Q10": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "SportsMole mentions 'partido de reencuentros' (reunion match) → +2",
+        "away_reasoning": "Reunion context applies to both teams → +2",
+        "sources": [
+          "MARCA (reunion context)"
+        ]
+      },
+      "Q11": {
+        "home_score": 3,
+        "away_score": 1,
+        "home_reasoning": "Home form: 3W-2D-1L in last 6 matches → +3",
+        "away_reasoning": "Overall: 2W-7D-3L (poor win rate) → +1",
+        "sources": [
+          "FootyStats (form)"
+        ]
+      },
+      "Q12": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "Q11 score adjusted for opponent quality → +2",
+        "away_reasoning": "Q11 score adjusted for opponent quality → +2",
+        "sources": [
+          "Estimated from form"
+        ]
+      },
+      "Q13": {
+        "home_score": 5,
+        "away_score": 1,
+        "home_reasoning": "xG 1.33 > Goals 0.92 (+0.41 unlucky) → +5",
+        "away_reasoning": "xG 1.35 ≈ Goals 1.25 (+0.10 slight underperformance) → +1",
+        "sources": [
+          "FootyStats (xG delta)"
+        ]
+      },
+      "Q14": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "Consistent defensive performances, decent xG → +2",
+        "away_reasoning": "Mixed performances, many draws → +2",
+        "sources": [
+          "FootyStats (performance estimate)"
+        ]
+      },
+      "Q15": {
+        "home_score": 0,
+        "away_score": -8,
+        "home_reasoning": "Lucas Boyé returned from suspension, no key injuries → +0",
+        "away_reasoning": "Hugo Álvarez (€10M winger), Swedberg (€10M winger), Carlos Domínguez (€3M defender) out → -8",
+        "sources": [
+          "SportsMole, MARCA (injuries)"
+        ]
+      },
+      "Q16": {
+        "home_score": 0,
+        "away_score": -4,
+        "home_reasoning": "No defensive cluster injuries → +0",
+        "away_reasoning": "Carlos Domínguez (defender) out, impacts defensive setup → -4",
+        "sources": [
+          "SportsMole, MARCA (injuries)"
+        ]
+      },
+      "Q17": {
+        "home_score": 8,
+        "away_score": 2,
+        "home_reasoning": "Home: 3W in 6 home games + Away opponent: 0W in 7 home games → 6+2 bonus → +8",
+        "away_reasoning": "Away: 2W in 5 away games → +4, Home opponent decent at home → +2",
+        "sources": [
+          "FootyStats (home/away form)"
+        ]
+      },
+      "Q18": {
+        "home_score": 3,
+        "away_score": 1,
+        "home_reasoning": "SportsMole: Alavés won 2 of last 10 H2H, but stronger at home → +3",
+        "away_reasoning": "Celta won 6 of last 10 H2H overall but weaker away → +1",
+        "sources": [
+          "SportsMole (H2H record)"
+        ]
+      },
+      "Q19": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No indication of 0 wins in last 3 H2H at home → +0",
+        "away_reasoning": "Away team, rule doesn't apply → +0",
+        "sources": [
+          "SportsMole (H2H record)"
+        ]
+      }
+    },
+    "category_totals": {
+      "technique": {
+        "home": 12,
+        "away": 14
+      },
+      "tactics": {
+        "home": 8,
+        "away": 6
+      },
+      "motivation": {
+        "home": 2,
+        "away": 2
+      },
+      "form": {
+        "home": 5,
+        "away": 3
+      },
+      "performance": {
+        "home": 7,
+        "away": 3
+      },
+      "injuries": {
+        "home": 0,
+        "away": -12
+      },
+      "home_away": {
+        "home": 11,
+        "away": 3
+      }
+    },
+    "raw_scores": {
+      "raw_casa": 45,
+      "raw_vis": 19
+    },
+    "data_quality": {
+      "score": 78,
+      "assessment": "Good",
+      "breakdown": {
+        "q1_player_values": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q2_xg": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q3_bench": {
+          "points": 1.5,
+          "status": "estimated"
+        },
+        "q4_xga": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q5_manager": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q6_formations": {
+          "points": 1,
+          "status": "missing"
+        },
+        "q7_pressing": {
+          "points": 1,
+          "status": "default"
+        },
+        "q8_set_pieces": {
+          "points": 1,
+          "status": "default"
+        },
+        "q9_league": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q10_derby": {
+          "points": 2,
+          "status": "partial"
+        },
+        "q11_form": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q12_opponent": {
+          "points": 2,
+          "status": "estimated"
+        },
+        "q13_xg_delta": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q14_ratings": {
+          "points": 2,
+          "status": "estimated"
+        },
+        "q15_injuries": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q16_cluster": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q17_home_away": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q18_h2h": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q19_h2h_negative": {
+          "points": 4,
+          "status": "complete"
+        },
+        "betfair_draw": {
+          "points": 0,
+          "status": "missing"
+        },
+        "betfair_ah": {
+          "points": 0,
+          "status": "missing"
+        },
+        "local_media": {
+          "points": 5,
+          "status": "available"
+        },
+        "sportsmole": {
+          "points": 5,
+          "status": "available"
+        }
+      },
+      "missing_critical": [],
+      "proceed": true,
+      "confidence_note": "Good data quality. Missing Betfair odds (blind pricing), formations, and some tactical details, but all critical scoring data available."
+    },
+    "notes": [
+      "Q6: No formation data available from sources - used 0/0",
+      "Q7: No pressing stats available - used default estimates",
+      "Q8: No set-piece data available - used default +2",
+      "Q15: Celta missing 3 key players including €10M+ wingers",
+      "Q16: Carlos Domínguez absence weakens Celta's defense",
+      "Strong home advantage for Alavés based on venue form differential",
+      "Celta's injury crisis significantly impacts their scoring potential"
+    ]
+  },
+  "yudor_analysis": {
+    "match_id": "AlavésvsCeltaVigo_22112025",
+    "raw_casa": 45,
+    "raw_vis": 19,
+    "delta": 26,
+    "yudor_ah_fair": -0.75,
+    "pr_casa": 0.38,
+    "pr_vis": 0.37,
+    "pr_empate": 0.25,
+    "cs_final": 78,
+    "tier": 1,
+    "r_home": 0.25,
+    "r_away": 0.48,
+    "r_fav": 0.25,
+    "r_dog": 0.48,
+    "rbr": -0.32,
+    "r_score": 0.25,
+    "edge_synthetic": 24.0,
+    "decision": "CORE",
+    "reasoning": "Strong home advantage with Celta's injury crisis. R-Score at threshold but RBR favors underdog risk. Tier 1 confidence with 24% synthetic edge supports CORE bet on Alavés -0.75 AH."
+  }
+}

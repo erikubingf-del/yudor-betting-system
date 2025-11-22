@@ -1,0 +1,364 @@
+{
+  "match_id": "TorinovsComo_24112025",
+  "match_info": {
+    "id": "TorinovsComo_24112025",
+    "home": "Torino",
+    "away": "Como",
+    "league": "Serie A",
+    "date": "24/11/2025"
+  },
+  "timestamp": "2025-11-21T20:06:54.061365",
+  "consolidated_data": {
+    "game_id": "TorinovsComo_24112025",
+    "match_info": {
+      "home": "Torino",
+      "away": "Como",
+      "league": "Serie A",
+      "date": "24/11/2025"
+    },
+    "p_empate": 31.5,
+    "betfair_ah_market": {
+      "note": "Using blind pricing - no Betfair data available"
+    },
+    "q_scores": {
+      "Q1": {
+        "home_score": 3,
+        "away_score": 8,
+        "home_reasoning": "Torino key players: Casadei (€15M), Asllani (€13M), Ilić (€13M), Coco (€10M) → Total €51M, avg €12.75M → +3",
+        "away_reasoning": "Como key players: Nico Paz (€55M), Baturina (€20M), Jesús Rodríguez (€30M), Diego Carlos (€9.5M) → Total €114.5M, avg €28.6M → +8",
+        "sources": [
+          "Transfermarkt (squad values)"
+        ]
+      },
+      "Q2": {
+        "home_score": 2,
+        "away_score": 4,
+        "home_reasoning": "Torino: 0.91 G/J + 1.28 xG → Below average offense → +2",
+        "away_reasoning": "Como: 1.09 G/J + 1.47 xG → Good offensive metrics → +4",
+        "sources": [
+          "FootyStats API (goals_scored_avg, xg_for_avg)"
+        ]
+      },
+      "Q3": {
+        "home_score": 2,
+        "away_score": 3,
+        "home_reasoning": "Torino: Mid-table team bench depth estimated → +2",
+        "away_reasoning": "Como: Strong investment (€107M spent), quality bench with Morata, Kühn, Verdi → +3",
+        "sources": [
+          "Transfermarkt (squad depth)",
+          "Default estimation"
+        ]
+      },
+      "Q4": {
+        "home_score": 1,
+        "away_score": 5,
+        "home_reasoning": "Torino: 1.45 GA/J + 1.61 xGA → Poor defensive record → +1",
+        "away_reasoning": "Como: 0.55 GA/J + 1.19 xGA → Excellent defensive record → +5",
+        "sources": [
+          "FootyStats API (goals_conceded_avg, xg_against_avg)"
+        ]
+      },
+      "Q5": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "Paolo Vanoli: Standard Serie A experience → +2",
+        "away_reasoning": "Cesc Fàbregas: Former top player, building reputation as manager → +2",
+        "sources": [
+          "Default estimation based on typical Serie A managers"
+        ]
+      },
+      "Q6": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "Formation data not available in sources → +0",
+        "away_reasoning": "Formation data not available in sources → +0",
+        "sources": [
+          "SportsMole preview incomplete"
+        ]
+      },
+      "Q7": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "No pressing data available → Default +2",
+        "away_reasoning": "No pressing data available → Default +2",
+        "sources": [
+          "Default estimation"
+        ]
+      },
+      "Q8": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "No set-piece data available → Default +2",
+        "away_reasoning": "No set-piece data available → Default +2",
+        "sources": [
+          "Default estimation"
+        ]
+      },
+      "Q9": {
+        "home_score": 6,
+        "away_score": 0,
+        "home_reasoning": "Torino 12th position (14 pts) → Mid-table, some pressure → +6",
+        "away_reasoning": "Como 7th position (18 pts) → Comfortable position → +0",
+        "sources": [
+          "FootyStats API (position, points)"
+        ]
+      },
+      "Q10": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No derby or special context found in news headlines → +0",
+        "away_reasoning": "No derby or special context found in news headlines → +0",
+        "sources": [
+          "Gazzetta headlines analysis"
+        ]
+      },
+      "Q11": {
+        "home_score": 1,
+        "away_score": 3,
+        "home_reasoning": "Torino recent form: 3W-5D-3L overall → Poor form → +1",
+        "away_reasoning": "Como recent form: 4W-6D-1L overall → Good form → +3",
+        "sources": [
+          "FootyStats API (wins, draws, losses)"
+        ]
+      },
+      "Q12": {
+        "home_score": 1,
+        "away_score": 2,
+        "home_reasoning": "Q11 score adjusted for opponent quality → +1",
+        "away_reasoning": "Q11 score adjusted for opponent quality → +2",
+        "sources": [
+          "Estimated from Q11"
+        ]
+      },
+      "Q13": {
+        "home_score": 0,
+        "away_score": 2,
+        "home_reasoning": "Torino: 10 goals vs 1.28*11 = 14.08 xG → Underperforming (unlucky) → +0",
+        "away_reasoning": "Como: 12 goals vs 1.47*11 = 16.17 xG → Slightly underperforming → +2",
+        "sources": [
+          "FootyStats API (xG delta calculation)"
+        ]
+      },
+      "Q14": {
+        "home_score": 1,
+        "away_score": 3,
+        "home_reasoning": "Torino: Negative xG difference (-0.33), poor performances → +1",
+        "away_reasoning": "Como: Positive xG difference (+0.28), solid performances → +3",
+        "sources": [
+          "FootyStats API (xg_diff_overall)"
+        ]
+      },
+      "Q15": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No key player injuries mentioned in sources → +0",
+        "away_reasoning": "No key player injuries mentioned in sources → +0",
+        "sources": [
+          "SportsMole team news"
+        ]
+      },
+      "Q16": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No defensive cluster injuries mentioned → +0",
+        "away_reasoning": "No defensive cluster injuries mentioned → +0",
+        "sources": [
+          "SportsMole team news"
+        ]
+      },
+      "Q17": {
+        "home_score": 6,
+        "away_score": 2,
+        "home_reasoning": "Torino at home: 1.6 PPG vs Como away: 1.2 PPG → Home advantage +6",
+        "away_reasoning": "Como away form: 1.2 PPG (1W-3D-1L) → Modest away record → +2",
+        "sources": [
+          "FootyStats API (ppg_home, ppg_away)"
+        ]
+      },
+      "Q18": {
+        "home_score": 2,
+        "away_score": 0,
+        "home_reasoning": "H2H data: SportsMole shows 1-0 Torino win in previous meeting → +2",
+        "away_reasoning": "Como lost previous H2H at Torino → +0",
+        "sources": [
+          "SportsMole H2H reference"
+        ]
+      },
+      "Q19": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No negative H2H pattern identified → +0",
+        "away_reasoning": "No H2H veto trigger → +0",
+        "sources": [
+          "SportsMole H2H analysis"
+        ]
+      }
+    },
+    "category_totals": {
+      "technique": {
+        "home": 8,
+        "away": 20
+      },
+      "tactics": {
+        "home": 6,
+        "away": 6
+      },
+      "motivation": {
+        "home": 6,
+        "away": 0
+      },
+      "form": {
+        "home": 2,
+        "away": 5
+      },
+      "performance": {
+        "home": 1,
+        "away": 5
+      },
+      "injuries": {
+        "home": 0,
+        "away": 0
+      },
+      "home_away": {
+        "home": 8,
+        "away": 2
+      }
+    },
+    "raw_scores": {
+      "raw_casa": 31,
+      "raw_vis": 38
+    },
+    "data_quality": {
+      "score": 75,
+      "assessment": "Good",
+      "breakdown": {
+        "q1_player_values": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q2_xg": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q3_bench": {
+          "points": 1.5,
+          "status": "estimated"
+        },
+        "q4_xga": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q5_manager": {
+          "points": 1,
+          "status": "default"
+        },
+        "q6_formations": {
+          "points": 1,
+          "status": "missing"
+        },
+        "q7_pressing": {
+          "points": 1,
+          "status": "default"
+        },
+        "q8_set_pieces": {
+          "points": 1,
+          "status": "default"
+        },
+        "q9_league": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q10_derby": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q11_form": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q12_opponent": {
+          "points": 2,
+          "status": "estimated"
+        },
+        "q13_xg_delta": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q14_ratings": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q15_injuries": {
+          "points": 2,
+          "status": "estimated"
+        },
+        "q16_cluster": {
+          "points": 2,
+          "status": "estimated"
+        },
+        "q17_home_away": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q18_h2h": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q19_h2h_negative": {
+          "points": 4,
+          "status": "complete"
+        },
+        "betfair_draw": {
+          "points": 0,
+          "status": "missing"
+        },
+        "betfair_ah": {
+          "points": 0,
+          "status": "missing"
+        },
+        "local_media": {
+          "points": 2.5,
+          "status": "partial"
+        },
+        "sportsmole": {
+          "points": 2.5,
+          "status": "partial"
+        }
+      },
+      "missing_critical": [],
+      "proceed": true,
+      "confidence_note": "Good data quality. FootyStats API provided excellent xG and form data. Missing tactical details and Betfair odds."
+    },
+    "notes": [
+      "Q1: Como has significantly stronger squad values, led by €55M Nico Paz",
+      "Q2-Q4: FootyStats API provided complete xG and goals data - Como superior in offense and defense",
+      "Q6: No formation data available in SportsMole preview",
+      "Q9: Torino in mid-table pressure zone (12th), Como comfortable (7th)",
+      "Q11: Form clearly favors Como (4W-6D-1L vs 3W-5D-3L)",
+      "Q17: Home advantage identified - Torino stronger at home (1.6 PPG vs Como away 1.2 PPG)",
+      "P(Empate) calculated from odds: 100/3.17 = 31.5%",
+      "Using blind pricing - no Betfair AH market data available"
+    ]
+  },
+  "yudor_analysis": {
+    "match_id": "TorinovsComo_24112025",
+    "raw_casa": 31,
+    "raw_vis": 38,
+    "delta": -7,
+    "yudor_ah_fair": 0.25,
+    "pr_casa": 0.315,
+    "pr_vis": 0.37,
+    "pr_empate": 0.315,
+    "cs_final": 62,
+    "tier": 2,
+    "r_home": 0.22,
+    "r_away": 0.18,
+    "r_fav": 0.18,
+    "r_dog": 0.22,
+    "rbr": -0.1,
+    "r_score": 0.18,
+    "edge_synthetic": 8,
+    "decision": "EXP",
+    "reasoning": "R_score 0.18 in EXP range [0.15-0.25], synthetic edge 8% meets threshold"
+  }
+}

@@ -1,0 +1,370 @@
+{
+  "match_id": "BarcelonavsAthleticClub_22112025",
+  "match_info": {
+    "id": "BarcelonavsAthleticClub_22112025",
+    "home": "Barcelona",
+    "away": "Athletic Club",
+    "league": "La Liga",
+    "date": "22/11/2025"
+  },
+  "timestamp": "2025-11-21T17:18:20.721491",
+  "consolidated_data": {
+    "game_id": "BarcelonavsAthleticClub_22112025",
+    "match_info": {
+      "home": "Barcelona",
+      "away": "Athletic Club",
+      "league": "La Liga",
+      "date": "22/11/2025"
+    },
+    "p_empate": 19.2,
+    "betfair_ah_market": {
+      "note": "Using blind pricing - no Betfair odds available"
+    },
+    "q_scores": {
+      "Q1": {
+        "home_score": 8,
+        "away_score": 4,
+        "home_reasoning": "Barcelona: Lamine Yamal (€200M), Pedri (€140M), Raphinha (€90M), Pau Cubarsí (€80M) → Total 12.5 points → +8",
+        "away_reasoning": "Athletic Club: Nico Williams (€70M), Oihan Sancet (€60M), Dani Vivian (€40M), Unai Simón (€28M) → Total 9.9 points → +6",
+        "sources": [
+          "Transfermarkt (squad values)"
+        ]
+      },
+      "Q2": {
+        "home_score": 7,
+        "away_score": 2,
+        "home_reasoning": "Barcelona: 2.67 G/J + 2.29 xG → Both >2.0 AND >1.8 → +7",
+        "away_reasoning": "Athletic Club: 1.0 G/J + 1.5 xG → Below criteria threshold → +2",
+        "sources": [
+          "FootyStats (goals/game, xG averages)"
+        ]
+      },
+      "Q3": {
+        "home_score": 4,
+        "away_score": 2,
+        "home_reasoning": "Barcelona: Quality subs in attack (Ferran Torres €50M, Rashford €40M), midfield (Dani Olmo €60M, Fermín López €60M), defense (Christensen €12M) → +4",
+        "away_reasoning": "Athletic Club: Limited quality depth, few high-value bench players → +2",
+        "sources": [
+          "Transfermarkt (bench values)",
+          "SportsMole (team news)"
+        ]
+      },
+      "Q4": {
+        "home_score": 3,
+        "away_score": 3,
+        "home_reasoning": "Barcelona: 1.25 GA/J + 1.03 xGA → Within 0.8-1.2 AND 0.9-1.3 range → +3",
+        "away_reasoning": "Athletic Club: 1.08 GA/J + 1.05 xGA → Within 0.8-1.2 AND 0.9-1.3 range → +3",
+        "sources": [
+          "FootyStats (goals conceded, xGA)"
+        ]
+      },
+      "Q5": {
+        "home_score": 7,
+        "away_score": 5,
+        "home_reasoning": "Hansi Flick: Champions League winner with Bayern, top-tier manager → +7",
+        "away_reasoning": "Ernesto Valverde: Experienced La Liga manager, 10+ years international experience → +5",
+        "sources": [
+          "SportsMole (manager info)",
+          "News headlines"
+        ]
+      },
+      "Q6": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "Formations not specified in available data → Default 0/0 symmetry",
+        "away_reasoning": "Formations not specified in available data → Default 0/0 symmetry",
+        "sources": [
+          "SportsMole (tactical info incomplete)"
+        ]
+      },
+      "Q7": {
+        "home_score": 3,
+        "away_score": 2,
+        "home_reasoning": "Barcelona: High attacking output suggests effective transitions → +3",
+        "away_reasoning": "Athletic Club: Lower attacking metrics suggest slower transitions → +2",
+        "sources": [
+          "FootyStats (attacking metrics)",
+          "Default estimation"
+        ]
+      },
+      "Q8": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "No specific set-piece data available → Default +2",
+        "away_reasoning": "No specific set-piece data available → Default +2",
+        "sources": [
+          "Default estimation"
+        ]
+      },
+      "Q9": {
+        "home_score": 6,
+        "away_score": 0,
+        "home_reasoning": "Barcelona: 2nd place, 3 points behind Real Madrid in title race → Must-win context → +6",
+        "away_reasoning": "Athletic Club: 7th place, no immediate relegation or European pressure → +0",
+        "sources": [
+          "FootyStats (league positions)",
+          "News context"
+        ]
+      },
+      "Q10": {
+        "home_score": 5,
+        "away_score": 0,
+        "home_reasoning": "Historic return to Camp Nou after 909 days - massive emotional/motivational factor → +5",
+        "away_reasoning": "No special context for Athletic Club → +0",
+        "sources": [
+          "SportsMole (Camp Nou return)",
+          "News headlines"
+        ]
+      },
+      "Q11": {
+        "home_score": 4,
+        "away_score": 2,
+        "home_reasoning": "Barcelona: 9W-1D-2L overall record suggests 4+ wins in last 5 → +4",
+        "away_reasoning": "Athletic Club: 5W-2D-5L overall suggests 2 wins in last 5 → +2",
+        "sources": [
+          "FootyStats (recent record)"
+        ]
+      },
+      "Q12": {
+        "home_score": 3,
+        "away_score": 2,
+        "home_reasoning": "Barcelona: Strong record suggests wins against quality opposition → +3",
+        "away_reasoning": "Athletic Club: Mixed record, likely beat lower-tier teams → +2",
+        "sources": [
+          "FootyStats (form analysis)"
+        ]
+      },
+      "Q13": {
+        "home_score": 2,
+        "away_score": 0,
+        "home_reasoning": "Barcelona: 2.67 goals vs 2.29 xG → Goals slightly exceed xG (+0.38) → Lucky but within range → +2",
+        "away_reasoning": "Athletic Club: 1.0 goals vs 1.5 xG → Significantly unlucky (-0.5) → Should be +5 but inverting for away team → +0",
+        "sources": [
+          "FootyStats (goals vs xG)"
+        ]
+      },
+      "Q14": {
+        "home_score": 3,
+        "away_score": 1,
+        "home_reasoning": "Barcelona: Strong attacking metrics and high goal output suggest good performances → +3",
+        "away_reasoning": "Athletic Club: Low goal output relative to xG suggests poor finishing → +1",
+        "sources": [
+          "FootyStats (performance metrics)"
+        ]
+      },
+      "Q15": {
+        "home_score": -8,
+        "away_score": 0,
+        "home_reasoning": "Pedri (€140M, key midfielder) is injured per SportsMole → Major absence → -8",
+        "away_reasoning": "No key player absences mentioned → +0",
+        "sources": [
+          "SportsMole (injury report)",
+          "Transfermarkt (player values)"
+        ]
+      },
+      "Q16": {
+        "home_score": 0,
+        "away_score": -4,
+        "home_reasoning": "No cluster of defensive injuries mentioned → +0",
+        "away_reasoning": "Yeray Álvarez suspended, Unai Egiluz injured - 2+ defensive absences → -4",
+        "sources": [
+          "SportsMole (team news)"
+        ]
+      },
+      "Q17": {
+        "home_score": 10,
+        "away_score": 0,
+        "home_reasoning": "Barcelona home: 5W-0D-0L (perfect record) → +6 base. Athletic away: 1W-1D-3L → +4 bonus → Total 10",
+        "away_reasoning": "Athletic away: 1W-1D-3L (poor away record) → +0",
+        "sources": [
+          "FootyStats (home/away records)"
+        ]
+      },
+      "Q18": {
+        "home_score": 3,
+        "away_score": 0,
+        "home_reasoning": "Barcelona historically strong at home vs Athletic, won last 3 meetings → +3",
+        "away_reasoning": "Athletic poor recent H2H record at Barcelona → +0",
+        "sources": [
+          "SportsMole (H2H context)"
+        ]
+      },
+      "Q19": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No evidence of 0 wins in last 3 H2H at home → No penalty → +0",
+        "away_reasoning": "Not applicable for away team → +0",
+        "sources": [
+          "SportsMole (H2H analysis)"
+        ]
+      }
+    },
+    "category_totals": {
+      "technique": {
+        "home": 22,
+        "away": 11
+      },
+      "tactics": {
+        "home": 12,
+        "away": 9
+      },
+      "motivation": {
+        "home": 11,
+        "away": 0
+      },
+      "form": {
+        "home": 7,
+        "away": 4
+      },
+      "performance": {
+        "home": 5,
+        "away": 1
+      },
+      "injuries": {
+        "home": -8,
+        "away": -4
+      },
+      "home_away": {
+        "home": 13,
+        "away": 0
+      }
+    },
+    "raw_scores": {
+      "raw_casa": 62,
+      "raw_vis": 21
+    },
+    "data_quality": {
+      "score": 82,
+      "assessment": "Good",
+      "breakdown": {
+        "q1_player_values": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q2_xg": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q3_bench": {
+          "points": 3,
+          "status": "complete"
+        },
+        "q4_xga": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q5_manager": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q6_formations": {
+          "points": 1,
+          "status": "default"
+        },
+        "q7_pressing": {
+          "points": 1,
+          "status": "default"
+        },
+        "q8_set_pieces": {
+          "points": 1,
+          "status": "default"
+        },
+        "q9_league": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q10_derby": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q11_form": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q12_opponent": {
+          "points": 2,
+          "status": "estimated"
+        },
+        "q13_xg_delta": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q14_ratings": {
+          "points": 2.5,
+          "status": "estimated"
+        },
+        "q15_injuries": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q16_cluster": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q17_home_away": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q18_h2h": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q19_h2h_negative": {
+          "points": 4,
+          "status": "complete"
+        },
+        "betfair_draw": {
+          "points": 0,
+          "status": "missing"
+        },
+        "betfair_ah": {
+          "points": 0,
+          "status": "missing"
+        },
+        "local_media": {
+          "points": 5,
+          "status": "available"
+        },
+        "sportsmole": {
+          "points": 5,
+          "status": "available"
+        }
+      },
+      "missing_critical": [],
+      "proceed": true,
+      "confidence_note": "Good data quality. FootyStats provides excellent core metrics. Missing tactical details and Betfair odds but sufficient for analysis."
+    },
+    "notes": [
+      "Q1: Complete squad valuations from Transfermarkt - Barcelona significantly stronger",
+      "Q2: Excellent xG and goals data from FootyStats API",
+      "Q6: Formation details not available in SportsMole preview",
+      "Q7-Q8: Used default scoring due to missing pressing/set-piece stats",
+      "Q10: Major motivational factor - Barcelona's emotional return to Camp Nou after 909 days",
+      "Q15: Pedri injury is significant given his €140M valuation and importance",
+      "Q16: Athletic Club missing 2 defenders (Yeray suspended, Egiluz injured)",
+      "No Betfair odds data - using blind pricing approach",
+      "FootyStats API provided comprehensive performance data",
+      "Historic Camp Nou return creates massive home advantage"
+    ]
+  },
+  "yudor_analysis": {
+    "match_id": "BarcelonavsAthleticClub_22112025",
+    "raw_casa": 62,
+    "raw_vis": 21,
+    "delta": 41,
+    "yudor_ah_fair": -1.25,
+    "pr_casa": 0.608,
+    "pr_vis": 0.2,
+    "pr_empate": 0.192,
+    "cs_final": 74,
+    "tier": 1,
+    "r_home": 0.22,
+    "r_away": 0.35,
+    "r_fav": 0.22,
+    "r_dog": 0.35,
+    "rbr": -0.23,
+    "r_score": 0.22,
+    "decision": "CORE",
+    "reasoning": "Strong technical and motivational edge for Barcelona, Camp Nou return emotional factor, manageable risk profile despite Pedri injury"
+  }
+}

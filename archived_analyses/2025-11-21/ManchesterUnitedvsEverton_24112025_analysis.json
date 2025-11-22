@@ -1,0 +1,372 @@
+{
+  "match_id": "ManchesterUnitedvsEverton_24112025",
+  "match_info": {
+    "id": "ManchesterUnitedvsEverton_24112025",
+    "home": "Manchester United",
+    "away": "Everton",
+    "league": "Premier League",
+    "date": "24/11/2025"
+  },
+  "timestamp": "2025-11-21T17:26:25.751924",
+  "consolidated_data": {
+    "game_id": "ManchesterUnitedvsEverton_24112025",
+    "match_info": {
+      "home": "Manchester United",
+      "away": "Everton",
+      "league": "Premier League",
+      "date": "24/11/2025"
+    },
+    "p_empate": 24.7,
+    "betfair_ah_market": {
+      "note": "Not available - using blind pricing methodology"
+    },
+    "q_scores": {
+      "Q1": {
+        "home_score": 7,
+        "away_score": 3,
+        "home_reasoning": "Man Utd: Bruno Fernandes (€45M, captain), Mainoo (€45M, young star), Mbeumo (€70M, top scorer), De Ligt (€38M, defender) → Total 9.25 → +7",
+        "away_reasoning": "Everton: Branthwaite (€50M, top defender), Ndiaye (€35M, top scorer), Dibling (€35M), Pickford (€18M, GK) → Total 6.9 → +3",
+        "sources": [
+          "Transfermarkt (values)",
+          "FootyStats (goals/assists)"
+        ]
+      },
+      "Q2": {
+        "home_score": 5,
+        "away_score": 2,
+        "home_reasoning": "Man Utd: 1.73 G/J + 1.60 xG → Above average offense → +5",
+        "away_reasoning": "Everton: 1.09 G/J + 1.29 xG → Below average offense → +2",
+        "sources": [
+          "FootyStats API (goals_scored_avg, xg_for_avg)"
+        ]
+      },
+      "Q3": {
+        "home_score": 3,
+        "away_score": 2,
+        "home_reasoning": "Man Utd: Quality subs in Mount (€28M), Zirkzee (€28M), Casemiro (€10M) - depth in key positions → +3",
+        "away_reasoning": "Everton: Limited bench quality, Beto (€22M) main sub, weaker overall depth → +2",
+        "sources": [
+          "Transfermarkt (squad values)",
+          "SportsMole (team news)"
+        ]
+      },
+      "Q4": {
+        "home_score": 3,
+        "away_score": 3,
+        "home_reasoning": "Man Utd: 1.64 GA/J + 1.36 xGA → Balanced defensive record → +3",
+        "away_reasoning": "Everton: 1.18 GA/J + 1.45 xGA → Similar defensive solidity → +3",
+        "sources": [
+          "FootyStats API (goals_conceded_avg, xg_against_avg)"
+        ]
+      },
+      "Q5": {
+        "home_score": 5,
+        "away_score": 4,
+        "home_reasoning": "Amorim: Champions League semifinalist with Sporting, established tactical reputation → +5",
+        "away_reasoning": "Moyes: Extensive Premier League experience, proven mid-table specialist → +4",
+        "sources": [
+          "SportsMole preview",
+          "Sky Sports news"
+        ]
+      },
+      "Q6": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "Formation data not specified in sources → Default symmetry → +2",
+        "away_reasoning": "Formation data not specified in sources → Default symmetry → +2",
+        "sources": [
+          "Default - formations not confirmed"
+        ]
+      },
+      "Q7": {
+        "home_score": 3,
+        "away_score": 2,
+        "home_reasoning": "Amorim's high-intensity system, improved transitions mentioned in analysis → +3",
+        "away_reasoning": "Moyes' traditional approach, less emphasis on quick transitions → +2",
+        "sources": [
+          "Sky Sports analysis",
+          "SportsMole preview"
+        ]
+      },
+      "Q8": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "No specific set-piece data available → Default +2",
+        "away_reasoning": "No specific set-piece data available → Default +2",
+        "sources": [
+          "Default - no set-piece data"
+        ]
+      },
+      "Q9": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "Man Utd 7th position, 18 points - mid-table, no urgent need → 0",
+        "away_reasoning": "Everton 13th position, 15 points - safe from relegation, no pressure → 0",
+        "sources": [
+          "FootyStats API (position, points)"
+        ]
+      },
+      "Q10": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No derby context, revenge narrative, or manager debut identified → 0",
+        "away_reasoning": "No derby context, revenge narrative, or manager debut identified → 0",
+        "sources": [
+          "Sky Sports news",
+          "SportsMole preview"
+        ]
+      },
+      "Q11": {
+        "home_score": 3,
+        "away_score": 2,
+        "home_reasoning": "Man Utd: Unbeaten in last 5 PL matches, mixed results but consistent → +3",
+        "away_reasoning": "Everton: Recent win vs Fulham but inconsistent overall form → +2",
+        "sources": [
+          "Sky Sports fixtures",
+          "SportsMole match reports"
+        ]
+      },
+      "Q12": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "Faced mixed quality opponents recently, no standout wins vs top teams → +2",
+        "away_reasoning": "Similar opponent quality, recent win vs Fulham is decent → +2",
+        "sources": [
+          "Sky Sports results",
+          "FootyStats data"
+        ]
+      },
+      "Q13": {
+        "home_score": 2,
+        "away_score": 0,
+        "home_reasoning": "Man Utd: 1.73 goals vs 1.60 xG → slightly lucky but close → +2",
+        "away_reasoning": "Everton: 1.09 goals vs 1.29 xG → unlucky, underperforming xG → 0",
+        "sources": [
+          "FootyStats API (xg_for_avg vs goals_scored_avg)"
+        ]
+      },
+      "Q14": {
+        "home_score": 2,
+        "away_score": 1,
+        "home_reasoning": "Home: 1.92 xG, Away: 1.33 xG - decent performance levels → +2",
+        "away_reasoning": "Home: 1.60 xG, Away: 0.92 xG - poor away performances → +1",
+        "sources": [
+          "FootyStats API (xg_for_avg_home, xg_for_avg_away)"
+        ]
+      },
+      "Q15": {
+        "home_score": -8,
+        "away_score": 0,
+        "home_reasoning": "Sesko and Maguire confirmed OUT for Everton match per Amorim → −8",
+        "away_reasoning": "No key player injuries mentioned in available sources → 0",
+        "sources": [
+          "Sky Sports (Amorim fitness updates)",
+          "SportsMole team news"
+        ]
+      },
+      "Q16": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No cluster of defensive injuries reported → 0",
+        "away_reasoning": "No cluster of defensive injuries reported → 0",
+        "sources": [
+          "Sky Sports team news",
+          "SportsMole preview"
+        ]
+      },
+      "Q17": {
+        "home_score": 8,
+        "away_score": 2,
+        "home_reasoning": "Man Utd: 4W-0D-1L at home (12/15 pts) vs Everton 1W-1D-3L away (4/15 pts) → +8",
+        "away_reasoning": "Everton: Poor away record (0.8 PPG) vs Man Utd strong home form → +2",
+        "sources": [
+          "FootyStats API (ppg_home vs ppg_away)"
+        ]
+      },
+      "Q18": {
+        "home_score": 3,
+        "away_score": 0,
+        "home_reasoning": "Man Utd won 6 of last 7 vs Everton, including 4-0 at Old Trafford last season → +3",
+        "away_reasoning": "Everton haven't beaten Man Utd away since December 2013 → 0",
+        "sources": [
+          "SportsMole H2H record"
+        ]
+      },
+      "Q19": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "Strong H2H record at home, no veto scenario → 0",
+        "away_reasoning": "N/A for away team → 0",
+        "sources": [
+          "SportsMole H2H record"
+        ]
+      }
+    },
+    "category_totals": {
+      "technique": {
+        "home": 18,
+        "away": 10
+      },
+      "tactics": {
+        "home": 12,
+        "away": 10
+      },
+      "motivation": {
+        "home": 0,
+        "away": 0
+      },
+      "form": {
+        "home": 5,
+        "away": 4
+      },
+      "performance": {
+        "home": 4,
+        "away": 1
+      },
+      "injuries": {
+        "home": -8,
+        "away": 0
+      },
+      "home_away": {
+        "home": 11,
+        "away": 2
+      }
+    },
+    "raw_scores": {
+      "raw_casa": 42,
+      "raw_vis": 27
+    },
+    "data_quality": {
+      "score": 82,
+      "assessment": "Good",
+      "breakdown": {
+        "q1_player_values": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q2_xg": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q3_bench": {
+          "points": 3,
+          "status": "complete"
+        },
+        "q4_xga": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q5_manager": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q6_formations": {
+          "points": 1,
+          "status": "default"
+        },
+        "q7_pressing": {
+          "points": 1.5,
+          "status": "inferred"
+        },
+        "q8_set_pieces": {
+          "points": 1,
+          "status": "default"
+        },
+        "q9_league": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q10_derby": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q11_form": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q12_opponent": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q13_xg_delta": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q14_ratings": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q15_injuries": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q16_cluster": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q17_home_away": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q18_h2h": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q19_h2h_negative": {
+          "points": 4,
+          "status": "complete"
+        },
+        "betfair_draw": {
+          "points": 0,
+          "status": "not_required_blind_pricing"
+        },
+        "betfair_ah": {
+          "points": 0,
+          "status": "not_required_blind_pricing"
+        },
+        "local_media": {
+          "points": 5,
+          "status": "available"
+        },
+        "sportsmole": {
+          "points": 5,
+          "status": "available"
+        }
+      },
+      "missing_critical": [],
+      "proceed": true,
+      "confidence_note": "Good data quality. FootyStats API provided excellent statistical foundation. Missing only tactical formations and set-piece specifics."
+    },
+    "notes": [
+      "Q1: Used Transfermarkt squad values and goal/assist leaders from FootyStats",
+      "Q2-Q4: FootyStats API provided comprehensive xG and goals data",
+      "Q6: Formation data not available in sources - used default symmetry",
+      "Q8: No set-piece statistics available - used defaults",
+      "Q15: Critical injury news confirmed for Man Utd (Sesko, Maguire out)",
+      "Q17: Strong home/away differential clearly favors Man Utd",
+      "Q18: Historical H2H dominance at Old Trafford well documented",
+      "P(Empate): Calculated from FootyStats odds (100/4.05 = 24.7%)",
+      "Using blind pricing methodology - no Betfair AH market required"
+    ]
+  },
+  "yudor_analysis": {
+    "match_id": "ManchesterUnitedvsEverton_24112025",
+    "raw_casa": 42,
+    "raw_vis": 27,
+    "delta": 15,
+    "yudor_ah_fair": -0.75,
+    "pr_casa": 0.379,
+    "pr_vis": 0.374,
+    "pr_empate": 0.247,
+    "cs_final": 68,
+    "tier": 2,
+    "r_home": 0.31,
+    "r_away": 0.22,
+    "r_fav": 0.31,
+    "r_dog": 0.22,
+    "rbr": 0.17,
+    "r_score": 0.31,
+    "decision": "VETO",
+    "reasoning": "R-Score 0.31 exceeds 0.25 threshold with key player injuries and moderate home advantage offset by risk factors"
+  }
+}

@@ -1,0 +1,359 @@
+{
+  "match_id": "FlamengovsRedBullBragantino_22112025",
+  "match_info": {
+    "id": "FlamengovsRedBullBragantino_22112025",
+    "home": "Flamengo",
+    "away": "Red Bull Bragantino",
+    "league": "Brasileirão",
+    "date": "22/11/2025"
+  },
+  "timestamp": "2025-11-21T17:35:25.134506",
+  "consolidated_data": {
+    "game_id": "FlamengovsRedBullBragantino_22112025",
+    "match_info": {
+      "home": "Flamengo",
+      "away": "Red Bull Bragantino",
+      "league": "Brasileirão",
+      "date": "22/11/2025"
+    },
+    "p_empate": 27.8,
+    "betfair_ah_market": null,
+    "q_scores": {
+      "Q1": {
+        "home_score": 8,
+        "away_score": 4,
+        "home_reasoning": "Flamengo: Pedro (€20M), Arrascaeta (€15M), Léo Ortiz (€15M), Samuel Lino (€22M) → Total quality index ~12.0 → +8",
+        "away_reasoning": "Bragantino: Jhon Jhon (€9M), Isidro Pitta (€7.5M), Juninho Capixaba (€6M), Fabinho (€5M) → Total quality index ~6.5 → +4",
+        "sources": [
+          "Transfermarkt (values)"
+        ]
+      },
+      "Q2": {
+        "home_score": 6,
+        "away_score": 2,
+        "home_reasoning": "Flamengo: 1.61 G/J + 1.49 xG → Above average attack → +6",
+        "away_reasoning": "Bragantino: 1.16 G/J + 1.29 xG → Below average attack → +2",
+        "sources": [
+          "FootyStats (goals_scored_avg_overall, xg_for_avg_overall)"
+        ]
+      },
+      "Q3": {
+        "home_score": 4,
+        "away_score": 2,
+        "home_reasoning": "Flamengo: Deep squad with quality alternatives like Michael (€4M), Saúl (€3M), multiple options → +4",
+        "away_reasoning": "Bragantino: Limited bench depth, fewer quality options → +2",
+        "sources": [
+          "Transfermarkt (squad depth)"
+        ]
+      },
+      "Q4": {
+        "home_score": 3,
+        "away_score": 1,
+        "home_reasoning": "Flamengo: 1.11 GA/J + 1.06 xGA → Decent but not elite defense → +3",
+        "away_reasoning": "Bragantino: 1.26 GA/J + 1.34 xGA → Poor defensive record → +1",
+        "sources": [
+          "FootyStats (goals_conceded_avg_overall, xg_against_avg_overall)"
+        ]
+      },
+      "Q5": {
+        "home_score": 5,
+        "away_score": 4,
+        "home_reasoning": "Filipe Luís: Former Brazil international, experienced player turned coach → +5",
+        "away_reasoning": "Vagner Mancini: Established Brazilian manager with good experience → +4",
+        "sources": [
+          "SportsMole (manager info)"
+        ]
+      },
+      "Q6": {
+        "home_score": 3,
+        "away_score": 3,
+        "home_reasoning": "Expected formations balanced, no clear tactical advantage identified → +3",
+        "away_reasoning": "Expected formations balanced, no clear tactical advantage identified → +3",
+        "sources": [
+          "SportsMole (tactical preview)"
+        ]
+      },
+      "Q7": {
+        "home_score": 3,
+        "away_score": 3,
+        "home_reasoning": "No specific pressing/transition data available, using balanced default → +3",
+        "away_reasoning": "No specific pressing/transition data available, using balanced default → +3",
+        "sources": [
+          "Default estimation"
+        ]
+      },
+      "Q8": {
+        "home_score": 3,
+        "away_score": 3,
+        "home_reasoning": "No specific set-piece data available, using average default → +3",
+        "away_reasoning": "No specific set-piece data available, using average default → +3",
+        "sources": [
+          "Default estimation"
+        ]
+      },
+      "Q9": {
+        "home_score": 0,
+        "away_score": 6,
+        "home_reasoning": "Flamengo: 3rd place (70 pts) - comfortable position, no must-win pressure → 0",
+        "away_reasoning": "Bragantino: 16th place (44 pts) - fighting relegation, within 3 points of Z4 → +6",
+        "sources": [
+          "FootyStats (table position, points)"
+        ]
+      },
+      "Q10": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No derby, manager debut, or revenge context found in sources → 0",
+        "away_reasoning": "No derby, manager debut, or revenge context found in sources → 0",
+        "sources": [
+          "Local media, SportsMole"
+        ]
+      },
+      "Q11": {
+        "home_score": 3,
+        "away_score": 2,
+        "home_reasoning": "Flamengo: Recent form decent with 20W-10D-8L overall → +3",
+        "away_reasoning": "Bragantino: Poor form with 10W-14D-14L overall → +2",
+        "sources": [
+          "FootyStats (wins_overall, season record)"
+        ]
+      },
+      "Q12": {
+        "home_score": 2,
+        "away_score": 1,
+        "home_reasoning": "Normalizing against mid-table opposition quality → +2",
+        "away_reasoning": "Limited quality opposition faced → +1",
+        "sources": [
+          "FootyStats (estimated from league position)"
+        ]
+      },
+      "Q13": {
+        "home_score": 3,
+        "away_score": 2,
+        "home_reasoning": "Flamengo: 1.61 Goals vs 1.49 xG → Slightly overperforming (+0.12) → +3",
+        "away_reasoning": "Bragantino: 1.16 Goals vs 1.29 xG → Underperforming (-0.13) → +2",
+        "sources": [
+          "FootyStats (goals vs xG comparison)"
+        ]
+      },
+      "Q14": {
+        "home_score": 3,
+        "away_score": 2,
+        "home_reasoning": "Strong xG performance (1.49) and good goal conversion → +3",
+        "away_reasoning": "Decent xG creation (1.29) but poor conversion → +2",
+        "sources": [
+          "FootyStats (xG metrics)"
+        ]
+      },
+      "Q15": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "Bruno Henrique injury scare but 'exame não aponta lesão' - available → 0",
+        "away_reasoning": "Pedro Henrique and Vanderlan return, no key player injuries → 0",
+        "sources": [
+          "Local media (injury updates)"
+        ]
+      },
+      "Q16": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No defensive cluster injuries mentioned → 0",
+        "away_reasoning": "No defensive cluster injuries mentioned → 0",
+        "sources": [
+          "SportsMole, local media"
+        ]
+      },
+      "Q17": {
+        "home_score": 8,
+        "away_score": 1,
+        "home_reasoning": "Flamengo home: 2.0 PPG (11W-5D-3L) → Strong home record → +8",
+        "away_reasoning": "Bragantino away: 0.68 PPG (2W-7D-10L) → Terrible away record → +1",
+        "sources": [
+          "FootyStats (home/away splits)"
+        ]
+      },
+      "Q18": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "No specific H2H at home data available, using default → +2",
+        "away_reasoning": "No specific H2H at home data available, using default → +2",
+        "sources": [
+          "Default - H2H data not provided"
+        ]
+      },
+      "Q19": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No H2H veto scenario identified → 0",
+        "away_reasoning": "No H2H veto scenario identified → 0",
+        "sources": [
+          "Default - H2H data not provided"
+        ]
+      }
+    },
+    "category_totals": {
+      "technique": {
+        "home": 21,
+        "away": 9
+      },
+      "tactics": {
+        "home": 14,
+        "away": 13
+      },
+      "motivation": {
+        "home": 0,
+        "away": 6
+      },
+      "form": {
+        "home": 5,
+        "away": 3
+      },
+      "performance": {
+        "home": 6,
+        "away": 4
+      },
+      "injuries": {
+        "home": 0,
+        "away": 0
+      },
+      "home_away": {
+        "home": 10,
+        "away": 3
+      }
+    },
+    "raw_scores": {
+      "raw_casa": 56,
+      "raw_vis": 38
+    },
+    "data_quality": {
+      "score": 75,
+      "assessment": "Good",
+      "breakdown": {
+        "q1_player_values": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q2_xg": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q3_bench": {
+          "points": 2.5,
+          "status": "estimated"
+        },
+        "q4_xga": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q5_manager": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q6_formations": {
+          "points": 1,
+          "status": "default"
+        },
+        "q7_pressing": {
+          "points": 1,
+          "status": "default"
+        },
+        "q8_set_pieces": {
+          "points": 1,
+          "status": "default"
+        },
+        "q9_league": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q10_derby": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q11_form": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q12_opponent": {
+          "points": 2,
+          "status": "estimated"
+        },
+        "q13_xg_delta": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q14_ratings": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q15_injuries": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q16_cluster": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q17_home_away": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q18_h2h": {
+          "points": 1,
+          "status": "default"
+        },
+        "q19_h2h_negative": {
+          "points": 2,
+          "status": "default"
+        },
+        "betfair_draw": {
+          "points": 0,
+          "status": "missing"
+        },
+        "betfair_ah": {
+          "points": 0,
+          "status": "missing"
+        },
+        "local_media": {
+          "points": 5,
+          "status": "available"
+        },
+        "sportsmole": {
+          "points": 5,
+          "status": "available"
+        }
+      },
+      "missing_critical": [],
+      "proceed": true,
+      "confidence_note": "Good data quality. FootyStats provides excellent statistical foundation. Missing Betfair odds but tactical/formation details limited."
+    },
+    "notes": [
+      "Q6-Q8: Limited tactical details from SportsMole, used balanced defaults",
+      "Q18-Q19: No H2H data provided in sources",
+      "Strong statistical foundation from FootyStats API",
+      "Bragantino fighting relegation (16th, 44pts) vs comfortable Flamengo (3rd, 70pts)",
+      "Flamengo's home advantage (2.0 PPG) vs Bragantino's poor away form (0.68 PPG) is decisive",
+      "Bruno Henrique injury scare resolved - player available",
+      "No Betfair odds available - using draw odds estimation from FootyStats (3.6 → 27.8%)"
+    ]
+  },
+  "yudor_analysis": {
+    "match_id": "FlamengovsRedBullBragantino_22112025",
+    "raw_casa": 56,
+    "raw_vis": 38,
+    "delta": 18,
+    "yudor_ah_fair": -1.25,
+    "pr_casa": 0.511,
+    "pr_vis": 0.211,
+    "pr_empate": 0.278,
+    "cs_final": 78,
+    "tier": 1,
+    "r_home": 0.24,
+    "r_away": 0.42,
+    "r_fav": 0.24,
+    "r_dog": 0.42,
+    "rbr": -0.27,
+    "r_score": 0.24,
+    "decision": "CORE",
+    "reasoning": "Strong technical edge for Flamengo at home vs relegation-threatened Bragantino. High confidence (CS=78) with moderate risk profile."
+  }
+}

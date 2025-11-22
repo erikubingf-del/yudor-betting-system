@@ -1,0 +1,367 @@
+{
+  "match_id": "EspanyolvsSevilla_24112025",
+  "match_info": {
+    "id": "EspanyolvsSevilla_24112025",
+    "home": "Espanyol",
+    "away": "Sevilla",
+    "league": "La Liga",
+    "date": "24/11/2025"
+  },
+  "timestamp": "2025-11-21T20:05:51.242641",
+  "consolidated_data": {
+    "game_id": "LALIGA_20251124_ESP_SEV",
+    "match_info": {
+      "home": "Espanyol",
+      "away": "Sevilla",
+      "league": "La Liga",
+      "date": "24/11/2025"
+    },
+    "p_empate": 29.9,
+    "betfair_ah_market": null,
+    "q_scores": {
+      "Q1": {
+        "home_score": 3,
+        "away_score": 4,
+        "home_reasoning": "Espanyol: Dolan (€10M), El Hilali (€15M), Puado (€10M), Romero (€10M) → Total 4.5 → +3",
+        "away_reasoning": "Sevilla: Vargas (€11M), Juanlu (€15M), Carmona (€12M), Mendy (€10M) → Total 6.0 → +4",
+        "sources": [
+          "Transfermarkt (squad values)"
+        ]
+      },
+      "Q2": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "Espanyol: 1.25 G/J + 1.61 xG → +2",
+        "away_reasoning": "Sevilla: 1.50 G/J + 1.19 xG → +2",
+        "sources": [
+          "FootyStats (goals avg)",
+          "FootyStats (xG avg)"
+        ]
+      },
+      "Q3": {
+        "home_score": 2,
+        "away_score": 3,
+        "home_reasoning": "Espanyol: Limited quality depth, estimated +2 for mid-table team",
+        "away_reasoning": "Sevilla: Better squad depth with Alexis Sánchez, Gudelj as quality subs → +3",
+        "sources": [
+          "Transfermarkt (squad)",
+          "News (returning players)"
+        ]
+      },
+      "Q4": {
+        "home_score": 3,
+        "away_score": 1,
+        "home_reasoning": "Espanyol: 1.25 GA/J + 1.45 xGA → +3",
+        "away_reasoning": "Sevilla: 1.58 GA/J + 1.39 xGA → +1",
+        "sources": [
+          "FootyStats (goals conceded avg)",
+          "FootyStats (xGA avg)"
+        ]
+      },
+      "Q5": {
+        "home_score": 2,
+        "away_score": 4,
+        "home_reasoning": "Manolo González: Limited international experience → +2",
+        "away_reasoning": "García Pimienta: Experienced manager with Barcelona background → +4",
+        "sources": [
+          "Local media context"
+        ]
+      },
+      "Q6": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "Formations not confirmed in available sources → 0",
+        "away_reasoning": "Formations not confirmed in available sources → 0",
+        "sources": [
+          "SportsMole (formations not specified)"
+        ]
+      },
+      "Q7": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "No pressing data available, using default → +2",
+        "away_reasoning": "No pressing data available, using default → +2",
+        "sources": [
+          "Default estimation"
+        ]
+      },
+      "Q8": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "No set-piece data available, using default → +2",
+        "away_reasoning": "No set-piece data available, using default → +2",
+        "sources": [
+          "Default estimation"
+        ]
+      },
+      "Q9": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "Espanyol 6th (18pts) - mid-table, no must-win pressure → 0",
+        "away_reasoning": "Sevilla 9th (16pts) - mid-table, no must-win pressure → 0",
+        "sources": [
+          "FootyStats (league positions)"
+        ]
+      },
+      "Q10": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No derby, manager debut, or revenge context found → 0",
+        "away_reasoning": "No derby, manager debut, or revenge context found → 0",
+        "sources": [
+          "Local media headlines"
+        ]
+      },
+      "Q11": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "Espanyol: Mixed form, approximately 2 wins in last 5 → +2",
+        "away_reasoning": "Sevilla: Mixed form, approximately 2 wins in last 5 → +2",
+        "sources": [
+          "FootyStats (overall record estimation)"
+        ]
+      },
+      "Q12": {
+        "home_score": 1,
+        "away_score": 1,
+        "home_reasoning": "Form against mixed opposition quality → +1",
+        "away_reasoning": "Form against mixed opposition quality → +1",
+        "sources": [
+          "Estimated from Q11"
+        ]
+      },
+      "Q13": {
+        "home_score": 5,
+        "away_score": 1,
+        "home_reasoning": "Espanyol: xG 1.61 vs Goals 1.25 = +0.36 (unlucky) → +5",
+        "away_reasoning": "Sevilla: xG 1.19 vs Goals 1.50 = -0.31 (lucky) → +1",
+        "sources": [
+          "FootyStats (xG vs Goals comparison)"
+        ]
+      },
+      "Q14": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "No detailed performance ratings available, using default → +2",
+        "away_reasoning": "No detailed performance ratings available, using default → +2",
+        "sources": [
+          "Default estimation"
+        ]
+      },
+      "Q15": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No key player injuries reported → 0",
+        "away_reasoning": "Alexis, Cardoso, Isaac returning to group - no key absences → 0",
+        "sources": [
+          "News headlines",
+          "SportsMole team news"
+        ]
+      },
+      "Q16": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No defensive cluster injuries reported → 0",
+        "away_reasoning": "Marcao returning, no defensive cluster issues → 0",
+        "sources": [
+          "News headlines",
+          "SportsMole team news"
+        ]
+      },
+      "Q17": {
+        "home_score": 6,
+        "away_score": 2,
+        "home_reasoning": "Espanyol home: 4W-1D-2L (strong) → +6; Sevilla away: 3W-0D-3L → +2 bonus → Total +8 capped at +10",
+        "away_reasoning": "Sevilla away: 3W-0D-3L (decent) → +2",
+        "sources": [
+          "FootyStats (home/away records)"
+        ]
+      },
+      "Q18": {
+        "home_score": 3,
+        "away_score": 0,
+        "home_reasoning": "H2H at home shows recent 0-2 loss to Sevilla (Oct 2024), but historical wins → +3",
+        "away_reasoning": "Recent away win against Espanyol → 0",
+        "sources": [
+          "SportsMole H2H results"
+        ]
+      },
+      "Q19": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "Not 0 wins in last 3 H2H at home → 0",
+        "away_reasoning": "N/A for away team → 0",
+        "sources": [
+          "SportsMole H2H results"
+        ]
+      }
+    },
+    "category_totals": {
+      "technique": {
+        "home": 10,
+        "away": 11
+      },
+      "tactics": {
+        "home": 6,
+        "away": 8
+      },
+      "motivation": {
+        "home": 0,
+        "away": 0
+      },
+      "form": {
+        "home": 3,
+        "away": 3
+      },
+      "performance": {
+        "home": 7,
+        "away": 4
+      },
+      "injuries": {
+        "home": 0,
+        "away": 0
+      },
+      "home_away": {
+        "home": 9,
+        "away": 2
+      }
+    },
+    "raw_scores": {
+      "raw_casa": 35,
+      "raw_vis": 28
+    },
+    "data_quality": {
+      "score": 75,
+      "assessment": "Good",
+      "breakdown": {
+        "q1_player_values": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q2_xg": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q3_bench": {
+          "points": 1.5,
+          "status": "estimated"
+        },
+        "q4_xga": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q5_manager": {
+          "points": 1,
+          "status": "default"
+        },
+        "q6_formations": {
+          "points": 1,
+          "status": "default"
+        },
+        "q7_pressing": {
+          "points": 1,
+          "status": "default"
+        },
+        "q8_set_pieces": {
+          "points": 1,
+          "status": "default"
+        },
+        "q9_league": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q10_derby": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q11_form": {
+          "points": 2,
+          "status": "estimated"
+        },
+        "q12_opponent": {
+          "points": 2,
+          "status": "estimated"
+        },
+        "q13_xg_delta": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q14_ratings": {
+          "points": 1,
+          "status": "default"
+        },
+        "q15_injuries": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q16_cluster": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q17_home_away": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q18_h2h": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q19_h2h_negative": {
+          "points": 4,
+          "status": "complete"
+        },
+        "betfair_draw": {
+          "points": 0,
+          "status": "missing"
+        },
+        "betfair_ah": {
+          "points": 0,
+          "status": "missing"
+        },
+        "local_media": {
+          "points": 5,
+          "status": "available"
+        },
+        "sportsmole": {
+          "points": 5,
+          "status": "available"
+        }
+      },
+      "missing_critical": [],
+      "proceed": true,
+      "confidence_note": "Good data quality. FootyStats provides excellent xG and form data. Missing Betfair odds and some tactical details, but core analysis possible."
+    },
+    "notes": [
+      "P(Empate): Calculated from FootyStats draw odds 3.35 → 29.9%",
+      "Q6: Formations not specified in SportsMole preview - used default 0/0",
+      "Q7: No pressing statistics available - used default +2",
+      "Q8: No set-piece data available - used default +2",
+      "Q11/Q12: Form estimated from overall records as last 5 games not detailed",
+      "Q14: Performance ratings not available in sources - used default +2",
+      "Betfair odds not available - using blind pricing approach",
+      "FootyStats API provided excellent xG and positional data",
+      "News headlines show Espanyol optimism ('wanting top-6') vs Sevilla stability"
+    ]
+  },
+  "yudor_analysis": {
+    "match_id": "LALIGA_20251124_ESP_SEV",
+    "raw_casa": 35,
+    "raw_vis": 28,
+    "delta": 7,
+    "yudor_ah_fair": -0.25,
+    "pr_casa": 0.351,
+    "pr_vis": 0.351,
+    "pr_empate": 0.299,
+    "cs_final": 72,
+    "tier": 1,
+    "r_home": 0.22,
+    "r_away": 0.18,
+    "r_fav": 0.22,
+    "r_dog": 0.18,
+    "rbr": 0.1,
+    "r_score": 0.22,
+    "edge_synthetic": 8,
+    "decision": "CORE",
+    "reasoning": "R-Score 0.22 below VETO threshold, CS_final 72 qualifies Tier 1, home advantage with decent confidence"
+  }
+}

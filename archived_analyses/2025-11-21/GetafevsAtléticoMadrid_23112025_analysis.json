@@ -1,0 +1,367 @@
+{
+  "match_id": "GetafevsAtléticoMadrid_23112025",
+  "match_info": {
+    "id": "GetafevsAtléticoMadrid_23112025",
+    "home": "Getafe",
+    "away": "Atlético Madrid",
+    "league": "La Liga",
+    "date": "23/11/2025"
+  },
+  "timestamp": "2025-11-21T18:50:21.681086",
+  "consolidated_data": {
+    "game_id": "GetafevsAtléticoMadrid_23112025",
+    "match_info": {
+      "home": "Getafe",
+      "away": "Atlético Madrid",
+      "league": "La Liga",
+      "date": "23/11/2025"
+    },
+    "p_empate": 28.6,
+    "betfair_ah_market": null,
+    "q_scores": {
+      "Q1": {
+        "home_score": 1,
+        "away_score": 8,
+        "home_reasoning": "Getafe: Arambarri (€12M), Mayoral (€7.5M), Abqar (€7.5M), Rico (€1.2M) → Total 3.8 → +1",
+        "away_reasoning": "Atlético: Julián Álvarez (€100M, 2.5 + top striker), Álex Baena (€55M, 1.5), Barrios (€55M, 1.5), Le Normand (€35M, 1.0) → Total 6.5 → +8",
+        "sources": [
+          "Transfermarkt (values)",
+          "FootyStats (goals data)"
+        ]
+      },
+      "Q2": {
+        "home_score": 2,
+        "away_score": 5,
+        "home_reasoning": "Getafe: 1.0 G/J + 1.07 xG → +2",
+        "away_reasoning": "Atlético: 2.0 G/J + 1.71 xG → +5",
+        "sources": [
+          "FootyStats (goals_scored_avg)",
+          "FootyStats (xg_for_avg)"
+        ]
+      },
+      "Q3": {
+        "home_score": 1,
+        "away_score": 3,
+        "home_reasoning": "Getafe: Limited quality depth, few €10M+ subs → +1",
+        "away_reasoning": "Atlético: Quality subs like Griezmann (€12M), Sørloth (€25M), Llorente (€25M) → +3",
+        "sources": [
+          "Transfermarkt (squad values)",
+          "Estimated from squad quality"
+        ]
+      },
+      "Q4": {
+        "home_score": 1,
+        "away_score": 5,
+        "home_reasoning": "Getafe: 1.17 GA/J + 1.26 xGA → +1",
+        "away_reasoning": "Atlético: 0.92 GA/J + 1.11 xGA → +5",
+        "sources": [
+          "FootyStats (goals_conceded_avg)",
+          "FootyStats (xg_against_avg)"
+        ]
+      },
+      "Q5": {
+        "home_score": 4,
+        "away_score": 7,
+        "home_reasoning": "Bordalás: 10+ years La Liga experience, established manager → +4",
+        "away_reasoning": "Simeone: Champions League winner, top-tier manager → +7",
+        "sources": [
+          "News headlines context",
+          "Manager reputation"
+        ]
+      },
+      "Q6": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "Formation data not available from sources → Default symmetry",
+        "away_reasoning": "Formation data not available from sources → Default symmetry",
+        "sources": [
+          "No formation data found"
+        ]
+      },
+      "Q7": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "Default balanced transitions → +2",
+        "away_reasoning": "Default balanced transitions → +2",
+        "sources": [
+          "Default estimate - no pressing data"
+        ]
+      },
+      "Q8": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "Default set-piece capability → +2",
+        "away_reasoning": "Default set-piece capability → +2",
+        "sources": [
+          "Default estimate - no set-piece data"
+        ]
+      },
+      "Q9": {
+        "home_score": 0,
+        "away_score": 6,
+        "home_reasoning": "Getafe: 8th position, mid-table, no urgency → 0",
+        "away_reasoning": "Atlético: 4th position, fighting for Champions League spot → +6",
+        "sources": [
+          "FootyStats (league position)",
+          "League table context"
+        ]
+      },
+      "Q10": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "Madrid derby context - regional rivalry → +2",
+        "away_reasoning": "Madrid derby context - regional rivalry → +2",
+        "sources": [
+          "Geographic proximity",
+          "Local media context"
+        ]
+      },
+      "Q11": {
+        "home_score": 2,
+        "away_score": 3,
+        "home_reasoning": "Getafe: 5W in 12 games, ~2W in last 5 → +2",
+        "away_reasoning": "Atlético: 7W in 12 games, ~3W in last 5 → +3",
+        "sources": [
+          "FootyStats (wins_overall)",
+          "Form calculation"
+        ]
+      },
+      "Q12": {
+        "home_score": 1,
+        "away_score": 2,
+        "home_reasoning": "Getafe: Q11 -1 = +1 (mid-table opponents) → +1",
+        "away_reasoning": "Atlético: Q11 -1 = +2 (stronger opposition) → +2",
+        "sources": [
+          "Estimated from form quality"
+        ]
+      },
+      "Q13": {
+        "home_score": 1,
+        "away_score": 3,
+        "home_reasoning": "Getafe: xG(1.07) vs Goals(1.0) = +0.07 slight overperformance → +1",
+        "away_reasoning": "Atlético: xG(1.71) vs Goals(2.0) = -0.29 underperforming xG → +3",
+        "sources": [
+          "FootyStats (xg_for_avg vs goals_scored_avg)"
+        ]
+      },
+      "Q14": {
+        "home_score": 1,
+        "away_score": 3,
+        "home_reasoning": "Getafe: Performance matching expected levels → +1",
+        "away_reasoning": "Atlético: Strong performances, good underlying metrics → +3",
+        "sources": [
+          "Estimated from xG and results data"
+        ]
+      },
+      "Q15": {
+        "home_score": 0,
+        "away_score": -8,
+        "home_reasoning": "No key player injuries reported → 0",
+        "away_reasoning": "Julián Álvarez and Cardoso ruled out (key players) → -8",
+        "sources": [
+          "News headline: 'El Atleti mira al Getafe sin Cardoso… ni Julián'"
+        ]
+      },
+      "Q16": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No cluster defensive injuries reported → 0",
+        "away_reasoning": "No cluster defensive injuries reported → 0",
+        "sources": [
+          "News analysis - no defensive cluster mentioned"
+        ]
+      },
+      "Q17": {
+        "home_score": 6,
+        "away_score": 1,
+        "home_reasoning": "Getafe home: 1.6 PPG, 2W+2D+1L in 5 home → Base +4, Away weakness bonus +2 → +6",
+        "away_reasoning": "Atlético away: 1.2 PPG, 1W+3D+1L in 5 away → Base +1, no bonus → +1",
+        "sources": [
+          "FootyStats (ppg_home, ppg_away, home/away records)"
+        ]
+      },
+      "Q18": {
+        "home_score": 1,
+        "away_score": 0,
+        "home_reasoning": "SportsMole H2H shows recent Getafe 2-1 win at home → +1",
+        "away_reasoning": "Recent H2H favor Atlético but not all at Getafe → 0",
+        "sources": [
+          "SportsMole H2H results"
+        ]
+      },
+      "Q19": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No veto scenario - Getafe has won recent H2H at home → 0",
+        "away_reasoning": "Not applicable for away team → 0",
+        "sources": [
+          "SportsMole H2H analysis"
+        ]
+      }
+    },
+    "category_totals": {
+      "technique": {
+        "home": 4,
+        "away": 18
+      },
+      "tactics": {
+        "home": 8,
+        "away": 11
+      },
+      "motivation": {
+        "home": 2,
+        "away": 8
+      },
+      "form": {
+        "home": 3,
+        "away": 5
+      },
+      "performance": {
+        "home": 2,
+        "away": 6
+      },
+      "injuries": {
+        "home": 0,
+        "away": -8
+      },
+      "home_away": {
+        "home": 7,
+        "away": 1
+      }
+    },
+    "raw_scores": {
+      "raw_casa": 26,
+      "raw_vis": 41
+    },
+    "data_quality": {
+      "score": 75,
+      "assessment": "Good",
+      "breakdown": {
+        "q1_player_values": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q2_xg": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q3_bench": {
+          "points": 1.5,
+          "status": "estimated"
+        },
+        "q4_xga": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q5_manager": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q6_formations": {
+          "points": 1,
+          "status": "default"
+        },
+        "q7_pressing": {
+          "points": 1,
+          "status": "default"
+        },
+        "q8_set_pieces": {
+          "points": 1,
+          "status": "default"
+        },
+        "q9_league": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q10_derby": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q11_form": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q12_opponent": {
+          "points": 2,
+          "status": "estimated"
+        },
+        "q13_xg_delta": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q14_ratings": {
+          "points": 2.5,
+          "status": "estimated"
+        },
+        "q15_injuries": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q16_cluster": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q17_home_away": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q18_h2h": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q19_h2h_negative": {
+          "points": 4,
+          "status": "complete"
+        },
+        "betfair_draw": {
+          "points": 0,
+          "status": "missing"
+        },
+        "betfair_ah": {
+          "points": 0,
+          "status": "missing"
+        },
+        "local_media": {
+          "points": 5,
+          "status": "available"
+        },
+        "sportsmole": {
+          "points": 5,
+          "status": "available"
+        }
+      },
+      "missing_critical": [],
+      "proceed": true,
+      "confidence_note": "Good data quality. Missing Betfair odds but FootyStats provides comprehensive match data. Key injury news available from local media."
+    },
+    "notes": [
+      "P(Empate) calculated from FootyStats draw odds: 100/3.5 = 28.6%",
+      "Q15: Major blow for Atlético - Julián Álvarez (top scorer) and Cardoso both out",
+      "Q6-Q8: No tactical data available - used defaults",
+      "Q10: Madrid derby adds motivation for both sides",
+      "Q17: Clear home advantage for Getafe vs poor Atlético away form",
+      "No Betfair data available - using blind pricing approach"
+    ]
+  },
+  "yudor_analysis": {
+    "match_id": "GetafevsAtléticoMadrid_23112025",
+    "raw_casa": 26,
+    "raw_vis": 41,
+    "delta": -15,
+    "yudor_ah_fair": 1.0,
+    "pr_casa": 0.235,
+    "pr_vis": 0.479,
+    "pr_empate": 0.286,
+    "cs_final": 63,
+    "tier": 2,
+    "r_home": 0.32,
+    "r_away": 0.45,
+    "r_fav": 0.45,
+    "r_dog": 0.32,
+    "rbr": 0.17,
+    "r_score": 0.45,
+    "edge_synthetic": 32,
+    "decision": "VETO",
+    "reasoning": "R-Score 0.45 exceeds 0.25 threshold with Atlético as heavy favorite but significant injury concerns (Julián Álvarez out) and poor away form create excessive risk despite Tier 2 confidence"
+  }
+}

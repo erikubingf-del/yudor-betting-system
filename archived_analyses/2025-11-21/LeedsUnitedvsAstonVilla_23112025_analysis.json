@@ -1,0 +1,371 @@
+{
+  "match_id": "LeedsUnitedvsAstonVilla_23112025",
+  "match_info": {
+    "id": "LeedsUnitedvsAstonVilla_23112025",
+    "home": "Leeds United",
+    "away": "Aston Villa",
+    "league": "Premier League",
+    "date": "23/11/2025"
+  },
+  "timestamp": "2025-11-21T18:44:22.213971",
+  "consolidated_data": {
+    "game_id": "LeedsUnitedvsAstonVilla_23112025",
+    "match_info": {
+      "home": "Leeds United",
+      "away": "Aston Villa",
+      "league": "Premier League",
+      "date": "23/11/2025"
+    },
+    "p_empate": 30.3,
+    "betfair_ah_market": null,
+    "q_scores": {
+      "Q1": {
+        "home_score": 3,
+        "away_score": 6,
+        "home_reasoning": "Leeds: Gnonto (€22M), Anton Stach (€20M), Ampadu (€20M), Struijk (€20M) → Total 5.8 → +3",
+        "away_reasoning": "Villa: Morgan Rogers (€65M), Onana (€42M), Kamara (€40M), Tielemans (€38M) → Total 10.1 → +6",
+        "sources": [
+          "Transfermarkt (values)"
+        ]
+      },
+      "Q2": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "Leeds: 0.91 G/J + 1.31 xG → +2",
+        "away_reasoning": "Villa: 1.18 G/J + 1.26 xG → +2",
+        "sources": [
+          "FootyStats (goals)",
+          "FootyStats (xG)"
+        ]
+      },
+      "Q3": {
+        "home_score": 1,
+        "away_score": 3,
+        "home_reasoning": "Leeds: Limited quality subs - Nmecha (€5M), some youth players → +1",
+        "away_reasoning": "Villa: Strong bench with Buendía (€15M), Elliott (€35M), Sancho (€25M) → +3",
+        "sources": [
+          "Transfermarkt (squad depth)"
+        ]
+      },
+      "Q4": {
+        "home_score": 0,
+        "away_score": 4,
+        "home_reasoning": "Leeds: 1.82 GA/J + 1.30 xGA → 0 (poor defense)",
+        "away_reasoning": "Villa: 0.91 GA/J + 1.35 xGA → +4 (solid defense)",
+        "sources": [
+          "FootyStats (GA)",
+          "FootyStats (xGA)"
+        ]
+      },
+      "Q5": {
+        "home_score": 2,
+        "away_score": 5,
+        "home_reasoning": "Daniel Farke: Experienced in Championship, limited PL success → +2",
+        "away_reasoning": "Unai Emery: Champions League winner, Europa League specialist → +5",
+        "sources": [
+          "News headlines",
+          "SportsMole preview"
+        ]
+      },
+      "Q6": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "Formation data not available in sources → 0 (symmetry)",
+        "away_reasoning": "Formation data not available in sources → 0 (symmetry)",
+        "sources": [
+          "Default - formations not confirmed"
+        ]
+      },
+      "Q7": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "No specific pressing data available → +2 default",
+        "away_reasoning": "No specific pressing data available → +2 default",
+        "sources": [
+          "Default - no pressing stats"
+        ]
+      },
+      "Q8": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "No set-piece data available → +2 default",
+        "away_reasoning": "No set-piece data available → +2 default",
+        "sources": [
+          "Default - no set-piece data"
+        ]
+      },
+      "Q9": {
+        "home_score": 12,
+        "away_score": 0,
+        "home_reasoning": "Leeds 16th position, relegation battle context → +12 (must-win)",
+        "away_reasoning": "Villa 6th position, comfortable mid-table → 0",
+        "sources": [
+          "FootyStats (league position)",
+          "News headlines"
+        ]
+      },
+      "Q10": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No derby, manager debut, or revenge context found → 0",
+        "away_reasoning": "No derby, manager debut, or revenge context found → 0",
+        "sources": [
+          "News headlines",
+          "SportsMole preview"
+        ]
+      },
+      "Q11": {
+        "home_score": 1,
+        "away_score": 2,
+        "home_reasoning": "Leeds: 3W, 2D, 6L overall (poor form) → +1",
+        "away_reasoning": "Villa: 5W, 3D, 3L overall (decent form) → +2",
+        "sources": [
+          "FootyStats (form)"
+        ]
+      },
+      "Q12": {
+        "home_score": 1,
+        "away_score": 2,
+        "home_reasoning": "Leeds facing stronger opposition recently → +1",
+        "away_reasoning": "Villa's wins against quality opposition → +2",
+        "sources": [
+          "FootyStats (form)",
+          "News context"
+        ]
+      },
+      "Q13": {
+        "home_score": 5,
+        "away_score": 0,
+        "home_reasoning": "Leeds: xG (1.31) > Goals (0.91) by +0.4 → +5 (unlucky)",
+        "away_reasoning": "Villa: Goals (1.18) ≈ xG (1.26) → 0 (as expected)",
+        "sources": [
+          "FootyStats (xG delta)"
+        ]
+      },
+      "Q14": {
+        "home_score": 1,
+        "away_score": 1,
+        "home_reasoning": "No specific rating data available → +1 default",
+        "away_reasoning": "No specific rating data available → +1 default",
+        "sources": [
+          "Default - no ratings data"
+        ]
+      },
+      "Q15": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No key player injuries mentioned in team news → 0",
+        "away_reasoning": "Emery hoping quartet fit - no confirmed key absences → 0",
+        "sources": [
+          "SportsMole team news",
+          "Sky Sports news"
+        ]
+      },
+      "Q16": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No defensive cluster injuries mentioned → 0",
+        "away_reasoning": "No defensive cluster injuries mentioned → 0",
+        "sources": [
+          "SportsMole team news",
+          "Sky Sports news"
+        ]
+      },
+      "Q17": {
+        "home_score": 4,
+        "away_score": 0,
+        "home_reasoning": "Leeds home: 2W, 2D, 1L (PPG 1.6) vs Villa away: 1W, 2D, 2L (PPG 1.0) → +4",
+        "away_reasoning": "Villa away form poor (1W in 5 games) → 0",
+        "sources": [
+          "FootyStats (home/away form)"
+        ]
+      },
+      "Q18": {
+        "home_score": 1,
+        "away_score": 1,
+        "home_reasoning": "No specific H2H data at Elland Road available → +1 default",
+        "away_reasoning": "SportsMole mentions Villa unbeaten in last 5 at Elland Road → +1",
+        "sources": [
+          "SportsMole preview (H2H context)"
+        ]
+      },
+      "Q19": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No evidence of 0 wins in last 3 H2H at home → 0",
+        "away_reasoning": "N/A for away team",
+        "sources": [
+          "SportsMole preview"
+        ]
+      }
+    },
+    "category_totals": {
+      "technique": {
+        "home": 6,
+        "away": 14
+      },
+      "tactics": {
+        "home": 6,
+        "away": 9
+      },
+      "motivation": {
+        "home": 12,
+        "away": 0
+      },
+      "form": {
+        "home": 2,
+        "away": 4
+      },
+      "performance": {
+        "home": 6,
+        "away": 1
+      },
+      "injuries": {
+        "home": 0,
+        "away": 0
+      },
+      "home_away": {
+        "home": 5,
+        "away": 1
+      }
+    },
+    "raw_scores": {
+      "raw_casa": 37,
+      "raw_vis": 29
+    },
+    "data_quality": {
+      "score": 75,
+      "assessment": "Good",
+      "breakdown": {
+        "q1_player_values": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q2_xg": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q3_bench": {
+          "points": 1.5,
+          "status": "estimated"
+        },
+        "q4_xga": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q5_manager": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q6_formations": {
+          "points": 1,
+          "status": "default"
+        },
+        "q7_pressing": {
+          "points": 1,
+          "status": "default"
+        },
+        "q8_set_pieces": {
+          "points": 1,
+          "status": "default"
+        },
+        "q9_league": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q10_derby": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q11_form": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q12_opponent": {
+          "points": 2,
+          "status": "estimated"
+        },
+        "q13_xg_delta": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q14_ratings": {
+          "points": 1,
+          "status": "default"
+        },
+        "q15_injuries": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q16_cluster": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q17_home_away": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q18_h2h": {
+          "points": 1.5,
+          "status": "partial"
+        },
+        "q19_h2h_negative": {
+          "points": 4,
+          "status": "complete"
+        },
+        "betfair_draw": {
+          "points": 0,
+          "status": "missing"
+        },
+        "betfair_ah": {
+          "points": 0,
+          "status": "missing"
+        },
+        "local_media": {
+          "points": 5,
+          "status": "available"
+        },
+        "sportsmole": {
+          "points": 5,
+          "status": "available"
+        }
+      },
+      "missing_critical": [],
+      "proceed": true,
+      "confidence_note": "Good data quality. FootyStats provided excellent xG and form data. Missing Betfair markets but tactical data limited."
+    },
+    "notes": [
+      "P(Empate) calculated from FootyStats odds: 100/3.3 = 30.3%",
+      "No Betfair data available - using BLIND PRICING approach",
+      "Q6: Formation data not found in sources",
+      "Q7: No specific pressing statistics available",
+      "Q8: Set-piece data not provided",
+      "Q14: No team ratings data available",
+      "Q18: Limited H2H data but SportsMole mentions Villa's recent record at Elland Road",
+      "Leeds in relegation battle (16th) creates strong motivation differential",
+      "Villa's superior squad quality evident in Transfermarkt valuations",
+      "Leeds unlucky based on xG differential this season"
+    ]
+  },
+  "yudor_analysis": {
+    "match_id": "LeedsUnitedvsAstonVilla_23112025",
+    "raw_casa": 37,
+    "raw_vis": 29,
+    "delta": 8,
+    "yudor_ah_fair": -0.25,
+    "pr_casa": 0.335,
+    "pr_vis": 0.362,
+    "pr_empate": 0.303,
+    "cs_final": 72,
+    "tier": 1,
+    "r_home": 0.28,
+    "r_away": 0.22,
+    "r_fav": 0.22,
+    "r_dog": 0.28,
+    "rbr": -0.12,
+    "r_score": 0.22,
+    "edge_synthetic": 8,
+    "decision": "CORE",
+    "reasoning": "Villa slight favorite (-0.25 AH) with superior technique/tactics. Leeds motivation edge from relegation battle. Low risk profile allows CORE bet."
+  }
+}

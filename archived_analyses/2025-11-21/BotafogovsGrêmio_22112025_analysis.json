@@ -1,0 +1,361 @@
+{
+  "match_id": "BotafogovsGrêmio_22112025",
+  "match_info": {
+    "id": "BotafogovsGrêmio_22112025",
+    "home": "Botafogo",
+    "away": "Grêmio",
+    "league": "Brasileirão",
+    "date": "22/11/2025"
+  },
+  "timestamp": "2025-11-21T18:43:19.284635",
+  "consolidated_data": {
+    "game_id": "BotafogovsGrêmio_22112025",
+    "match_info": {
+      "home": "Botafogo",
+      "away": "Grêmio",
+      "league": "Brasileirão",
+      "date": "22/11/2025"
+    },
+    "p_empate": 25.0,
+    "betfair_ah_market": "Not available - using blind pricing",
+    "q_scores": {
+      "Q1": {
+        "home_score": 6,
+        "away_score": 3,
+        "home_reasoning": "Botafogo: Danilo (€28M, CDM), Jefferson Savarino (€10M, AM), Arthur Cabral (€10M, ST), Cuiabano (€7M, LB) → Total 8.25 → +6",
+        "away_reasoning": "Grêmio: Cristian Olivera (€6M, RW), Villasanti (€6M, CDM), Franco Cristaldo (€5M, AM), Wagner Leonardo (€4M, CB) → Total 5.25 → +3",
+        "sources": [
+          "Transfermarkt (squad values)"
+        ]
+      },
+      "Q2": {
+        "home_score": 5,
+        "away_score": 1,
+        "home_reasoning": "Botafogo: 1.55 G/J + 1.47 xG → Above average offense → +5",
+        "away_reasoning": "Grêmio: 1.16 G/J + 1.18 xG → Below average offense → +1",
+        "sources": [
+          "FootyStats (goals per game, xG averages)"
+        ]
+      },
+      "Q3": {
+        "home_score": 3,
+        "away_score": 2,
+        "home_reasoning": "Botafogo: Quality bench with Álvaro Montoro (€8M), Matheus Martins (€7M), Alex Telles (€4M) covering multiple positions → +3",
+        "away_reasoning": "Grêmio: Some depth with Alysson (€5M), Miguel Monsalve (€5M) but limited quality coverage → +2",
+        "sources": [
+          "Transfermarkt (bench values)"
+        ]
+      },
+      "Q4": {
+        "home_score": 5,
+        "away_score": 1,
+        "home_reasoning": "Botafogo: 0.76 GA/J + 1.11 xGA → Excellent defensive record → +5",
+        "away_reasoning": "Grêmio: 1.32 GA/J + 1.38 xGA → Poor defensive metrics → +1",
+        "sources": [
+          "FootyStats (goals against, xGA)"
+        ]
+      },
+      "Q5": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "No clear manager information found in sources → Default +2",
+        "away_reasoning": "No clear manager information found in sources → Default +2",
+        "sources": [
+          "Default - no manager data available"
+        ]
+      },
+      "Q6": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No formation data available in sources → Symmetry default 0/0",
+        "away_reasoning": "No formation data available in sources → Symmetry default 0/0",
+        "sources": [
+          "Default - no tactical formation data"
+        ]
+      },
+      "Q7": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "No pressing/transition data available → Default balanced +2",
+        "away_reasoning": "No pressing/transition data available → Default balanced +2",
+        "sources": [
+          "Default - no pressing stats available"
+        ]
+      },
+      "Q8": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "No set-piece statistics available → Default +2",
+        "away_reasoning": "No set-piece statistics available → Default +2",
+        "sources": [
+          "Default - no set piece data"
+        ]
+      },
+      "Q9": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "Botafogo: 1st place (79 pts) - comfortable position, no must-win pressure → 0",
+        "away_reasoning": "Grêmio: 14th place (45 pts) - mid-table, safe from relegation → 0",
+        "sources": [
+          "FootyStats (league positions)",
+          "Local media (Libertadores qualification context)"
+        ]
+      },
+      "Q10": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No derby, manager debut, or revenge context found in headlines → 0",
+        "away_reasoning": "No derby, manager debut, or revenge context found in headlines → 0",
+        "sources": [
+          "Local media headlines"
+        ]
+      },
+      "Q11": {
+        "home_score": 4,
+        "away_score": 1,
+        "home_reasoning": "Botafogo: Strong form with high PPG (2.08) suggesting 4+ wins in last 5 → +4",
+        "away_reasoning": "Grêmio: Poor form with low PPG (1.18) suggesting 1 win in last 5 → +1",
+        "sources": [
+          "FootyStats (points per game, overall form)"
+        ]
+      },
+      "Q12": {
+        "home_score": 3,
+        "away_score": 1,
+        "home_reasoning": "Botafogo: As league leaders, likely faced quality opposition and maintained form → +3",
+        "away_reasoning": "Grêmio: Lower table position suggests struggles against quality → +1",
+        "sources": [
+          "FootyStats (league position context)"
+        ]
+      },
+      "Q13": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "Botafogo: xG 1.47 vs Goals 1.55 → Slight overperformance (lucky) → +2",
+        "away_reasoning": "Grêmio: xG 1.18 vs Goals 1.16 → Balanced performance → +2",
+        "sources": [
+          "FootyStats (xG vs actual goals)"
+        ]
+      },
+      "Q14": {
+        "home_score": 3,
+        "away_score": 1,
+        "home_reasoning": "Botafogo: Superior xG differential (+0.36) indicates quality performances → +3",
+        "away_reasoning": "Grêmio: Negative xG differential (-0.20) indicates poor performances → +1",
+        "sources": [
+          "FootyStats (xG differential)"
+        ]
+      },
+      "Q15": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No key player injuries mentioned in team news → 0",
+        "away_reasoning": "No key player injuries mentioned in team news → 0",
+        "sources": [
+          "Local media, SportsMole team news"
+        ]
+      },
+      "Q16": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No defensive cluster injuries mentioned → 0",
+        "away_reasoning": "No defensive cluster injuries mentioned → 0",
+        "sources": [
+          "Local media, SportsMole team news"
+        ]
+      },
+      "Q17": {
+        "home_score": 6,
+        "away_score": 1,
+        "home_reasoning": "Botafogo: Strong home PPG (2.16) → +4 base; Grêmio poor away PPG (0.84) → +2 bonus = +6",
+        "away_reasoning": "Grêmio: Poor away record (0.84 PPG) → +1",
+        "sources": [
+          "FootyStats (home/away PPG)"
+        ]
+      },
+      "Q18": {
+        "home_score": 1,
+        "away_score": 0,
+        "home_reasoning": "SportsMole H2H shows 1 home win for Botafogo in recent meetings → +1",
+        "away_reasoning": "No away wins at Botafogo's stadium in H2H → 0",
+        "sources": [
+          "SportsMole H2H results"
+        ]
+      },
+      "Q19": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No evidence of 0 wins in last 3 H2H at home → No veto applied → 0",
+        "away_reasoning": "N/A for away team → 0",
+        "sources": [
+          "SportsMole H2H results"
+        ]
+      }
+    },
+    "category_totals": {
+      "technique": {
+        "home": 19,
+        "away": 7
+      },
+      "tactics": {
+        "home": 6,
+        "away": 6
+      },
+      "motivation": {
+        "home": 0,
+        "away": 0
+      },
+      "form": {
+        "home": 7,
+        "away": 2
+      },
+      "performance": {
+        "home": 5,
+        "away": 3
+      },
+      "injuries": {
+        "home": 0,
+        "away": 0
+      },
+      "home_away": {
+        "home": 7,
+        "away": 1
+      }
+    },
+    "raw_scores": {
+      "raw_casa": 44,
+      "raw_vis": 19
+    },
+    "data_quality": {
+      "score": 82,
+      "assessment": "Good",
+      "breakdown": {
+        "q1_player_values": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q2_xg": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q3_bench": {
+          "points": 3,
+          "status": "complete"
+        },
+        "q4_xga": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q5_manager": {
+          "points": 1,
+          "status": "default"
+        },
+        "q6_formations": {
+          "points": 1,
+          "status": "default"
+        },
+        "q7_pressing": {
+          "points": 1,
+          "status": "default"
+        },
+        "q8_set_pieces": {
+          "points": 1,
+          "status": "default"
+        },
+        "q9_league": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q10_derby": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q11_form": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q12_opponent": {
+          "points": 2,
+          "status": "estimated"
+        },
+        "q13_xg_delta": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q14_ratings": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q15_injuries": {
+          "points": 2,
+          "status": "estimated"
+        },
+        "q16_cluster": {
+          "points": 2,
+          "status": "estimated"
+        },
+        "q17_home_away": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q18_h2h": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q19_h2h_negative": {
+          "points": 4,
+          "status": "complete"
+        },
+        "betfair_draw": {
+          "points": 0,
+          "status": "missing"
+        },
+        "betfair_ah": {
+          "points": 0,
+          "status": "missing"
+        },
+        "local_media": {
+          "points": 5,
+          "status": "available"
+        },
+        "sportsmole": {
+          "points": 5,
+          "status": "available"
+        }
+      },
+      "missing_critical": [],
+      "proceed": true,
+      "confidence_note": "Good data quality. Missing tactical details (formations, pressing) and betting odds, but all core performance metrics available from FootyStats API."
+    },
+    "notes": [
+      "FootyStats API provided excellent performance data (xG, goals, form, positions)",
+      "Transfermarkt squad values complete for both teams",
+      "Missing: Manager details, formations, pressing stats, set piece data",
+      "No Betfair odds available - using blind pricing approach",
+      "Local media confirms Botafogo targeting Libertadores qualification",
+      "SportsMole H2H data available but limited tactical preview",
+      "Strong data confidence for core metrics (Q1, Q2, Q4, Q11, Q13, Q14, Q17)"
+    ]
+  },
+  "yudor_analysis": {
+    "match_id": "BotafogovsGrêmio_22112025",
+    "raw_casa": 44,
+    "raw_vis": 19,
+    "delta": 25,
+    "yudor_ah_fair": -1.25,
+    "pr_casa": 0.555,
+    "pr_vis": 0.195,
+    "pr_empate": 0.25,
+    "cs_final": 72,
+    "tier": 1,
+    "r_home": 0.18,
+    "r_away": 0.32,
+    "r_fav": 0.18,
+    "r_dog": 0.32,
+    "rbr": -0.28,
+    "r_score": 0.18,
+    "edge_synthetic": 40,
+    "decision": "CORE",
+    "reasoning": "Strong Tier 1 confidence (CS=72), low risk (R=0.18), significant home advantage with Botafogo's superior technique and home form vs Grêmio's poor away record"
+  }
+}

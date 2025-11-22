@@ -1,0 +1,372 @@
+{
+  "match_id": "ArsenalvsTottenhamHotspur_23112025",
+  "match_info": {
+    "id": "ArsenalvsTottenhamHotspur_23112025",
+    "home": "Arsenal",
+    "away": "Tottenham Hotspur",
+    "league": "Premier League",
+    "date": "23/11/2025"
+  },
+  "timestamp": "2025-11-21T17:17:12.031937",
+  "consolidated_data": {
+    "game_id": "ArsenalvsTottenhamHotspur_23112025",
+    "match_info": {
+      "home": "Arsenal",
+      "away": "Tottenham Hotspur",
+      "league": "Premier League",
+      "date": "23/11/2025"
+    },
+    "p_empate": 20.4,
+    "betfair_ah_market": {
+      "line": "Not available - blind pricing",
+      "odds": "Not available"
+    },
+    "q_scores": {
+      "Q1": {
+        "home_score": 8,
+        "away_score": 6,
+        "home_reasoning": "Arsenal: Saka (€140M, top performer), Rice (€120M, captain), Ødegaard (€80M, playmaker), Saliba (€80M, rock solid defender) → Total 11.5 pts → +8",
+        "away_reasoning": "Tottenham: Kulusevski (€50M, key creator), Romero (€55M, top defender), van de Ven (€55M, pace), Kudus (€55M, new signing) → Total 8.0 pts → +6",
+        "sources": [
+          "Transfermarkt (squad values)",
+          "SportsMole (key players)"
+        ]
+      },
+      "Q2": {
+        "home_score": 7,
+        "away_score": 5,
+        "home_reasoning": "Arsenal: 1.82 G/J overall + 1.7 xG → Strong attacking metrics → +7",
+        "away_reasoning": "Tottenham: 1.73 G/J + 1.21 xG → Good but below Arsenal level → +5",
+        "sources": [
+          "FootyStats API (goals per game, xG averages)"
+        ]
+      },
+      "Q3": {
+        "home_score": 5,
+        "away_score": 3,
+        "home_reasoning": "Arsenal: Deep squad with Jesus (€25M), Havertz (€60M), Trossard (€22M), Merino (€35M) providing quality depth across all positions → +5",
+        "away_reasoning": "Tottenham: Decent depth with Tel (€35M), Kolo Muani (€30M), but gaps in some positions → +3",
+        "sources": [
+          "Transfermarkt (bench players values)"
+        ]
+      },
+      "Q4": {
+        "home_score": 5,
+        "away_score": 2,
+        "home_reasoning": "Arsenal: 0.45 GA/J + 0.84 xGA → Excellent defensive record → +5",
+        "away_reasoning": "Tottenham: 0.91 GA/J + 1.32 xGA → Average defensive metrics → +2",
+        "sources": [
+          "FootyStats API (goals against, xG against)"
+        ]
+      },
+      "Q5": {
+        "home_score": 7,
+        "away_score": 4,
+        "home_reasoning": "Mikel Arteta: Top manager with title experience, refined tactical approach over 4+ years → +7",
+        "away_reasoning": "Thomas Frank: Good manager but step up from Brentford, still establishing at top level → +4",
+        "sources": [
+          "SportsMole preview",
+          "General knowledge"
+        ]
+      },
+      "Q6": {
+        "home_score": 4,
+        "away_score": 4,
+        "home_reasoning": "Arsenal 4-3-3 vs Tottenham tactical setup - balanced matchup with no clear structural advantage → +4",
+        "away_reasoning": "Spurs tactical setup matches well against Arsenal's system - even contest → +4",
+        "sources": [
+          "SportsMole tactical context",
+          "Standard formations"
+        ]
+      },
+      "Q7": {
+        "home_score": 3,
+        "away_score": 3,
+        "home_reasoning": "Arsenal: Good pressing system under Arteta, effective transitions → +3",
+        "away_reasoning": "Tottenham: Under Frank developing good pressing, solid counter-attacking → +3",
+        "sources": [
+          "SportsMole preview (tactical analysis)",
+          "Default estimation"
+        ]
+      },
+      "Q8": {
+        "home_score": 4,
+        "away_score": 2,
+        "home_reasoning": "Arsenal: 'Set-piece kings' referenced in headlines, strong from corners/free kicks → +4",
+        "away_reasoning": "Tottenham: Average set-piece record, some defensive vulnerabilities → +2",
+        "sources": [
+          "Sky Sports headlines (set-piece kings)",
+          "General observation"
+        ]
+      },
+      "Q9": {
+        "home_score": 6,
+        "away_score": 6,
+        "home_reasoning": "Arsenal: 1st place, 4 points ahead of City - title race pressure, must maintain lead → +6",
+        "away_reasoning": "Tottenham: 5th place, 1 point off Champions League spots - crucial for top 4 → +6",
+        "sources": [
+          "FootyStats API (league positions)",
+          "SportsMole (Champions League hunt)"
+        ]
+      },
+      "Q10": {
+        "home_score": 5,
+        "away_score": 5,
+        "home_reasoning": "North London Derby - historic rivalry, massive significance for both clubs → +5",
+        "away_reasoning": "North London Derby - historic rivalry, massive motivation for away fans → +5",
+        "sources": [
+          "SportsMole (North London Derby context)",
+          "Sky Sports headlines"
+        ]
+      },
+      "Q11": {
+        "home_score": 4,
+        "away_score": 3,
+        "home_reasoning": "Arsenal: 8W-2D-1L in 11 games, excellent recent form → +4",
+        "away_reasoning": "Tottenham: 5W-3D-3L in 11 games, mixed form → +3",
+        "sources": [
+          "FootyStats API (wins/draws/losses)"
+        ]
+      },
+      "Q12": {
+        "home_score": 3,
+        "away_score": 3,
+        "home_reasoning": "Arsenal: Good wins but including draw vs City, loss vs Liverpool - quality adjusted → +3",
+        "away_reasoning": "Tottenham: Mixed results against top teams, some good performances → +3",
+        "sources": [
+          "FootyStats data",
+          "General PL context"
+        ]
+      },
+      "Q13": {
+        "home_score": 3,
+        "away_score": 2,
+        "home_reasoning": "Arsenal: 1.82 goals vs 1.7 xG → +0.12 difference, slightly lucky → +3",
+        "away_reasoning": "Tottenham: 1.73 goals vs 1.21 xG → +0.52 difference, quite lucky → +2",
+        "sources": [
+          "FootyStats API (goals vs xG comparison)"
+        ]
+      },
+      "Q14": {
+        "home_score": 4,
+        "away_score": 2,
+        "home_reasoning": "Arsenal: Strong underlying metrics, consistently good performances, top of table → +4",
+        "away_reasoning": "Tottenham: Inconsistent performances, xG underperformance suggests issues → +2",
+        "sources": [
+          "FootyStats API (xG diff, performance metrics)"
+        ]
+      },
+      "Q15": {
+        "home_score": -8,
+        "away_score": -8,
+        "home_reasoning": "Gabriel Magalhães out for 'weeks' confirmed by Arteta - key defender missing → -8",
+        "away_reasoning": "Kulusevski missing until end of year per SportsMole - key creator out → -8",
+        "sources": [
+          "Sky Sports (Gabriel injury)",
+          "SportsMole (Kulusevski injury)"
+        ]
+      },
+      "Q16": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "Only Gabriel out, other defenders available → +0",
+        "away_reasoning": "No defensive cluster issues identified → +0",
+        "sources": [
+          "Sky Sports injury news",
+          "SportsMole team news"
+        ]
+      },
+      "Q17": {
+        "home_score": 6,
+        "away_score": 2,
+        "home_reasoning": "Arsenal: 4W-1D-0L at home (2.6 PPG) vs Spurs 4W-1D-0L away (2.6 PPG) → Strong home + Strong away opponent = +6",
+        "away_reasoning": "Tottenham: 1W-2D-3L at home (0.83 PPG) vs Arsenal strong home record → Weak away form = +2",
+        "sources": [
+          "FootyStats API (home/away records)"
+        ]
+      },
+      "Q18": {
+        "home_score": 3,
+        "away_score": 0,
+        "home_reasoning": "Arsenal: 'Gunners' crucial derby win' referenced in headlines - recent H2H success at home → +3",
+        "away_reasoning": "Tottenham: Lost recent derby at Emirates → +0",
+        "sources": [
+          "Sky Sports headlines (Last Time Out: Gunners' crucial derby win)"
+        ]
+      },
+      "Q19": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No evidence of 0 wins in last 3 H2H at home → +0",
+        "away_reasoning": "Not applicable for away team → +0",
+        "sources": [
+          "Sky Sports H2H context"
+        ]
+      }
+    },
+    "category_totals": {
+      "technique": {
+        "home": 20,
+        "away": 16
+      },
+      "tactics": {
+        "home": 18,
+        "away": 13
+      },
+      "motivation": {
+        "home": 11,
+        "away": 11
+      },
+      "form": {
+        "home": 7,
+        "away": 6
+      },
+      "performance": {
+        "home": 7,
+        "away": 4
+      },
+      "injuries": {
+        "home": -8,
+        "away": -8
+      },
+      "home_away": {
+        "home": 9,
+        "away": 2
+      }
+    },
+    "raw_scores": {
+      "raw_casa": 64,
+      "raw_vis": 44
+    },
+    "data_quality": {
+      "score": 92,
+      "assessment": "Excellent",
+      "breakdown": {
+        "q1_player_values": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q2_xg": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q3_bench": {
+          "points": 3,
+          "status": "complete"
+        },
+        "q4_xga": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q5_manager": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q6_formations": {
+          "points": 2.5,
+          "status": "inferred"
+        },
+        "q7_pressing": {
+          "points": 1.5,
+          "status": "inferred"
+        },
+        "q8_set_pieces": {
+          "points": 3,
+          "status": "partial"
+        },
+        "q9_league": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q10_derby": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q11_form": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q12_opponent": {
+          "points": 2,
+          "status": "estimated"
+        },
+        "q13_xg_delta": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q14_ratings": {
+          "points": 4,
+          "status": "inferred"
+        },
+        "q15_injuries": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q16_cluster": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q17_home_away": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q18_h2h": {
+          "points": 3,
+          "status": "inferred"
+        },
+        "q19_h2h_negative": {
+          "points": 4,
+          "status": "complete"
+        },
+        "betfair_draw": {
+          "points": 0,
+          "status": "missing"
+        },
+        "betfair_ah": {
+          "points": 0,
+          "status": "missing"
+        },
+        "local_media": {
+          "points": 5,
+          "status": "available"
+        },
+        "sportsmole": {
+          "points": 5,
+          "status": "available"
+        }
+      },
+      "missing_critical": [],
+      "proceed": true,
+      "confidence_note": "Excellent data quality from FootyStats API providing all key metrics. Only missing Betfair odds (blind pricing). Gabriel and Kulusevski injuries well documented."
+    },
+    "notes": [
+      "P(Empate) calculated from FootyStats odds: 100/4.9 = 20.4%",
+      "Both teams missing key players: Gabriel (Arsenal) and Kulusevski (Tottenham)",
+      "North London Derby context adds significant motivation for both sides",
+      "Arsenal's superior defensive record (0.45 vs 0.91 GA/J) is key differentiator",
+      "Tottenham overperforming xG (1.73 goals vs 1.21 xG) suggests unsustainable form",
+      "Strong home advantage for Arsenal (2.6 PPG at home vs Spurs 0.83 PPG at home)",
+      "Title race pressure for Arsenal vs Champions League hunt pressure for Spurs"
+    ]
+  },
+  "yudor_analysis": {
+    "match_id": "ArsenalvsTottenhamHotspur_23112025",
+    "raw_casa": 64,
+    "raw_vis": 44,
+    "delta": 20,
+    "yudor_ah_fair": -0.75,
+    "pr_casa": 0.545,
+    "pr_vis": 0.251,
+    "pr_empate": 0.204,
+    "cs_final": 72,
+    "tier": 1,
+    "r_home": 0.28,
+    "r_away": 0.32,
+    "r_fav": 0.28,
+    "r_dog": 0.32,
+    "rbr": -0.07,
+    "r_score": 0.3,
+    "decision": "VETO",
+    "reasoning": "R-Score 0.30 ≥ 0.25 threshold. Key injury concerns for both teams (Gabriel, Kulusevski) and derby volatility create excessive risk despite strong model confidence."
+  }
+}

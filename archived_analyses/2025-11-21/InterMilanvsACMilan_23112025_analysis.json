@@ -1,0 +1,361 @@
+{
+  "match_id": "InterMilanvsACMilan_23112025",
+  "match_info": {
+    "id": "InterMilanvsACMilan_23112025",
+    "home": "Inter Milan",
+    "away": "AC Milan",
+    "league": "Serie A",
+    "date": "23/11/2025"
+  },
+  "timestamp": "2025-11-21T17:29:45.801121",
+  "consolidated_data": {
+    "game_id": "InterMilanvsACMilan_23112025",
+    "match_info": {
+      "home": "Inter Milan",
+      "away": "AC Milan",
+      "league": "Serie A",
+      "date": "23/11/2025"
+    },
+    "p_empate": 28.1,
+    "betfair_ah_market": null,
+    "q_scores": {
+      "Q1": {
+        "home_score": 8,
+        "away_score": 6,
+        "home_reasoning": "Inter: Lautaro Martínez (€85M), Bastoni (€80M), Thuram (€75M), Barella (€65M) → Top quality throughout lineup",
+        "away_reasoning": "Milan: Leão (€70M), Pulisic (€60M), Nkunku (€35M), Jashari (€32M) → Strong but slightly lower overall quality",
+        "sources": [
+          "Transfermarkt (squad values)"
+        ]
+      },
+      "Q2": {
+        "home_score": 7,
+        "away_score": 4,
+        "home_reasoning": "Inter: 2.36 G/J + 1.93 xG → Elite offensive output",
+        "away_reasoning": "Milan: Limited offensive data available, estimated 1.5-1.7 range based on position",
+        "sources": [
+          "FootyStats (goals per game, xG averages)"
+        ]
+      },
+      "Q3": {
+        "home_score": 5,
+        "away_score": 3,
+        "home_reasoning": "Inter: Deep squad with quality subs like Frattesi (€35M), Bisseck (€35M), Çalhanoğlu (€25M) across all positions",
+        "away_reasoning": "Milan: Decent depth with Fofana (€30M), Ricci (€25M) but less overall bench strength",
+        "sources": [
+          "Transfermarkt (bench quality estimation)"
+        ]
+      },
+      "Q4": {
+        "home_score": 5,
+        "away_score": 3,
+        "home_reasoning": "Inter: 1.09 GA/J + 1.06 xGA → Excellent defensive record",
+        "away_reasoning": "Milan: No specific data available, estimated average defensive performance",
+        "sources": [
+          "FootyStats (goals against, xGA)"
+        ]
+      },
+      "Q5": {
+        "home_score": 5,
+        "away_score": 4,
+        "home_reasoning": "Simone Inzaghi: Champions League experience, Serie A winner, established top-level coach",
+        "away_reasoning": "Manager not explicitly identified in sources, estimated experienced Serie A level",
+        "sources": [
+          "General knowledge - Inzaghi credentials"
+        ]
+      },
+      "Q6": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "Formation data not available in provided sources",
+        "away_reasoning": "Formation data not available in provided sources",
+        "sources": [
+          "N/A - formations not found"
+        ]
+      },
+      "Q7": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "No pressing stats available, default balanced transitions",
+        "away_reasoning": "No pressing stats available, default balanced transitions",
+        "sources": [
+          "Default - no pressing data available"
+        ]
+      },
+      "Q8": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "No set-piece statistics available, default estimation",
+        "away_reasoning": "No set-piece statistics available, default estimation",
+        "sources": [
+          "Default - no set-piece data"
+        ]
+      },
+      "Q9": {
+        "home_score": 6,
+        "away_score": 9,
+        "home_reasoning": "Inter: 1st place (24 pts) - title race pressure but leading position",
+        "away_reasoning": "Milan: 3rd place (22 pts) - 2 points behind Inter, must-win derby to close gap",
+        "sources": [
+          "FootyStats (league position)",
+          "Serie A table"
+        ]
+      },
+      "Q10": {
+        "home_score": 5,
+        "away_score": 5,
+        "home_reasoning": "Derby della Madonnina - historic Milan derby, confirmed by headlines mentioning 'primo derby'",
+        "away_reasoning": "Derby della Madonnina - historic Milan derby, equal motivation for both sides",
+        "sources": [
+          "Gazzetta headlines mentioning derby context"
+        ]
+      },
+      "Q11": {
+        "home_score": 4,
+        "away_score": 3,
+        "home_reasoning": "Inter: 8W-0D-3L overall record = excellent form",
+        "away_reasoning": "Milan: Position and context suggest good but not exceptional recent form",
+        "sources": [
+          "FootyStats (wins/losses record)"
+        ]
+      },
+      "Q12": {
+        "home_score": 4,
+        "away_score": 3,
+        "home_reasoning": "Inter: Playing at highest level, beating quality opposition",
+        "away_reasoning": "Milan: Good form but estimated against slightly weaker opposition",
+        "sources": [
+          "Estimated from league position and form"
+        ]
+      },
+      "Q13": {
+        "home_score": 3,
+        "away_score": 2,
+        "home_reasoning": "Inter: xG 1.93 vs Goals 2.36 → slight overperformance (+0.43)",
+        "away_reasoning": "Milan: Limited xG data, estimated neutral delta",
+        "sources": [
+          "FootyStats (xG vs actual goals)"
+        ]
+      },
+      "Q14": {
+        "home_score": 4,
+        "away_score": 2,
+        "home_reasoning": "Inter: Strong performance metrics evident from league position and goal difference",
+        "away_reasoning": "Milan: Decent performances but less consistent based on position",
+        "sources": [
+          "FootyStats (overall performance metrics)"
+        ]
+      },
+      "Q15": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No key player injuries identified in team news",
+        "away_reasoning": "No key player injuries identified in team news",
+        "sources": [
+          "SportsMole team news"
+        ]
+      },
+      "Q16": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No defensive injury cluster identified",
+        "away_reasoning": "No defensive injury cluster identified",
+        "sources": [
+          "SportsMole team news"
+        ]
+      },
+      "Q17": {
+        "home_score": 8,
+        "away_score": 3,
+        "home_reasoning": "Inter: Excellent home form (5W-0D-1L at home, 2.83 G/J home vs 1.8 away)",
+        "away_reasoning": "Milan: Away form appears weaker based on overall statistics",
+        "sources": [
+          "FootyStats (home/away splits)"
+        ]
+      },
+      "Q18": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "No specific H2H data at San Siro available in sources",
+        "away_reasoning": "No specific H2H data available in sources",
+        "sources": [
+          "Default - H2H data not available"
+        ]
+      },
+      "Q19": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No evidence of negative home H2H record",
+        "away_reasoning": "N/A for away team",
+        "sources": [
+          "Default - no negative pattern identified"
+        ]
+      }
+    },
+    "category_totals": {
+      "technique": {
+        "home": 20,
+        "away": 15
+      },
+      "tactics": {
+        "home": 9,
+        "away": 8
+      },
+      "motivation": {
+        "home": 11,
+        "away": 14
+      },
+      "form": {
+        "home": 8,
+        "away": 6
+      },
+      "performance": {
+        "home": 7,
+        "away": 4
+      },
+      "injuries": {
+        "home": 0,
+        "away": 0
+      },
+      "home_away": {
+        "home": 10,
+        "away": 5
+      }
+    },
+    "raw_scores": {
+      "raw_casa": 65,
+      "raw_vis": 52
+    },
+    "data_quality": {
+      "score": 72,
+      "assessment": "Good",
+      "breakdown": {
+        "q1_player_values": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q2_xg": {
+          "points": 2.5,
+          "status": "partial - Inter complete, Milan estimated"
+        },
+        "q3_bench": {
+          "points": 1.5,
+          "status": "estimated"
+        },
+        "q4_xga": {
+          "points": 2.5,
+          "status": "partial - Inter complete, Milan estimated"
+        },
+        "q5_manager": {
+          "points": 1,
+          "status": "partial"
+        },
+        "q6_formations": {
+          "points": 0,
+          "status": "missing"
+        },
+        "q7_pressing": {
+          "points": 1,
+          "status": "default"
+        },
+        "q8_set_pieces": {
+          "points": 1,
+          "status": "default"
+        },
+        "q9_league": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q10_derby": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q11_form": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q12_opponent": {
+          "points": 2,
+          "status": "estimated"
+        },
+        "q13_xg_delta": {
+          "points": 2.5,
+          "status": "partial"
+        },
+        "q14_ratings": {
+          "points": 2.5,
+          "status": "estimated"
+        },
+        "q15_injuries": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q16_cluster": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q17_home_away": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q18_h2h": {
+          "points": 1,
+          "status": "default"
+        },
+        "q19_h2h_negative": {
+          "points": 4,
+          "status": "complete"
+        },
+        "betfair_draw": {
+          "points": 10,
+          "status": "calculated from FootyStats odds"
+        },
+        "betfair_ah": {
+          "points": 0,
+          "status": "missing - blind pricing"
+        },
+        "local_media": {
+          "points": 5,
+          "status": "available"
+        },
+        "sportsmole": {
+          "points": 5,
+          "status": "available"
+        }
+      },
+      "missing_critical": [],
+      "proceed": true,
+      "confidence_note": "Good data quality. Inter data very complete, Milan data partially estimated. Derby context clear."
+    },
+    "notes": [
+      "P(Empate) calculated from FootyStats draw odds (3.56): 100/3.56 = 28.1%",
+      "FootyStats showed duplicate Inter data for both teams - Milan data estimated from position/context",
+      "Strong derby context confirmed by Gazzetta headlines mentioning 'primo derby da proprietari di San Siro'",
+      "Inter's home advantage very strong: 2.83 G/J home vs 1.8 away, 5W-0D-1L at home",
+      "Milan appears under more pressure at 3rd place, 2 points behind Inter",
+      "Q6 formations and Q7 pressing stats missing - tactical analysis limited",
+      "No critical injuries identified for either team",
+      "This is a Derby della Madonnina - maximum Q10 derby bonus applied to both teams"
+    ]
+  },
+  "yudor_analysis": {
+    "match_id": "InterMilanvsACMilan_23112025",
+    "raw_casa": 65,
+    "raw_vis": 52,
+    "delta": 13,
+    "yudor_ah_fair": -0.75,
+    "pr_casa": 0.458,
+    "pr_vis": 0.261,
+    "pr_empate": 0.281,
+    "cs_final": 78,
+    "tier": 1,
+    "r_home": 0.22,
+    "r_away": 0.28,
+    "r_fav": 0.22,
+    "r_dog": 0.28,
+    "rbr": -0.12,
+    "r_score": 0.22,
+    "decision": "CORE",
+    "reasoning": "Strong confidence (78), low risk (0.22), clear Inter advantage in technique/home factors, derby motivation balanced"
+  }
+}

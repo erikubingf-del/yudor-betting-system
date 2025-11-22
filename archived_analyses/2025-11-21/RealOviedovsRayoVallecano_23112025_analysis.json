@@ -1,0 +1,362 @@
+{
+  "match_id": "RealOviedovsRayoVallecano_23112025",
+  "match_info": {
+    "id": "RealOviedovsRayoVallecano_23112025",
+    "home": "Real Oviedo",
+    "away": "Rayo Vallecano",
+    "league": "La Liga",
+    "date": "23/11/2025"
+  },
+  "timestamp": "2025-11-21T18:49:07.174291",
+  "consolidated_data": {
+    "game_id": "RealOviedovsRayoVallecano_23112025",
+    "match_info": {
+      "home": "Real Oviedo",
+      "away": "Rayo Vallecano",
+      "league": "La Liga",
+      "date": "23/11/2025"
+    },
+    "p_empate": 33.3,
+    "betfair_ah_market": {
+      "note": "Betfair data not available - using blind pricing methodology"
+    },
+    "q_scores": {
+      "Q1": {
+        "home_score": 3,
+        "away_score": 6,
+        "home_reasoning": "Oviedo: Carmo (€10M), Hassan (€5M), Chaira (€4M), Dendoncker (€4.5M) → Total 5.9 → +3",
+        "away_reasoning": "Rayo: Rațiu (€12M), De Frutos (€12M), García (€2M), Mumin (€5M) → Total 7.8 → +6",
+        "sources": [
+          "Transfermarkt (squad values)"
+        ]
+      },
+      "Q2": {
+        "home_score": 0,
+        "away_score": 2,
+        "home_reasoning": "Oviedo: 0.58 G/J + 0.97 xG → Below 1.0 threshold → 0",
+        "away_reasoning": "Rayo: 1.0 G/J + 1.42 xG → Around threshold → +2",
+        "sources": [
+          "FootyStats (goals/game, xG averages)"
+        ]
+      },
+      "Q3": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "Mid-tier La Liga team with decent depth - estimated +2",
+        "away_reasoning": "Mid-tier La Liga team with decent depth - estimated +2",
+        "sources": [
+          "Default estimation - bench data not detailed"
+        ]
+      },
+      "Q4": {
+        "home_score": 0,
+        "away_score": 3,
+        "home_reasoning": "Oviedo: 1.67 GA/J + 2.0 xGA → Poor defense → 0",
+        "away_reasoning": "Rayo: 1.17 GA/J + 1.42 xGA → Decent defense → +3",
+        "sources": [
+          "FootyStats (goals conceded, xGA)"
+        ]
+      },
+      "Q5": {
+        "home_score": 2,
+        "away_score": 4,
+        "home_reasoning": "Carrión - relatively new manager, limited international experience → +2",
+        "away_reasoning": "Rayo typically employs experienced managers with La Liga knowledge → +4",
+        "sources": [
+          "News context, default estimation"
+        ]
+      },
+      "Q6": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "Formation data not available → symmetrical default → 0",
+        "away_reasoning": "Formation data not available → symmetrical default → 0",
+        "sources": [
+          "No formation data found"
+        ]
+      },
+      "Q7": {
+        "home_score": 1,
+        "away_score": 3,
+        "home_reasoning": "Bottom-table team likely conservative transitions → +1",
+        "away_reasoning": "Rayo known for attacking style, good transitions → +3",
+        "sources": [
+          "Tactical reputation, default estimation"
+        ]
+      },
+      "Q8": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "Default mid-range for La Liga team → +2",
+        "away_reasoning": "Default mid-range for La Liga team → +2",
+        "sources": [
+          "Default - no set-piece data available"
+        ]
+      },
+      "Q9": {
+        "home_score": 12,
+        "away_score": 0,
+        "home_reasoning": "Oviedo: Last place (20th), 8 points - relegation battle → +12",
+        "away_reasoning": "Rayo: 12th place, 15 points - mid-table safety → 0",
+        "sources": [
+          "FootyStats (league position, points)"
+        ]
+      },
+      "Q10": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No derby context found between Oviedo-Rayo → 0",
+        "away_reasoning": "No derby context found between Oviedo-Rayo → 0",
+        "sources": [
+          "News headlines analysis"
+        ]
+      },
+      "Q11": {
+        "home_score": 1,
+        "away_score": 2,
+        "home_reasoning": "Oviedo: 2W-2D-8L in 12 games → approximately 1W in last 5 → +1",
+        "away_reasoning": "Rayo: 4W-3D-5L in 12 games → approximately 2W in last 5 → +2",
+        "sources": [
+          "FootyStats (overall record estimation)"
+        ]
+      },
+      "Q12": {
+        "home_score": 1,
+        "away_score": 2,
+        "home_reasoning": "Limited wins likely against weaker opposition → +1",
+        "away_reasoning": "Better form suggests wins against decent opponents → +2",
+        "sources": [
+          "Estimated from overall performance"
+        ]
+      },
+      "Q13": {
+        "home_score": 0,
+        "away_score": 2,
+        "home_reasoning": "0.58 Goals vs 0.97 xG → Unlucky but not significant (+0.39) → 0",
+        "away_reasoning": "1.0 Goals vs 1.42 xG → Unlucky (-0.42) → +2",
+        "sources": [
+          "FootyStats (xG vs actual goals)"
+        ]
+      },
+      "Q14": {
+        "home_score": 0,
+        "away_score": 2,
+        "home_reasoning": "Poor overall performance (last place) → 0",
+        "away_reasoning": "Mid-table performance, balanced xG → +2",
+        "sources": [
+          "FootyStats (performance metrics)"
+        ]
+      },
+      "Q15": {
+        "home_score": 0,
+        "away_score": -8,
+        "home_reasoning": "Cazorla returning from injury but not key player currently → 0",
+        "away_reasoning": "Alemao doubtful - key striker (€3.5M, main goalscorer) → -8",
+        "sources": [
+          "News headlines (Alemao injury concern)"
+        ]
+      },
+      "Q16": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No defensive cluster injuries reported → 0",
+        "away_reasoning": "No defensive cluster injuries reported → 0",
+        "sources": [
+          "News analysis"
+        ]
+      },
+      "Q17": {
+        "home_score": 4,
+        "away_score": 6,
+        "home_reasoning": "Home: 1W-1D-4L (poor) but opponent away: 3W-0D-4L → +4",
+        "away_reasoning": "Away: 3W-0D-4L (decent) vs home: 1W-1D-4L (poor) → +6",
+        "sources": [
+          "FootyStats (home/away records)"
+        ]
+      },
+      "Q18": {
+        "home_score": 2,
+        "away_score": 0,
+        "home_reasoning": "Default slight advantage for home team → +2",
+        "away_reasoning": "No H2H advantage → 0",
+        "sources": [
+          "Default - H2H data not available"
+        ]
+      },
+      "Q19": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No severe H2H disadvantage indicated → 0",
+        "away_reasoning": "N/A for away team → 0",
+        "sources": [
+          "Default - H2H data not available"
+        ]
+      }
+    },
+    "category_totals": {
+      "technique": {
+        "home": 5,
+        "away": 13
+      },
+      "tactics": {
+        "home": 5,
+        "away": 11
+      },
+      "motivation": {
+        "home": 12,
+        "away": 0
+      },
+      "form": {
+        "home": 2,
+        "away": 4
+      },
+      "performance": {
+        "home": 0,
+        "away": 4
+      },
+      "injuries": {
+        "home": 0,
+        "away": -8
+      },
+      "home_away": {
+        "home": 6,
+        "away": 6
+      }
+    },
+    "raw_scores": {
+      "raw_casa": 30,
+      "raw_vis": 30
+    },
+    "data_quality": {
+      "score": 72,
+      "assessment": "Good",
+      "breakdown": {
+        "q1_player_values": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q2_xg": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q3_bench": {
+          "points": 1,
+          "status": "default"
+        },
+        "q4_xga": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q5_manager": {
+          "points": 1,
+          "status": "default"
+        },
+        "q6_formations": {
+          "points": 1,
+          "status": "default"
+        },
+        "q7_pressing": {
+          "points": 1,
+          "status": "default"
+        },
+        "q8_set_pieces": {
+          "points": 1,
+          "status": "default"
+        },
+        "q9_league": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q10_derby": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q11_form": {
+          "points": 2.5,
+          "status": "estimated"
+        },
+        "q12_opponent": {
+          "points": 2,
+          "status": "estimated"
+        },
+        "q13_xg_delta": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q14_ratings": {
+          "points": 2.5,
+          "status": "estimated"
+        },
+        "q15_injuries": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q16_cluster": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q17_home_away": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q18_h2h": {
+          "points": 1,
+          "status": "default"
+        },
+        "q19_h2h_negative": {
+          "points": 4,
+          "status": "complete"
+        },
+        "betfair_draw": {
+          "points": 0,
+          "status": "missing"
+        },
+        "betfair_ah": {
+          "points": 0,
+          "status": "missing"
+        },
+        "local_media": {
+          "points": 5,
+          "status": "available"
+        },
+        "sportsmole": {
+          "points": 0,
+          "status": "limited"
+        }
+      },
+      "missing_critical": [],
+      "proceed": true,
+      "confidence_note": "Good data quality. FootyStats provided excellent xG and form data. Missing betting markets and detailed tactical info."
+    },
+    "notes": [
+      "FootyStats provided comprehensive xG and performance data",
+      "Alemao injury concern for Rayo is critical - key striker doubtful",
+      "Oviedo in relegation zone (20th) creates strong must-win motivation",
+      "Rayo better away (3W) than home (1W) - unusual pattern",
+      "No Betfair odds available - using blind pricing approach",
+      "SportsMole preview was limited - missing tactical details",
+      "H2H data not available for Q18/Q19 assessment"
+    ]
+  },
+  "yudor_analysis": {
+    "match_id": "RealOviedovsRayoVallecano_23112025",
+    "raw_casa": 30,
+    "raw_vis": 30,
+    "delta": 0,
+    "yudor_ah_fair": 0.0,
+    "pr_casa": 0.33,
+    "pr_vis": 0.33,
+    "pr_empate": 0.33,
+    "cs_final": 42,
+    "tier": 3,
+    "r_home": 0.31,
+    "r_away": 0.28,
+    "r_fav": 0.31,
+    "r_dog": 0.28,
+    "rbr": 0.05,
+    "r_score": 0.31,
+    "edge_synthetic": 0,
+    "decision": "VETO",
+    "reasoning": "R_Score 0.31 > 0.25 threshold and delta=0 creates pick'em scenario with high uncertainty"
+  }
+}

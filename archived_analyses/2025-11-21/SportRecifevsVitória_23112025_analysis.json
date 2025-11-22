@@ -1,0 +1,372 @@
+{
+  "match_id": "SportRecifevsVitória_23112025",
+  "match_info": {
+    "id": "SportRecifevsVitória_23112025",
+    "home": "Sport Recife",
+    "away": "Vitória",
+    "league": "Brasileirão",
+    "date": "23/11/2025"
+  },
+  "timestamp": "2025-11-21T20:04:40.682521",
+  "consolidated_data": {
+    "game_id": "SportRecifevsVitória_23112025",
+    "match_info": {
+      "home": "Sport Recife",
+      "away": "Vitória",
+      "league": "Brasileirão",
+      "date": "23/11/2025"
+    },
+    "p_empate": 25.0,
+    "betfair_ah_market": {
+      "line": "N/A",
+      "odds": "N/A",
+      "note": "Blind pricing - no Betfair data used"
+    },
+    "q_scores": {
+      "Q1": {
+        "home_score": 3,
+        "away_score": 6,
+        "home_reasoning": "Sport: Zé Lucas (€5.0M), Christian Rivera (€2.0M), Ignacio Ramírez (€2.0M), Lucas Cunha (€1.5M) → Total 5.2 → +3",
+        "away_reasoning": "Vitória: Lucas Arcanjo (€2.5M), Matheuzinho (€2.2M), Lucas Halter (€2.0M), Pepê (€2.0M) → Total 8.7 → +6",
+        "sources": [
+          "Transfermarkt (squad values)"
+        ]
+      },
+      "Q2": {
+        "home_score": 0,
+        "away_score": 2,
+        "home_reasoning": "Sport: 0.5 G/J (17 goals in 34 games) - extremely poor offensive output → 0",
+        "away_reasoning": "Vitória: 1.18 G/J - below average but reasonable → +2",
+        "sources": [
+          "FootyStats API (goals per game)",
+          "League standings"
+        ]
+      },
+      "Q3": {
+        "home_score": 1,
+        "away_score": 2,
+        "home_reasoning": "Sport: Several quality options but team struggling overall → +1",
+        "away_reasoning": "Vitória: Decent depth with players like Fabri, Carlinhos as backup → +2",
+        "sources": [
+          "Transfermarkt (squad depth)",
+          "Estimated from roster quality"
+        ]
+      },
+      "Q4": {
+        "home_score": 0,
+        "away_score": 1,
+        "home_reasoning": "Sport: Conceding 1.76 G/J (60 goals in 34 games) - terrible defense → 0",
+        "away_reasoning": "Vitória: 1.37 GA/J - above 1.2-1.5 range → +1",
+        "sources": [
+          "FootyStats API (goals conceded)",
+          "League data"
+        ]
+      },
+      "Q5": {
+        "home_score": 0,
+        "away_score": 4,
+        "home_reasoning": "Daniel Paulista: New manager, no significant track record → 0",
+        "away_reasoning": "Jair Ventura: Experienced Brazilian manager, mentioned positively in news → +4",
+        "sources": [
+          "SportsMole preview",
+          "Local news headlines"
+        ]
+      },
+      "Q6": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No clear tactical formation data available → 0 (symmetry)",
+        "away_reasoning": "No clear tactical formation data available → 0 (symmetry)",
+        "sources": [
+          "SportsMole (formations not specified)"
+        ]
+      },
+      "Q7": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "Default balanced transitions → +2",
+        "away_reasoning": "Default balanced transitions → +2",
+        "sources": [
+          "Default (no pressing stats available)"
+        ]
+      },
+      "Q8": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "Default set-piece capability → +2",
+        "away_reasoning": "Default set-piece capability → +2",
+        "sources": [
+          "Default (no set-piece data)"
+        ]
+      },
+      "Q9": {
+        "home_score": 12,
+        "away_score": 0,
+        "home_reasoning": "Sport: 20th place with 17 points, 19 points from safety - massive relegation battle → +12",
+        "away_reasoning": "Vitória: 11th place with 47 points, safe from relegation → 0",
+        "sources": [
+          "FootyStats API (league position)",
+          "Local news (rebaixamento headlines)"
+        ]
+      },
+      "Q10": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No derby, manager debut, or revenge context found → 0",
+        "away_reasoning": "No derby, manager debut, or revenge context found → 0",
+        "sources": [
+          "SportsMole preview",
+          "Local news"
+        ]
+      },
+      "Q11": {
+        "home_score": 0,
+        "away_score": 1,
+        "home_reasoning": "Sport: Terrible recent form, multiple consecutive losses mentioned → 0",
+        "away_reasoning": "Vitória: Recent draw vs Palmeiras shows decent form → +1",
+        "sources": [
+          "SportsMole (recent results)",
+          "Local news (form analysis)"
+        ]
+      },
+      "Q12": {
+        "home_score": 0,
+        "away_score": 2,
+        "home_reasoning": "Sport: Poor form against all levels of opposition → 0",
+        "away_reasoning": "Vitória: Held Palmeiras 0-0, showing can compete with top teams → +2",
+        "sources": [
+          "Local news (Palmeiras draw)",
+          "Form quality assessment"
+        ]
+      },
+      "Q13": {
+        "home_score": 2,
+        "away_score": 0,
+        "home_reasoning": "Sport: Scoring much less than expected, unlucky in attack → +2",
+        "away_reasoning": "Vitória: xG 1.13 vs Goals 1.18, slightly overperforming → 0",
+        "sources": [
+          "FootyStats API (xG vs actual goals)"
+        ]
+      },
+      "Q14": {
+        "home_score": 0,
+        "away_score": 1,
+        "home_reasoning": "Sport: Poor overall performance quality, bottom of table → 0",
+        "away_reasoning": "Vitória: Mid-table performance, decent xG numbers → +1",
+        "sources": [
+          "FootyStats API (performance metrics)"
+        ]
+      },
+      "Q15": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No key player injuries mentioned in team news → 0",
+        "away_reasoning": "Willian Oliveira out but not a top 3 G/A or defender → 0",
+        "sources": [
+          "SportsMole team news",
+          "Local news"
+        ]
+      },
+      "Q16": {
+        "home_score": 0,
+        "away_score": -4,
+        "home_reasoning": "No defensive cluster injuries → 0",
+        "away_reasoning": "Jamerson and Neris both injured - 2+ defenders out → -4",
+        "sources": [
+          "SportsMole team news"
+        ]
+      },
+      "Q17": {
+        "home_score": 2,
+        "away_score": 0,
+        "home_reasoning": "Home advantage despite poor form → +2",
+        "away_reasoning": "Away record: 5W-5D-9L, poor away form → 0",
+        "sources": [
+          "FootyStats API (home/away records)"
+        ]
+      },
+      "Q18": {
+        "home_score": 1,
+        "away_score": 0,
+        "home_reasoning": "No specific H2H data but SportsMole mentions Sport lost last 3 H2H → +1 default",
+        "away_reasoning": "SportsMole mentions Vitória won last 3 H2H meetings → 0",
+        "sources": [
+          "SportsMole (H2H reference)"
+        ]
+      },
+      "Q19": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No H2H veto scenario confirmed → 0",
+        "away_reasoning": "N/A → 0",
+        "sources": [
+          "SportsMole (insufficient H2H detail)"
+        ]
+      }
+    },
+    "category_totals": {
+      "technique": {
+        "home": 6,
+        "away": 11
+      },
+      "tactics": {
+        "home": 4,
+        "away": 8
+      },
+      "motivation": {
+        "home": 12,
+        "away": 0
+      },
+      "form": {
+        "home": 0,
+        "away": 3
+      },
+      "performance": {
+        "home": 2,
+        "away": 1
+      },
+      "injuries": {
+        "home": 0,
+        "away": -4
+      },
+      "home_away": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    "raw_scores": {
+      "raw_casa": 27,
+      "raw_vis": 19
+    },
+    "data_quality": {
+      "score": 78,
+      "assessment": "Good",
+      "breakdown": {
+        "q1_player_values": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q2_xg": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q3_bench": {
+          "points": 1.5,
+          "status": "estimated"
+        },
+        "q4_xga": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q5_manager": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q6_formations": {
+          "points": 1,
+          "status": "default"
+        },
+        "q7_pressing": {
+          "points": 1,
+          "status": "default"
+        },
+        "q8_set_pieces": {
+          "points": 1,
+          "status": "default"
+        },
+        "q9_league": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q10_derby": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q11_form": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q12_opponent": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q13_xg_delta": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q14_ratings": {
+          "points": 2.5,
+          "status": "partial"
+        },
+        "q15_injuries": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q16_cluster": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q17_home_away": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q18_h2h": {
+          "points": 2,
+          "status": "estimated"
+        },
+        "q19_h2h_negative": {
+          "points": 2,
+          "status": "estimated"
+        },
+        "betfair_draw": {
+          "points": 0,
+          "status": "blind_pricing"
+        },
+        "betfair_ah": {
+          "points": 0,
+          "status": "blind_pricing"
+        },
+        "local_media": {
+          "points": 5,
+          "status": "available"
+        },
+        "sportsmole": {
+          "points": 5,
+          "status": "available"
+        }
+      },
+      "missing_critical": [],
+      "proceed": true,
+      "confidence_note": "Good data quality. FootyStats API provided excellent xG and form data. Missing tactical details and detailed H2H records."
+    },
+    "notes": [
+      "Sport Recife in severe relegation crisis - 20th place, 17 points, 19 points from safety",
+      "Vitória relatively safe in mid-table but with defensive injuries (Jamerson, Neris)",
+      "Q6-Q8: Tactical data limited - used defaults for formations, pressing, set-pieces",
+      "Q18-Q19: H2H data incomplete - SportsMole mentions historical trend but no detailed records",
+      "Blind pricing system - no Betfair odds included in analysis",
+      "Local media clearly shows Sport in crisis mode while Vitória stable after Palmeiras draw"
+    ]
+  },
+  "yudor_analysis": {
+    "match_id": "SportRecifevsVitória_23112025",
+    "raw_casa": 27,
+    "raw_vis": 19,
+    "delta": 8,
+    "yudor_ah_fair": -0.75,
+    "pr_casa": 0.385,
+    "pr_vis": 0.365,
+    "pr_empate": 0.25,
+    "cs_final": 72,
+    "tier": 1,
+    "r_home": 0.64,
+    "r_away": 0.22,
+    "r_fav": 0.64,
+    "r_dog": 0.22,
+    "rbr": 0.49,
+    "r_score": 0.64,
+    "edge_synthetic": 24.0,
+    "decision": "VETO",
+    "reasoning": "Sport heavily motivated (relegation battle) but R_fav=0.64 indicates high risk due to poor form, defensive weakness, and crisis situation. RBR=0.49 shows significant risk imbalance."
+  }
+}

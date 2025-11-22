@@ -1,0 +1,366 @@
+{
+  "match_id": "BurnleyvsChelsea_22112025",
+  "match_info": {
+    "id": "BurnleyvsChelsea_22112025",
+    "home": "Burnley",
+    "away": "Chelsea",
+    "league": "Premier League",
+    "date": "22/11/2025"
+  },
+  "timestamp": "2025-11-21T18:31:33.557369",
+  "consolidated_data": {
+    "game_id": "BurnleyvsChelsea_22112025",
+    "match_info": {
+      "home": "Burnley",
+      "away": "Chelsea",
+      "league": "Premier League",
+      "date": "22/11/2025"
+    },
+    "p_empate": 22.0,
+    "betfair_ah_market": null,
+    "q_scores": {
+      "Q1": {
+        "home_score": 3,
+        "away_score": 8,
+        "home_reasoning": "Burnley: Ugochukwu (€22M, 21), Florentino (€22M, 26), Anthony (€14M, 25), Estève (€24M, 23) → Total ~6.0 → +3",
+        "away_reasoning": "Chelsea: Palmer (€120M, 23), Caicedo (€100M, 24), Fernández (€80M, 24), Colwill (€55M, 22) → Total ~11.2 → +8",
+        "sources": [
+          "Transfermarkt (values)",
+          "SportsMole (top players)"
+        ]
+      },
+      "Q2": {
+        "home_score": 2,
+        "away_score": 6,
+        "home_reasoning": "Burnley: 1.27 G/J + 0.98 xG → Weak offense → +2",
+        "away_reasoning": "Chelsea: 1.91 G/J + 1.72 xG → Strong offense → +6",
+        "sources": [
+          "FootyStats API (goals_scored_avg_overall, xg_for_avg_overall)"
+        ]
+      },
+      "Q3": {
+        "home_score": 1,
+        "away_score": 5,
+        "home_reasoning": "Burnley: Limited bench depth for relegated team → +1",
+        "away_reasoning": "Chelsea: Deep squad with quality subs in all positions → +5",
+        "sources": [
+          "Transfermarkt (squad depth)",
+          "Default estimation"
+        ]
+      },
+      "Q4": {
+        "home_score": 0,
+        "away_score": 3,
+        "home_reasoning": "Burnley: 2.0 GA/J + 1.99 xGA → Poor defense → 0",
+        "away_reasoning": "Chelsea: 1.0 GA/J + 1.1 xGA → Good defense → +3",
+        "sources": [
+          "FootyStats API (goals_conceded_avg_overall, xg_against_avg_overall)"
+        ]
+      },
+      "Q5": {
+        "home_score": 2,
+        "away_score": 5,
+        "home_reasoning": "Scott Parker: 5+ years experience, no major titles → +2",
+        "away_reasoning": "Enzo Maresca: Champions League experience mentioned in preview → +5",
+        "sources": [
+          "SportsMole preview"
+        ]
+      },
+      "Q6": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "Formations not specified in preview → Default symmetry → 0",
+        "away_reasoning": "Formations not specified in preview → Default symmetry → 0",
+        "sources": [
+          "SportsMole preview (formations not detailed)"
+        ]
+      },
+      "Q7": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "No pressing data available → Default +2",
+        "away_reasoning": "No pressing data available → Default +2",
+        "sources": [
+          "Default estimation"
+        ]
+      },
+      "Q8": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "No set-piece data available → Default +2",
+        "away_reasoning": "No set-piece data available → Default +2",
+        "sources": [
+          "Default estimation"
+        ]
+      },
+      "Q9": {
+        "home_score": 12,
+        "away_score": 0,
+        "home_reasoning": "Burnley: 17th position, relegation battle (only above drop zone on goal difference) → +12",
+        "away_reasoning": "Chelsea: 3rd position, comfortable position → 0",
+        "sources": [
+          "FootyStats API (position), SportsMole preview"
+        ]
+      },
+      "Q10": {
+        "home_score": 0,
+        "away_score": 5,
+        "home_reasoning": "No derby context → 0",
+        "away_reasoning": "Broja revenge context: ex-Chelsea player facing former club → +5",
+        "sources": [
+          "SportsMole preview",
+          "Sky Sports news"
+        ]
+      },
+      "Q11": {
+        "home_score": 1,
+        "away_score": 3,
+        "home_reasoning": "Burnley: 3W-1D-7L overall → Poor form → +1",
+        "away_reasoning": "Chelsea: 6W-2D-3L overall → Good form → +3",
+        "sources": [
+          "FootyStats API (wins_overall, draws_overall, losses_overall)"
+        ]
+      },
+      "Q12": {
+        "home_score": 0,
+        "away_score": 2,
+        "home_reasoning": "Burnley: Few quality wins given position → 0",
+        "away_reasoning": "Chelsea: Mixed level opponents, decent form → +2",
+        "sources": [
+          "FootyStats API (estimated from league position)"
+        ]
+      },
+      "Q13": {
+        "home_score": 1,
+        "away_score": 0,
+        "home_reasoning": "Burnley: Goals (1.27) > xG (0.98) by +0.29 → Slightly lucky → +1",
+        "away_reasoning": "Chelsea: Goals (1.91) > xG (1.72) by +0.19 → Slightly lucky → +1 → But within normal range → 0",
+        "sources": [
+          "FootyStats API (goals vs xG comparison)"
+        ]
+      },
+      "Q14": {
+        "home_score": 1,
+        "away_score": 3,
+        "home_reasoning": "Burnley: Poor xG performance (0.98) and low position → +1",
+        "away_reasoning": "Chelsea: Good xG (1.72) and 3rd position → +3",
+        "sources": [
+          "FootyStats API (xg performance, position)"
+        ]
+      },
+      "Q15": {
+        "home_score": 0,
+        "away_score": -8,
+        "home_reasoning": "Broja injury scare but expected to be fit → 0",
+        "away_reasoning": "Cole Palmer (key player) out with toe injury → -8",
+        "sources": [
+          "SportsMole team news",
+          "Sky Sports headlines"
+        ]
+      },
+      "Q16": {
+        "home_score": 0,
+        "away_score": -4,
+        "home_reasoning": "No cluster of defensive injuries mentioned → 0",
+        "away_reasoning": "Colwill (knee) + other defensive concerns → -4",
+        "sources": [
+          "SportsMole team news"
+        ]
+      },
+      "Q17": {
+        "home_score": 6,
+        "away_score": 4,
+        "home_reasoning": "Home: 2W-1D-2L at home (decent) → +4; Away: 1W-0D-5L away (poor) → +2 bonus → Total +6",
+        "away_reasoning": "Home: 3W-1D-2L at home (good) → +2; Away: 3W-1D-1L away (strong) → 0 bonus → Total +2 → But better away than home → +4",
+        "sources": [
+          "FootyStats API (home/away records)"
+        ]
+      },
+      "Q18": {
+        "home_score": 1,
+        "away_score": 0,
+        "home_reasoning": "Limited H2H data available, estimate 1 win → +1",
+        "away_reasoning": "Away team gets 0 for H2H at opponent's ground → 0",
+        "sources": [
+          "Estimated from historical context"
+        ]
+      },
+      "Q19": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No evidence of 0 wins in last 3 H2H at home → 0",
+        "away_reasoning": "Not applicable to away team → 0",
+        "sources": [
+          "Default assessment"
+        ]
+      }
+    },
+    "category_totals": {
+      "technique": {
+        "home": 6,
+        "away": 22
+      },
+      "tactics": {
+        "home": 6,
+        "away": 9
+      },
+      "motivation": {
+        "home": 12,
+        "away": 5
+      },
+      "form": {
+        "home": 1,
+        "away": 5
+      },
+      "performance": {
+        "home": 2,
+        "away": 3
+      },
+      "injuries": {
+        "home": 0,
+        "away": -12
+      },
+      "home_away": {
+        "home": 7,
+        "away": 4
+      }
+    },
+    "raw_scores": {
+      "raw_casa": 34,
+      "raw_vis": 36
+    },
+    "data_quality": {
+      "score": 75,
+      "assessment": "Good",
+      "breakdown": {
+        "q1_player_values": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q2_xg": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q3_bench": {
+          "points": 1.5,
+          "status": "estimated"
+        },
+        "q4_xga": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q5_manager": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q6_formations": {
+          "points": 1,
+          "status": "default"
+        },
+        "q7_pressing": {
+          "points": 1,
+          "status": "default"
+        },
+        "q8_set_pieces": {
+          "points": 1,
+          "status": "default"
+        },
+        "q9_league": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q10_derby": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q11_form": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q12_opponent": {
+          "points": 2,
+          "status": "estimated"
+        },
+        "q13_xg_delta": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q14_ratings": {
+          "points": 2.5,
+          "status": "partial"
+        },
+        "q15_injuries": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q16_cluster": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q17_home_away": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q18_h2h": {
+          "points": 2,
+          "status": "estimated"
+        },
+        "q19_h2h_negative": {
+          "points": 4,
+          "status": "complete"
+        },
+        "betfair_draw": {
+          "points": 0,
+          "status": "missing"
+        },
+        "betfair_ah": {
+          "points": 0,
+          "status": "missing"
+        },
+        "local_media": {
+          "points": 5,
+          "status": "available"
+        },
+        "sportsmole": {
+          "points": 5,
+          "status": "available"
+        }
+      },
+      "missing_critical": [
+        "Betfair odds not available for blind pricing model"
+      ],
+      "proceed": true,
+      "confidence_note": "Good data quality. FootyStats API provided excellent xG and form data. Missing tactical details and betting odds but core analysis solid."
+    },
+    "notes": [
+      "Q6-Q8: Limited tactical data from preview - used defaults",
+      "Q15: Palmer injury confirmed major blow for Chelsea",
+      "Q16: Colwill knee injury creates defensive cluster concern",
+      "Q10: Broja revenge narrative vs former club Chelsea",
+      "Q9: Burnley in clear relegation battle, must-win situation",
+      "FootyStats API provided comprehensive statistical foundation",
+      "No Betfair data available - analysis proceeds without betting context"
+    ]
+  },
+  "yudor_analysis": {
+    "match_id": "BurnleyvsChelsea_22112025",
+    "raw_casa": 34,
+    "raw_vis": 36,
+    "delta": -2,
+    "yudor_ah_fair": 0.0,
+    "pr_casa": 0.39,
+    "pr_vis": 0.39,
+    "pr_empate": 0.22,
+    "cs_final": 45,
+    "tier": 3,
+    "r_home": 0.42,
+    "r_away": 0.38,
+    "r_fav": 0.38,
+    "r_dog": 0.42,
+    "rbr": -0.05,
+    "r_score": 0.4,
+    "edge_synthetic": 0,
+    "decision": "VETO",
+    "reasoning": "CS_final (45) < 70 and |Delta| (2) < 2.0 triggers IGNORAR rule"
+  }
+}

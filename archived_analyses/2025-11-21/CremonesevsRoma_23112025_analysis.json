@@ -1,0 +1,370 @@
+{
+  "match_id": "CremonesevsRoma_23112025",
+  "match_info": {
+    "id": "CremonesevsRoma_23112025",
+    "home": "Cremonese",
+    "away": "Roma",
+    "league": "Serie A",
+    "date": "23/11/2025"
+  },
+  "timestamp": "2025-11-21T18:55:06.926895",
+  "consolidated_data": {
+    "game_id": "CremonesevsRoma_23112025",
+    "match_info": {
+      "home": "Cremonese",
+      "away": "Roma",
+      "league": "Serie A",
+      "date": "23/11/2025"
+    },
+    "p_empate": 26.0,
+    "betfair_ah_market": null,
+    "q_scores": {
+      "Q1": {
+        "home_score": 3,
+        "away_score": 8,
+        "home_reasoning": "Cremonese: Bonazzoli (€1M, top scorer), Vardy (€1M, veteran), Faye (€6M, young CB), Bondo (€8.5M, midfielder) → Total 3.1 → +3",
+        "away_reasoning": "Roma: Soulé (€35M, top scorer), Kone (€50M, midfield star), Ndicka (€30M, CB), Svilar (€25M, GK) → Total 11.0 → +8",
+        "sources": [
+          "Transfermarkt (values)",
+          "SportsMole (key players)"
+        ]
+      },
+      "Q2": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "Cremonese: 1.09 G/J + 0.95 xG → Below average offense → +2",
+        "away_reasoning": "Roma: 1.09 G/J + 1.65 xG → Good xG but low conversion → +2",
+        "sources": [
+          "FootyStats (goals per game)",
+          "FootyStats (xG averages)"
+        ]
+      },
+      "Q3": {
+        "home_score": 2,
+        "away_score": 4,
+        "home_reasoning": "Cremonese: Mid-table squad depth, some quality subs like Sanabria (€2.8M), Okereke (€2M) → +2",
+        "away_reasoning": "Roma: Strong bench with Ferguson (€25M), Bailey (€22M), El Shaarawy, Pellegrini → +4",
+        "sources": [
+          "Transfermarkt (squad values)",
+          "SportsMole (team news)"
+        ]
+      },
+      "Q4": {
+        "home_score": 1,
+        "away_score": 5,
+        "home_reasoning": "Cremonese: 1.18 GA/J + 1.78 xGA → Poor defensive metrics → +1",
+        "away_reasoning": "Roma: 0.45 GA/J + 1.15 xGA → Excellent defensive record → +5",
+        "sources": [
+          "FootyStats (goals against)",
+          "FootyStats (xGA)"
+        ]
+      },
+      "Q5": {
+        "home_score": 4,
+        "away_score": 7,
+        "home_reasoning": "Davide Nicola: Survival specialist with 10+ years Serie A experience → +4",
+        "away_reasoning": "Gian Piero Gasperini: Champions League semifinalist, top-tier manager → +7",
+        "sources": [
+          "SportsMole (manager info)"
+        ]
+      },
+      "Q6": {
+        "home_score": 4,
+        "away_score": 4,
+        "home_reasoning": "Cremonese 3-5-2: Balanced formation, good for counter-attacks → +4",
+        "away_reasoning": "Roma formation not specified, assume balanced setup → +4",
+        "sources": [
+          "SportsMole (formation info)"
+        ]
+      },
+      "Q7": {
+        "home_score": 2,
+        "away_score": 3,
+        "home_reasoning": "Mid-table team, likely balanced transitions → +2",
+        "away_reasoning": "Top team under Gasperini, good pressing and transitions → +3",
+        "sources": [
+          "Default estimation based on team quality"
+        ]
+      },
+      "Q8": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "No specific set-piece data available → +2 default",
+        "away_reasoning": "No specific set-piece data available → +2 default",
+        "sources": [
+          "Default - no set-piece data available"
+        ]
+      },
+      "Q9": {
+        "home_score": 0,
+        "away_score": 12,
+        "home_reasoning": "Cremonese: 11th position (14 pts), mid-table safety → +0",
+        "away_reasoning": "Roma: 2nd position (24 pts), title race with Inter - must-win → +12",
+        "sources": [
+          "FootyStats (league position)",
+          "SportsMole (title race context)"
+        ]
+      },
+      "Q10": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No derby, revenge, or special context identified → +0",
+        "away_reasoning": "No derby, revenge, or special context identified → +0",
+        "sources": [
+          "SportsMole preview",
+          "Local media headlines"
+        ]
+      },
+      "Q11": {
+        "home_score": 1,
+        "away_score": 4,
+        "home_reasoning": "Cremonese: 3W-5D-3L overall, recent form includes loss to Pisa → +1",
+        "away_reasoning": "Roma: 8W-0D-3L overall, excellent recent form → +4",
+        "sources": [
+          "FootyStats (wins/losses)",
+          "SportsMole (recent results)"
+        ]
+      },
+      "Q12": {
+        "home_score": 1,
+        "away_score": 4,
+        "home_reasoning": "Cremonese: Limited quality opponents beaten → +1",
+        "away_reasoning": "Roma: 8 wins against varied opposition quality → +4",
+        "sources": [
+          "FootyStats (form)",
+          "Estimated from results quality"
+        ]
+      },
+      "Q13": {
+        "home_score": 3,
+        "away_score": 0,
+        "home_reasoning": "Cremonese: 12 goals vs 0.95 xG avg suggests overperforming → +3",
+        "away_reasoning": "Roma: 12 goals vs 1.65 xG avg suggests underperforming → +0",
+        "sources": [
+          "FootyStats (goals vs xG comparison)"
+        ]
+      },
+      "Q14": {
+        "home_score": 1,
+        "away_score": 3,
+        "home_reasoning": "Cremonese: Mid-table performance, negative xG differential → +1",
+        "away_reasoning": "Roma: Strong performance metrics, positive xG differential → +3",
+        "sources": [
+          "FootyStats (xG differential)",
+          "FootyStats (performance)"
+        ]
+      },
+      "Q15": {
+        "home_score": -8,
+        "away_score": -8,
+        "home_reasoning": "Mikayil Faye (€6M defender) struggling with sprained ankle → -8",
+        "away_reasoning": "Paulo Dybala (€8M star player) still sidelined with injury → -8",
+        "sources": [
+          "SportsMole (injury news)"
+        ]
+      },
+      "Q16": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "Only one key defender (Faye) potentially out → +0",
+        "away_reasoning": "No defensive cluster of injuries identified → +0",
+        "sources": [
+          "SportsMole (team news)"
+        ]
+      },
+      "Q17": {
+        "home_score": 2,
+        "away_score": 8,
+        "home_reasoning": "Cremonese: 1W-3D-1L at home (poor) vs Roma 4W-0D-1L away (excellent) → +2",
+        "away_reasoning": "Roma: Excellent away form (2.4 PPG away vs opponents' home struggles) → +8",
+        "sources": [
+          "FootyStats (home/away form)"
+        ]
+      },
+      "Q18": {
+        "home_score": 3,
+        "away_score": 1,
+        "home_reasoning": "SportsMole states Cremonese won 2 of last 3 H2H meetings (both 2-1) → +3",
+        "away_reasoning": "Roma lost 2 of last 3 H2H at Cremonese → +1",
+        "sources": [
+          "SportsMole (H2H history)"
+        ]
+      },
+      "Q19": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "Cremonese has won 2 of last 3 H2H at home - no veto applied → +0",
+        "away_reasoning": "N/A for away team → +0",
+        "sources": [
+          "SportsMole (H2H history)"
+        ]
+      }
+    },
+    "category_totals": {
+      "technique": {
+        "home": 8,
+        "away": 19
+      },
+      "tactics": {
+        "home": 12,
+        "away": 16
+      },
+      "motivation": {
+        "home": 0,
+        "away": 12
+      },
+      "form": {
+        "home": 2,
+        "away": 8
+      },
+      "performance": {
+        "home": 4,
+        "away": 3
+      },
+      "injuries": {
+        "home": -8,
+        "away": -8
+      },
+      "home_away": {
+        "home": 5,
+        "away": 9
+      }
+    },
+    "raw_scores": {
+      "raw_casa": 23,
+      "raw_vis": 59
+    },
+    "data_quality": {
+      "score": 78,
+      "assessment": "Good",
+      "breakdown": {
+        "q1_player_values": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q2_xg": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q3_bench": {
+          "points": 3,
+          "status": "complete"
+        },
+        "q4_xga": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q5_manager": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q6_formations": {
+          "points": 2.5,
+          "status": "partial"
+        },
+        "q7_pressing": {
+          "points": 1,
+          "status": "default"
+        },
+        "q8_set_pieces": {
+          "points": 1,
+          "status": "default"
+        },
+        "q9_league": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q10_derby": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q11_form": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q12_opponent": {
+          "points": 2,
+          "status": "estimated"
+        },
+        "q13_xg_delta": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q14_ratings": {
+          "points": 3,
+          "status": "partial"
+        },
+        "q15_injuries": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q16_cluster": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q17_home_away": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q18_h2h": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q19_h2h_negative": {
+          "points": 4,
+          "status": "complete"
+        },
+        "betfair_draw": {
+          "points": 0,
+          "status": "missing"
+        },
+        "betfair_ah": {
+          "points": 0,
+          "status": "missing"
+        },
+        "local_media": {
+          "points": 2,
+          "status": "limited"
+        },
+        "sportsmole": {
+          "points": 5,
+          "status": "available"
+        }
+      },
+      "missing_critical": [],
+      "proceed": true,
+      "confidence_note": "Good data quality. Missing Betfair odds and limited local media, but all football performance data available from FootyStats."
+    },
+    "notes": [
+      "P(Empate): Calculated from FootyStats odds (3.84) = 26.0%",
+      "Betfair AH market: Not available - using blind pricing approach",
+      "Q6: Only home formation (3-5-2) confirmed from SportsMole",
+      "Q7-Q8: Used defaults due to lack of pressing/set-piece statistics",
+      "Q9: Clear title race context for Roma (2nd, chasing Inter)",
+      "Q15: Both teams have key player injuries (Faye, Dybala)",
+      "Q18: Strong H2H advantage for Cremonese at home (2/3 wins)",
+      "FootyStats provided excellent performance data for Q2, Q4, Q11, Q13, Q14, Q17"
+    ]
+  },
+  "yudor_analysis": {
+    "match_id": "CremonesevsRoma_23112025",
+    "raw_casa": 23,
+    "raw_vis": 59,
+    "delta": -36,
+    "yudor_ah_fair": 1.75,
+    "pr_casa": 0.11,
+    "pr_vis": 0.63,
+    "pr_empate": 0.26,
+    "cs_final": 52,
+    "tier": 2,
+    "r_home": 0.42,
+    "r_away": 0.28,
+    "r_fav": 0.28,
+    "r_dog": 0.42,
+    "rbr": -0.2,
+    "r_score": 0.28,
+    "edge_synthetic": 56.0,
+    "decision": "EXP",
+    "reasoning": "R-Score 0.28 in EXP range, high synthetic edge 56% for underdog, Tier 2 confidence"
+  }
+}

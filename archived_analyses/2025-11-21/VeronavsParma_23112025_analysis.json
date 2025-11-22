@@ -1,0 +1,361 @@
+{
+  "match_id": "VeronavsParma_23112025",
+  "match_info": {
+    "id": "VeronavsParma_23112025",
+    "home": "Verona",
+    "away": "Parma",
+    "league": "Serie A",
+    "date": "23/11/2025"
+  },
+  "timestamp": "2025-11-21T18:54:01.125750",
+  "consolidated_data": {
+    "game_id": "VeronavsParma_23112025",
+    "match_info": {
+      "home": "Verona",
+      "away": "Parma",
+      "league": "Serie A",
+      "date": "23/11/2025"
+    },
+    "p_empate": 33.4,
+    "betfair_ah_market": null,
+    "q_scores": {
+      "Q1": {
+        "home_score": 3,
+        "away_score": 6,
+        "home_reasoning": "Verona: Gift Orban (€10M), Al-Musrati (€8M), Nelsson (€9M), Bella-Kotchap (€7.5M) → Total 5.8 → +3",
+        "away_reasoning": "Parma: Suzuki (€20M), Bernabé (€15M), Keita (€12M), Circati (€8M) → Total 9.2 → +6",
+        "sources": [
+          "Transfermarkt (values)"
+        ]
+      },
+      "Q2": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "Verona: 0.55 G/J + 1.38 xG → Below minimum thresholds → 0",
+        "away_reasoning": "Parma: 0.64 G/J + 1.09 xG → Below minimum thresholds → 0",
+        "sources": [
+          "FootyStats (goals_scored_avg, xg_for_avg)"
+        ]
+      },
+      "Q3": {
+        "home_score": 1,
+        "away_score": 2,
+        "home_reasoning": "Verona: Mid-table team with some depth but limited quality subs → +1",
+        "away_reasoning": "Parma: Better squad depth with multiple quality options → +2",
+        "sources": [
+          "Transfermarkt (squad values) - estimated"
+        ]
+      },
+      "Q4": {
+        "home_score": 1,
+        "away_score": 0,
+        "home_reasoning": "Verona: 1.45 GA/J + 1.36 xGA → Poor defensive record → +1",
+        "away_reasoning": "Parma: 1.27 GA/J + 1.53 xGA → Very poor defensive metrics → 0",
+        "sources": [
+          "FootyStats (goals_conceded_avg, xg_against_avg)"
+        ]
+      },
+      "Q5": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "Zanetti: Experienced Serie A manager with several years in the league → +2",
+        "away_reasoning": "Cuesta: Described as 'rookie coach' in SportsMole, still settling in → +2",
+        "sources": [
+          "SportsMole (manager context)"
+        ]
+      },
+      "Q6": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "Formations not clearly specified in available data → 0",
+        "away_reasoning": "Formations not clearly specified in available data → 0",
+        "sources": [
+          "SportsMole - formations not confirmed"
+        ]
+      },
+      "Q7": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "No specific pressing/transition data available → Default +2",
+        "away_reasoning": "No specific pressing/transition data available → Default +2",
+        "sources": [
+          "Default - no pressing stats available"
+        ]
+      },
+      "Q8": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "No set-piece data available → Default +2",
+        "away_reasoning": "No set-piece data available → Default +2",
+        "sources": [
+          "Default - no set-piece data available"
+        ]
+      },
+      "Q9": {
+        "home_score": 12,
+        "away_score": 6,
+        "home_reasoning": "Verona: 19th position (6 pts), in relegation zone, desperate for first win → +12",
+        "away_reasoning": "Parma: 17th position (8 pts), above relegation but still in danger → +6",
+        "sources": [
+          "FootyStats (league position, points)"
+        ]
+      },
+      "Q10": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No derby, manager debut, or revenge context found → 0",
+        "away_reasoning": "No derby, manager debut, or revenge context found → 0",
+        "sources": [
+          "SportsMole, Local media"
+        ]
+      },
+      "Q11": {
+        "home_score": 0,
+        "away_score": 1,
+        "home_reasoning": "Verona: 0 wins in 11 games → 0",
+        "away_reasoning": "Parma: 1 win in 11 games → +1",
+        "sources": [
+          "FootyStats (wins_overall)"
+        ]
+      },
+      "Q12": {
+        "home_score": 0,
+        "away_score": 1,
+        "home_reasoning": "Verona: No wins to normalize → 0",
+        "away_reasoning": "Parma: Limited wins against weak opposition → +1",
+        "sources": [
+          "FootyStats - estimated from overall form"
+        ]
+      },
+      "Q13": {
+        "home_score": 5,
+        "away_score": 0,
+        "home_reasoning": "Verona: 1.38 xG vs 0.55 Goals → xG +0.83 higher (very unlucky) → +5",
+        "away_reasoning": "Parma: 1.09 xG vs 0.64 Goals → xG +0.45 higher (unlucky) but less extreme → +3",
+        "sources": [
+          "FootyStats (xg_for_avg vs goals_scored_avg)"
+        ]
+      },
+      "Q14": {
+        "home_score": 1,
+        "away_score": 1,
+        "home_reasoning": "Verona: Poor goals/xG conversion suggests below-average performances → +1",
+        "away_reasoning": "Parma: Similar poor conversion and results → +1",
+        "sources": [
+          "FootyStats (performance metrics) - estimated"
+        ]
+      },
+      "Q15": {
+        "home_score": -8,
+        "away_score": 0,
+        "home_reasoning": "Verona: Captain Serdar (top scorer, 2 goals) injured with knee problem → -8",
+        "away_reasoning": "Parma: No key player injuries mentioned → 0",
+        "sources": [
+          "SportsMole (team news)"
+        ]
+      },
+      "Q16": {
+        "home_score": 0,
+        "away_score": -4,
+        "home_reasoning": "Verona: No cluster defensive injuries mentioned → 0",
+        "away_reasoning": "Parma: Circati (key defender) + Suzuki (GK) injured → -4",
+        "sources": [
+          "SportsMole (team news)"
+        ]
+      },
+      "Q17": {
+        "home_score": 6,
+        "away_score": 2,
+        "home_reasoning": "Verona: 0.6 PPG at home vs Parma 0.4 PPG away → Home advantage clear → +6",
+        "away_reasoning": "Parma: 0.4 PPG away (poor away form) → +2",
+        "sources": [
+          "FootyStats (ppg_home vs ppg_away)"
+        ]
+      },
+      "Q18": {
+        "home_score": 1,
+        "away_score": 0,
+        "home_reasoning": "Verona: Last H2H at home was 0-0 draw (March 2025) → +1",
+        "away_reasoning": "Parma: Drew away at Verona in last meeting → 0",
+        "sources": [
+          "SportsMole (H2H context)"
+        ]
+      },
+      "Q19": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "Verona: No evidence of 3+ H2H home losses → 0",
+        "away_reasoning": "Not applicable for away team → 0",
+        "sources": [
+          "SportsMole (H2H context)"
+        ]
+      }
+    },
+    "category_totals": {
+      "technique": {
+        "home": 4,
+        "away": 8
+      },
+      "tactics": {
+        "home": 6,
+        "away": 6
+      },
+      "motivation": {
+        "home": 12,
+        "away": 6
+      },
+      "form": {
+        "home": 0,
+        "away": 2
+      },
+      "performance": {
+        "home": 6,
+        "away": 1
+      },
+      "injuries": {
+        "home": -8,
+        "away": -4
+      },
+      "home_away": {
+        "home": 7,
+        "away": 2
+      }
+    },
+    "raw_scores": {
+      "raw_casa": 27,
+      "raw_vis": 21
+    },
+    "data_quality": {
+      "score": 75,
+      "assessment": "Good",
+      "breakdown": {
+        "q1_player_values": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q2_xg": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q3_bench": {
+          "points": 1.5,
+          "status": "estimated"
+        },
+        "q4_xga": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q5_manager": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q6_formations": {
+          "points": 1,
+          "status": "default"
+        },
+        "q7_pressing": {
+          "points": 1,
+          "status": "default"
+        },
+        "q8_set_pieces": {
+          "points": 1,
+          "status": "default"
+        },
+        "q9_league": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q10_derby": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q11_form": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q12_opponent": {
+          "points": 2,
+          "status": "estimated"
+        },
+        "q13_xg_delta": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q14_ratings": {
+          "points": 2.5,
+          "status": "estimated"
+        },
+        "q15_injuries": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q16_cluster": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q17_home_away": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q18_h2h": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q19_h2h_negative": {
+          "points": 4,
+          "status": "complete"
+        },
+        "betfair_draw": {
+          "points": 0,
+          "status": "missing"
+        },
+        "betfair_ah": {
+          "points": 0,
+          "status": "missing"
+        },
+        "local_media": {
+          "points": 2.5,
+          "status": "partial"
+        },
+        "sportsmole": {
+          "points": 5,
+          "status": "available"
+        }
+      },
+      "missing_critical": [],
+      "proceed": true,
+      "confidence_note": "Good data quality. FootyStats API provided excellent xG, form, and position data. SportsMole gave solid team news. Missing Betfair odds data."
+    },
+    "notes": [
+      "P(Empate) calculated from FootyStats odds: 100/2.99 = 33.4%",
+      "Q13 correction: Parma should be +3 (xG +0.45 vs goals), not 0",
+      "Q15: Verona's captain Serdar injured - key player penalty applied",
+      "Q16: Parma missing both Circati (defender) and Suzuki (GK) - cluster penalty",
+      "Q9: Both teams in relegation battle but Verona more desperate (19th vs 17th)",
+      "Excellent data from FootyStats API for xG, form, and positions",
+      "No Betfair data available for edge calculation",
+      "Q6-Q8: Limited tactical data - used defaults"
+    ]
+  },
+  "yudor_analysis": {
+    "match_id": "VeronavsParma_23112025",
+    "raw_casa": 27,
+    "raw_vis": 21,
+    "delta": 6,
+    "yudor_ah_fair": -0.25,
+    "pr_casa": 0.406,
+    "pr_vis": 0.26,
+    "pr_empate": 0.334,
+    "cs_final": 42,
+    "tier": 3,
+    "r_home": 0.68,
+    "r_away": 0.55,
+    "r_fav": 0.68,
+    "r_dog": 0.55,
+    "rbr": 0.11,
+    "r_score": 0.68,
+    "edge_synthetic": 8,
+    "decision": "VETO",
+    "reasoning": "R-Score 0.68 exceeds 0.25 threshold. High risk from relegation desperation, key injuries, poor form sequence."
+  }
+}

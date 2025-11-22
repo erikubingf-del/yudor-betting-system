@@ -1,0 +1,360 @@
+{
+  "match_id": "RealBetisvsGirona_23112025",
+  "match_info": {
+    "id": "RealBetisvsGirona_23112025",
+    "home": "Real Betis",
+    "away": "Girona",
+    "league": "La Liga",
+    "date": "23/11/2025"
+  },
+  "timestamp": "2025-11-21T17:34:21.567482",
+  "consolidated_data": {
+    "game_id": "RealBetisvsGirona_23112025",
+    "match_info": {
+      "home": "Real Betis",
+      "away": "Girona",
+      "league": "La Liga",
+      "date": "23/11/2025"
+    },
+    "p_empate": 25.0,
+    "betfair_ah_market": null,
+    "q_scores": {
+      "Q1": {
+        "home_score": 6,
+        "away_score": 3,
+        "home_reasoning": "Real Betis: Antony (€30M), Sergi Altimira (€20M), Cucho Hernández (€18M), Natan (€18M) → Total ~8.5 → +6",
+        "away_reasoning": "Girona: Vitor Reis (€30M), Yáser Asprilla (€15M), Viktor Tsygankov (€15M), Vladyslav Vanat (€15M) → Total ~7.5 → +3",
+        "sources": [
+          "Transfermarkt (squad values)"
+        ]
+      },
+      "Q2": {
+        "home_score": 5,
+        "away_score": 2,
+        "home_reasoning": "Real Betis: 1.58 G/J + 1.59 xG → +5 (1.5-2.0 G/J AND 1.5-1.8 xG range)",
+        "away_reasoning": "Girona: 0.92 G/J + 1.14 xG → +2 (both around 1.0 range)",
+        "sources": [
+          "FootyStats (goals_scored_avg_overall, xg_for_avg_overall)"
+        ]
+      },
+      "Q3": {
+        "home_score": 3,
+        "away_score": 2,
+        "home_reasoning": "Real Betis: Quality subs include Lo Celso (€15M), Amrabat (€12M), Riquelme (€12M) → +3",
+        "away_reasoning": "Girona: Moderate bench with Bryan Gil (€12M), Ounahi (€10M) → +2",
+        "sources": [
+          "Transfermarkt (estimated from squad depth)"
+        ]
+      },
+      "Q4": {
+        "home_score": 3,
+        "away_score": 0,
+        "home_reasoning": "Real Betis: 1.08 GA/J + 1.30 xGA → +3 (0.8-1.2 GA/J AND 0.9-1.3 xGA range)",
+        "away_reasoning": "Girona: 2.0 GA/J + 1.82 xGA → 0 (both >1.6, poor defense)",
+        "sources": [
+          "FootyStats (goals_conceded_avg_overall, xg_against_avg_overall)"
+        ]
+      },
+      "Q5": {
+        "home_score": 5,
+        "away_reasoning": "Míchel: 5+ years in La Liga → +2",
+        "away_score": 2,
+        "sources": [
+          "General knowledge, news context"
+        ]
+      },
+      "Q6": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "Formation data not available from scraped sources → 0/0 symmetry",
+        "away_reasoning": "Formation data not available from scraped sources → 0/0 symmetry",
+        "sources": [
+          "Missing tactical data"
+        ]
+      },
+      "Q7": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "No pressing stats available → +2 default",
+        "away_reasoning": "No pressing stats available → +2 default",
+        "sources": [
+          "Default estimation"
+        ]
+      },
+      "Q8": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "No set-piece data available → +2 default",
+        "away_reasoning": "No set-piece data available → +2 default",
+        "sources": [
+          "Default estimation"
+        ]
+      },
+      "Q9": {
+        "home_score": 6,
+        "away_score": 12,
+        "home_reasoning": "Real Betis: 5th place (20 pts), European qualification battle → +6",
+        "away_reasoning": "Girona: 18th place (10 pts), relegation battle (within 3 points of Z4) → +12",
+        "sources": [
+          "FootyStats (position, points)"
+        ]
+      },
+      "Q10": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No derby, manager debut, or revenge context found → 0",
+        "away_reasoning": "No derby, manager debut, or revenge context found → 0",
+        "sources": [
+          "News headlines analysis"
+        ]
+      },
+      "Q11": {
+        "home_score": 3,
+        "away_score": 1,
+        "home_reasoning": "Real Betis: 5W-5D-2L in 12 games, estimated 3W in last 5 → +3",
+        "away_reasoning": "Girona: 2W-4D-6L in 12 games, estimated 1W in last 5 → +1",
+        "sources": [
+          "FootyStats (overall record estimation)"
+        ]
+      },
+      "Q12": {
+        "home_score": 2,
+        "away_score": 1,
+        "home_reasoning": "Real Betis: Mid-table opponents mainly → +2",
+        "away_reasoning": "Girona: Similar opposition quality but fewer wins → +1",
+        "sources": [
+          "Estimated from Q11 - 1"
+        ]
+      },
+      "Q13": {
+        "home_score": 2,
+        "away_score": 1,
+        "home_reasoning": "Real Betis: xG (1.59) ≈ Goals (1.58), balanced → +2",
+        "away_reasoning": "Girona: Goals (0.92) < xG (1.14), unlucky but slight → +1",
+        "sources": [
+          "FootyStats (xg_for_avg vs goals_scored_avg)"
+        ]
+      },
+      "Q14": {
+        "home_score": 2,
+        "away_score": 1,
+        "home_reasoning": "Real Betis: Positive xG differential (+0.29) suggests good performance → +2",
+        "away_reasoning": "Girona: Negative xG differential (-0.68) suggests poor performance → +1",
+        "sources": [
+          "FootyStats (xg_diff_overall)"
+        ]
+      },
+      "Q15": {
+        "home_score": 0,
+        "away_score": -8,
+        "home_reasoning": "No key player injuries reported → 0",
+        "away_reasoning": "Portu (key winger) out with torn ACL for season → -8",
+        "sources": [
+          "News headlines: 'Portu tiene roto el cruzado y dice adiós a la temporada'"
+        ]
+      },
+      "Q16": {
+        "home_score": 0,
+        "away_score": -4,
+        "home_reasoning": "No defensive cluster injuries reported → 0",
+        "away_reasoning": "Vladyslav Krapyvtsov (GK) out 4-6 weeks + Daley Blind issues → -4",
+        "sources": [
+          "News headlines: 'Al Girona le crecen los enanos, ahora en la portería', 'Blind, el enésimo contratiempo para Míchel'"
+        ]
+      },
+      "Q17": {
+        "home_score": 8,
+        "away_score": 0,
+        "home_reasoning": "Real Betis: Home PPG 2.0 (4W-0D-2L) → +6 base + Away opponent 0.4 PPG → +2 bonus = +8",
+        "away_reasoning": "Girona: Away PPG 0.4 (0W-2D-3L) → 0 base + 0 bonus = 0",
+        "sources": [
+          "FootyStats (ppg_home, ppg_away)"
+        ]
+      },
+      "Q18": {
+        "home_score": 1,
+        "away_score": 0,
+        "home_reasoning": "Real Betis: H2H at home shows 1W-1D from recent games → +1",
+        "away_reasoning": "Girona: 0 wins at Betis stadium in recent H2H → 0",
+        "sources": [
+          "SportsMole H2H: Betis 1-1 Girona (Aug 2024), Betis 1-1 Girona (Dec 2023), Betis 2-1 Girona (Sep 2022)"
+        ]
+      },
+      "Q19": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "Real Betis: Has wins against Girona at home in recent years → 0 (no veto)",
+        "away_reasoning": "Not applicable for away team → 0",
+        "sources": [
+          "SportsMole H2H analysis"
+        ]
+      }
+    },
+    "category_totals": {
+      "technique": {
+        "home": 17,
+        "away": 7
+      },
+      "tactics": {
+        "home": 9,
+        "away": 6
+      },
+      "motivation": {
+        "home": 6,
+        "away": 12
+      },
+      "form": {
+        "home": 5,
+        "away": 2
+      },
+      "performance": {
+        "home": 4,
+        "away": 2
+      },
+      "injuries": {
+        "home": 0,
+        "away": -12
+      },
+      "home_away": {
+        "home": 9,
+        "away": 0
+      }
+    },
+    "raw_scores": {
+      "raw_casa": 50,
+      "raw_vis": 17
+    },
+    "data_quality": {
+      "score": 78,
+      "assessment": "Good",
+      "breakdown": {
+        "q1_player_values": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q2_xg": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q3_bench": {
+          "points": 1.5,
+          "status": "estimated"
+        },
+        "q4_xga": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q5_manager": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q6_formations": {
+          "points": 1,
+          "status": "default"
+        },
+        "q7_pressing": {
+          "points": 1,
+          "status": "default"
+        },
+        "q8_set_pieces": {
+          "points": 1,
+          "status": "default"
+        },
+        "q9_league": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q10_derby": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q11_form": {
+          "points": 2,
+          "status": "estimated"
+        },
+        "q12_opponent": {
+          "points": 2,
+          "status": "estimated"
+        },
+        "q13_xg_delta": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q14_ratings": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q15_injuries": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q16_cluster": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q17_home_away": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q18_h2h": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q19_h2h_negative": {
+          "points": 4,
+          "status": "complete"
+        },
+        "betfair_draw": {
+          "points": 0,
+          "status": "missing"
+        },
+        "betfair_ah": {
+          "points": 0,
+          "status": "missing"
+        },
+        "local_media": {
+          "points": 5,
+          "status": "available"
+        },
+        "sportsmole": {
+          "points": 5,
+          "status": "available"
+        }
+      },
+      "missing_critical": [],
+      "proceed": true,
+      "confidence_note": "Good data quality. Missing Betfair data and some tactical details, but all critical performance metrics available."
+    },
+    "notes": [
+      "Q6: No formation data available from SportsMole - used 0/0 symmetry",
+      "Q7: No pressing statistics available - used +2 default",
+      "Q8: No set-piece data available - used +2 default",
+      "Q11/Q12: Form estimated from overall record as last 5 games not explicitly available",
+      "Q15: Portu's ACL injury is season-ending and he's a key attacking player",
+      "Q16: Girona has goalkeeper injury plus Blind issues creating defensive problems",
+      "Betfair odds data not available - proceeding without market edge calculation",
+      "FootyStats API provided excellent performance data (xG, goals, positions)",
+      "Strong injury context from Spanish media coverage"
+    ]
+  },
+  "yudor_analysis": {
+    "match_id": "RealBetisvsGirona_23112025",
+    "raw_casa": 50,
+    "raw_vis": 17,
+    "delta": 33,
+    "yudor_ah_fair": -1.75,
+    "pr_casa": 0.42,
+    "pr_vis": 0.33,
+    "pr_empate": 0.25,
+    "cs_final": 72,
+    "tier": 1,
+    "r_home": 0.22,
+    "r_away": 0.41,
+    "r_fav": 0.22,
+    "r_dog": 0.41,
+    "rbr": -0.3,
+    "r_score": 0.22,
+    "decision": "CORE",
+    "reasoning": "Strong favorite with high confidence. Betis technical superiority and home advantage vs Girona's relegation battle motivation and injury crisis. R-Score below 0.25 threshold."
+  }
+}

@@ -1,0 +1,2820 @@
+{
+    "ValenciavsLevante_21112025": {
+        "match_info": {
+            "id": "ValenciavsLevante_21112025",
+            "home": "Valencia",
+            "away": "Levante",
+            "league": "La Liga",
+            "date": "21/11/2025"
+        },
+        "urls": {
+            "sofascore": "https://www.sofascore.com/football/match/levante-ud-valencia/DgbsZgb",
+            "whoscored": "https://www.whoscored.com/previews",
+            "flashscore": "NOT_FOUND",
+            "sportsmole": "https://www.sportsmole.co.uk/football/la-liga/valencia-vs-levante_game_233524.html",
+            "tm_home": "https://www.transfermarkt.com.br/fc-valencia/startseite/verein/1049",
+            "tm_away": "https://www.transfermarkt.com.br/ud-levante/startseite/verein/3368",
+            "news_home": "https://www.marca.com/futbol/valencia.html",
+            "news_away": "https://www.marca.com/futbol/levante.html"
+        },
+        "news": {
+            "home": [
+                {
+                    "title": "Danjuma vs Etta Eyong: de 'descartes' del Villarreal a estrellas del derbi",
+                    "link": "https://www.marca.com/futbol/valencia/2025/11/20/danjuma-vs-etta-eyong-descartes-villarreal-estrellas-derbi.html"
+                },
+                {
+                    "title": "Corberán: \"Nosotros no estipulamos que el derbi se juegue un viernes, así que nos adaptamos”",
+                    "link": "https://www.marca.com/futbol/valencia/2025/11/20/corberan-nosotros-estipulamos-derbi-juegue-viernes-asi-adaptamos.html"
+                },
+                {
+                    "title": "Garay no olvida: \"La lesión fue solo una excusa para echarme del Valencia\"",
+                    "link": "https://www.marca.com/futbol/valencia/2025/11/20/garay-olvida-lesion-excusa-echarme-valencia.html"
+                },
+                {
+                    "title": "David Navarro: \"En el derbi hay mucha rivalidad y mucha igualdad, que antes no la había\"",
+                    "link": "https://www.marca.com/futbol/valencia/2025/11/20/david-navarro-derbi-hay-rivalidad-igualdad-habia.html"
+                },
+                {
+                    "title": "El derbi de la Senyera lo gana el Valencia",
+                    "link": "https://www.marca.com/futbol/valencia/2025/11/20/derbi-senyera-gana-valencia.html"
+                },
+                {
+                    "title": "El momento más oscuro de Zubizarreta: \"Hay dos horas de mi vida que no sé dónde están\"",
+                    "link": "https://www.marca.com/futbol/valencia/2025/11/20/momento-oscuro-zubizarreta-hay-dos-horas-mi-vida-estan.html"
+                },
+                {
+                    "title": "Dimitrievski regresa a Valencia tras su rajada en Macedonia: “No tengo nada que decir”",
+                    "link": "https://www.marca.com/futbol/valencia/2025/11/19/dimitrievski-regresa-valencia-rajada-macedonia-decir.html"
+                },
+                {
+                    "title": "Un derbi Valencia – Levante de buen rollo... hasta el viernes : “En este partido te olvidas de todo, hasta de la clasificación”",
+                    "link": "https://www.marca.com/futbol/2025/11/19/derbi-valencia-levante-buen-rollo-viernes-partido-te-olvidas-clasificacion.html"
+                },
+                {
+                    "title": "A Dimitrievski se le vuelve en contra su 'rajada': su caso en el Nástic de Tarragona también da qué pensar",
+                    "link": "https://www.marca.com/futbol/valencia/2025/11/19/dimitrievski-le-vuelve-rajada-caso-nastic-tarragona-tambien-da-pensar.html"
+                },
+                {
+                    "title": "Dimitrievski vive su día más negro: goleado, a la repesca más complicada y vuelta a Valencia con polémica",
+                    "link": "https://www.marca.com/futbol/valencia/2025/11/19/dimitrievski-vive-dia-negro-goleada-fuera-mundial-regreso-tenso-valencia.html"
+                }
+            ],
+            "away": [
+                {
+                    "title": "Danjuma vs Etta Eyong: de 'descartes' del Villarreal a estrellas del derbi",
+                    "link": "https://www.marca.com/futbol/valencia/2025/11/20/danjuma-vs-etta-eyong-descartes-villarreal-estrellas-derbi.html"
+                },
+                {
+                    "title": "Corberán: \"Nosotros no estipulamos que el derbi se juegue un viernes, así que nos adaptamos”",
+                    "link": "https://www.marca.com/futbol/valencia/2025/11/20/corberan-nosotros-estipulamos-derbi-juegue-viernes-asi-adaptamos.html"
+                },
+                {
+                    "title": "David Navarro: \"En el derbi hay mucha rivalidad y mucha igualdad, que antes no la había\"",
+                    "link": "https://www.marca.com/futbol/valencia/2025/11/20/david-navarro-derbi-hay-rivalidad-igualdad-habia.html"
+                },
+                {
+                    "title": "El derbi de la Senyera lo gana el Valencia",
+                    "link": "https://www.marca.com/futbol/valencia/2025/11/20/derbi-senyera-gana-valencia.html"
+                },
+                {
+                    "title": "Un derbi Valencia – Levante de buen rollo... hasta el viernes : “En este partido te olvidas de todo, hasta de la clasificación”",
+                    "link": "https://www.marca.com/futbol/2025/11/19/derbi-valencia-levante-buen-rollo-viernes-partido-te-olvidas-clasificacion.html"
+                },
+                {
+                    "title": "Otro granota más que se queda fuera del mundial",
+                    "link": "https://www.marca.com/futbol/levante/2025/11/19/granota-queda-fuera-mundial.html"
+                },
+                {
+                    "title": "Los 10 estadios con mayor porcentaje de asistencia en España en la temporada 2025/26",
+                    "link": "https://www.marca.com/futbol/primera-division/album/2025/11/18/10-estadios-mayor-porcentaje-asistencia-espana-temporada-2025-26.html"
+                },
+                {
+                    "title": "Carlos Álvarez debutará en el derbi con \"ilusión, carácter y personalidad\"",
+                    "link": "https://www.marca.com/futbol/levante/2025/11/18/carlos-alvarez-debutara-derbi-ilusion-caracter-personalidad.html"
+                },
+                {
+                    "title": "Pepelu: \"En un derbi no juegas mirando la clasificación\"",
+                    "link": "https://www.marca.com/futbol/valencia/2025/11/18/pepelu-derbi-juegas-mirando-clasificacion.html"
+                },
+                {
+                    "title": "Mestalla, la asignatura pendiente del Levante en Primera",
+                    "link": "https://www.marca.com/futbol/levante/2025/11/18/mestalla-asignatura-pendiente-levante-primera.html"
+                }
+            ]
+        }
+    },
+    "Mainz05vsHoffenheim_21112025": {
+        "match_info": {
+            "id": "Mainz05vsHoffenheim_21112025",
+            "home": "Mainz 05",
+            "away": "Hoffenheim",
+            "league": "Bundesliga",
+            "date": "21/11/2025"
+        },
+        "urls": {
+            "sofascore": "NOT_FOUND",
+            "whoscored": "https://www.whoscored.com/matches/1910756/teamstatistics/germany-bundesliga-2025-2026-mainz-05-hoffenheim",
+            "flashscore": "https://www.flashscore.com.br/jogo/futebol/hoffenheim-hQAtP9Sl/mainz-EuakNmc1/",
+            "sportsmole": "https://www.sportsmole.co.uk/football/bundesliga/mainz-05-vs-hoffenheim_game_233517.html",
+            "tm_home": "https://www.transfermarkt.com.br/1-fsv-mainz-05/startseite/verein/39",
+            "tm_away": "https://www.transfermarkt.com.br/tsg-1899-hoffenheim/startseite/verein/533",
+            "news_home": "https://bulinews.com/mainz",
+            "news_away": "https://bulinews.com/hoffenheim"
+        },
+        "news": {
+            "home": [
+                {
+                    "title": "2. Bundesliga women",
+                    "link": "https://bulinews.com/standing/18357/2-bundesliga-women/2025/2026"
+                },
+                {
+                    "title": "Germany: BundesligaCoface ArenaMainz 05Hoffenheim",
+                    "link": "https://bulinews.com/fixtures/677477/mainz-05-hoffenheim"
+                },
+                {
+                    "title": "Germany: BundesligaDeutsche Bank Park (Frankfurt am Main)FT1 - 0(0 - 0)FrankfurtMainz 05⚽ R. Doan (80)",
+                    "link": "https://bulinews.com/fixtures/677469/frankfurt-mainz-05"
+                },
+                {
+                    "title": "149 EUR (Ticket only)",
+                    "link": "https://ion.footballtravel.com/t/t?a=1916502571&as=1924605561&t=2&tk=1&url=https://footballtravel.com/products/union-berlin-mainz"
+                },
+                {
+                    "title": "324 EUR (Ticket only)",
+                    "link": "https://ion.footballtravel.com/t/t?a=1916502571&as=1924605561&t=2&tk=1&url=https://footballtravel.com/products/1-fc-koln-mainz"
+                },
+                {
+                    "title": "1. FSV Mainz 05 1. FSV Mainz 05: In dire need of a spark",
+                    "link": "https://bulinews.com/1-fsv-mainz-05-dire-need-spark"
+                },
+                {
+                    "title": "Mainz 05Jonathan Burkardt \"keeping fingers crossed\" for Mainz amid relegation battle",
+                    "link": "https://bulinews.com/jonathan-burkardt-keeping-fingers-crossed-for-mainz-amid-relegation-battle"
+                },
+                {
+                    "title": "Rumor Eintracht Frankfurt & Mainz 05Eintracht Frankfurt place Mainz star Sano on transfer shortlist",
+                    "link": "https://bulinews.com/eintracht-frankfurt-place-mainz-star-sano-transfer-shortlist"
+                },
+                {
+                    "title": "Post-match reaction Eintracht FrankfurtToppmöller lauds Dōan's moment of brilliance: \"A fantastic individual effort\"",
+                    "link": "https://bulinews.com/toppmoller-lauds-moment-brilliance-fantastic-individual-effort"
+                },
+                {
+                    "title": "Match report Eintracht Frankfurt, MainzDoan’s solo goal helps Frankfurt win Rhine-Main derby",
+                    "link": "https://bulinews.com/doan-solo-goal-helps-frankfurt-win-rhine-main-derby"
+                }
+            ],
+            "away": [
+                {
+                    "title": "2. Bundesliga women",
+                    "link": "https://bulinews.com/standing/18357/2-bundesliga-women/2025/2026"
+                },
+                {
+                    "title": "Germany: BundesligaCoface ArenaMainz 05Hoffenheim",
+                    "link": "https://bulinews.com/fixtures/677477/mainz-05-hoffenheim"
+                },
+                {
+                    "title": "Germany: BundesligaPreZero ArenaFT3 - 1(2 - 1)HoffenheimRB Leipzig⚽ A. Hajdari (20), ⚽ T. Lemperle (38), ⚽ G. Prömel (79)",
+                    "link": "https://bulinews.com/fixtures/677473/hoffenheim-rb-leipzig"
+                },
+                {
+                    "title": "224 EUR (3 nights)Departure 09.01.2026",
+                    "link": "https://ion.footballtravel.com/t/t?a=1916502571&as=1924605561&t=2&tk=1&url=https://footballtravel.com/products/werder-bremen-hoffenheim"
+                },
+                {
+                    "title": "214 EUR (Ticket only)",
+                    "link": "https://ion.footballtravel.com/t/t?a=1916502571&as=1924605561&t=2&tk=1&url=https://footballtravel.com/products/bayern-munchen-hoffenheim"
+                },
+                {
+                    "title": "324 EUR (Ticket only)",
+                    "link": "https://ion.footballtravel.com/t/t?a=1916502571&as=1924605561&t=2&tk=1&url=https://footballtravel.com/products/1-fc-koln-hoffenheim"
+                },
+                {
+                    "title": "Rumor Hoffenheim & WolfsburgSchicker's proposed switch from Hoffenheim to Wolfsburg in jeopardy",
+                    "link": "https://bulinews.com/schicker-proposed-switch-hoffenheim-wolfsburg-jeopardy"
+                },
+                {
+                    "title": "Other HoffenheimHoffenheim's revival meets rising unrest - Where things stand in Sinsheim at the break",
+                    "link": "https://bulinews.com/hoffenheim-revival-meets-rising-unrest-things-stand-sinsheim-the-break"
+                },
+                {
+                    "title": "Rumor FC Bayern & HoffenheimBayern's interest in Hoffenheim star is concrete",
+                    "link": "https://bulinews.com/bayern-interest-hoffenheim-star-concrete"
+                },
+                {
+                    "title": "Other VfL WolfsburgWolfsburg working on rapid double Hoffenheim swoop",
+                    "link": "https://bulinews.com/wolfsburg-working-rapid-double-hoffenheim-swoop"
+                }
+            ]
+        }
+    },
+    "BurnleyvsChelsea_22112025": {
+        "match_info": {
+            "id": "BurnleyvsChelsea_22112025",
+            "home": "Burnley",
+            "away": "Chelsea",
+            "league": "Premier League",
+            "date": "22/11/2025"
+        },
+        "urls": {
+            "sofascore": "https://www.sofascore.com/football/match/chelsea-burnley/gsN",
+            "whoscored": "https://www.whoscored.com/previews",
+            "flashscore": "NOT_FOUND",
+            "sportsmole": "https://www.sportsmole.co.uk/football/premier-league/burnley-vs-chelsea_game_233558.html",
+            "tm_home": "https://www.transfermarkt.com.br/fc-burnley/startseite/verein/1132",
+            "tm_away": "https://www.transfermarkt.com.br/fc-chelsea/startseite/verein/631",
+            "news_home": "NOT_FOUND",
+            "news_away": "NOT_FOUND"
+        },
+        "news": {
+            "home": [],
+            "away": []
+        }
+    },
+    "BournemouthvsWestHamUnited_22112025": {
+        "match_info": {
+            "id": "BournemouthvsWestHamUnited_22112025",
+            "home": "Bournemouth",
+            "away": "West Ham United",
+            "league": "Premier League",
+            "date": "22/11/2025"
+        },
+        "urls": {
+            "sofascore": "https://www.sofascore.com/football/match/bournemouth-west-ham-united/Mkb",
+            "whoscored": "NOT_FOUND",
+            "flashscore": "NOT_FOUND",
+            "sportsmole": "https://www.sportsmole.co.uk/football/premier-league/bournemouth-vs-west-ham-united_game_233682.html",
+            "tm_home": "https://www.transfermarkt.com.br/afc-bournemouth/startseite/verein/989",
+            "tm_away": "https://www.transfermarkt.com.br/west-ham-united/startseite/verein/379",
+            "news_home": "NOT_FOUND",
+            "news_away": "NOT_FOUND"
+        },
+        "news": {
+            "home": [],
+            "away": []
+        }
+    },
+    "Brighton&HoveAlbionvsBrentford_22112025": {
+        "match_info": {
+            "id": "Brighton&HoveAlbionvsBrentford_22112025",
+            "home": "Brighton & Hove Albion",
+            "away": "Brentford",
+            "league": "Premier League",
+            "date": "22/11/2025"
+        },
+        "urls": {
+            "sofascore": "https://www.sofascore.com/football/match/brentford-brighton-and-hove-albion/Fsab",
+            "whoscored": "NOT_FOUND",
+            "flashscore": "https://www.flashscore.com.br/equipe/brighton/2XrRecc3/",
+            "sportsmole": "https://www.sportsmole.co.uk/football/brighton-and-hove-albion/preview/brighton-vs-brentford-prediction-team-news-lineups_586011.html",
+            "tm_home": "https://www.transfermarkt.com.br/brighton-hove-albion/startseite/verein/1237",
+            "tm_away": "https://www.transfermarkt.com.br/fc-brentford/startseite/verein/1148",
+            "news_home": "NOT_FOUND",
+            "news_away": "NOT_FOUND"
+        },
+        "news": {
+            "home": [],
+            "away": []
+        }
+    },
+    "FulhamvsSunderland_22112025": {
+        "match_info": {
+            "id": "FulhamvsSunderland_22112025",
+            "home": "Fulham",
+            "away": "Sunderland",
+            "league": "Premier League",
+            "date": "22/11/2025"
+        },
+        "urls": {
+            "sofascore": "https://www.sofascore.com/football/match/fulham-sunderland/QsT",
+            "whoscored": "https://www.whoscored.com/previews",
+            "flashscore": "https://www.flashscore.com.br/jogo/futebol/fulham-69ZiU2Om/sunderland-WSzc94ws/",
+            "sportsmole": "https://www.sportsmole.co.uk/football/premier-league/fulham-vs-sunderland_game_233685.html",
+            "tm_home": "https://www.transfermarkt.com.br/fc-fulham/startseite/verein/931",
+            "tm_away": "https://www.transfermarkt.com.br/sunderland-afc/startseite/verein/289",
+            "news_home": "NOT_FOUND",
+            "news_away": "NOT_FOUND"
+        },
+        "news": {
+            "home": [],
+            "away": []
+        }
+    },
+    "LiverpoolvsNottinghamForest_22112025": {
+        "match_info": {
+            "id": "LiverpoolvsNottinghamForest_22112025",
+            "home": "Liverpool",
+            "away": "Nottingham Forest",
+            "league": "Premier League",
+            "date": "22/11/2025"
+        },
+        "urls": {
+            "sofascore": "https://www.sofascore.com/football/match/liverpool-nottingham-forest/osU",
+            "whoscored": "https://www.whoscored.com/previews",
+            "flashscore": "https://www.flashscore.com.br/jogo/futebol/liverpool-lId4TMwf/nottingham-UsushcZr/",
+            "sportsmole": "https://www.sportsmole.co.uk/football/liverpool/preview/liverpool-vs-nottm-forest-prediction-team-news-lineups_586059.html",
+            "tm_home": "https://www.transfermarkt.com.br/liverpool-fc/startseite/verein/31",
+            "tm_away": "https://www.transfermarkt.com.br/nottinghamforest/startseite/verein/703",
+            "news_home": "https://www.skysports.com/liverpool",
+            "news_away": "NOT_FOUND"
+        },
+        "news": {
+            "home": [
+                {
+                    "title": "Manchester derby live on Sky in January as fixtures released up to February 2",
+                    "link": "https://skysports.com/football/news/11095/13473187/premier-league-fixtures-live-on-sky-manchester-derby-arsenal-vs-man-utd-among-games-to-be-broadcast-in-january"
+                },
+                {
+                    "title": "In full: 2025/26 Premier League fixtures",
+                    "link": "https://www.skysports.com/premier-league-scores-fixtures"
+                },
+                {
+                    "title": "Sky to show 215 PL games from 2025/26",
+                    "link": "https://www.skysports.com/football/news/11661/13019562/sky-sports-to-show-215-premier-league-games-a-season-from-2025-26"
+                },
+                {
+                    "title": "Pros and cons: Liverpool, Arsenal and Man City assessed",
+                    "link": "https://skysports.com/football/news/11095/13472866/premier-league-title-race-pros-and-cons-liverpool-arsenal-and-man-city-assessed"
+                },
+                {
+                    "title": "Liverpool's title defence already looks doomed - but history shows it's no surprise",
+                    "link": "https://skysports.com/football/news/11095/13472846/liverpools-premier-league-title-defence-already-looks-doomed-but-history-shows-that-is-no-surprise"
+                },
+                {
+                    "title": "Carra: Liverpool must sign in January - even after summer spending spree",
+                    "link": "https://skysports.com/football/news/11095/13472973/liverpool-must-sign-players-in-january-says-jamie-carragher-despite-reds-spending-lb446m-in-summer-window"
+                },
+                {
+                    "title": "Liverpool latest: Alisson boost ahead of Forest clash",
+                    "link": "https://skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+                },
+                {
+                    "title": "Man Utd fifth? West Ham down? Predicted table and true performance levels revealed",
+                    "link": "https://skysports.com/football/news/11095/13471705/man-utd-fifth-west-ham-relegated-sky-sports-supercomputer-predicts-premier-league-table-as-true-performance-levels-revealed-between-the-lines"
+                },
+                {
+                    "title": "Salah pipped to African Player of the Year 2025 award",
+                    "link": "https://skysports.com/football/live-blog/11669/12507208/football-latest-news-gossip"
+                }
+            ],
+            "away": []
+        }
+    },
+    "WolverhamptonvsCrystalPalace_22112025": {
+        "match_info": {
+            "id": "WolverhamptonvsCrystalPalace_22112025",
+            "home": "Wolverhampton",
+            "away": "Crystal Palace",
+            "league": "Premier League",
+            "date": "22/11/2025"
+        },
+        "urls": {
+            "sofascore": "https://www.sofascore.com/football/match/crystal-palace-wolverhampton/dsh",
+            "whoscored": "https://www.whoscored.com/matches/1903236/teamstatistics/england-premier-league-2025-2026-wolves-crystal-palace",
+            "flashscore": "https://www.flashscore.com.br/jogo/futebol/crystal-palace-AovF1Mia/wolves-j3Azpf5d/",
+            "sportsmole": "https://www.sportsmole.co.uk/football/premier-league/wolves-vs-crystal-palace_game_233692.html",
+            "tm_home": "https://www.transfermarkt.com.br/wolverhampton-wanderers/startseite/verein/543",
+            "tm_away": "https://www.transfermarkt.com.br/crystal-palace-fc/startseite/verein/873",
+            "news_home": "NOT_FOUND",
+            "news_away": "NOT_FOUND"
+        },
+        "news": {
+            "home": [],
+            "away": []
+        }
+    },
+    "NewcastleUnitedvsManchesterCity_22112025": {
+        "match_info": {
+            "id": "NewcastleUnitedvsManchesterCity_22112025",
+            "home": "Newcastle United",
+            "away": "Manchester City",
+            "league": "Premier League",
+            "date": "22/11/2025"
+        },
+        "urls": {
+            "sofascore": "https://www.sofascore.com/football/match/newcastle-united-manchester-city/rO",
+            "whoscored": "https://www.whoscored.com/matches/1903235/teamstatistics/england-premier-league-2025-2026-newcastle-manchester-city",
+            "flashscore": "NOT_FOUND",
+            "sportsmole": "https://www.sportsmole.co.uk/football/newcastle-united/preview/newcastle-vs-man-city-prediction-team-news-lineups_586006.html",
+            "tm_home": "https://www.transfermarkt.com.br/newcastle-united/startseite/verein/762",
+            "tm_away": "https://www.transfermarkt.com.br/manchester-city-fc/startseite/verein/281",
+            "news_home": "NOT_FOUND",
+            "news_away": "NOT_FOUND"
+        },
+        "news": {
+            "home": [],
+            "away": []
+        }
+    },
+    "AlavésvsCeltaVigo_22112025": {
+        "match_info": {
+            "id": "AlavésvsCeltaVigo_22112025",
+            "home": "Alavés",
+            "away": "Celta Vigo",
+            "league": "La Liga",
+            "date": "22/11/2025"
+        },
+        "urls": {
+            "sofascore": "https://www.sofascore.com/football/match/deportivo-alaves-celta-vigo/wgbsKhb",
+            "whoscored": "https://www.whoscored.com/previews",
+            "flashscore": "https://www.flashscore.com.br/jogo/futebol/alaves-hxt57t2q/celta-vigo-8pvUZFhf/",
+            "sportsmole": "https://www.sportsmole.co.uk/football/alaves/preview/alaves-vs-celta-vigo-prediction-team-news-lineups_586028.html",
+            "tm_home": "https://www.transfermarkt.com.br/deportivo-alaves/startseite/verein/1108",
+            "tm_away": "https://www.transfermarkt.com.br/rc-celta-fortuna/startseite/verein/8733/saison_id/2021",
+            "news_home": "https://www.marca.com/futbol/alaves.html",
+            "news_away": "https://www.marca.com/futbol/primera-division/2025/10/19/celta-vigo-1-1-real-sociedad-resumen-goles-laliga-ea-sports-j9-video.html"
+        },
+        "news": {
+            "home": [
+                {
+                    "title": "El momento más oscuro de Zubizarreta: \"Hay dos horas de mi vida que no sé dónde están\"",
+                    "link": "https://www.marca.com/futbol/valencia/2025/11/20/momento-oscuro-zubizarreta-hay-dos-horas-mi-vida-estan.html"
+                },
+                {
+                    "title": "Édgar Méndez se corona 'rey' en Tailandia",
+                    "link": "https://www.marca.com/futbol/2025/11/19/edgar-mendez-corona-rey-tailandia.html"
+                },
+                {
+                    "title": "Pacheco apunta al Celta",
+                    "link": "https://www.marca.com/futbol/alaves/2025/11/19/pacheco-apunta-celta.html"
+                },
+                {
+                    "title": "Denis Suárez: “Nos tenemos que quitar de la cabeza que con salvarnos ya vale\"",
+                    "link": "https://www.marca.com/futbol/alaves/2025/11/18/denis-suarez-quitar-cabeza-salvarnos-vale.html"
+                },
+                {
+                    "title": "El Alavés se prepara para un final de año con curvas",
+                    "link": "https://www.marca.com/futbol/alaves/2025/11/17/alaves-prepara-final-ano-curvas.html"
+                },
+                {
+                    "title": "Alineaciones probables para la jornada 13 de LaLiga EA Sports",
+                    "link": "https://www.marca.com/fantasy/2025/11/13/alineaciones-probables-jornada-13-laliga-ea-sports.html"
+                },
+                {
+                    "title": "Antonio Blanco: “Ser el capitán de un club como el Alavés es un orgullo”",
+                    "link": "https://www.marca.com/futbol/alaves/2025/11/12/antonio-blanco-capitan-club-alaves-orgullo.html"
+                },
+                {
+                    "title": "El centro lateral rompe la consistencia babazorra",
+                    "link": "https://www.marca.com/futbol/alaves/2025/11/11/centro-lateral-rompe-consistencia-babazorra.html"
+                },
+                {
+                    "title": "El círculo de paridad de LaLiga",
+                    "link": "https://www.marca.com/futbol/primera-division/2025/11/11/circulo-paridad-laliga.html"
+                },
+                {
+                    "title": "La falta de gol seca al Alavés lejos de Mendizorroza",
+                    "link": "https://www.marca.com/futbol/alaves/2025/11/10/falta-gol-seca-alaves-lejos-mendizorroza.html"
+                }
+            ],
+            "away": [
+                {
+                    "title": "20 años desde que Ronaldinho salió ovacionado del Santiago Bernabéu",
+                    "link": "https://www.marca.com/futbol/barcelona/2025/11/19/20-anos-ronaldinho-salio-ovacionado-santiago-bernabeu-video.html"
+                },
+                {
+                    "title": "¡Antes muerto que sencillo! La llegada de Achraf a la gala del Balón de Oro: con capa y en patinete",
+                    "link": "https://www.marca.com/futbol/2025/11/19/muerto-sencillo-llegada-achraf-gala-balon-oro-capa-patinet-video.html"
+                },
+                {
+                    "title": "Bettoni, segundo de Zidane en el Madrid: \"No hace falta sacar el látigo\"",
+                    "link": "https://www.marca.com/futbol/real-madrid/2025/11/20/bettoni-segundo-zidane-madrid-falta-sacar-latig-video.html"
+                },
+                {
+                    "title": "Víctor Font descarta a Xavi Hernández: \"Nuestro proyecto no cuenta con él\"",
+                    "link": "https://www.marca.com/futbol/barcelona/2025/11/18/victor-font-descarta-xavi-hernandez-nuestro-proyecto-cuenta-video.html"
+                },
+                {
+                    "title": "El discurso del capitán de Haití: \"Hay gente que no tiene nada en el bolsillo y solo cuentan con nosotros\"",
+                    "link": "https://www.marca.com/futbol/2025/11/19/discurso-capitan-haiti-hay-gente-bolsillo-cuentan-nosotros-video.html"
+                },
+                {
+                    "title": "Las lágrimas desconsoladas del seleccionador de Honduras por quedarse fuera del Mundial",
+                    "link": "https://www.marca.com/futbol/2025/11/19/lagrimas-desconsoladas-seleccionador-honduras-quedarse-fuera-mundial-video.html"
+                },
+                {
+                    "title": "Pepe Reina: \"No tengo ninguna duda sobre la capacidad de gestionar el vestuario de Xabi Alonso\"",
+                    "link": "https://www.marca.com/futbol/2025/11/10/pepe-reina-ninguna-duda-sobre-capacidad-gestionar-vestuario-xabi-alons-video.html"
+                },
+                {
+                    "title": "El autobús en forma de casa del Newcastle United",
+                    "link": "https://www.marca.com/futbol/premier-league/2025/11/20/autobus-forma-casa-newcastle-unit-video.html"
+                },
+                {
+                    "title": "\"Que partido quieres que comente, el de Neymar o el de Santos\"",
+                    "link": "https://www.marca.com/futbol/2025/11/20/partido-quieres-comente-neymar-santos-video.html"
+                },
+                {
+                    "title": "¡No se pudieron reprimir! Así reaccionaron los comentaristas de una tele de Curazao al anularse el penalti en el último minuto",
+                    "link": "https://www.marca.com/futbol/2025/11/19/pudieron-reprimir-asi-reaccionaron-comentaristas-tele-curazao-anularse-penalti-ultimo-minut-video.html"
+                }
+            ]
+        }
+    },
+    "BarcelonavsAthleticClub_22112025": {
+        "match_info": {
+            "id": "BarcelonavsAthleticClub_22112025",
+            "home": "Barcelona",
+            "away": "Athletic Club",
+            "league": "La Liga",
+            "date": "22/11/2025"
+        },
+        "urls": {
+            "sofascore": "https://www.sofascore.com/football/match/athletic-club-barcelona/rgbsAgb",
+            "whoscored": "https://www.whoscored.com/matches/1914008/teamstatistics/spain-laliga-2025-2026-barcelona-athletic-club",
+            "flashscore": "https://www.flashscore.com.br/jogo/futebol/ath-bilbao-IP5zl0cJ/barcelona-SKbpVP5K/",
+            "sportsmole": "https://www.sportsmole.co.uk/football/la-liga/barcelona-vs-athletic-bilbao_game_233702.html",
+            "tm_home": "https://www.transfermarkt.com.br/fcbarcelona/startseite/verein/131",
+            "tm_away": "https://www.transfermarkt.com.br/athletic-bilbao/startseite/verein/621",
+            "news_home": "https://www.marca.com/futbol/barcelona.html",
+            "news_away": "https://www.marca.com/futbol/athletic.html"
+        },
+        "news": {
+            "home": [
+                {
+                    "title": "El 'debut' de nueve culés",
+                    "link": "https://www.marca.com/futbol/barcelona/2025/11/20/debut-nueve-cules.html"
+                },
+                {
+                    "title": "La gran fiesta de regreso al Spotify Camp Nou",
+                    "link": "https://www.marca.com/futbol/barcelona/2025/11/20/gran-fiesta-regreso-spotify-camp-nou.html"
+                },
+                {
+                    "title": "Los internacionales, de vuelta",
+                    "link": "https://www.marca.com/futbol/barcelona/2025/11/20/internacionales-vuelta.html"
+                },
+                {
+                    "title": "El momento más oscuro de Zubizarreta: \"Hay dos horas de mi vida que no sé dónde están\"",
+                    "link": "https://www.marca.com/futbol/valencia/2025/11/20/momento-oscuro-zubizarreta-hay-dos-horas-mi-vida-estan.html"
+                },
+                {
+                    "title": "Camp Nou, Font, Xavi, Messi, querellas... ¡La campaña que nos espera!",
+                    "link": "https://www.marca.com/futbol/barcelona/opinion/2025/11/20/camp-nou-font-xavi-messi-querellas-campana-espera.html"
+                },
+                {
+                    "title": "¿Hará Laporta el saque de honor en el Spotify Camp Nou?",
+                    "link": "https://www.marca.com/futbol/barcelona/2025/11/19/hara-laporta-saque-honor-spotify-camp-nou.html"
+                },
+                {
+                    "title": "20 años desde que Ronaldinho salió ovacionado del Santiago Bernabéu",
+                    "link": "https://www.marca.com/futbol/barcelona/2025/11/19/20-anos-ronaldinho-salio-ovacionado-santiago-bernabeu-video.html"
+                },
+                {
+                    "title": "El regate del Barça a la enfermería",
+                    "link": "https://www.marca.com/futbol/barcelona/2025/11/19/regate-barca-enfermeria.html"
+                },
+                {
+                    "title": "El Villarreal-Barça 'de Miami' se jugará el domingo 21 de diciembre a las 16:15 horas en La Cerámica",
+                    "link": "https://www.marca.com/futbol/primera-division/2025/11/19/villarreal-barca-miami-jugara-domingo-21-diciembre-16-15-horas-ceramica.html"
+                },
+                {
+                    "title": "El Barça pidió a Lewandowski que dejara de marcar goles para no pagar un bonus de 2,5 millones al Bayern",
+                    "link": "https://www.marca.com/futbol/barcelona/2025/11/19/barca-pidio-lewandowski-dejara-marcar-goles-pagar-bonus-2-5-millones-bayern.html"
+                }
+            ],
+            "away": [
+                {
+                    "title": "Ramalho: \"Es un orgullo ser el primer jugador de raza negra en debutar con el Athletic\"",
+                    "link": "https://www.marca.com/futbol/athletic/2025/11/20/ramalho-orgullo-primer-jugador-raza-negra-debutar-athletic.html"
+                },
+                {
+                    "title": "El Slavia de Praga prepara el partido ante el Athletic sin dos de los tres mejores jugadores de la plantilla",
+                    "link": "https://www.marca.com/futbol/athletic/2025/11/20/slavia-praga-prepara-partido-athletic-dos-tres-mejores-jugadores-plantilla.html"
+                },
+                {
+                    "title": "Galarreta vuelve al grupo en una jornada con descanso para Laporte",
+                    "link": "https://www.marca.com/futbol/athletic/2025/11/20/galarreta-vuelve-grupo-jornada-descanso-laporte.html"
+                },
+                {
+                    "title": "Los capitanes del Athletic lucirán un brazalete especial en defensa de los derechos de la infancia",
+                    "link": "https://www.marca.com/futbol/athletic/2025/11/20/capitanes-athletic-luciran-brazalete-especial-defensa-derechos-infancia.html"
+                },
+                {
+                    "title": "El momento más oscuro de Zubizarreta: \"Hay dos horas de mi vida que no sé dónde están\"",
+                    "link": "https://www.marca.com/futbol/valencia/2025/11/20/momento-oscuro-zubizarreta-hay-dos-horas-mi-vida-estan.html"
+                },
+                {
+                    "title": "Consigue tus entradas para el partidazo de regreso al Camp Nou... ¡cómodo y a buen precio!",
+                    "link": "https://www.marca.com/futbol/barcelona/2025/11/19/consigue-tus-entradas-partidazo-regreso-camp-nou-comodo-buen-precio.html"
+                },
+                {
+                    "title": "Galarreta no entrena en Lezama",
+                    "link": "https://www.marca.com/futbol/athletic/2025/11/19/galarreta-entrena-lezama.html"
+                },
+                {
+                    "title": "Lekue: \"Todos sabemos cómo es el Barça y cómo hacerles daño...pero está claro que es muy difícil pillarles\"",
+                    "link": "https://www.marca.com/futbol/athletic/2025/11/19/lekue-todos-sabemos-barca-hacerles-dano-claro-dificil-pillarles.html"
+                },
+                {
+                    "title": "Los 10 estadios con mayor porcentaje de asistencia en España en la temporada 2025/26",
+                    "link": "https://www.marca.com/futbol/primera-division/album/2025/11/18/10-estadios-mayor-porcentaje-asistencia-espana-temporada-2025-26.html"
+                },
+                {
+                    "title": "Selton viajará a Barcelona y Praga con Sancet a la espera de evolución",
+                    "link": "https://www.marca.com/futbol/athletic/2025/11/18/selton-viajara-barcelona-praga-sancet-espera-evolucion.html"
+                }
+            ]
+        }
+    },
+    "OsasunavsRealSociedad_22112025": {
+        "match_info": {
+            "id": "OsasunavsRealSociedad_22112025",
+            "home": "Osasuna",
+            "away": "Real Sociedad",
+            "league": "La Liga",
+            "date": "22/11/2025"
+        },
+        "urls": {
+            "sofascore": "https://www.sofascore.com/football/match/real-sociedad-osasuna/vgbszgb",
+            "whoscored": "https://www.whoscored.com/matches/1821634/teamstatistics/spain-laliga-2024-2025-osasuna-real-sociedad",
+            "flashscore": "https://www.flashscore.com.br/jogo/futebol/osasuna-ETdxjU8a/real-sociedad-jNvak2f3/",
+            "sportsmole": "https://www.sportsmole.co.uk/football/la-liga/osasuna-vs-real-sociedad_game_233732.html",
+            "tm_home": "https://www.transfermarkt.com.br/ca-osasuna/startseite/verein/331",
+            "tm_away": "https://www.transfermarkt.com.br/real-sociedad/startseite/verein/681",
+            "news_home": "https://www.marca.com/futbol/osasuna.html",
+            "news_away": "https://www.marca.com/futbol/real-sociedad.html"
+        },
+        "news": {
+            "home": [
+                {
+                    "title": "Sergio recupera a Remiro, Oyarzabal, Kubo y Barrenetxea, pero no a Zubeldia",
+                    "link": "https://www.marca.com/futbol/real-sociedad/2025/11/20/sergio-recupera-remiro-oyarzabal-kubo-barrenetxea-zubeldia.html"
+                },
+                {
+                    "title": "Los 10 estadios con mayor porcentaje de asistencia en España en la temporada 2025/26",
+                    "link": "https://www.marca.com/futbol/primera-division/album/2025/11/18/10-estadios-mayor-porcentaje-asistencia-espana-temporada-2025-26.html"
+                },
+                {
+                    "title": "Zubeldia no entrena por una sobrecarga",
+                    "link": "https://www.marca.com/futbol/real-sociedad/2025/11/18/zubeldia-entrena-sobrecarga.html"
+                },
+                {
+                    "title": "Más de 3.100 peticiones para sólo 405 entradas para este sábado en El Sadar",
+                    "link": "https://www.marca.com/futbol/real-sociedad/2025/11/18/3-100-peticiones-405-entradas-sabado-sadar.html"
+                },
+                {
+                    "title": "La Real espera librarse de Budimir",
+                    "link": "https://www.marca.com/futbol/real-sociedad/2025/11/17/real-espera-librarse-budimir.html"
+                },
+                {
+                    "title": "Rubén García pasa el test de MARCA: \"El rival más difícil fue Reinildo\"",
+                    "link": "https://www.marca.com/futbol/osasuna/2025/11/15/ruben-garcia-pasa-test-marca-rival-dificil-reinil-video.html"
+                },
+                {
+                    "title": "El gran susto de Rubén García: \"Vi muchísimas llamadas y le dije al club que no contaran conmigo\"",
+                    "link": "https://www.marca.com/futbol/osasuna/2025/11/15/gran-susto-ruben-garcia-vi-muchisimas-llamadas-le-dije-club-contaran-video.html"
+                },
+                {
+                    "title": "Osasuna mete a Rafita en su agenda invernal",
+                    "link": "https://www.marca.com/futbol/malaga/2025/11/13/osasuna-mete-rafita-agenda-invernal.html"
+                },
+                {
+                    "title": "Moncayola sufre una lesión muscular en el entrenamiento",
+                    "link": "https://www.marca.com/futbol/osasuna/2025/11/12/moncayola-sufre-lesion-muscular-entrenamiento.html"
+                },
+                {
+                    "title": "Osasuna seguirá con Kosner en su pecho hasta 2028",
+                    "link": "https://www.marca.com/futbol/osasuna/2025/11/11/osasuna-seguira-kosner-pecho-2028.html"
+                }
+            ],
+            "away": [
+                {
+                    "title": "Sergio recupera a Remiro, Oyarzabal, Kubo y Barrenetxea, pero no a Zubeldia",
+                    "link": "https://www.marca.com/futbol/real-sociedad/2025/11/20/sergio-recupera-remiro-oyarzabal-kubo-barrenetxea-zubeldia.html"
+                },
+                {
+                    "title": "Carlos Soler: \"Dadme tiempo, es 19 de noviembre y apenas he enlazado dos partidos de titular\"",
+                    "link": "https://www.marca.com/futbol/real-sociedad/2025/11/19/carlos-soler-dadme-19-noviembre-apenas-he-enlazado-dos-partidos-titular.html"
+                },
+                {
+                    "title": "Yangel Herrera recae de su lesión muscular y apunta a no jugar hasta 2026",
+                    "link": "https://www.marca.com/futbol/real-sociedad/2025/11/19/yangel-herrera-recae-lesion-apunta-jugar-2026.html"
+                },
+                {
+                    "title": "Barrenetxea y Zubeldia siguen sin entrenar, Aramburu y Caleta-Car ya lo hacen",
+                    "link": "https://www.marca.com/futbol/real-sociedad/2025/11/19/aramburu-caleta-car-entrenan-zubieta-zubeldia-sigue-hacerlo.html"
+                },
+                {
+                    "title": "Un póster homenaje a Gipuzkoa",
+                    "link": "https://www.marca.com/futbol/real-sociedad/2025/11/19/poster-homenaje-gipuzkoa.html"
+                },
+                {
+                    "title": "Oyarzabal es The Best 2025",
+                    "link": "https://www.marca.com/futbol/seleccion/2025/11/19/oyarzabal-the-best-2025.html"
+                },
+                {
+                    "title": "Zubeldia no entrena por una sobrecarga",
+                    "link": "https://www.marca.com/futbol/real-sociedad/2025/11/18/zubeldia-entrena-sobrecarga.html"
+                },
+                {
+                    "title": "Más de 3.100 peticiones para sólo 405 entradas para este sábado en El Sadar",
+                    "link": "https://www.marca.com/futbol/real-sociedad/2025/11/18/3-100-peticiones-405-entradas-sabado-sadar.html"
+                },
+                {
+                    "title": "La Real vuelve a Zubieta recuperando sólo a Aritz de las siete bajas por lesión",
+                    "link": "https://www.marca.com/futbol/real-sociedad/2025/11/17/real-vuelve-zubieta-recuperando-aritz-siete-bajas-lesion.html"
+                },
+                {
+                    "title": "La Real espera librarse de Budimir",
+                    "link": "https://www.marca.com/futbol/real-sociedad/2025/11/17/real-espera-librarse-budimir.html"
+                }
+            ]
+        }
+    },
+    "VillarrealvsMallorca_22112025": {
+        "match_info": {
+            "id": "VillarrealvsMallorca_22112025",
+            "home": "Villarreal",
+            "away": "Mallorca",
+            "league": "La Liga",
+            "date": "22/11/2025"
+        },
+        "urls": {
+            "sofascore": "https://www.sofascore.com/football/match/mallorca-villarreal/ugbsBgb",
+            "whoscored": "https://www.whoscored.com/matches/1914011/teamstatistics/spain-laliga-2025-2026-villarreal-mallorca",
+            "flashscore": "NOT_FOUND",
+            "sportsmole": "https://www.sportsmole.co.uk/football/la-liga/villarreal-vs-mallorca_game_233761.html",
+            "tm_home": "https://www.transfermarkt.com.br/fc-villarreal/startseite/verein/1050",
+            "tm_away": "https://www.transfermarkt.com.br/rcd-mallorca/startseite/verein/237",
+            "news_home": "https://www.marca.com/futbol/villarreal.html",
+            "news_away": "https://www.marca.com/futbol/mallorca.html"
+        },
+        "news": {
+            "home": [
+                {
+                    "title": "Danjuma vs Etta Eyong: de 'descartes' del Villarreal a estrellas del derbi",
+                    "link": "https://www.marca.com/futbol/valencia/2025/11/20/danjuma-vs-etta-eyong-descartes-villarreal-estrellas-derbi.html"
+                },
+                {
+                    "title": "El Villarreal-Barça 'de Miami' se jugará el domingo 21 de diciembre a las 16:15 horas en La Cerámica",
+                    "link": "https://www.marca.com/futbol/primera-division/2025/11/19/villarreal-barca-miami-jugara-domingo-21-diciembre-16-15-horas-ceramica.html"
+                },
+                {
+                    "title": "El Besiktas piensa en Comesaña como refuerzo para el mercado invernal",
+                    "link": "https://www.marca.com/futbol/villarreal/2025/11/19/besiktas-piensa-comesana-refuerzo-mercado-invernal-1.html"
+                },
+                {
+                    "title": "Moleiro: “Siempre he tenido claro que no soy el sustituto de Baena”",
+                    "link": "https://www.marca.com/futbol/villarreal/2025/11/19/moleiro-siempre-he-tenido-claro-sustituto-baena.html"
+                },
+                {
+                    "title": "Marcelino pone a volar a Pedraza… que puede volar",
+                    "link": "https://www.marca.com/futbol/villarreal/2025/11/19/marcelino-pone-volar-pedraza-volar.html"
+                },
+                {
+                    "title": "Los clubes se unen bajo la camiseta del Maratón de Valencia Trinidad Alfonso",
+                    "link": "https://www.marca.com/atletismo/2025/11/17/clubes-unen-camiseta-maraton-valencia-trinidad-alfonso.html"
+                },
+                {
+                    "title": "El Villarreal viajará a Brasil para la pretemporada",
+                    "link": "https://www.marca.com/futbol/villarreal/2025/11/13/villarreal-viajara-brasil-pretemporada.html"
+                },
+                {
+                    "title": "Se cumplen dos años del exitoso regreso de Marcelino al Villarreal",
+                    "link": "https://www.marca.com/futbol/villarreal/2025/11/13/cumplen-dos-anos-exitoso-regreso-marcelino-villarreal.html"
+                },
+                {
+                    "title": "La Copa más especial de Alfonso Pedraza",
+                    "link": "https://www.marca.com/futbol/villarreal/2025/11/11/copa-especial-alfonso-pedraza.html"
+                },
+                {
+                    "title": "El Villarreal multiplica el programa Endavant para paliar los efectos de la DANA",
+                    "link": "https://www.marca.com/futbol/villarreal/2025/11/11/villarreal-multiplica-programa-endavant-paliar-efectos-dana.html"
+                }
+            ],
+            "away": [
+                {
+                    "title": "A Jagoba Arrasate le funciona lo de siempre",
+                    "link": "https://www.marca.com/futbol/mallorca/2025/11/20/jagoba-arrasate-le-funciona-siempre.html"
+                },
+                {
+                    "title": "Arrasate ya tiene su tridente: la MMJ",
+                    "link": "https://www.marca.com/futbol/mallorca/2025/11/20/arrasate-tridente-mmj.html"
+                },
+                {
+                    "title": "Jan Virgili ya es el segundo jugador que más camisetas vende en el Mallorca",
+                    "link": "https://www.marca.com/futbol/mallorca/2025/11/19/jan-virgili-segundo-jugador-camisetas-vende-mallorca.html"
+                },
+                {
+                    "title": "El Mallorca va recuperando efectivos",
+                    "link": "https://www.marca.com/futbol/mallorca/2025/11/19/mallorca-recuperando-efectivos.html"
+                },
+                {
+                    "title": "El Mallorca comienza su Liga",
+                    "link": "https://www.marca.com/futbol/mallorca/2025/11/17/mallorca-comienza-liga.html"
+                },
+                {
+                    "title": "Luis Orejuela, un juvenil que gusta mucho a Jagoba Arrasate",
+                    "link": "https://www.marca.com/futbol/mallorca/2025/11/17/luis-orejuela-juvenil-gusta-jagoba-arrasate.html"
+                },
+                {
+                    "title": "Jogoba Arrasate pide un paso más con la selección de fútbol de Euskadi",
+                    "link": "https://www.marca.com/tiramillas/politica/2025/11/17/jogoba-arrasate-pide-paso-seleccion-futbol-euska-video.html"
+                },
+                {
+                    "title": "Jan Virgili, un nuevo 'demonio' en la sub 21",
+                    "link": "https://www.marca.com/futbol/seleccion/2025/11/15/jan-virgili-nuevo-demonio-sub-21.html"
+                },
+                {
+                    "title": "Samu Costa cambia de agente: ya no está con Jorge Mendes",
+                    "link": "https://www.marca.com/futbol/mallorca/2025/11/14/samu-costa-cambia-agente-jorge-mendes.html"
+                },
+                {
+                    "title": "El Mallorca sigue apostando por la salud y la prevención",
+                    "link": "https://www.marca.com/futbol/mallorca/2025/11/13/mallorca-sigue-apostando-salud-prevencion.html"
+                }
+            ]
+        }
+    },
+    "AugsburgvsHamburgerSV_22112025": {
+        "match_info": {
+            "id": "AugsburgvsHamburgerSV_22112025",
+            "home": "Augsburg",
+            "away": "Hamburger SV",
+            "league": "Bundesliga",
+            "date": "22/11/2025"
+        },
+        "urls": {
+            "sofascore": "https://www.sofascore.com/football/match/hamburger-sv-fc-augsburg/acbsBdb",
+            "whoscored": "https://www.whoscored.com/previews",
+            "flashscore": "https://www.flashscore.com.br/equipe/augsburg/fTVNku3I/",
+            "sportsmole": "https://www.sportsmole.co.uk/football/bundesliga/augsburg-vs-hamburger-sv_game_233595.html",
+            "tm_home": "https://www.transfermarkt.com.br/fc-augsburg/startseite/verein/167",
+            "tm_away": "https://www.transfermarkt.com.br/hamburger-sv/startseite/verein/41",
+            "news_home": "https://bulinews.com/augsburg",
+            "news_away": "https://bulinews.com/hsv"
+        },
+        "news": {
+            "home": [
+                {
+                    "title": "2. Bundesliga women",
+                    "link": "https://bulinews.com/standing/18357/2-bundesliga-women/2025/2026"
+                },
+                {
+                    "title": "214 EUR (Ticket only)",
+                    "link": "https://ion.footballtravel.com/t/t?a=1916502571&as=1924605561&t=2&tk=1&url=https://footballtravel.com/products/bayern-munchen-augsburg"
+                },
+                {
+                    "title": "Preview FC Augsburg, HSVFC Augsburg vs. Hamburger SV preview: Team news and predicted lineups",
+                    "link": "https://bulinews.com/augsburg-hamburger-preview-team-news-and-predicted-lineups"
+                },
+                {
+                    "title": "FC AugsburgAugsburg's Gouweleeuw suffers second serious knee injury requiring surgery",
+                    "link": "https://bulinews.com/blow-for-augsburg-gouweleeuw-suffers-second-serious-knee-injury-requiring-surgery"
+                },
+                {
+                    "title": "Rumor Augsburg & WolfsburgBundesliga duo among reported suitors for Niclas Füllkrug",
+                    "link": "https://bulinews.com/bundesliga-duo-among-reported-suitors-for-niclas-fullkrug"
+                },
+                {
+                    "title": "Post-match reaction VfB StuttgartUndav proud of teammates \"who did everything\" to defeat Augsburg",
+                    "link": "https://bulinews.com/undav-proud-teammates-who-did-everything-defeat-augsburg"
+                },
+                {
+                    "title": "Match report VfB Stuttgart & FC AugsburgUndav's decisive double sees Stuttgart past Augsburg in five-goal spectacle",
+                    "link": "https://bulinews.com/undav-decisive-double-sees-stuttgart-past-augsburg-five-goal-spectacle"
+                },
+                {
+                    "title": "VfB Stuttgart & FC AugsburgConfirmed lineups: VfB Stuttgart vs. FC Augsburg",
+                    "link": "https://bulinews.com/confirmed-lineups-vfb-stuttgart-augsburg-1"
+                },
+                {
+                    "title": "Rumor FC AugsburgOut-of-favour Augsburg striker sought after by unnamed MLS clubs",
+                    "link": "https://bulinews.com/out-favour-augsburg-striker-sought-after-unnamed-mls-clubs"
+                },
+                {
+                    "title": "FC AugsburgAugsburg fans criticize club's course: \"From the underdog to the league's whipping boys\"",
+                    "link": "https://bulinews.com/augsburg-fans-critical-club-course-the-underdog-the-league-whipping-boys"
+                }
+            ],
+            "away": [
+                {
+                    "title": "2. Bundesliga women",
+                    "link": "https://bulinews.com/standing/18357/2-bundesliga-women/2025/2026"
+                },
+                {
+                    "title": "179 EUR (1 night)Departure 20.12.2025",
+                    "link": "https://ion.footballtravel.com/t/t?a=1916502571&as=1924605561&t=2&tk=1&url=https://footballtravel.com/products/hamburger-sv-frankfurt"
+                },
+                {
+                    "title": "154 EUR (1 night)Departure 13.01.2026",
+                    "link": "https://ion.footballtravel.com/t/t?a=1916502571&as=1924605561&t=2&tk=1&url=https://footballtravel.com/products/hamburger-sv-leverkusen"
+                },
+                {
+                    "title": "159 EUR (1 night)Departure 16.01.2026",
+                    "link": "https://ion.footballtravel.com/t/t?a=1916502571&as=1924605561&t=2&tk=1&url=https://footballtravel.com/products/hamburger-sv-gladbach"
+                },
+                {
+                    "title": "469 EUR (2 nights)Departure 30.01.2026",
+                    "link": "https://ion.footballtravel.com/t/t?a=1916502571&as=1924605561&t=2&tk=1&url=https://footballtravel.com/products/hamburger-sv-bayern-munchen"
+                },
+                {
+                    "title": "Preview FC Augsburg, HSVFC Augsburg vs. Hamburger SV preview: Team news and predicted lineups",
+                    "link": "https://bulinews.com/augsburg-hamburger-preview-team-news-and-predicted-lineups"
+                },
+                {
+                    "title": "Rumor Hamburger SVHamburger SV working to sign Ukrainian marksman from Trabzonspor",
+                    "link": "https://bulinews.com/hamburger-working-sign-ukrainian-marksman"
+                },
+                {
+                    "title": "Post-match reaction Borussia DortmundEmre Can reflects on return to starting XI and \"bitter\" draw",
+                    "link": "https://bulinews.com/emre-can-reflects-return-starting-and-bitter-draw"
+                },
+                {
+                    "title": "Post-match reaction Hamburger SVHSV coach Polzin \"delighted with the result\" against Dortmund",
+                    "link": "https://bulinews.com/hsv-coach-polzin-delighted-the-result-against-dortmund"
+                },
+                {
+                    "title": "Match report Borussia Dortmund & Hamburger SVKönigsdörffer strikes late as Hamburg hold Dortmund to a draw",
+                    "link": "https://bulinews.com/konigsdorffer-strikes-late-as-hsv-hold-bvb"
+                }
+            ]
+        }
+    },
+    "BayernMunichvsFreiburg_22112025": {
+        "match_info": {
+            "id": "BayernMunichvsFreiburg_22112025",
+            "home": "Bayern Munich",
+            "away": "Freiburg",
+            "league": "Bundesliga",
+            "date": "22/11/2025"
+        },
+        "urls": {
+            "sofascore": "https://www.sofascore.com/football/match/fc-bayern-munchen-sc-freiburg/Nabsxdb",
+            "whoscored": "https://www.whoscored.com/previews",
+            "flashscore": "NOT_FOUND",
+            "sportsmole": "https://www.sportsmole.co.uk/football/bundesliga/bayern-munich-vs-freiburg_game_233596.html",
+            "tm_home": "https://www.transfermarkt.com.br/bayern-munich/startseite/verein/27/sort/age",
+            "tm_away": "https://www.transfermarkt.com.br/scfreiburg/startseite/verein/60",
+            "news_home": "https://bulinews.com/bayern-munich",
+            "news_away": "https://bulinews.com/freiburg"
+        },
+        "news": {
+            "home": [
+                {
+                    "title": "2. Bundesliga women",
+                    "link": "https://bulinews.com/standing/18357/2-bundesliga-women/2025/2026"
+                },
+                {
+                    "title": "Rumor Borussia DortmundAdeyemi's legal trouble puts Dortmund future, transfer prospects and World Cup spot at risk",
+                    "link": "https://bulinews.com/adeyemi-legal-trouble-puts-dortmund-future-transfer-prospects-and-world-cup-spot-risk"
+                },
+                {
+                    "title": "1. FSV Mainz 05 1. FSV Mainz 05: In dire need of a spark",
+                    "link": "https://bulinews.com/1-fsv-mainz-05-dire-need-spark"
+                },
+                {
+                    "title": "Fantasy Football FantasyFantasy Bundesliga tips: 10 players to consider for Matchday 11",
+                    "link": "https://bulinews.com/fantasy-bundesliga-tips-10-players-consider-for-matchday-11-1"
+                },
+                {
+                    "title": "Fantasy Football BundesligaPredicted Bundesliga lineups: Matchday 11",
+                    "link": "https://bulinews.com/predicted-bundesliga-lineups-matchday-11-1"
+                },
+                {
+                    "title": "Preview FC Augsburg, HSVFC Augsburg vs. Hamburger SV preview: Team news and predicted lineups",
+                    "link": "https://bulinews.com/augsburg-hamburger-preview-team-news-and-predicted-lineups"
+                },
+                {
+                    "title": "Eintracht Frankfurt FrauenConfirmed UEFA Women’s Europa Cup Lineups: Eintracht Frankfurt Frauen vs. PSV Vrouwen",
+                    "link": "https://bulinews.com/confirmed-uefa-women-europa-cup-lineups-eintracht-frankfurt-frauen-psv-vrouwen"
+                },
+                {
+                    "title": "FC BayernBayern chief still \"optimistic\" about keeping Upamecano amid exit links",
+                    "link": "https://bulinews.com/bayern-chief-still-optimistic-keeping-upamecano-amid-exit-links"
+                },
+                {
+                    "title": "Borussia MönchengladbachGladbach hit by injury blow ahead of trip to Heidenheim",
+                    "link": "https://bulinews.com/gladbach-hit-injury-blow-ahead-trip-heidenheim"
+                },
+                {
+                    "title": "FC BayernManuel Neuer misses Bayern training ahead of Freiburg match",
+                    "link": "https://bulinews.com/manuel-neuer-misses-bayern-training-ahead-freiburg-match"
+                }
+            ],
+            "away": [
+                {
+                    "title": "2. Bundesliga women",
+                    "link": "https://bulinews.com/standing/18357/2-bundesliga-women/2025/2026"
+                },
+                {
+                    "title": "Germany: BundesligaAllianz ArenaFC BayernFreiburg",
+                    "link": "https://bulinews.com/fixtures/677480/fc-bayern-freiburg"
+                },
+                {
+                    "title": "Germany: BundesligaSchwarzwald-StadionFT2 - 1(1 - 0)FreiburgSt. Pauli⚽ Y. Suzuki (40), ⚽ M. Eggestein (50)⚽ L. Oppie (69)",
+                    "link": "https://bulinews.com/fixtures/677471/freiburg-st-pauli"
+                },
+                {
+                    "title": "384 EUR (2 nights)Departure 08.05.2026",
+                    "link": "https://ion.footballtravel.com/t/t?a=1916502571&as=1924605561&t=2&tk=1&url=https://footballtravel.com/products/hamburger-sv-freiburg"
+                },
+                {
+                    "title": "Rumor VfL Wolfsburg & SC FreiburgAlkmaar's Parrott set for next step amid lingering Bundesliga rumours",
+                    "link": "https://bulinews.com/alkmaar-parrott-set-for-next-step-amid-lingering-bundesliga-rumours"
+                },
+                {
+                    "title": "Post-match reaction St.PauliPressure mounts as St.Pauli coach Blessin reflects on \"deserved victory\" for Freiburg",
+                    "link": "https://bulinews.com/pauli-coach-blessin-reflects-deserved-victory-for-freiburg-pressure-mounts"
+                },
+                {
+                    "title": "Match report SC Freiburg & St. PauliFreiburg inflict more misery on St.Pauli as Eggestein's strike separates the sides",
+                    "link": "https://bulinews.com/freiburg-inflict-more-misery-pauli-eggestein-strike-separates-the-sides"
+                },
+                {
+                    "title": "SC Freiburg, St. PauliConfirmed Lineups: SC Freiburg vs. FC St. Pauli",
+                    "link": "https://bulinews.com/confirmed-lineups-freiburg-pauli"
+                },
+                {
+                    "title": "Match report SC FreiburgEfficient Freiburg extend European run in Nice",
+                    "link": "https://bulinews.com/efficient-freiburg-extend-european-run-nice"
+                },
+                {
+                    "title": "SC FreiburgConfirmed lineups: Nice vs. Freiburg",
+                    "link": "https://bulinews.com/confirmed-lineups-nice-freiburg"
+                }
+            ]
+        }
+    },
+    "BorussiaDortmundvsStuttgart_22112025": {
+        "match_info": {
+            "id": "BorussiaDortmundvsStuttgart_22112025",
+            "home": "Borussia Dortmund",
+            "away": "Stuttgart",
+            "league": "Bundesliga",
+            "date": "22/11/2025"
+        },
+        "urls": {
+            "sofascore": "NOT_FOUND",
+            "whoscored": "https://www.whoscored.com/matches/1910750/teamstatistics/germany-bundesliga-2025-2026-borussia-dortmund-vfb-stuttgart",
+            "flashscore": "https://www.flashscore.com.br/jogo/futebol/dortmund-nP1i5US1/stuttgart-nJQmYp1B/",
+            "sportsmole": "https://www.sportsmole.co.uk/football/bundesliga/borussia-dortmund-vs-stuttgart_game_233594.html",
+            "tm_home": "https://www.transfermarkt.com.br/borussiadortmund/startseite/verein/16",
+            "tm_away": "https://www.transfermarkt.com.br/vfbstuttgart/startseite/verein/79",
+            "news_home": "https://bulinews.com/dortmund",
+            "news_away": "https://bulinews.com/stuttgart"
+        },
+        "news": {
+            "home": [
+                {
+                    "title": "2. Bundesliga women",
+                    "link": "https://bulinews.com/standing/18357/2-bundesliga-women/2025/2026"
+                },
+                {
+                    "title": "549 EUR (Ticket only)",
+                    "link": "https://ion.footballtravel.com/t/t?a=1916502571&as=1924605561&t=2&tk=1&url=https://footballtravel.com/products/private-dortmund-villarreal-3944346090"
+                },
+                {
+                    "title": "189 EUR (Ticket only)",
+                    "link": "https://ion.footballtravel.com/t/t?a=1916502571&as=1924605561&t=2&tk=1&url=https://footballtravel.com/products/dortmund-bodo-glimt"
+                },
+                {
+                    "title": "Rumor Borussia DortmundAdeyemi's legal trouble puts Dortmund future, transfer prospects and World Cup spot at risk",
+                    "link": "https://bulinews.com/adeyemi-legal-trouble-puts-dortmund-future-transfer-prospects-and-world-cup-spot-risk"
+                },
+                {
+                    "title": "Borussia DortmundDortmund and DFB take action against Adeyemi over illegal weapons case",
+                    "link": "https://bulinews.com/dortmund-and-dfb-take-action-against-adeyemi-over-illegal-weapons-case"
+                },
+                {
+                    "title": "Rumor Borussia DortmundInter join Manchester United in pursuit of Adeyemi",
+                    "link": "https://bulinews.com/inter-join-manchester-united-pursuit-adeyemi"
+                },
+                {
+                    "title": "Borussia DortmundEffenberg on Adeyemi: \"He risks throwing away his career if he doesn't come to his senses\"",
+                    "link": "https://bulinews.com/effenberg-adeyemi-risks-throwing-away-his-career-doesn-come-his-senses"
+                },
+                {
+                    "title": "Rumor Borussia DortmundDortmund to battle Manchester United in race for 16-year-old Swedish striker",
+                    "link": "https://bulinews.com/dortmund-battle-manchester-united-race-for-16-year-old-swedish-striker"
+                },
+                {
+                    "title": "Rumor Borussia DortmundDortmund bosses to hold meeting with Adeyemi over illegal weapons charges",
+                    "link": "https://bulinews.com/dortmund-bosses-hold-meeting-adeyemi-over-illegal-weapons-charges"
+                },
+                {
+                    "title": "Rumor FC Bayern, Dortmund & Eintracht FrankfurtBundesliga giants eye Brown, but Premier League move looks most likely",
+                    "link": "https://bulinews.com/bundesliga-giants-eye-brown-but-premier-league-move-looks-most-likely"
+                }
+            ],
+            "away": [
+                {
+                    "title": "2. Bundesliga women",
+                    "link": "https://bulinews.com/standing/18357/2-bundesliga-women/2025/2026"
+                },
+                {
+                    "title": "334 EUR (3 nights)Departure 12.12.2025",
+                    "link": "https://ion.footballtravel.com/t/t?a=1916502571&as=1924605561&t=2&tk=1&url=https://footballtravel.com/products/werder-bremen-stuttgart"
+                },
+                {
+                    "title": "399 EUR (Ticket only)",
+                    "link": "https://ion.footballtravel.com/t/t?a=1916502571&as=1924605561&t=2&tk=1&url=https://footballtravel.com/products/bayern-munchen-stuttgart"
+                },
+                {
+                    "title": "Other StuttgartVfB Stuttgart: Where things stand at the break",
+                    "link": "https://bulinews.com/vfb-stuttgart-things-stand-the-break"
+                },
+                {
+                    "title": "VfB StuttgartChema Andrés backs \"spectacular\" Stuttgart teammate Angelo Stiller for top-team move",
+                    "link": "https://bulinews.com/chema-andres-backs-spectacular-stuttgart-teammate-angelo-stiller-for-top-team-move"
+                },
+                {
+                    "title": "Rumor Bayern Munich & VfB StuttgartWoltemade claims \"there were no negative comments\" from Bayern players after Rummenigge outburst",
+                    "link": "https://bulinews.com/woltemade-claims-there-were-negative-comments-bayern-players-after-rummenigge-outburst"
+                },
+                {
+                    "title": "VfB StuttgartChema Andrés on potential Real Madrid return: \"It's every player's dream\"",
+                    "link": "https://bulinews.com/chema-andres-potential-real-madrid-return-every-player-dream"
+                },
+                {
+                    "title": "Rumor VfB StuttgartBologna's Dallinga among several marksmen linked with VfB Stuttgart",
+                    "link": "https://bulinews.com/bologna-dallinga-among-several-marksmen-linked-vfb-stuttgart"
+                },
+                {
+                    "title": "GermanyNick Woltemade awarded Fair Play Medal by German Football Association",
+                    "link": "https://bulinews.com/nick-woltemade-awarded-fair-play-medal-german-football-association"
+                },
+                {
+                    "title": "Rumor VfB StuttgartVfB Stuttgart interested in underperforming Nottingham Forest striker",
+                    "link": "https://bulinews.com/vfb-stuttgart-interested-underperforming-nottingham-forest-striker"
+                }
+            ]
+        }
+    },
+    "HeidenheimvsBorussiaMönchengladbach_22112025": {
+        "match_info": {
+            "id": "HeidenheimvsBorussiaMönchengladbach_22112025",
+            "home": "Heidenheim",
+            "away": "Borussia Mönchengladbach",
+            "league": "Bundesliga",
+            "date": "22/11/2025"
+        },
+        "urls": {
+            "sofascore": "NOT_FOUND",
+            "whoscored": "NOT_FOUND",
+            "flashscore": "NOT_FOUND",
+            "sportsmole": "https://www.sportsmole.co.uk/football/heidenheim/preview/heidenheim-vs-borussia-mbach-prediction-team-news-lineups_585997.html",
+            "tm_home": "https://www.transfermarkt.com.br/1-fc-heidenheim/startseite/verein/2036",
+            "tm_away": "https://www.transfermarkt.com.br/borussia-monchengladbach/startseite/verein/18",
+            "news_home": "https://bulinews.com/heidenheim",
+            "news_away": "NOT_FOUND"
+        },
+        "news": {
+            "home": [
+                {
+                    "title": "2. Bundesliga women",
+                    "link": "https://bulinews.com/standing/18357/2-bundesliga-women/2025/2026"
+                },
+                {
+                    "title": "249 EUR (3 nights)Departure 27.02.2026",
+                    "link": "https://ion.footballtravel.com/t/t?a=1916502571&as=1924605561&t=2&tk=1&url=https://footballtravel.com/products/werder-bremen-heidenheim"
+                },
+                {
+                    "title": "Post-match reaction 1.FC HeidenheimDorsch labels Heidenheim's six-goal defeat \"a disgrace\" in furious post-match interview",
+                    "link": "https://bulinews.com/dorsch-labels-heidenheim-six-goal-defeat-disgrace-furious-post-match-interview"
+                },
+                {
+                    "title": "Leverkusen & HeidenheimConfirmed lineups: Bayer Leverkusen vs. Heidenheim",
+                    "link": "https://bulinews.com/confirmed-lineups-bayer-leverkusen-heidenheim"
+                },
+                {
+                    "title": "Match report Heidenheim, Eintracht Frankfurt Heidenheim extend unbeaten home run with Frankfurt draw",
+                    "link": "https://bulinews.com/heidenheim-extend-unbeaten-home-run-frankfurt-draw"
+                },
+                {
+                    "title": "Heidenheim, Eintracht Frankfurt Confirmed Lineups: 1. FC Heidenheim vs. Eintracht Frankfurt",
+                    "link": "https://bulinews.com/confirmed-lineups-1-heidenheim-eintracht-frankfurt"
+                },
+                {
+                    "title": "Post-match reaction Hamburger SVHSV's Glatzel on decisive strike: \"Today was a very emotional moment for me\"",
+                    "link": "https://bulinews.com/hsv-glatzel-decisive-strike-today-was-very-emotional-moment-for"
+                },
+                {
+                    "title": "Match report Heidenheim, HSVControversial penalty-kick sends HSV to Pokal Round of 16 in Heidenheim",
+                    "link": "https://bulinews.com/controversial-penalty-kick-sends-hsv-pokal-round-16-heidenheim"
+                },
+                {
+                    "title": "1. FC Heidenheim, HSV Confirmed Lineups: 1. FC Heidenheim vs. HSV",
+                    "link": "https://bulinews.com/confirmed-lineups-1-heidenheim-hsv"
+                },
+                {
+                    "title": "Rumor Bayern Munich & 1.FC HeidenheimSky Germany: Heidenheim eager to extend Ibrahimovic loan",
+                    "link": "https://bulinews.com/sky-germany-heidenheim-eager-extend-ibrahimovic-loan"
+                }
+            ],
+            "away": []
+        }
+    },
+    "WolfsburgvsBayerLeverkusen_22112025": {
+        "match_info": {
+            "id": "WolfsburgvsBayerLeverkusen_22112025",
+            "home": "Wolfsburg",
+            "away": "Bayer Leverkusen",
+            "league": "Bundesliga",
+            "date": "22/11/2025"
+        },
+        "urls": {
+            "sofascore": "https://www.sofascore.com/football/match/bayer-04-leverkusen-vfl-wolfsburg/zabsGdb",
+            "whoscored": "https://www.whoscored.com/matches/1910761/teamstatistics/germany-bundesliga-2025-2026-wolfsburg-bayer-leverkusen",
+            "flashscore": "https://www.flashscore.com.br/jogo/futebol/leverkusen-4jcj2zMd/wolfsburg-nwkTahLL/",
+            "sportsmole": "https://www.sportsmole.co.uk/football/bundesliga/wolfsburg-vs-bayer-leverkusen_game_233597.html",
+            "tm_home": "https://www.transfermarkt.com.br/vfl-wolfsburg/startseite/verein/82",
+            "tm_away": "NOT_FOUND",
+            "news_home": "https://bulinews.com/wolfsburg",
+            "news_away": "https://bulinews.com/leverkusen"
+        },
+        "news": {
+            "home": [
+                {
+                    "title": "2. Bundesliga women",
+                    "link": "https://bulinews.com/standing/18357/2-bundesliga-women/2025/2026"
+                },
+                {
+                    "title": "324 EUR (Ticket only)",
+                    "link": "https://ion.footballtravel.com/t/t?a=1916502571&as=1924605561&t=2&tk=1&url=https://footballtravel.com/products/1-fc-koln-wolfsburg"
+                },
+                {
+                    "title": "Rumor Hoffenheim & WolfsburgSchicker's proposed switch from Hoffenheim to Wolfsburg in jeopardy",
+                    "link": "https://bulinews.com/schicker-proposed-switch-hoffenheim-wolfsburg-jeopardy"
+                },
+                {
+                    "title": "Other VfL WolfsburgWolfsburg working on rapid double Hoffenheim swoop",
+                    "link": "https://bulinews.com/wolfsburg-working-rapid-double-hoffenheim-swoop"
+                },
+                {
+                    "title": "VfL WolfsburgAdam Daghim keen to join Wolfsburg permanently",
+                    "link": "https://bulinews.com/adam-daghim-keen-join-wolfsburg-permanently"
+                },
+                {
+                    "title": "Rumor VfL Wolfsburg & SC FreiburgAlkmaar's Parrott set for next step amid lingering Bundesliga rumours",
+                    "link": "https://bulinews.com/alkmaar-parrott-set-for-next-step-amid-lingering-bundesliga-rumours"
+                },
+                {
+                    "title": "Rumor Wolfsburg & HoffenheimWolfsburg show interest in Hoffenheim boss",
+                    "link": "https://bulinews.com/wolfsburg-show-interest-hoffenheim-boss"
+                },
+                {
+                    "title": "VfL Wolfsburg Wolfsburg confirm sacking of sporting director",
+                    "link": "https://bulinews.com/wolfsburg-confirm-sacking-sporting-director"
+                },
+                {
+                    "title": "Rumor VfL Wolfsburg, Bayern Munich & Borussia DortmundSebastian Kehl or Christoph Freund set for Wolfsburg sporting director role?",
+                    "link": "https://bulinews.com/sebastian-kehl-christoph-freund-set-for-wolfsburg-sporting-director-role"
+                },
+                {
+                    "title": "VfL Wolfsburg\"There's not much time left...\" – Jonas Wind open to winter transfer as Wolfsburg stint nears end",
+                    "link": "https://bulinews.com/there-not-much-time-left-jonas-wind-open-winter-transfer-wolfsburg-stint-nears-end"
+                }
+            ],
+            "away": [
+                {
+                    "title": "2. Bundesliga women",
+                    "link": "https://bulinews.com/standing/18357/2-bundesliga-women/2025/2026"
+                },
+                {
+                    "title": "849 EUR (4 nights)Departure 24.11.2025",
+                    "link": "https://ion.footballtravel.com/t/t?a=1916502571&as=1924605561&t=2&tk=1&url=https://footballtravel.com/products/private-manchester-city-leverkusen-3kampe-3113067872"
+                },
+                {
+                    "title": "699 EUR (3 nights)Departure 24.11.2025",
+                    "link": "https://ion.footballtravel.com/t/t?a=1916502571&as=1924605561&t=2&tk=1&url=https://footballtravel.com/products/private-manchester-city-leverkusen-2kampe-2232143760"
+                },
+                {
+                    "title": "329 EUR (2 nights)Departure 24.11.2025",
+                    "link": "https://ion.footballtravel.com/t/t?a=1916502571&as=1924605561&t=2&tk=1&url=https://footballtravel.com/products/manchester-city-leverkusen"
+                },
+                {
+                    "title": "Bayer 04 LeverkusenGrimaldo struggling with injury ahead of busy fixture run for Leverkusen",
+                    "link": "https://bulinews.com/grimaldo-struggling-injury-ahead-busy-run-for-leverkusen"
+                },
+                {
+                    "title": "Rumor Bayern, Dortmund & LeverkusenAnderlecht set price for wonderkid amid interest from Bayern, Dortmund and Leverkusen",
+                    "link": "https://bulinews.com/anderlecht-set-price-for-wonderkid-amid-interest-bayern-dortmund-and-leverkusen"
+                },
+                {
+                    "title": "Rumor Bayer Leverkusen & FC BayernBarcelona ready to rival Bayern for Grimaldo",
+                    "link": "https://bulinews.com/barcelona-ready-rival-bayern-for-grimaldo"
+                },
+                {
+                    "title": "GermanyGermany player ratings vs. Luxembourg",
+                    "link": "https://bulinews.com/germany-player-ratings-luxembourg-1"
+                },
+                {
+                    "title": "Rumor Bayern Munich, Borussia Dortmund & Bayer LeverkusenBayern identify Goretzka successor as Dortmund and Leverkusen plot hijack bids",
+                    "link": "https://bulinews.com/bayern-identify-goretzka-successor-dortmund-and-leverkusen-plan-potential-hijack-bids"
+                },
+                {
+                    "title": "Rumor BundesligaSeveral unnamed Bundesliga clubs interested in AZ Alkmaar talent likened to Pedri",
+                    "link": "https://bulinews.com/several-unnamed-bundesliga-clubs-interested-alkmaar-talent-likened-pedri"
+                }
+            ]
+        }
+    },
+    "FCKölnvsEintrachtFrankfurt_22112025": {
+        "match_info": {
+            "id": "FCKölnvsEintrachtFrankfurt_22112025",
+            "home": "FC Köln",
+            "away": "Eintracht Frankfurt",
+            "league": "Bundesliga",
+            "date": "22/11/2025"
+        },
+        "urls": {
+            "sofascore": "https://www.sofascore.com/football/match/eintracht-frankfurt-1-fc-koln/wdbszdb",
+            "whoscored": "https://www.whoscored.com/matches/1910752/teamstatistics/germany-bundesliga-2025-2026-fc-koln-eintracht-frankfurt",
+            "flashscore": "https://www.flashscore.com.br/equipe/frankfurt/8vndvXTk/",
+            "sportsmole": "NOT_FOUND",
+            "tm_home": "https://www.transfermarkt.com.br/fc-colonia/startseite/verein/3",
+            "tm_away": "https://www.transfermarkt.com.br/sg-eintracht-frankfurt/startseite/verein/24",
+            "news_home": "https://bulinews.com/koln",
+            "news_away": "https://bulinews.com/eintracht"
+        },
+        "news": {
+            "home": [
+                {
+                    "title": "2. Bundesliga women",
+                    "link": "https://bulinews.com/standing/18357/2-bundesliga-women/2025/2026"
+                },
+                {
+                    "title": "Germany: BundesligaRheinEnergieStadionFC KölnFrankfurt",
+                    "link": "https://bulinews.com/fixtures/677476/fc-koln-frankfurt"
+                },
+                {
+                    "title": "Germany: BundesligaStadion im BORUSSIA-PARKFT3 - 1(1 - 0)GladbachFC Köln⚽X H. Tabakovic (45), ⚽ P. Sander (45), ⚽ K. Diks (61), ⚽ H. Tabakovic (64)⚽ L. Waldschmidt (90)",
+                    "link": "https://bulinews.com/fixtures/677468/gladbach-fc-koln"
+                },
+                {
+                    "title": "324 EUR (Ticket only)",
+                    "link": "https://ion.footballtravel.com/t/t?a=1916502571&as=1924605561&t=2&tk=1&url=https://footballtravel.com/products/1-fc-koln-st-pauli"
+                },
+                {
+                    "title": "169 EUR (Ticket only)",
+                    "link": "https://ion.footballtravel.com/t/t?a=1916502571&as=1924605561&t=2&tk=1&url=https://footballtravel.com/products/leverkusen-1-fc-koln"
+                },
+                {
+                    "title": "324 EUR (Ticket only)",
+                    "link": "https://ion.footballtravel.com/t/t?a=1916502571&as=1924605561&t=2&tk=1&url=https://footballtravel.com/products/1-fc-koln-union-berlin"
+                },
+                {
+                    "title": "324 EUR (Ticket only)",
+                    "link": "https://ion.footballtravel.com/t/t?a=1916502571&as=1924605561&t=2&tk=1&url=https://footballtravel.com/products/1-fc-koln-mainz"
+                },
+                {
+                    "title": "Rumor 1. FC KölnGuardiola and Manchester City keeping a close eye on German prodigy",
+                    "link": "https://bulinews.com/guardiola-and-manchester-city-keeping-close-eye-german-prodigy"
+                },
+                {
+                    "title": "Post-match reaction 1. FC Köln Kwasniok explains why he took El Mala off at half-time against Gladbach",
+                    "link": "https://bulinews.com/kwasniok-explains-why-took-mala-off-half-time-against-gladbach"
+                },
+                {
+                    "title": "Match report Gladbach & KölnFoals gallop past Billy Goats in convincing Rhein derby win",
+                    "link": "https://bulinews.com/foals-gallop-past-billy-goats-in-convincing-rheinderby-win"
+                }
+            ],
+            "away": [
+                {
+                    "title": "2. Bundesliga women",
+                    "link": "https://bulinews.com/standing/18357/2-bundesliga-women/2025/2026"
+                },
+                {
+                    "title": "Germany: BundesligaRheinEnergieStadionFC KölnFrankfurt",
+                    "link": "https://bulinews.com/fixtures/677476/fc-koln-frankfurt"
+                },
+                {
+                    "title": "Germany: BundesligaDeutsche Bank Park (Frankfurt am Main)FT1 - 0(0 - 0)FrankfurtMainz 05⚽ R. Doan (80)",
+                    "link": "https://bulinews.com/fixtures/677469/frankfurt-mainz-05"
+                },
+                {
+                    "title": "529 EUR (Ticket only)",
+                    "link": "https://ion.footballtravel.com/t/t?a=1916502571&as=1924605561&t=2&tk=1&url=https://footballtravel.com/products/fc-barcelona-frankfurt"
+                },
+                {
+                    "title": "1394 EUR (Ticket only)",
+                    "link": "https://ion.footballtravel.com/t/t?a=1916502571&as=1924605561&t=2&tk=1&url=https://footballtravel.com/products/private-fc-barcelona-frankfurt-2kampe-2220959199"
+                },
+                {
+                    "title": "Rumor Eintracht FrankfurtBahoya said to be dissatisfied with Frankfurt role amid Arsenal interest",
+                    "link": "https://bulinews.com/bahoya-said-dissatisfied-frankfurt-role-amid-arsenal-interest"
+                },
+                {
+                    "title": "Rumor FC Bayern, Dortmund & Eintracht FrankfurtBundesliga giants eye Brown, but Premier League move looks most likely",
+                    "link": "https://bulinews.com/bundesliga-giants-eye-brown-but-premier-league-move-looks-most-likely"
+                },
+                {
+                    "title": "Mainz 05Jonathan Burkardt \"keeping fingers crossed\" for Mainz amid relegation battle",
+                    "link": "https://bulinews.com/jonathan-burkardt-keeping-fingers-crossed-for-mainz-amid-relegation-battle"
+                },
+                {
+                    "title": "Rumor Eintracht FrankfurtFrankfurt set sights on promising Marseille youngster",
+                    "link": "https://bulinews.com/frankfurt-set-sights-promising-marseille-youngster"
+                },
+                {
+                    "title": "Eintracht Frankfurt Eintracht Frankfurt receive injury diagnosis on Hugo Larsson",
+                    "link": "https://bulinews.com/eintracht-frankfurt-receive-injury-diagnosis-hugo-larsson"
+                }
+            ]
+        }
+    },
+    "CagliarivsGenoa_22112025": {
+        "match_info": {
+            "id": "CagliarivsGenoa_22112025",
+            "home": "Cagliari",
+            "away": "Genoa",
+            "league": "Serie A",
+            "date": "22/11/2025"
+        },
+        "urls": {
+            "sofascore": "https://www.sofascore.com/football/match/cagliari-genoa/nebsueb",
+            "whoscored": "https://www.whoscored.com/matches/1901246/teamstatistics/italy-serie-a-2025-2026-cagliari-genoa",
+            "flashscore": "https://www.flashscore.com.br/equipe/genoa/d0PJxeie/",
+            "sportsmole": "https://www.sportsmole.co.uk/football/cagliari/preview/cagliari-vs-genoa-prediction-team-news-lineups_586072.html",
+            "tm_home": "https://www.transfermarkt.com.br/cagliari-calcio/startseite/verein/1390",
+            "tm_away": "https://www.transfermarkt.com.br/genoa/startseite/verein/252",
+            "news_home": "https://www.gazzetta.it/calcio/squadre/cagliari/notizie/",
+            "news_away": "https://www.gazzetta.it/calcio/squadre/genoa/notizie/"
+        },
+        "news": {
+            "home": [
+                {
+                    "title": "Tutte le esordienti al Mondiale: 3 storie pazzesche che forse non conoscevi",
+                    "link": "https://video.gazzetta.it/calcio/video-esordienti-mondiali-2026-3-storie-pazzesche-che-forse-non-conoscevi/679e7a56-2a93-44a1-956f-cab7b047fxlk"
+                },
+                {
+                    "title": "L’Italia deve fare… l’Italia, non servono miracoli. Ma occhio alla finale in trasferta",
+                    "link": "https://video.gazzetta.it/calcio/nazionale/video-italia-playoff-mondiali-azzurri-sono-superiori-ma-occhio-alla-finale-in-trasferta/2ea48828-998d-4149-846a-9fddd64d2xlk"
+                },
+                {
+                    "title": "Marotta: \"Pio Esposito? Un predestinato. I giovani prendano esempio\"",
+                    "link": "https://video.gazzetta.it/calcio/squadre/inter/video-marotta-pio-esposito-un-predestinato-i-giovani-prendano-esempio/0793fbf2-4f31-48cc-b71e-a9273962bxlk"
+                },
+                {
+                    "title": "Buonfiglio: “Gattuso non ha la bacchetta magica: ecco cosa serve all’Italia”",
+                    "link": "https://video.gazzetta.it/calcio/video-buonfiglio-gattuso-non-ha-la-bacchetta-magica-ecco-cosa-serve-all-italia/49a82451-5f51-4818-9972-2c2487cb6xlk"
+                },
+                {
+                    "title": "Abodi: “Nazionale? Settore tecnico da riformare”",
+                    "link": "https://video.gazzetta.it/calcio/video-abodi-nazionale-settore-tecnico-da-riformare/d7aeaf3d-e186-42f2-9bb4-ad2c025d0xlk"
+                },
+                {
+                    "title": "Simonelli: \"Nazionale? I giovani si sentono arrivati, ho un’idea: una parte dei loro stipendi…”",
+                    "link": "https://video.gazzetta.it/calcio/video-simonelli-nazionale-i-giovani-si-sentono-arrivati-ho-un-idea/20c7170a-af8a-4acf-9357-f3113f72exlk"
+                },
+                {
+                    "title": "Cairo: “Torino? Ottimo momento, risultati positivi contro squadre importanti”",
+                    "link": "https://video.gazzetta.it/calcio/serie-a/video-cairo-torino-ottimo-momento-risultati-positivi-contro-squadre-importanti/2790675b-f4e5-4549-bf42-57a587a6bxlk"
+                },
+                {
+                    "title": "Marotta: \"Nazionale? Arriverà il momento per critiche e autocritiche\"",
+                    "link": "https://video.gazzetta.it/calcio/video-marotta-qualificazioni-mondiali-il-calcio-europeo-deve-essere-piu-tutelato/1c284332-a249-4671-8867-fd8f4ec93xlk"
+                },
+                {
+                    "title": "Marotta: \"Primo derby da proprietari di San Siro: significato epocale\"",
+                    "link": "https://video.gazzetta.it/calcio/video-marotta-primo-derby-da-proprietari-di-san-siro/138466c1-5359-4c38-bd67-3fb296fe2xlk"
+                },
+                {
+                    "title": "L'infortunio non ferma Hakimi: ritira il Pallone d’Oro africano… in monopattino!",
+                    "link": "https://video.gazzetta.it/calcio/video-hakimi-si-trascina-al-pallone-d-oro-africano-e-conquista-tutti/f71a4bdb-868a-4df7-99e3-cd457f741xlk"
+                }
+            ],
+            "away": [
+                {
+                    "title": "Tutte le esordienti al Mondiale: 3 storie pazzesche che forse non conoscevi",
+                    "link": "https://video.gazzetta.it/calcio/video-esordienti-mondiali-2026-3-storie-pazzesche-che-forse-non-conoscevi/679e7a56-2a93-44a1-956f-cab7b047fxlk"
+                },
+                {
+                    "title": "L’Italia deve fare… l’Italia, non servono miracoli. Ma occhio alla finale in trasferta",
+                    "link": "https://video.gazzetta.it/calcio/nazionale/video-italia-playoff-mondiali-azzurri-sono-superiori-ma-occhio-alla-finale-in-trasferta/2ea48828-998d-4149-846a-9fddd64d2xlk"
+                },
+                {
+                    "title": "Marotta: \"Pio Esposito? Un predestinato. I giovani prendano esempio\"",
+                    "link": "https://video.gazzetta.it/calcio/squadre/inter/video-marotta-pio-esposito-un-predestinato-i-giovani-prendano-esempio/0793fbf2-4f31-48cc-b71e-a9273962bxlk"
+                },
+                {
+                    "title": "Buonfiglio: “Gattuso non ha la bacchetta magica: ecco cosa serve all’Italia”",
+                    "link": "https://video.gazzetta.it/calcio/video-buonfiglio-gattuso-non-ha-la-bacchetta-magica-ecco-cosa-serve-all-italia/49a82451-5f51-4818-9972-2c2487cb6xlk"
+                },
+                {
+                    "title": "Abodi: “Nazionale? Settore tecnico da riformare”",
+                    "link": "https://video.gazzetta.it/calcio/video-abodi-nazionale-settore-tecnico-da-riformare/d7aeaf3d-e186-42f2-9bb4-ad2c025d0xlk"
+                },
+                {
+                    "title": "Simonelli: \"Nazionale? I giovani si sentono arrivati, ho un’idea: una parte dei loro stipendi…”",
+                    "link": "https://video.gazzetta.it/calcio/video-simonelli-nazionale-i-giovani-si-sentono-arrivati-ho-un-idea/20c7170a-af8a-4acf-9357-f3113f72exlk"
+                },
+                {
+                    "title": "Cairo: “Torino? Ottimo momento, risultati positivi contro squadre importanti”",
+                    "link": "https://video.gazzetta.it/calcio/serie-a/video-cairo-torino-ottimo-momento-risultati-positivi-contro-squadre-importanti/2790675b-f4e5-4549-bf42-57a587a6bxlk"
+                },
+                {
+                    "title": "Marotta: \"Nazionale? Arriverà il momento per critiche e autocritiche\"",
+                    "link": "https://video.gazzetta.it/calcio/video-marotta-qualificazioni-mondiali-il-calcio-europeo-deve-essere-piu-tutelato/1c284332-a249-4671-8867-fd8f4ec93xlk"
+                },
+                {
+                    "title": "Marotta: \"Primo derby da proprietari di San Siro: significato epocale\"",
+                    "link": "https://video.gazzetta.it/calcio/video-marotta-primo-derby-da-proprietari-di-san-siro/138466c1-5359-4c38-bd67-3fb296fe2xlk"
+                },
+                {
+                    "title": "L'infortunio non ferma Hakimi: ritira il Pallone d’Oro africano… in monopattino!",
+                    "link": "https://video.gazzetta.it/calcio/video-hakimi-si-trascina-al-pallone-d-oro-africano-e-conquista-tutti/f71a4bdb-868a-4df7-99e3-cd457f741xlk"
+                }
+            ]
+        }
+    },
+    "UdinesevsBologna_22112025": {
+        "match_info": {
+            "id": "UdinesevsBologna_22112025",
+            "home": "Udinese",
+            "away": "Bologna",
+            "league": "Serie A",
+            "date": "22/11/2025"
+        },
+        "urls": {
+            "sofascore": "https://www.sofascore.com/football/match/udinese-bologna/KdbsVdb",
+            "whoscored": "NOT_FOUND",
+            "flashscore": "https://www.flashscore.com.br/jogo/futebol/bologna-0M9xNN8N/udinese-rXw8YKDE/",
+            "sportsmole": "https://www.sportsmole.co.uk/football/udinese/preview/udinese-vs-bologna-prediction-team-news-lineups_586066.html",
+            "tm_home": "https://www.transfermarkt.com.br/udinese-calcio/startseite/verein/410",
+            "tm_away": "https://www.transfermarkt.com.br/bologna/startseite/verein/1025",
+            "news_home": "https://www.gazzetta.it/calcio/squadre/udinese/notizie/",
+            "news_away": "https://www.gazzetta.it/calcio/squadre/bologna/notizie/"
+        },
+        "news": {
+            "home": [
+                {
+                    "title": "Tutte le esordienti al Mondiale: 3 storie pazzesche che forse non conoscevi",
+                    "link": "https://video.gazzetta.it/calcio/video-esordienti-mondiali-2026-3-storie-pazzesche-che-forse-non-conoscevi/679e7a56-2a93-44a1-956f-cab7b047fxlk"
+                },
+                {
+                    "title": "L’Italia deve fare… l’Italia, non servono miracoli. Ma occhio alla finale in trasferta",
+                    "link": "https://video.gazzetta.it/calcio/nazionale/video-italia-playoff-mondiali-azzurri-sono-superiori-ma-occhio-alla-finale-in-trasferta/2ea48828-998d-4149-846a-9fddd64d2xlk"
+                },
+                {
+                    "title": "Marotta: \"Pio Esposito? Un predestinato. I giovani prendano esempio\"",
+                    "link": "https://video.gazzetta.it/calcio/squadre/inter/video-marotta-pio-esposito-un-predestinato-i-giovani-prendano-esempio/0793fbf2-4f31-48cc-b71e-a9273962bxlk"
+                },
+                {
+                    "title": "Buonfiglio: “Gattuso non ha la bacchetta magica: ecco cosa serve all’Italia”",
+                    "link": "https://video.gazzetta.it/calcio/video-buonfiglio-gattuso-non-ha-la-bacchetta-magica-ecco-cosa-serve-all-italia/49a82451-5f51-4818-9972-2c2487cb6xlk"
+                },
+                {
+                    "title": "Abodi: “Nazionale? Settore tecnico da riformare”",
+                    "link": "https://video.gazzetta.it/calcio/video-abodi-nazionale-settore-tecnico-da-riformare/d7aeaf3d-e186-42f2-9bb4-ad2c025d0xlk"
+                },
+                {
+                    "title": "Simonelli: \"Nazionale? I giovani si sentono arrivati, ho un’idea: una parte dei loro stipendi…”",
+                    "link": "https://video.gazzetta.it/calcio/video-simonelli-nazionale-i-giovani-si-sentono-arrivati-ho-un-idea/20c7170a-af8a-4acf-9357-f3113f72exlk"
+                },
+                {
+                    "title": "Cairo: “Torino? Ottimo momento, risultati positivi contro squadre importanti”",
+                    "link": "https://video.gazzetta.it/calcio/serie-a/video-cairo-torino-ottimo-momento-risultati-positivi-contro-squadre-importanti/2790675b-f4e5-4549-bf42-57a587a6bxlk"
+                },
+                {
+                    "title": "Marotta: \"Nazionale? Arriverà il momento per critiche e autocritiche\"",
+                    "link": "https://video.gazzetta.it/calcio/video-marotta-qualificazioni-mondiali-il-calcio-europeo-deve-essere-piu-tutelato/1c284332-a249-4671-8867-fd8f4ec93xlk"
+                },
+                {
+                    "title": "Marotta: \"Primo derby da proprietari di San Siro: significato epocale\"",
+                    "link": "https://video.gazzetta.it/calcio/video-marotta-primo-derby-da-proprietari-di-san-siro/138466c1-5359-4c38-bd67-3fb296fe2xlk"
+                },
+                {
+                    "title": "L'infortunio non ferma Hakimi: ritira il Pallone d’Oro africano… in monopattino!",
+                    "link": "https://video.gazzetta.it/calcio/video-hakimi-si-trascina-al-pallone-d-oro-africano-e-conquista-tutti/f71a4bdb-868a-4df7-99e3-cd457f741xlk"
+                }
+            ],
+            "away": [
+                {
+                    "title": "Tutte le esordienti al Mondiale: 3 storie pazzesche che forse non conoscevi",
+                    "link": "https://video.gazzetta.it/calcio/video-esordienti-mondiali-2026-3-storie-pazzesche-che-forse-non-conoscevi/679e7a56-2a93-44a1-956f-cab7b047fxlk"
+                },
+                {
+                    "title": "L’Italia deve fare… l’Italia, non servono miracoli. Ma occhio alla finale in trasferta",
+                    "link": "https://video.gazzetta.it/calcio/nazionale/video-italia-playoff-mondiali-azzurri-sono-superiori-ma-occhio-alla-finale-in-trasferta/2ea48828-998d-4149-846a-9fddd64d2xlk"
+                },
+                {
+                    "title": "Marotta: \"Pio Esposito? Un predestinato. I giovani prendano esempio\"",
+                    "link": "https://video.gazzetta.it/calcio/squadre/inter/video-marotta-pio-esposito-un-predestinato-i-giovani-prendano-esempio/0793fbf2-4f31-48cc-b71e-a9273962bxlk"
+                },
+                {
+                    "title": "Buonfiglio: “Gattuso non ha la bacchetta magica: ecco cosa serve all’Italia”",
+                    "link": "https://video.gazzetta.it/calcio/video-buonfiglio-gattuso-non-ha-la-bacchetta-magica-ecco-cosa-serve-all-italia/49a82451-5f51-4818-9972-2c2487cb6xlk"
+                },
+                {
+                    "title": "Abodi: “Nazionale? Settore tecnico da riformare”",
+                    "link": "https://video.gazzetta.it/calcio/video-abodi-nazionale-settore-tecnico-da-riformare/d7aeaf3d-e186-42f2-9bb4-ad2c025d0xlk"
+                },
+                {
+                    "title": "Simonelli: \"Nazionale? I giovani si sentono arrivati, ho un’idea: una parte dei loro stipendi…”",
+                    "link": "https://video.gazzetta.it/calcio/video-simonelli-nazionale-i-giovani-si-sentono-arrivati-ho-un-idea/20c7170a-af8a-4acf-9357-f3113f72exlk"
+                },
+                {
+                    "title": "Cairo: “Torino? Ottimo momento, risultati positivi contro squadre importanti”",
+                    "link": "https://video.gazzetta.it/calcio/serie-a/video-cairo-torino-ottimo-momento-risultati-positivi-contro-squadre-importanti/2790675b-f4e5-4549-bf42-57a587a6bxlk"
+                },
+                {
+                    "title": "Marotta: \"Nazionale? Arriverà il momento per critiche e autocritiche\"",
+                    "link": "https://video.gazzetta.it/calcio/video-marotta-qualificazioni-mondiali-il-calcio-europeo-deve-essere-piu-tutelato/1c284332-a249-4671-8867-fd8f4ec93xlk"
+                },
+                {
+                    "title": "Marotta: \"Primo derby da proprietari di San Siro: significato epocale\"",
+                    "link": "https://video.gazzetta.it/calcio/video-marotta-primo-derby-da-proprietari-di-san-siro/138466c1-5359-4c38-bd67-3fb296fe2xlk"
+                },
+                {
+                    "title": "L'infortunio non ferma Hakimi: ritira il Pallone d’Oro africano… in monopattino!",
+                    "link": "https://video.gazzetta.it/calcio/video-hakimi-si-trascina-al-pallone-d-oro-africano-e-conquista-tutti/f71a4bdb-868a-4df7-99e3-cd457f741xlk"
+                }
+            ]
+        }
+    },
+    "FiorentinavsJuventus_22112025": {
+        "match_info": {
+            "id": "FiorentinavsJuventus_22112025",
+            "home": "Fiorentina",
+            "away": "Juventus",
+            "league": "Serie A",
+            "date": "22/11/2025"
+        },
+        "urls": {
+            "sofascore": "https://www.sofascore.com/football/match/fiorentina-juventus/MdbsTdb",
+            "whoscored": "https://www.whoscored.com/matches/1835160/teamstatistics/italy-serie-a-2024-2025-monza-juventus",
+            "flashscore": "https://www.flashscore.com.br/jogo/futebol/fiorentina-Q3A3IbXH/juventus-C06aJvIB/",
+            "sportsmole": "https://www.sportsmole.co.uk/football/fiorentina/preview/fiorentina-vs-juventus-prediction-team-news-lineups_586076.html",
+            "tm_home": "https://www.transfermarkt.com.br/acffiorentina/startseite/verein/430",
+            "tm_away": "https://www.transfermarkt.com.br/juventus-fc/startseite/verein/506",
+            "news_home": "https://www.gazzetta.it/calcio/squadre/fiorentina/notizie/",
+            "news_away": "https://www.gazzetta.it/calcio/squadre/juventus/notizie/"
+        },
+        "news": {
+            "home": [
+                {
+                    "title": "Tutte le esordienti al Mondiale: 3 storie pazzesche che forse non conoscevi",
+                    "link": "https://video.gazzetta.it/calcio/video-esordienti-mondiali-2026-3-storie-pazzesche-che-forse-non-conoscevi/679e7a56-2a93-44a1-956f-cab7b047fxlk"
+                },
+                {
+                    "title": "L’Italia deve fare… l’Italia, non servono miracoli. Ma occhio alla finale in trasferta",
+                    "link": "https://video.gazzetta.it/calcio/nazionale/video-italia-playoff-mondiali-azzurri-sono-superiori-ma-occhio-alla-finale-in-trasferta/2ea48828-998d-4149-846a-9fddd64d2xlk"
+                },
+                {
+                    "title": "Marotta: \"Pio Esposito? Un predestinato. I giovani prendano esempio\"",
+                    "link": "https://video.gazzetta.it/calcio/squadre/inter/video-marotta-pio-esposito-un-predestinato-i-giovani-prendano-esempio/0793fbf2-4f31-48cc-b71e-a9273962bxlk"
+                },
+                {
+                    "title": "Buonfiglio: “Gattuso non ha la bacchetta magica: ecco cosa serve all’Italia”",
+                    "link": "https://video.gazzetta.it/calcio/video-buonfiglio-gattuso-non-ha-la-bacchetta-magica-ecco-cosa-serve-all-italia/49a82451-5f51-4818-9972-2c2487cb6xlk"
+                },
+                {
+                    "title": "Abodi: “Nazionale? Settore tecnico da riformare”",
+                    "link": "https://video.gazzetta.it/calcio/video-abodi-nazionale-settore-tecnico-da-riformare/d7aeaf3d-e186-42f2-9bb4-ad2c025d0xlk"
+                },
+                {
+                    "title": "Simonelli: \"Nazionale? I giovani si sentono arrivati, ho un’idea: una parte dei loro stipendi…”",
+                    "link": "https://video.gazzetta.it/calcio/video-simonelli-nazionale-i-giovani-si-sentono-arrivati-ho-un-idea/20c7170a-af8a-4acf-9357-f3113f72exlk"
+                },
+                {
+                    "title": "Cairo: “Torino? Ottimo momento, risultati positivi contro squadre importanti”",
+                    "link": "https://video.gazzetta.it/calcio/serie-a/video-cairo-torino-ottimo-momento-risultati-positivi-contro-squadre-importanti/2790675b-f4e5-4549-bf42-57a587a6bxlk"
+                },
+                {
+                    "title": "Marotta: \"Nazionale? Arriverà il momento per critiche e autocritiche\"",
+                    "link": "https://video.gazzetta.it/calcio/video-marotta-qualificazioni-mondiali-il-calcio-europeo-deve-essere-piu-tutelato/1c284332-a249-4671-8867-fd8f4ec93xlk"
+                },
+                {
+                    "title": "Marotta: \"Primo derby da proprietari di San Siro: significato epocale\"",
+                    "link": "https://video.gazzetta.it/calcio/video-marotta-primo-derby-da-proprietari-di-san-siro/138466c1-5359-4c38-bd67-3fb296fe2xlk"
+                },
+                {
+                    "title": "L'infortunio non ferma Hakimi: ritira il Pallone d’Oro africano… in monopattino!",
+                    "link": "https://video.gazzetta.it/calcio/video-hakimi-si-trascina-al-pallone-d-oro-africano-e-conquista-tutti/f71a4bdb-868a-4df7-99e3-cd457f741xlk"
+                }
+            ],
+            "away": [
+                {
+                    "title": "Bentancur, follia in amichevole: fallaccio e rosso diretto",
+                    "link": "https://video.gazzetta.it/calcio/squadre/juventus/video-bentancur-espulso-in-usa-uruguay-l-episodio-in-un-amichevole/23e2f227-e6bc-424e-8247-58e4b115dxlk"
+                },
+                {
+                    "title": "Ezio Greggio: \"Spalletti uno chef stellato, ma se non hai l'aragosta...\"",
+                    "link": "https://video.gazzetta.it/calcio/squadre/juventus/ezio-greggio-spalletti-uno-chef-stellato-ma-se-non-hai-l-aragosta/f3470041-0930-459d-925b-0964cdc72xlk"
+                },
+                {
+                    "title": "Juventus, testa al futuro: ecco la nuova difesa che piace a Spalletti e Comolli",
+                    "link": "https://video.gazzetta.it/video-calciomercato-juventus-testa-al-futuro-la-nuova-difesa-che-piace-a-spalletti/741cf99b-5e56-4b08-aa71-780a6392bxlk"
+                },
+                {
+                    "title": "Juventus, Elkann: \"Spalletti? Ha il dovere di portarla a vincere\"",
+                    "link": "https://video.gazzetta.it/video-juventus-elkann-spalletti-ha-il-dovere-di-portarla-a-vincere/7d5fd4d9-771a-429c-a5ea-0270c0defxlk"
+                },
+                {
+                    "title": "Vergogna allo Stadium: \"tifoso\" mima lo schianto aereo di Superga",
+                    "link": "https://video.gazzetta.it/calcio/video-vergogna-allo-stadium-tifoso-mima-lo-schianto-aereo-di-superga/7b41f680-7a3e-4be0-b251-054219830xlk"
+                },
+                {
+                    "title": "Vlahovic e Simeone si contendono il derby: le probabili formazioni di Juve-Torino",
+                    "link": "https://video.gazzetta.it/calcio/probabili-formazioni-juventus-torino-il-derby-della-mole/2c2b9d91-0ff6-48cd-a211-582437657xlk"
+                },
+                {
+                    "title": "Chiellini sui giovani: \"Ci godiamo Yildiz, purtroppo abbiamo dovuto cederne altri...\"",
+                    "link": "https://video.gazzetta.it/calcio/squadre/juventus/chiellini-ci-stiamo-godendo-yildiz-purtroppo-abbiamo-dovuto-cedere-altri-giovani/88a01161-d294-4245-a578-aa3ad96e9xlk"
+                },
+                {
+                    "title": "Chiellini: \"Il Governo deve aiutare il calcio, serve un tavolo condiviso\"",
+                    "link": "https://video.gazzetta.it/calcio/squadre/juventus/chiellini-il-governo-deve-aiutare-il-calcio-serve-un-tavolo-condiviso/c16b1f67-9b23-4ebe-8385-cbc40440bxlk"
+                },
+                {
+                    "title": "Van Der Sar: \"A Di Gregorio serve fiducia. Koop? I cambi in panchina non aiutano\"",
+                    "link": "https://video.gazzetta.it/calcio/video-juve-van-der-sar-a-di-gregorio-serve-fiducia-e-su-koopmeiners/2624c324-a13e-49ff-af4a-bbb9d5bacxlk"
+                },
+                {
+                    "title": "Barnaba: \"David? Volevamo tenerlo al Lilla, ma lui ha scelto l'Italia\"",
+                    "link": "https://video.gazzetta.it/calcio/serie-a/video-barnaba-david-volevamo-tenerlo-al-lilla-ma-lui-ha-scelto-l-italia/0eef9804-e977-4062-b22c-143375df2xlk"
+                }
+            ]
+        }
+    },
+    "NapolivsAtalanta_22112025": {
+        "match_info": {
+            "id": "NapolivsAtalanta_22112025",
+            "home": "Napoli",
+            "away": "Atalanta",
+            "league": "Serie A",
+            "date": "22/11/2025"
+        },
+        "urls": {
+            "sofascore": "https://www.sofascore.com/football/match/napoli-atalanta/Ldbsoeb",
+            "whoscored": "NOT_FOUND",
+            "flashscore": "https://www.flashscore.com.br/jogo/futebol/atalanta-8C9JjMXu/napoli-69Dxbc61/",
+            "sportsmole": "https://www.sportsmole.co.uk/football/napoli/preview/napoli-vs-atalanta-prediction-team-news-lineups_586082.html",
+            "tm_home": "https://www.transfermarkt.com.br/napoli/startseite/verein/6195",
+            "tm_away": "https://www.transfermarkt.com.br/atalanta-bc/startseite/verein/800",
+            "news_home": "NOT_FOUND",
+            "news_away": "https://www.gazzetta.it/calcio/squadre/atalanta/notizie/"
+        },
+        "news": {
+            "home": [],
+            "away": [
+                {
+                    "title": "Tutte le esordienti al Mondiale: 3 storie pazzesche che forse non conoscevi",
+                    "link": "https://video.gazzetta.it/calcio/video-esordienti-mondiali-2026-3-storie-pazzesche-che-forse-non-conoscevi/679e7a56-2a93-44a1-956f-cab7b047fxlk"
+                },
+                {
+                    "title": "L’Italia deve fare… l’Italia, non servono miracoli. Ma occhio alla finale in trasferta",
+                    "link": "https://video.gazzetta.it/calcio/nazionale/video-italia-playoff-mondiali-azzurri-sono-superiori-ma-occhio-alla-finale-in-trasferta/2ea48828-998d-4149-846a-9fddd64d2xlk"
+                },
+                {
+                    "title": "Marotta: \"Pio Esposito? Un predestinato. I giovani prendano esempio\"",
+                    "link": "https://video.gazzetta.it/calcio/squadre/inter/video-marotta-pio-esposito-un-predestinato-i-giovani-prendano-esempio/0793fbf2-4f31-48cc-b71e-a9273962bxlk"
+                },
+                {
+                    "title": "Buonfiglio: “Gattuso non ha la bacchetta magica: ecco cosa serve all’Italia”",
+                    "link": "https://video.gazzetta.it/calcio/video-buonfiglio-gattuso-non-ha-la-bacchetta-magica-ecco-cosa-serve-all-italia/49a82451-5f51-4818-9972-2c2487cb6xlk"
+                },
+                {
+                    "title": "Abodi: “Nazionale? Settore tecnico da riformare”",
+                    "link": "https://video.gazzetta.it/calcio/video-abodi-nazionale-settore-tecnico-da-riformare/d7aeaf3d-e186-42f2-9bb4-ad2c025d0xlk"
+                },
+                {
+                    "title": "Simonelli: \"Nazionale? I giovani si sentono arrivati, ho un’idea: una parte dei loro stipendi…”",
+                    "link": "https://video.gazzetta.it/calcio/video-simonelli-nazionale-i-giovani-si-sentono-arrivati-ho-un-idea/20c7170a-af8a-4acf-9357-f3113f72exlk"
+                },
+                {
+                    "title": "Cairo: “Torino? Ottimo momento, risultati positivi contro squadre importanti”",
+                    "link": "https://video.gazzetta.it/calcio/serie-a/video-cairo-torino-ottimo-momento-risultati-positivi-contro-squadre-importanti/2790675b-f4e5-4549-bf42-57a587a6bxlk"
+                },
+                {
+                    "title": "Marotta: \"Nazionale? Arriverà il momento per critiche e autocritiche\"",
+                    "link": "https://video.gazzetta.it/calcio/video-marotta-qualificazioni-mondiali-il-calcio-europeo-deve-essere-piu-tutelato/1c284332-a249-4671-8867-fd8f4ec93xlk"
+                },
+                {
+                    "title": "Marotta: \"Primo derby da proprietari di San Siro: significato epocale\"",
+                    "link": "https://video.gazzetta.it/calcio/video-marotta-primo-derby-da-proprietari-di-san-siro/138466c1-5359-4c38-bd67-3fb296fe2xlk"
+                },
+                {
+                    "title": "L'infortunio non ferma Hakimi: ritira il Pallone d’Oro africano… in monopattino!",
+                    "link": "https://video.gazzetta.it/calcio/video-hakimi-si-trascina-al-pallone-d-oro-africano-e-conquista-tutti/f71a4bdb-868a-4df7-99e3-cd457f741xlk"
+                }
+            ]
+        }
+    },
+    "BotafogovsGrêmio_22112025": {
+        "match_info": {
+            "id": "BotafogovsGrêmio_22112025",
+            "home": "Botafogo",
+            "away": "Grêmio",
+            "league": "Brasileirão",
+            "date": "22/11/2025"
+        },
+        "urls": {
+            "sofascore": "https://www.sofascore.com/football/match/gremio-botafogo/iOsBtc",
+            "whoscored": "NOT_FOUND",
+            "flashscore": "https://www.flashscore.com.br/jogo/futebol/botafogo-jXzWoWa5/gremio-E1EFmhVh/",
+            "sportsmole": "https://www.sportsmole.co.uk/football/botafogo/",
+            "tm_home": "https://www.transfermarkt.com.br/botafogo-fr/startseite/verein/537",
+            "tm_away": "https://www.transfermarkt.com.br/gremio-fbpa/startseite/verein/210",
+            "news_home": "https://ge.globo.com/futebol/times/botafogo/",
+            "news_away": "https://ge.globo.com/rs/futebol/times/gremio/"
+        },
+        "news": {
+            "home": [
+                {
+                    "title": "Kadir na Copa? Veja chances de joia atuar pelo Panamá",
+                    "link": "https://ge.globo.com/futebol/times/botafogo/noticia/2025/11/20/kadir-na-copa-veja-chances-de-joia-do-botafogo-jogar-mundial-pelo-panama.ghtml"
+                },
+                {
+                    "title": "Além de Kadir: veja outros jogadores da base observados por Davide",
+                    "link": "https://ge.globo.com/futebol/times/botafogo/noticia/2025/11/19/alem-de-kadir-veja-outros-jogadores-da-base-do-botafogo-observados-por-davide-ancelotti.ghtml"
+                },
+                {
+                    "title": "Chamado às pressas e gols salvadores: as últimas 48 horas do herói Kadir",
+                    "link": "https://ge.globo.com/futebol/times/botafogo/noticia/2025/11/19/chamado-as-pressas-e-gols-salvadores-como-foram-as-ultimas-48-horas-de-kadir-heroi-de-vitoria-do-botafogo.ghtml"
+                },
+                {
+                    "title": "Botafogo volta a reverter desvantagem de dois gols após três anos",
+                    "link": "https://ge.globo.com/futebol/times/botafogo/noticia/2025/11/19/botafogo-volta-a-reverter-desvantagem-de-dois-gols-apos-tres-anos-ultima-vez-havia-sido-na-batalha-do-beira-rio.ghtml"
+                },
+                {
+                    "title": "Conheça Kadir, jovem panamenho que garantiu a virada",
+                    "link": "https://ge.globo.com/futebol/times/botafogo/noticia/2025/11/18/conheca-kadir-jovem-panamenho-que-garantiu-virada-do-botafogo-sobre-o-sport.ghtml"
+                }
+            ],
+            "away": [
+                {
+                    "title": "Atuações: Carlos Vinicius é o melhor em vitória; dê suas notas",
+                    "link": "https://ge.globo.com/rs/futebol/times/gremio/noticia/2025/11/19/atuacoes-do-gremio-carlos-vinicius-amuzu-e-dodi-sao-os-melhores-em-vitoria-de-suas-notas.ghtml"
+                },
+                {
+                    "title": "Felipão defende permanência de Mano no Grêmio em 2026",
+                    "link": "https://ge.globo.com/rs/futebol/times/gremio/noticia/2025/11/19/felipao-defende-permanencia-de-mano-no-gremio-em-2026-trabalho-espetacular.ghtml"
+                },
+                {
+                    "title": "Willian tem data para voltar a jogar; saiba quando",
+                    "link": "https://ge.globo.com/rs/futebol/times/gremio/noticia/2025/11/19/willian-planeja-volta-ao-gremio-contra-o-palmeiras-saiba-detalhes.ghtml"
+                }
+            ]
+        }
+    },
+    "FlamengovsRedBullBragantino_22112025": {
+        "match_info": {
+            "id": "FlamengovsRedBullBragantino_22112025",
+            "home": "Flamengo",
+            "away": "Red Bull Bragantino",
+            "league": "Brasileirão",
+            "date": "22/11/2025"
+        },
+        "urls": {
+            "sofascore": "https://www.sofascore.com/football/match/flamengo-red-bull-bragantino/ZOsGuc",
+            "whoscored": "https://www.whoscored.com/regions/31/tournaments/95/seasons/10621/stages/24121/show/brazil-brasileir%C3%A3o-2025",
+            "flashscore": "https://www.flashscore.com.br/jogo/futebol/bragantino-jwKvKhGa/flamengo-WjxY29qB/",
+            "sportsmole": "NOT_FOUND",
+            "tm_home": "https://www.transfermarkt.com.br/clube-de-regatas-do-flamengo/startseite/verein/614",
+            "tm_away": "https://www.transfermarkt.com.br/rb-bragantino/startseite/verein/8793",
+            "news_home": "https://ge.globo.com/futebol/times/flamengo/",
+            "news_away": "https://ge.globo.com/sp/vale-do-paraiba-regiao/futebol/times/bragantino/"
+        },
+        "news": {
+            "home": [
+                {
+                    "title": "VAR aponta exagero de Bruno Henrique em lance com Thiago Silva; veja análise",
+                    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2025/11/20/var-aponta-exagero-de-bruno-henrique-do-flamengo-em-lance-com-thiago-silva-veja-analise.ghtml"
+                },
+                {
+                    "title": "Lesões recentes prejudicam Pedro no Flamengo; veja histórico",
+                    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2025/11/20/lesoes-recentes-prejudicam-pedro-no-flamengo-veja-historico.ghtml"
+                },
+                {
+                    "title": "Flamengo investe em educação antirracista e faz mudança no estatuto",
+                    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2025/11/20/flamengo-investe-em-educacao-antirracista-e-faz-mudanca-no-estatuto.ghtml"
+                }
+            ],
+            "away": [
+                {
+                    "title": "Jhon Jhon vê evolução após saída do Palmeiras e explica melhora do Bragantino com Mancini",
+                    "link": "https://ge.globo.com/sp/vale-do-paraiba-regiao/futebol/times/bragantino/noticia/2025/11/17/jhon-jhon-ve-evolucao-apos-saida-do-palmeiras-e-explica-melhora-do-bragantino-com-vagner-mancini.ghtml"
+                },
+                {
+                    "title": "Mancini sonha com vaga na Libertadores após arrancada",
+                    "link": "https://ge.globo.com/sp/vale-do-paraiba-regiao/futebol/times/bragantino/noticia/2025/11/16/vagner-mancini-sonha-com-vaga-na-libertadores-apos-arrancada-com-o-bragantino-a-gente-esta-disposto-a-buscar.ghtml"
+                },
+                {
+                    "title": "Com apoio da família, Gustavo Marques faz primeiro gol pelo Bragantino",
+                    "link": "https://ge.globo.com/sp/vale-do-paraiba-regiao/futebol/times/bragantino/noticia/2025/11/16/com-apoio-da-familia-gustavo-marques-faz-primeiro-gol-pelo-bragantino.ghtml"
+                },
+                {
+                    "title": "Atuações: Jhon Jhon dita o ritmo do Braga (mais uma vez) em vitória sobre o Atlético-MG",
+                    "link": "https://ge.globo.com/sp/vale-do-paraiba-regiao/futebol/times/bragantino/noticia/2025/11/16/atuacoes-jhon-jhon-dita-o-ritmo-do-bragantino-mais-uma-vez-em-vitoria-sobre-o-atletico-mg.ghtml"
+                },
+                {
+                    "title": "Ídolo do Atlético-MG, ex-zagueiro Réver enfrenta Galo pela primeira vez em nova carreira: \"Dia especial\"",
+                    "link": "https://ge.globo.com/sp/vale-do-paraiba-regiao/futebol/times/bragantino/noticia/2025/11/16/idolo-do-atletico-mg-ex-zagueiro-rever-enfrenta-galo-pela-primeira-vez-em-nova-carreira-dia-especial.ghtml"
+                }
+            ]
+        }
+    },
+    "PalmeirasvsFluminense_22112025": {
+        "match_info": {
+            "id": "PalmeirasvsFluminense_22112025",
+            "home": "Palmeiras",
+            "away": "Fluminense",
+            "league": "Brasileirão",
+            "date": "22/11/2025"
+        },
+        "urls": {
+            "sofascore": "https://www.sofascore.com/football/match/palmeiras-fluminense/lOsnO",
+            "whoscored": "NOT_FOUND",
+            "flashscore": "https://www.flashscore.com.br/jogo/futebol/fluminense-EV9L3kU4/palmeiras-hMn9FTbH/",
+            "sportsmole": "NOT_FOUND",
+            "tm_home": "https://www.transfermarkt.com.br/se-palmeiras/startseite/verein/1023",
+            "tm_away": "https://www.transfermarkt.com.br/fluminense-fc/startseite/verein/2462",
+            "news_home": "https://ge.globo.com/futebol/times/palmeiras/",
+            "news_away": "https://ge.globo.com/futebol/times/fluminense/"
+        },
+        "news": {
+            "home": [
+                {
+                    "title": "Palmeiras repete pior sequência e liga alerta perto de decisões",
+                    "link": "https://ge.globo.com/futebol/times/palmeiras/noticia/2025/11/20/palmeiras-repete-pior-sequencia-no-brasileirao-e-liga-alerta-as-vesperas-de-decisoes-nao-estamos-bem.ghtml"
+                },
+                {
+                    "title": "Pouca água, muita fome e \"bomba de sódio\": o que um fisiculturista faz minutos antes de subir ao palco",
+                    "link": "https://ge.globo.com/fisiculturismo/noticia/2025/11/20/pouca-agua-muita-fome-e-bomba-de-sodio-o-que-um-fisiculturista-faz-minutos-antes-de-subir-ao-palco.ghtml"
+                },
+                {
+                    "title": "Palmeiras confia em \"baliza zero\" para buscar título inédito da Copa do Brasil Feminina",
+                    "link": "https://ge.globo.com/futebol/times/palmeiras/noticia/2025/11/20/palmeiras-confia-em-baliza-zero-para-buscar-titulo-inedito-da-copa-do-brasil-feminina.ghtml"
+                },
+                {
+                    "title": "Análise: time joga mal, usa zagueiro no ataque, mas reduz distância para ponta",
+                    "link": "https://ge.globo.com/futebol/times/palmeiras/noticia/2025/11/20/analise-palmeiras-joga-mal-tenta-ate-zagueiro-no-ataque-mas-ainda-reduz-distancia-para-lideranca.ghtml"
+                }
+            ],
+            "away": [
+                {
+                    "title": "Flu perde Renê para jogo contra o Palmeiras, e Zubeldía projeta Freytes como alternativa",
+                    "link": "https://ge.globo.com/futebol/times/fluminense/noticia/2025/11/20/fluminense-perde-rene-para-jogo-contra-o-palmeiras-e-zubeldia-projeta-freytes-como-alternativa.ghtml"
+                },
+                {
+                    "title": "VAR aponta exagero de Bruno Henrique em lance com Thiago Silva; veja análise",
+                    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2025/11/20/var-aponta-exagero-de-bruno-henrique-do-flamengo-em-lance-com-thiago-silva-veja-analise.ghtml"
+                }
+            ]
+        }
+    },
+    "LeedsUnitedvsAstonVilla_23112025": {
+        "match_info": {
+            "id": "LeedsUnitedvsAstonVilla_23112025",
+            "home": "Leeds United",
+            "away": "Aston Villa",
+            "league": "Premier League",
+            "date": "23/11/2025"
+        },
+        "urls": {
+            "sofascore": "https://www.sofascore.com/football/match/aston-villa-leeds-united/JsP",
+            "whoscored": "https://www.whoscored.com/matches/1903232/teamstatistics/england-premier-league-2025-2026-leeds-aston-villa",
+            "flashscore": "NOT_FOUND",
+            "sportsmole": "https://www.sportsmole.co.uk/football/premier-league/leeds-united-vs-aston-villa_game_233800.html",
+            "tm_home": "https://www.transfermarkt.com.br/leeds-united/startseite/verein/399",
+            "tm_away": "https://www.transfermarkt.com.br/aston-villa-fc/startseite/verein/405",
+            "news_home": "NOT_FOUND",
+            "news_away": "NOT_FOUND"
+        },
+        "news": {
+            "home": [],
+            "away": []
+        }
+    },
+    "ArsenalvsTottenhamHotspur_23112025": {
+        "match_info": {
+            "id": "ArsenalvsTottenhamHotspur_23112025",
+            "home": "Arsenal",
+            "away": "Tottenham Hotspur",
+            "league": "Premier League",
+            "date": "23/11/2025"
+        },
+        "urls": {
+            "sofascore": "https://www.sofascore.com/football/match/arsenal-tottenham-hotspur/IsR",
+            "whoscored": "https://www.whoscored.com/matches/1903228/teamstatistics/england-premier-league-2025-2026-arsenal-tottenham",
+            "flashscore": "https://www.flashscore.com.br/jogo/futebol/arsenal-hA1Zm19f/tottenham-UDg08Ohm/",
+            "sportsmole": "https://www.sportsmole.co.uk/football/premier-league/arsenal-vs-spurs_game_233826.html",
+            "tm_home": "https://www.transfermarkt.com.br/fc-arsenal/startseite/verein/11",
+            "tm_away": "https://www.transfermarkt.com.br/tottenham-hotspur/startseite/verein/148",
+            "news_home": "https://www.skysports.com/arsenal",
+            "news_away": "NOT_FOUND"
+        },
+        "news": {
+            "home": [
+                {
+                    "title": "Manchester derby live on Sky in January as fixtures released up to February 2",
+                    "link": "https://skysports.com/football/news/11095/13473187/premier-league-fixtures-live-on-sky-manchester-derby-arsenal-vs-man-utd-among-games-to-be-broadcast-in-january"
+                },
+                {
+                    "title": "In full: 2025/26 Premier League fixtures",
+                    "link": "https://www.skysports.com/premier-league-scores-fixtures"
+                },
+                {
+                    "title": "Sky to show 215 PL games from 2025/26",
+                    "link": "https://www.skysports.com/football/news/11661/13019562/sky-sports-to-show-215-premier-league-games-a-season-from-2025-26"
+                },
+                {
+                    "title": "Pros and cons: Liverpool, Arsenal and Man City assessed",
+                    "link": "https://skysports.com/football/news/11095/13472866/premier-league-title-race-pros-and-cons-liverpool-arsenal-and-man-city-assessed"
+                },
+                {
+                    "title": "Arsenal and Saka progressing in long-term contract talks",
+                    "link": "https://skysports.com/football/news/11095/13473039/bukayo-saka-contract-arsenal-progressing-in-talks-over-new-long-term-contract-for-gunners-winger"
+                },
+                {
+                    "title": "Last Time Out: Gunners' crucial derby win!",
+                    "link": "https://skysports.com/premier-league-highlights/video/36504/13289837/arsenal-2-1-tottenham-premier-league-highlights"
+                },
+                {
+                    "title": "NLD talking points: Injury issues, Eze meets Spurs and set-piece kings do battle",
+                    "link": "https://skysports.com/football/news/11095/13472079/arsenal-vs-tottenham-north-london-derby-talking-points-as-gunners-and-spurs-clash-at-the-emirates-stadium"
+                },
+                {
+                    "title": "Arsenal latest: 'New deal can secure Saka's prime years'",
+                    "link": "https://skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+                },
+                {
+                    "title": "Man Utd fifth? West Ham down? Predicted table and true performance levels revealed",
+                    "link": "https://skysports.com/football/news/11095/13471705/man-utd-fifth-west-ham-relegated-sky-sports-supercomputer-predicts-premier-league-table-as-true-performance-levels-revealed-between-the-lines"
+                }
+            ],
+            "away": []
+        }
+    },
+    "RealOviedovsRayoVallecano_23112025": {
+        "match_info": {
+            "id": "RealOviedovsRayoVallecano_23112025",
+            "home": "Real Oviedo",
+            "away": "Rayo Vallecano",
+            "league": "La Liga",
+            "date": "23/11/2025"
+        },
+        "urls": {
+            "sofascore": "https://www.sofascore.com/football/match/real-oviedo-rayo-vallecano/tgbsbhb",
+            "whoscored": "https://www.whoscored.com/matches/1914007/teamstatistics/spain-laliga-2025-2026-real-oviedo-rayo-vallecano",
+            "flashscore": "NOT_FOUND",
+            "sportsmole": "https://www.sportsmole.co.uk/football/la-liga/real-oviedo-vs-rayo-vallecano_game_233785.html",
+            "tm_home": "https://www.transfermarkt.com.br/real-oviedo/startseite/verein/2497",
+            "tm_away": "https://www.transfermarkt.com.br/rayo-vallecano/startseite/verein/367",
+            "news_home": "https://www.marca.com/futbol/oviedo.html",
+            "news_away": "https://www.marca.com/futbol/rayo.html"
+        },
+        "news": {
+            "home": [
+                {
+                    "title": "Los 10 estadios con mayor porcentaje de asistencia en España en la temporada 2025/26",
+                    "link": "https://www.marca.com/futbol/primera-division/album/2025/11/18/10-estadios-mayor-porcentaje-asistencia-espana-temporada-2025-26.html"
+                },
+                {
+                    "title": "El Oviedo regresa al trabajo con buenas noticias",
+                    "link": "https://www.marca.com/futbol/oviedo/2025/11/18/oviedo-regresa-trabajo-buenas-noticias.html"
+                },
+                {
+                    "title": "Las peñas del Oviedo se solidarizan con las del Rayo y piden a su club que rectifique",
+                    "link": "https://www.marca.com/futbol/oviedo/2025/11/17/penas-oviedo-solidarizan-rayo-piden-club-rectifique.html"
+                },
+                {
+                    "title": "Alemao, entre algodones: peligra su regreso a Oviedo de este domingo",
+                    "link": "https://www.marca.com/futbol/rayo/2025/11/17/alemao-algodones-peligra-regreso-oviedo-domingo.html"
+                },
+                {
+                    "title": "Las peñas del Rayo cargan contra Martín Presa por no poder desplazarse a Oviedo",
+                    "link": "https://www.marca.com/futbol/rayo/2025/11/17/penas-rayo-cargan-martin-presa-desplazarse-oviedo.html"
+                },
+                {
+                    "title": "Dani Calvo llama a la defensa",
+                    "link": "https://www.marca.com/futbol/oviedo/2025/11/14/dani-calvo-llama-defensa.html"
+                },
+                {
+                    "title": "Cazorla asoma la cabeza: vuelve a entrenarse con el grupo",
+                    "link": "https://www.marca.com/futbol/oviedo/2025/11/14/cazorla-asoma-cabeza-vuelve-entrenarse-grupo.html"
+                },
+                {
+                    "title": "Alineaciones probables para la jornada 13 de LaLiga EA Sports",
+                    "link": "https://www.marca.com/fantasy/2025/11/13/alineaciones-probables-jornada-13-laliga-ea-sports.html"
+                },
+                {
+                    "title": "Colombatto apela al orgullo del grupo",
+                    "link": "https://www.marca.com/futbol/oviedo/2025/11/12/colombatto-apela-orgullo-grupo.html"
+                },
+                {
+                    "title": "Cazorla recuerda su pesadilla: \"Tenía gangrena en el tendón de Aquiles en un tramo de 11 centímetros\"",
+                    "link": "https://www.marca.com/futbol/oviedo/2025/11/11/cazorla-recuerda-pesadilla-tenia-gangrena-tendon-aquiles-tramo-11-centimetros.html"
+                }
+            ],
+            "away": [
+                {
+                    "title": "La afición del Rayo agota en unas horas las mil entradas de Bratislava",
+                    "link": "https://www.marca.com/futbol/rayo/2025/11/19/aficion-rayo-agota-horas-mil-entradas-bratislava.html"
+                },
+                {
+                    "title": "Los 10 estadios con mayor porcentaje de asistencia en España en la temporada 2025/26",
+                    "link": "https://www.marca.com/futbol/primera-division/album/2025/11/18/10-estadios-mayor-porcentaje-asistencia-espana-temporada-2025-26.html"
+                },
+                {
+                    "title": "Luiz Felipe: Objetivo Bratislava",
+                    "link": "https://www.marca.com/futbol/rayo/2025/11/18/luiz-felipe-objetivo-bratislava.html"
+                },
+                {
+                    "title": "Las peñas del Oviedo se solidarizan con las del Rayo y piden a su club que rectifique",
+                    "link": "https://www.marca.com/futbol/oviedo/2025/11/17/penas-oviedo-solidarizan-rayo-piden-club-rectifique.html"
+                },
+                {
+                    "title": "Alemao, entre algodones: peligra su regreso a Oviedo de este domingo",
+                    "link": "https://www.marca.com/futbol/rayo/2025/11/17/alemao-algodones-peligra-regreso-oviedo-domingo.html"
+                },
+                {
+                    "title": "Las peñas del Rayo cargan contra Martín Presa por no poder desplazarse a Oviedo",
+                    "link": "https://www.marca.com/futbol/rayo/2025/11/17/penas-rayo-cargan-martin-presa-desplazarse-oviedo.html"
+                },
+                {
+                    "title": "Isi pone líder al Cieza",
+                    "link": "https://www.marca.com/futbol/2025/11/17/isi-pone-lider-cieza-video.html"
+                },
+                {
+                    "title": "Raúl de Tomás abre los ojos",
+                    "link": "https://www.marca.com/futbol/2025/11/14/raul-tomas-abre-ojos.html"
+                },
+                {
+                    "title": "Alineaciones probables para la jornada 13 de LaLiga EA Sports",
+                    "link": "https://www.marca.com/fantasy/2025/11/13/alineaciones-probables-jornada-13-laliga-ea-sports.html"
+                },
+                {
+                    "title": "La mejor noticia para el Rayo: no hay lesión grave de Pedro Díaz",
+                    "link": "https://www.marca.com/futbol/rayo/2025/11/12/mejor-noticia-rayo-hay-lesion-grave-pedro-diaz.html"
+                }
+            ]
+        }
+    },
+    "RealBetisvsGirona_23112025": {
+        "match_info": {
+            "id": "RealBetisvsGirona_23112025",
+            "home": "Real Betis",
+            "away": "Girona",
+            "league": "La Liga",
+            "date": "23/11/2025"
+        },
+        "urls": {
+            "sofascore": "https://www.sofascore.com/football/match/girona-fc-real-betis/qgbsoKj",
+            "whoscored": "NOT_FOUND",
+            "flashscore": "NOT_FOUND",
+            "sportsmole": "https://www.sportsmole.co.uk/football/la-liga/betis-vs-girona_game_233813.html",
+            "tm_home": "https://www.transfermarkt.com.br/real-betis-balompie/startseite/verein/150",
+            "tm_away": "NOT_FOUND",
+            "news_home": "https://www.marca.com/futbol/betis.html",
+            "news_away": "https://www.marca.com/futbol/girona.html"
+        },
+        "news": {
+            "home": [
+                {
+                    "title": "Diego Llorente responde a Caparrós: \"Después del partido veremos quién puede hablar\"",
+                    "link": "https://www.marca.com/futbol/betis/2025/11/20/diego-llorente-responde-caparros-despues-partido-veremos-hablar.html"
+                },
+                {
+                    "title": "Pellegrini recupera a Bakambu y Pablo García",
+                    "link": "https://www.marca.com/futbol/betis/2025/11/20/pellegrini-recupera-bakambu-pablo-garcia.html"
+                },
+                {
+                    "title": "Cucho Hernández, sobre el regreso de Isco: \"Se le ve muy fuerte, con ganas\"",
+                    "link": "https://www.marca.com/futbol/betis/2025/11/20/cucho-hernandez-sobre-regreso-isco-le-ve-fuerte-ganas.html"
+                },
+                {
+                    "title": "Fornals entrena con el Betis tras jugar ayer con España",
+                    "link": "https://www.marca.com/futbol/betis/2025/11/19/fornals-entrena-betis-jugar-ayer-espana.html"
+                },
+                {
+                    "title": "Fabián Ruiz recoge la Medalla de Oro de Sevilla: \"Es algo más que un título\"",
+                    "link": "https://www.marca.com/futbol/betis/2025/11/19/fabian-ruiz-recoge-medalla-oro-sevilla-titulo.html"
+                },
+                {
+                    "title": "El Betis, a la 'caza' de un delantero para el mercado invernal",
+                    "link": "https://www.marca.com/futbol/betis/2025/11/19/betis-caza-delantero-mercado-invernal.html"
+                },
+                {
+                    "title": "La Fundación Real Betis Balompié celebrará este jueves su primera Gala",
+                    "link": "https://www.marca.com/futbol/betis/2025/11/18/fundacion-real-betis-balompie-celebrara-jueves-primera-gala.html"
+                },
+                {
+                    "title": "Antony: “Estoy listo para llevar al Betis a Champions”",
+                    "link": "https://www.marca.com/radio/2025/11/18/anthony-listo-llevar-betis-champions.html"
+                },
+                {
+                    "title": "Antony: \"Estamos todos ansiosos por tener a Isco ya de vuelta\"",
+                    "link": "https://www.marca.com/radio/2025/11/18/antony-todos-ansiosos-isco-vuelta.html"
+                },
+                {
+                    "title": "El Betis pagó más de 2,5 millones de euros en primas la pasada temporada",
+                    "link": "https://www.marca.com/futbol/betis/2025/11/18/betis-pago-2-5-millones-euros-primas-pasada-temporada.html"
+                }
+            ],
+            "away": [
+                {
+                    "title": "Ramalho: \"Es un orgullo ser el primer jugador de raza negra en debutar con el Athletic\"",
+                    "link": "https://www.marca.com/futbol/athletic/2025/11/20/ramalho-orgullo-primer-jugador-raza-negra-debutar-athletic.html"
+                },
+                {
+                    "title": "Portu enciende todas las alarmas: podría decir adiós a la temporada",
+                    "link": "https://www.marca.com/futbol/girona/2025/11/20/portu-enciende-todas-alarmas-podria-decir-adios-temporada.html"
+                },
+                {
+                    "title": "Al Girona le crecen los enanos, ahora en la portería",
+                    "link": "https://www.marca.com/futbol/girona/2025/11/18/portero-vladyslav-krapyvtsov-4-6-semanas-baja-lesion-tobillo.html"
+                },
+                {
+                    "title": "Ramalho ya deslumbra en Bélgica",
+                    "link": "https://www.marca.com/futbol/2025/11/17/ramalho-deslumbra-belgica.html"
+                },
+                {
+                    "title": "Blind, el enésimo contratiempo para Míchel",
+                    "link": "https://www.marca.com/futbol/girona/2025/11/14/blind-enesimo-contratiempo-michel.html"
+                },
+                {
+                    "title": "Alineaciones probables para la jornada 13 de LaLiga EA Sports",
+                    "link": "https://www.marca.com/fantasy/2025/11/13/alineaciones-probables-jornada-13-laliga-ea-sports.html"
+                },
+                {
+                    "title": "El círculo de paridad de LaLiga",
+                    "link": "https://www.marca.com/futbol/primera-division/2025/11/11/circulo-paridad-laliga.html"
+                },
+                {
+                    "title": "En Montilivi ya es más difícil ganar",
+                    "link": "https://www.marca.com/futbol/girona/2025/11/08/montilivi-dificil-ganar.html"
+                },
+                {
+                    "title": "Míchel: “He visto agresivo al equipo y eso me da confianza”",
+                    "link": "https://www.marca.com/futbol/girona/2025/11/08/michel-he-visto-agresivo-equipo-me-da-confianza.html"
+                },
+                {
+                    "title": "Gol de Tsygankov (1-0) en el Girona 1-0 Alavés",
+                    "link": "https://www.marca.com/futbol/primera-division/2025/11/08/gol-tsygankov-1-0-girona-1-0-alaves-video.html"
+                }
+            ]
+        }
+    },
+    "GetafevsAtléticoMadrid_23112025": {
+        "match_info": {
+            "id": "GetafevsAtléticoMadrid_23112025",
+            "home": "Getafe",
+            "away": "Atlético Madrid",
+            "league": "La Liga",
+            "date": "23/11/2025"
+        },
+        "urls": {
+            "sofascore": "https://www.sofascore.com/football/match/getafe-atletico-madrid/Lgbsjhb",
+            "whoscored": "https://www.whoscored.com/regions/206/tournaments/4/seasons/10803/stages/24622/show/spain-laliga-2025-2026",
+            "flashscore": "NOT_FOUND",
+            "sportsmole": "https://www.sportsmole.co.uk/football/la-liga/getafe-vs-atletico-madrid_game_233833.html",
+            "tm_home": "https://www.transfermarkt.com.br/getafe-cf/startseite/verein/3709",
+            "tm_away": "https://www.transfermarkt.com.br/atletico-madrid/startseite/verein/13/sort/name",
+            "news_home": "https://www.marca.com/futbol/getafe.html",
+            "news_away": "https://www.marca.com/futbol/champions-league/2025/11/04/atletico-madrid-3-1-union-sg-resumen-goles-champions-league-j4-video.html"
+        },
+        "news": {
+            "home": [
+                {
+                    "title": "El Atleti mira al Getafe sin Cardoso… ni Julián",
+                    "link": "https://www.marca.com/futbol/atletico/2025/11/20/atleti-mira-getafe-cardoso-julian.html"
+                },
+                {
+                    "title": "Arambarri: \"El Atlético se ha ganado el respeto de todo el mundo\"",
+                    "link": "https://www.marca.com/futbol/getafe/2025/11/19/arambarri-atletico-ganado-respeto-mundo.html"
+                },
+                {
+                    "title": "El Getafe regresa a los entrenamientos pensando en el Atlético",
+                    "link": "https://www.marca.com/futbol/getafe/2025/11/19/getafe-regresa-entrenamientos-pensando-atletico.html"
+                },
+                {
+                    "title": "Bordalás y Nyom no darán las campanadas y el Getafe responde",
+                    "link": "https://www.marca.com/futbol/getafe/2025/11/18/bordalas-nyom-daran-campanadas-getafe-responde.html"
+                },
+                {
+                    "title": "\"¿Bordalás? El día que tenga un Madrid o un Barça igual juega tan bien como los equipos de Guardiola...\"",
+                    "link": "https://www.marca.com/futbol/getafe/2025/11/18/bordalas-dia-tenga-madrid-barca-igual-juega-bien-equipos-guardiola-video.html"
+                },
+                {
+                    "title": "El Getafe ya planea el mercado invernal",
+                    "link": "https://www.marca.com/futbol/getafe/2025/11/15/getafe-planea-mercado-invernal.html"
+                },
+                {
+                    "title": "Alineaciones probables para la jornada 13 de LaLiga EA Sports",
+                    "link": "https://www.marca.com/fantasy/2025/11/13/alineaciones-probables-jornada-13-laliga-ea-sports.html"
+                },
+                {
+                    "title": "Los motivos por los que los dueños del Liverpool se retiran de la compra del Getafe",
+                    "link": "https://www.marca.com/futbol/getafe/2025/11/13/motivos-duenos-liverpool-retiran-compra-getafe.html"
+                },
+                {
+                    "title": "Juan Iglesias, un ‘todocampista’ al servicio de Bordalás",
+                    "link": "https://www.marca.com/futbol/getafe/2025/11/13/juan-iglesias-todocampista-servicio-bordalas.html"
+                },
+                {
+                    "title": "El Getafe perdió 1,7 millones la pasada temporada pese a reducir al mínimo su masa salarial",
+                    "link": "https://www.marca.com/sport-business/2playbook/2025/11/12/getafe-perdio-1-7-millones-pasada-temporada-pese-reducir-minimo-masa-salarial.html"
+                }
+            ],
+            "away": [
+                {
+                    "title": "20 años desde que Ronaldinho salió ovacionado del Santiago Bernabéu",
+                    "link": "https://www.marca.com/futbol/barcelona/2025/11/19/20-anos-ronaldinho-salio-ovacionado-santiago-bernabeu-video.html"
+                },
+                {
+                    "title": "¡Antes muerto que sencillo! La llegada de Achraf a la gala del Balón de Oro: con capa y en patinete",
+                    "link": "https://www.marca.com/futbol/2025/11/19/muerto-sencillo-llegada-achraf-gala-balon-oro-capa-patinet-video.html"
+                },
+                {
+                    "title": "Bettoni, segundo de Zidane en el Madrid: \"No hace falta sacar el látigo\"",
+                    "link": "https://www.marca.com/futbol/real-madrid/2025/11/20/bettoni-segundo-zidane-madrid-falta-sacar-latig-video.html"
+                },
+                {
+                    "title": "Víctor Font descarta a Xavi Hernández: \"Nuestro proyecto no cuenta con él\"",
+                    "link": "https://www.marca.com/futbol/barcelona/2025/11/18/victor-font-descarta-xavi-hernandez-nuestro-proyecto-cuenta-video.html"
+                },
+                {
+                    "title": "El discurso del capitán de Haití: \"Hay gente que no tiene nada en el bolsillo y solo cuentan con nosotros\"",
+                    "link": "https://www.marca.com/futbol/2025/11/19/discurso-capitan-haiti-hay-gente-bolsillo-cuentan-nosotros-video.html"
+                },
+                {
+                    "title": "Las lágrimas desconsoladas del seleccionador de Honduras por quedarse fuera del Mundial",
+                    "link": "https://www.marca.com/futbol/2025/11/19/lagrimas-desconsoladas-seleccionador-honduras-quedarse-fuera-mundial-video.html"
+                },
+                {
+                    "title": "Pepe Reina: \"No tengo ninguna duda sobre la capacidad de gestionar el vestuario de Xabi Alonso\"",
+                    "link": "https://www.marca.com/futbol/2025/11/10/pepe-reina-ninguna-duda-sobre-capacidad-gestionar-vestuario-xabi-alons-video.html"
+                },
+                {
+                    "title": "El autobús en forma de casa del Newcastle United",
+                    "link": "https://www.marca.com/futbol/premier-league/2025/11/20/autobus-forma-casa-newcastle-unit-video.html"
+                },
+                {
+                    "title": "\"Que partido quieres que comente, el de Neymar o el de Santos\"",
+                    "link": "https://www.marca.com/futbol/2025/11/20/partido-quieres-comente-neymar-santos-video.html"
+                },
+                {
+                    "title": "¡No se pudieron reprimir! Así reaccionaron los comentaristas de una tele de Curazao al anularse el penalti en el último minuto",
+                    "link": "https://www.marca.com/futbol/2025/11/19/pudieron-reprimir-asi-reaccionaron-comentaristas-tele-curazao-anularse-penalti-ultimo-minut-video.html"
+                }
+            ]
+        }
+    },
+    "ElchevsRealMadrid_23112025": {
+        "match_info": {
+            "id": "ElchevsRealMadrid_23112025",
+            "home": "Elche",
+            "away": "Real Madrid",
+            "league": "La Liga",
+            "date": "23/11/2025"
+        },
+        "urls": {
+            "sofascore": "NOT_FOUND",
+            "whoscored": "NOT_FOUND",
+            "flashscore": "NOT_FOUND",
+            "sportsmole": "NOT_FOUND",
+            "tm_home": "NOT_FOUND",
+            "tm_away": "https://www.transfermarkt.com.br/real-madrid/startseite/verein/418",
+            "news_home": "NOT_FOUND",
+            "news_away": "https://www.marca.com/futbol/real-madrid.html"
+        },
+        "news": {
+            "home": [],
+            "away": [
+                {
+                    "title": "Eddy Cue: \"Si me hubiera despertado en el Bernabéu, hubiera pensado que estaba en Marte o en otro planeta\"",
+                    "link": "https://www.marca.com/futbol/real-madrid/2025/11/20/eddy-cue-me-hubiera-despertado-bernabeu-hubiera-pensado-marte-planeta.html"
+                },
+                {
+                    "title": "Cuánto ha costado, qué deuda tiene y cuánto factura el Madrid con el Bernabéu",
+                    "link": "https://www.marca.com/sport-business/2playbook/2025/11/20/cuanto-costado-deuda-cuanto-factura-madrid-bernabeu.html"
+                },
+                {
+                    "title": "La pieza que se le resiste a Xabi",
+                    "link": "https://www.marca.com/futbol/real-madrid/2025/11/20/pieza-le-resiste-xabi.html"
+                },
+                {
+                    "title": "Bettoni, segundo de Zidane en el Madrid: \"No hace falta sacar el látigo\"",
+                    "link": "https://www.marca.com/futbol/real-madrid/2025/11/20/bettoni-segundo-zidane-madrid-falta-sacar-latig-video.html"
+                },
+                {
+                    "title": "Militao, dos semanas de baja",
+                    "link": "https://www.marca.com/futbol/real-madrid/2025/11/19/militao-dos-semanas-baja.html"
+                },
+                {
+                    "title": "Florentino Pérez: “El madridista que venga al Bernabéu tiene que sentir que forma parte de algo especial\"",
+                    "link": "https://www.marca.com/futbol/real-madrid/2025/11/19/florentino-perez-madridista-venga-bernabeu-sentir-forma-parte-especial.html"
+                },
+                {
+                    "title": "La estación de metro también 'pierde' a Santiago",
+                    "link": "https://www.marca.com/futbol/real-madrid/2025/11/19/estacion-metro-tambien-pierde-santiago.html"
+                },
+                {
+                    "title": "El Santiago Bernabéu, escenario del mundo: la NFL abre una nueva era",
+                    "link": "https://www.marca.com/futbol/real-madrid/2025/11/19/santiago-bernabeu-escenario-mundo-nfl-abre-nueva.html"
+                },
+                {
+                    "title": "Puskas acabó con el récord de Pepillo ante el Elche",
+                    "link": "https://www.marca.com/futbol/real-madrid/2025/11/20/puskas-acabo-record-pepillo-elche.html"
+                },
+                {
+                    "title": "Unai Ordóñez, la nueva joya binacional de La Fábrica que ya vigila Colombia",
+                    "link": "https://www.marca.com/futbol/real-madrid/2025/11/19/unai-ordonez-nueva-joya-binacional-fabrica-vigila-colombia.html"
+                }
+            ]
+        }
+    },
+    "RBLeipzigvsWerderBremen_23112025": {
+        "match_info": {
+            "id": "RBLeipzigvsWerderBremen_23112025",
+            "home": "RB Leipzig",
+            "away": "Werder Bremen",
+            "league": "Bundesliga",
+            "date": "23/11/2025"
+        },
+        "urls": {
+            "sofascore": "NOT_FOUND",
+            "whoscored": "NOT_FOUND",
+            "flashscore": "NOT_FOUND",
+            "sportsmole": "NOT_FOUND",
+            "tm_home": "NOT_FOUND",
+            "tm_away": "NOT_FOUND",
+            "news_home": "NOT_FOUND",
+            "news_away": "NOT_FOUND"
+        },
+        "news": {
+            "home": [],
+            "away": []
+        }
+    },
+    "St.PaulivsUnionBerlin_23112025": {
+        "match_info": {
+            "id": "St.PaulivsUnionBerlin_23112025",
+            "home": "St. Pauli",
+            "away": "Union Berlin",
+            "league": "Bundesliga",
+            "date": "23/11/2025"
+        },
+        "urls": {
+            "sofascore": "NOT_FOUND",
+            "whoscored": "NOT_FOUND",
+            "flashscore": "NOT_FOUND",
+            "sportsmole": "NOT_FOUND",
+            "tm_home": "NOT_FOUND",
+            "tm_away": "NOT_FOUND",
+            "news_home": "NOT_FOUND",
+            "news_away": "NOT_FOUND"
+        },
+        "news": {
+            "home": [],
+            "away": []
+        }
+    },
+    "VeronavsParma_23112025": {
+        "match_info": {
+            "id": "VeronavsParma_23112025",
+            "home": "Verona",
+            "away": "Parma",
+            "league": "Serie A",
+            "date": "23/11/2025"
+        },
+        "urls": {
+            "sofascore": "NOT_FOUND",
+            "whoscored": "NOT_FOUND",
+            "flashscore": "NOT_FOUND",
+            "sportsmole": "NOT_FOUND",
+            "tm_home": "NOT_FOUND",
+            "tm_away": "NOT_FOUND",
+            "news_home": "NOT_FOUND",
+            "news_away": "NOT_FOUND"
+        },
+        "news": {
+            "home": [],
+            "away": []
+        }
+    },
+    "CremonesevsRoma_23112025": {
+        "match_info": {
+            "id": "CremonesevsRoma_23112025",
+            "home": "Cremonese",
+            "away": "Roma",
+            "league": "Serie A",
+            "date": "23/11/2025"
+        },
+        "urls": {
+            "sofascore": "NOT_FOUND",
+            "whoscored": "NOT_FOUND",
+            "flashscore": "NOT_FOUND",
+            "sportsmole": "NOT_FOUND",
+            "tm_home": "NOT_FOUND",
+            "tm_away": "NOT_FOUND",
+            "news_home": "NOT_FOUND",
+            "news_away": "NOT_FOUND"
+        },
+        "news": {
+            "home": [],
+            "away": []
+        }
+    },
+    "LaziovsLecce_23112025": {
+        "match_info": {
+            "id": "LaziovsLecce_23112025",
+            "home": "Lazio",
+            "away": "Lecce",
+            "league": "Serie A",
+            "date": "23/11/2025"
+        },
+        "urls": {
+            "sofascore": "NOT_FOUND",
+            "whoscored": "NOT_FOUND",
+            "flashscore": "NOT_FOUND",
+            "sportsmole": "NOT_FOUND",
+            "tm_home": "NOT_FOUND",
+            "tm_away": "NOT_FOUND",
+            "news_home": "NOT_FOUND",
+            "news_away": "NOT_FOUND"
+        },
+        "news": {
+            "home": [],
+            "away": []
+        }
+    },
+    "InterMilanvsACMilan_23112025": {
+        "match_info": {
+            "id": "InterMilanvsACMilan_23112025",
+            "home": "Inter Milan",
+            "away": "AC Milan",
+            "league": "Serie A",
+            "date": "23/11/2025"
+        },
+        "urls": {
+            "sofascore": "NOT_FOUND",
+            "whoscored": "NOT_FOUND",
+            "flashscore": "NOT_FOUND",
+            "sportsmole": "NOT_FOUND",
+            "tm_home": "NOT_FOUND",
+            "tm_away": "NOT_FOUND",
+            "news_home": "NOT_FOUND",
+            "news_away": "NOT_FOUND"
+        },
+        "news": {
+            "home": [],
+            "away": []
+        }
+    },
+    "SãoPaulovsJuventude_23112025": {
+        "match_info": {
+            "id": "SãoPaulovsJuventude_23112025",
+            "home": "São Paulo",
+            "away": "Juventude",
+            "league": "Brasileirão",
+            "date": "23/11/2025"
+        },
+        "urls": {
+            "sofascore": "NOT_FOUND",
+            "whoscored": "NOT_FOUND",
+            "flashscore": "NOT_FOUND",
+            "sportsmole": "NOT_FOUND",
+            "tm_home": "NOT_FOUND",
+            "tm_away": "NOT_FOUND",
+            "news_home": "NOT_FOUND",
+            "news_away": "NOT_FOUND"
+        },
+        "news": {
+            "home": [],
+            "away": []
+        }
+    },
+    "BahiavsVascodaGama_23112025": {
+        "match_info": {
+            "id": "BahiavsVascodaGama_23112025",
+            "home": "Bahia",
+            "away": "Vasco da Gama",
+            "league": "Brasileirão",
+            "date": "23/11/2025"
+        },
+        "urls": {
+            "sofascore": "NOT_FOUND",
+            "whoscored": "NOT_FOUND",
+            "flashscore": "NOT_FOUND",
+            "sportsmole": "NOT_FOUND",
+            "tm_home": "NOT_FOUND",
+            "tm_away": "NOT_FOUND",
+            "news_home": "NOT_FOUND",
+            "news_away": "NOT_FOUND"
+        },
+        "news": {
+            "home": [],
+            "away": []
+        }
+    },
+    "SportRecifevsVitória_23112025": {
+        "match_info": {
+            "id": "SportRecifevsVitória_23112025",
+            "home": "Sport Recife",
+            "away": "Vitória",
+            "league": "Brasileirão",
+            "date": "23/11/2025"
+        },
+        "urls": {
+            "sofascore": "NOT_FOUND",
+            "whoscored": "NOT_FOUND",
+            "flashscore": "NOT_FOUND",
+            "sportsmole": "NOT_FOUND",
+            "tm_home": "NOT_FOUND",
+            "tm_away": "NOT_FOUND",
+            "news_home": "https://ge.globo.com/pe/futebol/times/sport/",
+            "news_away": "NOT_FOUND"
+        },
+        "news": {
+            "home": [
+                {
+                    "title": "Análise: cinco erros cruciais no vexatório rebaixamento do Sport para a Série B",
+                    "link": "https://ge.globo.com/pe/futebol/times/sport/noticia/2025/11/20/analise-cinco-erros-cruciais-no-vexatorio-rebaixamento-do-sport-para-a-serie-b.ghtml"
+                },
+                {
+                    "title": "FPF marca data para Conselho Técnico do Pernambucano",
+                    "link": "https://ge.globo.com/pe/futebol/noticia/2025/11/20/fpf-marca-data-para-conselho-tecnico-da-serie-a1-do-campeonato-pernambucano.ghtml"
+                },
+                {
+                    "title": "Ex-presidentes do Sport assinam carta em apoio a Branquinho; veja nomes",
+                    "link": "https://ge.globo.com/pe/futebol/times/sport/noticia/2025/11/19/ex-presidentes-do-sport-assinam-carta-em-apoio-a-branquinho-para-mandato-tampao-no-clube.ghtml"
+                },
+                {
+                    "title": "Presidente do CD do Sport explica passos seguintes à possível renúncia de Romão",
+                    "link": "https://ge.globo.com/pe/futebol/times/sport/noticia/2025/11/19/presidente-do-conselho-do-sport-explica-passos-seguintes-a-possivel-renuncia-de-yuri-romao-e-seu-vice.ghtml"
+                },
+                {
+                    "title": "Análise: Sport recorre ao clichê num drama que vai além do rebaixamento",
+                    "link": "https://ge.globo.com/pe/futebol/times/sport/noticia/2025/11/19/analise-sport-recorre-ao-cliche-num-drama-que-vai-muito-alem-do-rebaixamento.ghtml"
+                },
+                {
+                    "title": "Sport abre o placar e não segura o resultado pela 9ª vez no Brasileirão; relembre",
+                    "link": "https://ge.globo.com/pe/futebol/times/sport/noticia/2025/11/19/derrota-para-o-botafogo-foi-o-nono-jogo-na-serie-a-em-que-sport-abre-o-placar-e-nao-segura-o-resultado.ghtml"
+                },
+                {
+                    "title": "Com derrota para o Botafogo, Sport não pode mais deixar a lanterna",
+                    "link": "https://ge.globo.com/pe/futebol/times/sport/noticia/2025/11/18/com-derrota-para-o-botafogo-sport-nao-poder-mais-deixar-a-lanterna-do-campeonato-brasileiro.ghtml"
+                }
+            ],
+            "away": []
+        }
+    },
+    "CruzeirovsCorinthians_23112025": {
+        "match_info": {
+            "id": "CruzeirovsCorinthians_23112025",
+            "home": "Cruzeiro",
+            "away": "Corinthians",
+            "league": "Brasileirão",
+            "date": "23/11/2025"
+        },
+        "urls": {
+            "sofascore": "NOT_FOUND",
+            "whoscored": "NOT_FOUND",
+            "flashscore": "NOT_FOUND",
+            "sportsmole": "NOT_FOUND",
+            "tm_home": "NOT_FOUND",
+            "tm_away": "NOT_FOUND",
+            "news_home": "NOT_FOUND",
+            "news_away": "NOT_FOUND"
+        },
+        "news": {
+            "home": [],
+            "away": []
+        }
+    },
+    "ManchesterUnitedvsEverton_24112025": {
+        "match_info": {
+            "id": "ManchesterUnitedvsEverton_24112025",
+            "home": "Manchester United",
+            "away": "Everton",
+            "league": "Premier League",
+            "date": "24/11/2025"
+        },
+        "urls": {
+            "sofascore": "NOT_FOUND",
+            "whoscored": "NOT_FOUND",
+            "flashscore": "NOT_FOUND",
+            "sportsmole": "NOT_FOUND",
+            "tm_home": "NOT_FOUND",
+            "tm_away": "NOT_FOUND",
+            "news_home": "NOT_FOUND",
+            "news_away": "NOT_FOUND"
+        },
+        "news": {
+            "home": [],
+            "away": []
+        }
+    },
+    "EspanyolvsSevilla_24112025": {
+        "match_info": {
+            "id": "EspanyolvsSevilla_24112025",
+            "home": "Espanyol",
+            "away": "Sevilla",
+            "league": "La Liga",
+            "date": "24/11/2025"
+        },
+        "urls": {
+            "sofascore": "NOT_FOUND",
+            "whoscored": "NOT_FOUND",
+            "flashscore": "NOT_FOUND",
+            "sportsmole": "NOT_FOUND",
+            "tm_home": "NOT_FOUND",
+            "tm_away": "NOT_FOUND",
+            "news_home": "NOT_FOUND",
+            "news_away": "NOT_FOUND"
+        },
+        "news": {
+            "home": [],
+            "away": []
+        }
+    },
+    "TorinovsComo_24112025": {
+        "match_info": {
+            "id": "TorinovsComo_24112025",
+            "home": "Torino",
+            "away": "Como",
+            "league": "Serie A",
+            "date": "24/11/2025"
+        },
+        "urls": {
+            "sofascore": "NOT_FOUND",
+            "whoscored": "NOT_FOUND",
+            "flashscore": "NOT_FOUND",
+            "sportsmole": "NOT_FOUND",
+            "tm_home": "NOT_FOUND",
+            "tm_away": "NOT_FOUND",
+            "news_home": "NOT_FOUND",
+            "news_away": "NOT_FOUND"
+        },
+        "news": {
+            "home": [],
+            "away": []
+        }
+    },
+    "SassuolovsPisa_24112025": {
+        "match_info": {
+            "id": "SassuolovsPisa_24112025",
+            "home": "Sassuolo",
+            "away": "Pisa",
+            "league": "Serie A",
+            "date": "24/11/2025"
+        },
+        "urls": {
+            "sofascore": "NOT_FOUND",
+            "whoscored": "NOT_FOUND",
+            "flashscore": "NOT_FOUND",
+            "sportsmole": "NOT_FOUND",
+            "tm_home": "NOT_FOUND",
+            "tm_away": "NOT_FOUND",
+            "news_home": "NOT_FOUND",
+            "news_away": "NOT_FOUND"
+        },
+        "news": {
+            "home": [],
+            "away": []
+        }
+    },
+    "MirassolvsCeará_24112025": {
+        "match_info": {
+            "id": "MirassolvsCeará_24112025",
+            "home": "Mirassol",
+            "away": "Ceará",
+            "league": "Brasileirão",
+            "date": "24/11/2025"
+        },
+        "urls": {
+            "sofascore": "NOT_FOUND",
+            "whoscored": "NOT_FOUND",
+            "flashscore": "NOT_FOUND",
+            "sportsmole": "NOT_FOUND",
+            "tm_home": "NOT_FOUND",
+            "tm_away": "NOT_FOUND",
+            "news_home": "NOT_FOUND",
+            "news_away": "NOT_FOUND"
+        },
+        "news": {
+            "home": [],
+            "away": []
+        }
+    },
+    "InternacionalvsSantos_24112025": {
+        "match_info": {
+            "id": "InternacionalvsSantos_24112025",
+            "home": "Internacional",
+            "away": "Santos",
+            "league": "Brasileirão",
+            "date": "24/11/2025"
+        },
+        "urls": {
+            "sofascore": "NOT_FOUND",
+            "whoscored": "NOT_FOUND",
+            "flashscore": "NOT_FOUND",
+            "sportsmole": "NOT_FOUND",
+            "tm_home": "NOT_FOUND",
+            "tm_away": "NOT_FOUND",
+            "news_home": "NOT_FOUND",
+            "news_away": "NOT_FOUND"
+        },
+        "news": {
+            "home": [],
+            "away": []
+        }
+    }
+}

@@ -1,0 +1,360 @@
+{
+  "match_id": "RBLeipzigvsWerderBremen_23112025",
+  "match_info": {
+    "id": "RBLeipzigvsWerderBremen_23112025",
+    "home": "RB Leipzig",
+    "away": "Werder Bremen",
+    "league": "Bundesliga",
+    "date": "23/11/2025"
+  },
+  "timestamp": "2025-11-21T17:21:59.939651",
+  "consolidated_data": {
+    "game_id": "RBLeipzigvsWerderBremen_23112025",
+    "match_info": {
+      "home": "RB Leipzig",
+      "away": "Werder Bremen",
+      "league": "Bundesliga",
+      "date": "23/11/2025"
+    },
+    "p_empate": 20.4,
+    "betfair_ah_market": {
+      "note": "Not available - using blind pricing method"
+    },
+    "q_scores": {
+      "Q1": {
+        "home_score": 6,
+        "away_score": 3,
+        "home_reasoning": "Leipzig: Bakayoko (€30M), Nusa (€28M), Harder (€24M), Lukeba (€40M) → Total value points 7.5 → +6",
+        "away_reasoning": "Bremen: Boniface (€20M), Schmid (€17M), Mbangula (€14M), Friedl (€12M) → Total value points 5.5 → +3",
+        "sources": [
+          "Transfermarkt squad values"
+        ]
+      },
+      "Q2": {
+        "home_score": 6,
+        "away_score": 3,
+        "home_reasoning": "Leipzig: 2.0 G/J + 1.66 xG → Strong offensive output → +6",
+        "away_reasoning": "Bremen: 1.5 G/J + 1.4 xG → Moderate offensive output → +3",
+        "sources": [
+          "FootyStats API (goals_scored_avg, xg_for_avg)"
+        ]
+      },
+      "Q3": {
+        "home_score": 3,
+        "away_score": 2,
+        "home_reasoning": "Quality bench with Baumgartner, Werner, multiple €10M+ players → +3",
+        "away_reasoning": "Limited bench depth, fewer high-value substitutes → +2",
+        "sources": [
+          "Transfermarkt squad depth"
+        ]
+      },
+      "Q4": {
+        "home_score": 4,
+        "away_score": 1,
+        "home_reasoning": "Leipzig: 1.3 GA/J + 1.49 xGA → Solid defense → +4",
+        "away_reasoning": "Bremen: 1.8 GA/J + 1.78 xGA → Weak defense → +1",
+        "sources": [
+          "FootyStats API (goals_conceded_avg, xg_against_avg)"
+        ]
+      },
+      "Q5": {
+        "home_score": 4,
+        "away_score": 2,
+        "home_reasoning": "Rose has Champions League experience and international coaching → +4",
+        "away_reasoning": "Werner has Bundesliga experience but limited top-level success → +2",
+        "sources": [
+          "General coaching knowledge"
+        ]
+      },
+      "Q6": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No specific formation data available → Default symmetry → 0",
+        "away_reasoning": "No specific formation data available → Default symmetry → 0",
+        "sources": [
+          "Default - no formation data found"
+        ]
+      },
+      "Q7": {
+        "home_score": 3,
+        "away_score": 2,
+        "home_reasoning": "Leipzig typically plays high-intensity pressing style → +3",
+        "away_reasoning": "Bremen more conservative transition play → +2",
+        "sources": [
+          "Team style inference"
+        ]
+      },
+      "Q8": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "No specific set-piece data → Default → +2",
+        "away_reasoning": "No specific set-piece data → Default → +2",
+        "sources": [
+          "Default - no set-piece data"
+        ]
+      },
+      "Q9": {
+        "home_score": 3,
+        "away_score": 0,
+        "home_reasoning": "Leipzig 2nd place, in title race contention → +3",
+        "away_reasoning": "Bremen 8th place, mid-table safety → 0",
+        "sources": [
+          "FootyStats API (position)"
+        ]
+      },
+      "Q10": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No derby context or special motivation factors found → 0",
+        "away_reasoning": "No derby context or special motivation factors found → 0",
+        "sources": [
+          "News headlines analysis"
+        ]
+      },
+      "Q11": {
+        "home_score": 4,
+        "away_score": 2,
+        "home_reasoning": "Leipzig: 7W-1D-2L in last 10 → Strong form → +4",
+        "away_reasoning": "Bremen: 4W-3D-3L in last 10 → Average form → +2",
+        "sources": [
+          "FootyStats API (wins/draws/losses)"
+        ]
+      },
+      "Q12": {
+        "home_score": 3,
+        "away_score": 2,
+        "home_reasoning": "Leipzig faced quality opposition, wins over decent teams → +3",
+        "away_reasoning": "Bremen mixed results against varied opposition → +2",
+        "sources": [
+          "Form quality assessment"
+        ]
+      },
+      "Q13": {
+        "home_score": 2,
+        "away_score": 0,
+        "home_reasoning": "Leipzig xG 1.66 vs Goals 2.0 → Slightly lucky but balanced → +2",
+        "away_reasoning": "Bremen xG 1.4 vs Goals 1.5 → Slightly lucky → 0",
+        "sources": [
+          "FootyStats API (xG vs actual goals)"
+        ]
+      },
+      "Q14": {
+        "home_score": 3,
+        "away_score": 1,
+        "home_reasoning": "Leipzig strong performances, positive xG differential → +3",
+        "away_reasoning": "Bremen negative xG differential, inconsistent → +1",
+        "sources": [
+          "FootyStats API (xg_diff)"
+        ]
+      },
+      "Q15": {
+        "home_score": -8,
+        "away_score": 0,
+        "home_reasoning": "Rômulo (key striker) doubtful according to BuliNews → −8",
+        "away_reasoning": "No major key player injuries reported → 0",
+        "sources": [
+          "BuliNews injury report"
+        ]
+      },
+      "Q16": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No defensive cluster injuries reported → 0",
+        "away_reasoning": "No defensive cluster injuries reported → 0",
+        "sources": [
+          "Team news analysis"
+        ]
+      },
+      "Q17": {
+        "home_score": 8,
+        "away_score": 2,
+        "home_reasoning": "Leipzig: Perfect home record (4W-0D-0L, 3.0 PPG) vs Bremen poor away (1W-2D-2L, 1.0 PPG) → +8",
+        "away_reasoning": "Bremen away form weak → +2",
+        "sources": [
+          "FootyStats API (home/away records)"
+        ]
+      },
+      "Q18": {
+        "home_score": 3,
+        "away_score": 0,
+        "home_reasoning": "Recent H2H at Leipzig: Leipzig won 4-2 in January 2025 → +3",
+        "away_reasoning": "Lost recent H2H at Leipzig → 0",
+        "sources": [
+          "SportsMole H2H data"
+        ]
+      },
+      "Q19": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "Leipzig has recent home H2H win, no negative scenario → 0",
+        "away_reasoning": "N/A for away team → 0",
+        "sources": [
+          "SportsMole H2H data"
+        ]
+      }
+    },
+    "category_totals": {
+      "technique": {
+        "home": 19,
+        "away": 9
+      },
+      "tactics": {
+        "home": 9,
+        "away": 6
+      },
+      "motivation": {
+        "home": 3,
+        "away": 0
+      },
+      "form": {
+        "home": 7,
+        "away": 4
+      },
+      "performance": {
+        "home": 5,
+        "away": 1
+      },
+      "injuries": {
+        "home": -8,
+        "away": 0
+      },
+      "home_away": {
+        "home": 11,
+        "away": 2
+      }
+    },
+    "raw_scores": {
+      "raw_casa": 46,
+      "raw_vis": 22
+    },
+    "data_quality": {
+      "score": 72,
+      "assessment": "Good",
+      "breakdown": {
+        "q1_player_values": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q2_xg": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q3_bench": {
+          "points": 2.5,
+          "status": "inferred"
+        },
+        "q4_xga": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q5_manager": {
+          "points": 1,
+          "status": "default"
+        },
+        "q6_formations": {
+          "points": 1,
+          "status": "default"
+        },
+        "q7_pressing": {
+          "points": 1,
+          "status": "default"
+        },
+        "q8_set_pieces": {
+          "points": 1,
+          "status": "default"
+        },
+        "q9_league": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q10_derby": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q11_form": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q12_opponent": {
+          "points": 2,
+          "status": "estimated"
+        },
+        "q13_xg_delta": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q14_ratings": {
+          "points": 2.5,
+          "status": "inferred"
+        },
+        "q15_injuries": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q16_cluster": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q17_home_away": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q18_h2h": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q19_h2h_negative": {
+          "points": 4,
+          "status": "complete"
+        },
+        "betfair_draw": {
+          "points": 0,
+          "status": "missing"
+        },
+        "betfair_ah": {
+          "points": 0,
+          "status": "missing"
+        },
+        "local_media": {
+          "points": 2.5,
+          "status": "partial"
+        },
+        "sportsmole": {
+          "points": 5,
+          "status": "available"
+        }
+      },
+      "missing_critical": [],
+      "proceed": true,
+      "confidence_note": "Good data quality. FootyStats API provided excellent statistical foundation. Missing tactical details and exact betting odds."
+    },
+    "notes": [
+      "P(Empate) calculated from FootyStats odds: 100/4.9 = 20.4%",
+      "Q15: Rômulo injury doubt significantly impacts Leipzig (key striker)",
+      "Q17: Leipzig perfect home record vs Bremen poor away form creates strong advantage",
+      "Missing Betfair odds - using blind pricing method",
+      "Q6-Q8: Limited tactical data available, used defaults",
+      "FootyStats API provided comprehensive statistical foundation"
+    ]
+  },
+  "yudor_analysis": {
+    "match_id": "RBLeipzigvsWerderBremen_23112025",
+    "raw_casa": 46,
+    "raw_vis": 22,
+    "delta": 24,
+    "yudor_ah_fair": -1.5,
+    "pr_casa": 0.423,
+    "pr_vis": 0.173,
+    "pr_empate": 0.204,
+    "cs_final": 68,
+    "tier": 2,
+    "r_home": 0.31,
+    "r_away": 0.18,
+    "r_fav": 0.31,
+    "r_dog": 0.18,
+    "rbr": 0.27,
+    "r_score": 0.31,
+    "decision": "VETO",
+    "reasoning": "R-Score 0.31 exceeds 0.25 threshold. Key striker injury creates significant uncertainty despite strong home advantage."
+  }
+}

@@ -1,0 +1,364 @@
+{
+  "match_id": "WolverhamptonvsCrystalPalace_22112025",
+  "match_info": {
+    "id": "WolverhamptonvsCrystalPalace_22112025",
+    "home": "Wolverhampton",
+    "away": "Crystal Palace",
+    "league": "Premier League",
+    "date": "22/11/2025"
+  },
+  "timestamp": "2025-11-21T18:36:13.873782",
+  "consolidated_data": {
+    "game_id": "WolverhamptonvsCrystalPalace_22112025",
+    "match_info": {
+      "home": "Wolverhampton",
+      "away": "Crystal Palace",
+      "league": "Premier League",
+      "date": "22/11/2025"
+    },
+    "p_empate": 28.6,
+    "betfair_ah_market": null,
+    "q_scores": {
+      "Q1": {
+        "home_score": 3,
+        "away_score": 6,
+        "home_reasoning": "Wolves: João Gomes (€40M), Strand Larsen (€40M), André (€28M), Toti (€28M) → Total 6.5 → +3",
+        "away_reasoning": "Palace: Guehi (€50M), Wharton (€60M), Mateta (€35M), Sarr (€30M) → Total 8.8 → +6",
+        "sources": [
+          "Transfermarkt (values)"
+        ]
+      },
+      "Q2": {
+        "home_score": 0,
+        "away_score": 4,
+        "home_reasoning": "Wolves: 0.64 G/J + 1.14 xG → Poor offense, below all thresholds → 0",
+        "away_reasoning": "Palace: 1.27 G/J + 1.38 xG → Within 1.3-1.5 range → +4",
+        "sources": [
+          "FootyStats (goals/xG)"
+        ]
+      },
+      "Q3": {
+        "home_score": 1,
+        "away_score": 2,
+        "home_reasoning": "Wolves: Limited quality subs visible in squad - Hwang (€12M), Arokodare (€25M) → +1",
+        "away_reasoning": "Palace: Nketiah (€18M), Pino (€30M), good depth → +2 default for mid-table",
+        "sources": [
+          "Transfermarkt (squad)",
+          "default estimation"
+        ]
+      },
+      "Q4": {
+        "home_score": 0,
+        "away_score": 5,
+        "home_reasoning": "Wolves: 2.27 GA/J + 1.58 xGA → Terrible defense, well above thresholds → 0",
+        "away_reasoning": "Palace: 0.82 GA/J + 1.30 xGA → Excellent defense, below 0.8/0.9 thresholds → +5",
+        "sources": [
+          "FootyStats (goals against/xGA)"
+        ]
+      },
+      "Q5": {
+        "home_score": 2,
+        "away_score": 4,
+        "home_reasoning": "Rob Edwards: New manager, limited Premier League experience, recent Championship work → +2",
+        "away_reasoning": "Oliver Glasner: Established European coach, Champions League experience → +4",
+        "sources": [
+          "SportsMole preview",
+          "Sky Sports news"
+        ]
+      },
+      "Q6": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "Edwards expected to use back-three system per SportsMole → Formation not confirmed → 0/0 symmetry",
+        "away_reasoning": "Palace formation not specified in preview → Formation not confirmed → 0/0 symmetry",
+        "sources": [
+          "SportsMole preview - incomplete formation data"
+        ]
+      },
+      "Q7": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "No pressing stats available → Default balanced transitions → +2",
+        "away_reasoning": "No pressing stats available → Default balanced transitions → +2",
+        "sources": [
+          "Default - no pressing data available"
+        ]
+      },
+      "Q8": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "No set-piece data available → Default +2",
+        "away_reasoning": "No set-piece data available → Default +2",
+        "sources": [
+          "Default - no set-piece data available"
+        ]
+      },
+      "Q9": {
+        "home_score": 12,
+        "away_score": 0,
+        "home_reasoning": "Wolves: Bottom of table (20th), 8 points from safety, 0 wins in 11 games → Extreme relegation battle → +12",
+        "away_reasoning": "Palace: 10th position, 17 points, comfortable mid-table → No must-win pressure → 0",
+        "sources": [
+          "FootyStats (table position)",
+          "Sky Sports news"
+        ]
+      },
+      "Q10": {
+        "home_score": 5,
+        "away_score": 0,
+        "home_reasoning": "Rob Edwards debut as Wolves manager → Manager debut context → +5",
+        "away_reasoning": "No special context → 0",
+        "sources": [
+          "SportsMole preview",
+          "Sky Sports news"
+        ]
+      },
+      "Q11": {
+        "home_score": 0,
+        "away_score": 2,
+        "home_reasoning": "Wolves: 0 wins in 11 games, 0W in recent form → +0",
+        "away_reasoning": "Palace: 4W-5D-2L overall record suggests ~2 wins in last 5 → +2",
+        "sources": [
+          "FootyStats (form data)"
+        ]
+      },
+      "Q12": {
+        "home_score": 0,
+        "away_score": 1,
+        "home_reasoning": "Wolves: No wins to normalize → +0",
+        "away_reasoning": "Palace: Limited wins, mostly against similar level → Q11-1 = +1",
+        "sources": [
+          "FootyStats (estimated from form)"
+        ]
+      },
+      "Q13": {
+        "home_score": 0,
+        "away_score": 2,
+        "home_reasoning": "Wolves: 0.64 actual vs 1.14 xG → Very unlucky (+0.5 delta) but still poor → Goals much below xG suggests unlucky but threshold not met → 0",
+        "away_reasoning": "Palace: 1.27 actual vs 1.38 xG → Slightly unlucky (-0.11 delta) → xG ≈ Goals → +2",
+        "sources": [
+          "FootyStats (xG delta)"
+        ]
+      },
+      "Q14": {
+        "home_score": 0,
+        "away_score": 1,
+        "home_reasoning": "Wolves: Bottom team performance, xG rarely superior → Poor quality → 0",
+        "away_reasoning": "Palace: Mid-table performance, decent xG → Average quality → +1",
+        "sources": [
+          "FootyStats (estimated from xG performance)"
+        ]
+      },
+      "Q15": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "SportsMole lists injuries but no top player from Q1 analysis → 0",
+        "away_reasoning": "Guehi confirmed fit and available per SportsMole → 0",
+        "sources": [
+          "SportsMole team news"
+        ]
+      },
+      "Q16": {
+        "home_score": -4,
+        "away_score": 0,
+        "home_reasoning": "SportsMole: Doherty (knee), Bentley (ankle) out → 2+ defensive players → -4",
+        "away_reasoning": "All defenders available per SportsMole → 0",
+        "sources": [
+          "SportsMole team news"
+        ]
+      },
+      "Q17": {
+        "home_score": 2,
+        "away_score": 6,
+        "home_reasoning": "Wolves home: 0W-1D-4L in 5 home → 0 base + away opponent weak bonus → +2",
+        "away_reasoning": "Palace away: 2W-1D-2L suggests decent away form → Base +4 + home opponent weak bonus → +6",
+        "sources": [
+          "FootyStats (home/away records)"
+        ]
+      },
+      "Q18": {
+        "home_score": 0,
+        "away_score": 3,
+        "home_reasoning": "SportsMole: 'won just one of their last nine Premier League meetings' → 1W in recent H2H at home → +0",
+        "away_reasoning": "Palace: High win rate (57%) vs Wolves historically → Strong H2H record → +3",
+        "sources": [
+          "SportsMole H2H data"
+        ]
+      },
+      "Q19": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "1 win in last 9 H2H ≠ 0 wins in last 3 at home → No veto → 0",
+        "away_reasoning": "No home disadvantage for away team → 0",
+        "sources": [
+          "SportsMole H2H data"
+        ]
+      }
+    },
+    "category_totals": {
+      "technique": {
+        "home": 4,
+        "away": 17
+      },
+      "tactics": {
+        "home": 9,
+        "away": 8
+      },
+      "motivation": {
+        "home": 17,
+        "away": 0
+      },
+      "form": {
+        "home": 0,
+        "away": 3
+      },
+      "performance": {
+        "home": 0,
+        "away": 3
+      },
+      "injuries": {
+        "home": -4,
+        "away": 0
+      },
+      "home_away": {
+        "home": 2,
+        "away": 9
+      }
+    },
+    "raw_scores": {
+      "raw_casa": 28,
+      "raw_vis": 40
+    },
+    "data_quality": {
+      "score": 82,
+      "assessment": "Good",
+      "breakdown": {
+        "q1_player_values": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q2_xg": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q3_bench": {
+          "points": 1.5,
+          "status": "estimated"
+        },
+        "q4_xga": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q5_manager": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q6_formations": {
+          "points": 1,
+          "status": "default"
+        },
+        "q7_pressing": {
+          "points": 1,
+          "status": "default"
+        },
+        "q8_set_pieces": {
+          "points": 1,
+          "status": "default"
+        },
+        "q9_league": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q10_derby": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q11_form": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q12_opponent": {
+          "points": 2,
+          "status": "estimated"
+        },
+        "q13_xg_delta": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q14_ratings": {
+          "points": 2.5,
+          "status": "partial"
+        },
+        "q15_injuries": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q16_cluster": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q17_home_away": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q18_h2h": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q19_h2h_negative": {
+          "points": 4,
+          "status": "complete"
+        },
+        "betfair_draw": {
+          "points": 0,
+          "status": "missing"
+        },
+        "betfair_ah": {
+          "points": 0,
+          "status": "missing"
+        },
+        "local_media": {
+          "points": 5,
+          "status": "available"
+        },
+        "sportsmole": {
+          "points": 5,
+          "status": "available"
+        }
+      },
+      "missing_critical": [],
+      "proceed": true,
+      "confidence_note": "Good data quality. FootyStats provides excellent xG and form data. Missing Betfair odds but using blind pricing. Some tactical details defaulted."
+    },
+    "notes": [
+      "P(Empate): Calculated from FootyStats draw odds 3.5 → 28.6%",
+      "Q6-Q8: Formations, pressing, and set-piece stats not available - used defaults",
+      "Q13: Wolves very unlucky (xG 1.14 vs Goals 0.64) but still poor overall performance",
+      "Q16: Wolves have defensive injury cluster (Doherty, Bentley) → -4 penalty",
+      "Q9: Extreme must-win for Wolves (bottom, 0 wins) vs comfortable Palace",
+      "Q10: Rob Edwards debut boost for Wolves motivation",
+      "Data sources: FootyStats (xG/form), SportsMole (preview/injuries), Transfermarkt (values), Sky Sports (context)"
+    ]
+  },
+  "yudor_analysis": {
+    "match_id": "WolverhamptonvsCrystalPalace_22112025",
+    "raw_casa": 28,
+    "raw_vis": 40,
+    "delta": -12,
+    "yudor_ah_fair": 1.0,
+    "pr_casa": 0.214,
+    "pr_vis": 0.5,
+    "pr_empate": 0.286,
+    "cs_final": 75,
+    "tier": 1,
+    "r_home": 0.38,
+    "r_away": 0.22,
+    "r_fav": 0.22,
+    "r_dog": 0.38,
+    "rbr": -0.27,
+    "r_score": 0.22,
+    "edge_synthetic": 32.0,
+    "decision": "CORE",
+    "reasoning": "Crystal Palace clear favorite with strong technique advantage, Wolves desperate must-win situation, low risk score supports the model prediction"
+  }
+}

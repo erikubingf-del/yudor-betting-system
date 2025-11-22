@@ -1,0 +1,368 @@
+{
+  "match_id": "ValenciavsLevante_21112025",
+  "match_info": {
+    "id": "ValenciavsLevante_21112025",
+    "home": "Valencia",
+    "away": "Levante",
+    "league": "La Liga",
+    "date": "21/11/2025"
+  },
+  "timestamp": "2025-11-21T18:30:31.315388",
+  "consolidated_data": {
+    "game_id": "ValenciavsLevante_21112025",
+    "match_info": {
+      "home": "Valencia",
+      "away": "Levante",
+      "league": "La Liga",
+      "date": "21/11/2025"
+    },
+    "p_empate": 30.8,
+    "betfair_ah_market": null,
+    "q_scores": {
+      "Q1": {
+        "home_score": 4,
+        "away_score": 3,
+        "home_reasoning": "Valencia: Top players - Javi Guerra (€25M), Hugo Duro (€16M), Diego López (€15M), César Tárrega (€15M) → Total value ~5.0 points → +4",
+        "away_reasoning": "Levante: Top players - Karl Etta Eyong (€20M), Carlos Álvarez (€15M), Iván Romero (€7.5M), Alan Matturro (€6M) → Total value ~4.5 points → +3",
+        "sources": [
+          "Transfermarkt squad values",
+          "SportsMole preview"
+        ]
+      },
+      "Q2": {
+        "home_score": 2,
+        "away_score": 4,
+        "home_reasoning": "Valencia: 0.92 G/J + 1.15 xG → Average offense → +2",
+        "away_reasoning": "Levante: 1.33 G/J + 1.19 xG → Above average offense → +4",
+        "sources": [
+          "FootyStats API (goals_scored_avg, xg_for_avg)"
+        ]
+      },
+      "Q3": {
+        "home_score": 2,
+        "away_score": 1,
+        "home_reasoning": "Valencia: Several €10M+ players on bench (Lucas Beltrán, André Almeida, Pepelu) → +2",
+        "away_reasoning": "Levante: Limited bench quality beyond starters → +1",
+        "sources": [
+          "Transfermarkt squad depth",
+          "Default estimation"
+        ]
+      },
+      "Q4": {
+        "home_score": 1,
+        "away_score": 0,
+        "home_reasoning": "Valencia: 1.75 GA/J + 1.6 xGA → Poor defense but better than Levante → +1",
+        "away_reasoning": "Levante: 1.92 GA/J + 1.98 xGA → Very poor defense → 0",
+        "sources": [
+          "FootyStats API (goals_conceded_avg, xg_against_avg)"
+        ]
+      },
+      "Q5": {
+        "home_score": 4,
+        "away_score": 2,
+        "home_reasoning": "Carlos Corberán: Experienced Premier League manager with tactical reputation → +4",
+        "away_reasoning": "Julián Calero: Less international experience → +2",
+        "sources": [
+          "SportsMole preview",
+          "News headlines"
+        ]
+      },
+      "Q6": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "Valencia: Expected 4-3-3/4-2-3-1 → Balanced formation → +2",
+        "away_reasoning": "Levante: Expected 4-4-2/4-2-3-1 → Balanced formation → +2",
+        "sources": [
+          "SportsMole lineups",
+          "Default tactical symmetry"
+        ]
+      },
+      "Q7": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "Valencia: Standard pressing approach → +2 default",
+        "away_reasoning": "Levante: Standard transitions → +2 default",
+        "sources": [
+          "Default estimation - no pressing data available"
+        ]
+      },
+      "Q8": {
+        "home_score": 2,
+        "away_score": 2,
+        "home_reasoning": "Valencia: Standard set piece threat → +2 default",
+        "away_reasoning": "Levante: Standard set piece defense → +2 default",
+        "sources": [
+          "Default estimation - no set piece data available"
+        ]
+      },
+      "Q9": {
+        "home_score": 6,
+        "away_score": 12,
+        "home_reasoning": "Valencia: 17th place, relegation battle context → +6",
+        "away_reasoning": "Levante: 19th place, deeper in relegation zone → +12",
+        "sources": [
+          "FootyStats table position",
+          "News headlines context"
+        ]
+      },
+      "Q10": {
+        "home_score": 5,
+        "away_score": 5,
+        "home_reasoning": "Historic Valencia derby - intense local rivalry confirmed in all headlines → +5",
+        "away_reasoning": "Historic Valencia derby - 'mucha rivalidad' confirmed → +5",
+        "sources": [
+          "News headlines (multiple 'derbi' references)",
+          "Local media derby context"
+        ]
+      },
+      "Q11": {
+        "home_score": 1,
+        "away_score": 1,
+        "home_reasoning": "Valencia: 2W, 4D, 6L in 12 games → Poor form → +1",
+        "away_reasoning": "Levante: 2W, 3D, 7L in 12 games → Poor form → +1",
+        "sources": [
+          "FootyStats API (wins/draws/losses overall)"
+        ]
+      },
+      "Q12": {
+        "home_score": 1,
+        "away_score": 1,
+        "home_reasoning": "Valencia: Wins against weak opposition mainly → +1",
+        "away_reasoning": "Levante: Limited quality wins → +1",
+        "sources": [
+          "Estimated from overall form data"
+        ]
+      },
+      "Q13": {
+        "home_score": 1,
+        "away_score": 0,
+        "home_reasoning": "Valencia: Goals (0.92) < xG (1.15) by 0.23 → Slightly unlucky → +1",
+        "away_reasoning": "Levante: Goals (1.33) > xG (1.19) by 0.14 → Slightly lucky → 0",
+        "sources": [
+          "FootyStats API (xG vs actual goals comparison)"
+        ]
+      },
+      "Q14": {
+        "home_score": 1,
+        "away_score": 1,
+        "home_reasoning": "Valencia: Poor xG performance (-0.45 diff) → +1",
+        "away_reasoning": "Levante: Poor xG performance (-0.79 diff) → +1",
+        "sources": [
+          "FootyStats API (xg_diff_overall)"
+        ]
+      },
+      "Q15": {
+        "home_score": -8,
+        "away_score": 0,
+        "home_reasoning": "Mouctar Diakhaby (key defender) out with hamstring → -8",
+        "away_reasoning": "Unai Vencedor returns from suspension, no key player injuries → 0",
+        "sources": [
+          "SportsMole team news"
+        ]
+      },
+      "Q16": {
+        "home_score": -4,
+        "away_score": 0,
+        "home_reasoning": "Diakhaby + Dimitri Foulquier + Filip Ugrinic out → Defensive cluster → -4",
+        "away_reasoning": "Only Pablo Martinez out (ankle) → No defensive cluster → 0",
+        "sources": [
+          "SportsMole team news"
+        ]
+      },
+      "Q17": {
+        "home_score": 6,
+        "away_score": 2,
+        "home_reasoning": "Valencia home: 2W-2D-2L (1.33 PPG) vs Levante away: 2W-2D-3L (1.14 PPG) → +6",
+        "away_reasoning": "Levante away better than home but still weak → +2",
+        "sources": [
+          "FootyStats API (home vs away performance)"
+        ]
+      },
+      "Q18": {
+        "home_score": 3,
+        "away_score": 0,
+        "home_reasoning": "Valencia historically dominant at Mestalla vs Levante → +3",
+        "away_reasoning": "Levante never won at Mestalla historically → 0",
+        "sources": [
+          "SportsMole H2H history",
+          "News headlines historical context"
+        ]
+      },
+      "Q19": {
+        "home_score": 0,
+        "away_score": 0,
+        "home_reasoning": "No negative H2H pattern found → 0",
+        "away_reasoning": "No negative H2H pattern found → 0",
+        "sources": [
+          "SportsMole H2H data"
+        ]
+      }
+    },
+    "category_totals": {
+      "technique": {
+        "home": 9,
+        "away": 8
+      },
+      "tactics": {
+        "home": 10,
+        "away": 8
+      },
+      "motivation": {
+        "home": 11,
+        "away": 17
+      },
+      "form": {
+        "home": 2,
+        "away": 2
+      },
+      "performance": {
+        "home": 2,
+        "away": 1
+      },
+      "injuries": {
+        "home": -12,
+        "away": 0
+      },
+      "home_away": {
+        "home": 9,
+        "away": 2
+      }
+    },
+    "raw_scores": {
+      "raw_casa": 31,
+      "raw_vis": 38
+    },
+    "data_quality": {
+      "score": 78,
+      "assessment": "Good",
+      "breakdown": {
+        "q1_player_values": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q2_xg": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q3_bench": {
+          "points": 1.5,
+          "status": "estimated"
+        },
+        "q4_xga": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q5_manager": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q6_formations": {
+          "points": 2.5,
+          "status": "inferred"
+        },
+        "q7_pressing": {
+          "points": 1,
+          "status": "default"
+        },
+        "q8_set_pieces": {
+          "points": 1,
+          "status": "default"
+        },
+        "q9_league": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q10_derby": {
+          "points": 2,
+          "status": "complete"
+        },
+        "q11_form": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q12_opponent": {
+          "points": 2,
+          "status": "estimated"
+        },
+        "q13_xg_delta": {
+          "points": 5,
+          "status": "complete"
+        },
+        "q14_ratings": {
+          "points": 2.5,
+          "status": "partial"
+        },
+        "q15_injuries": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q16_cluster": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q17_home_away": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q18_h2h": {
+          "points": 4,
+          "status": "complete"
+        },
+        "q19_h2h_negative": {
+          "points": 4,
+          "status": "complete"
+        },
+        "betfair_draw": {
+          "points": 0,
+          "status": "missing"
+        },
+        "betfair_ah": {
+          "points": 0,
+          "status": "missing"
+        },
+        "local_media": {
+          "points": 5,
+          "status": "available"
+        },
+        "sportsmole": {
+          "points": 5,
+          "status": "available"
+        }
+      },
+      "missing_critical": [],
+      "proceed": true,
+      "confidence_note": "Good data quality. Strong FootyStats API data for xG, form and positions. Clear derby context from news. Only missing Betfair odds (using blind pricing) and some tactical details."
+    },
+    "notes": [
+      "P(Empate) calculated from FootyStats draw odds (3.25) = 30.8%",
+      "Strong derby context confirmed in all news sources - Valencia vs Levante historic rivalry",
+      "Valencia key injury: Mouctar Diakhaby (defender) out with hamstring",
+      "Levante performing better away (1.14 PPG) than home (0.2 PPG) this season",
+      "Both teams in relegation battle - Levante (19th) more desperate than Valencia (17th)",
+      "FootyStats API provided excellent xG and form data",
+      "Q7/Q8: Used defaults as no pressing/set-piece stats available",
+      "Calero quote: 'hay que salir al campo siendo una manada; si puede ser, de lobos' shows motivation"
+    ]
+  },
+  "yudor_analysis": {
+    "match_id": "ValenciavsLevante_21112025",
+    "raw_casa": 31,
+    "raw_vis": 38,
+    "delta": -7,
+    "yudor_ah_fair": 0.75,
+    "pr_casa": 23.9,
+    "pr_vis": 45.3,
+    "pr_empate": 30.8,
+    "cs_final": 18,
+    "tier": 3,
+    "r_home": 0.52,
+    "r_away": 0.38,
+    "r_fav": 0.38,
+    "r_dog": 0.52,
+    "rbr": -0.16,
+    "r_score": 0.38,
+    "edge_synthetic": 24,
+    "decision": "VETO",
+    "reasoning": "CS_final too low (18 < 70). Valencia severe injuries (-12), both teams poor form, high variance derby match."
+  }
+}

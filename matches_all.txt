@@ -1,0 +1,83 @@
+# WEEKEND MATCHES - November 21-24, 2025
+# Format: Team1 vs Team2, League, DD/MM/YYYY, HH:MM
+
+# FRIDAY - November 21
+Valencia vs Levante, La Liga, 21/11/2025, 16:00
+Mainz 05 vs Hoffenheim, Bundesliga, 21/11/2025, 16:30
+
+# SATURDAY - November 22
+# Premier League
+Burnley vs Chelsea, Premier League, 22/11/2025, 09:30
+Bournemouth vs West Ham United, Premier League, 22/11/2025, 12:00
+Brighton & Hove Albion vs Brentford, Premier League, 22/11/2025, 12:00
+Fulham vs Sunderland, Premier League, 22/11/2025, 12:00
+Liverpool vs Nottingham Forest, Premier League, 22/11/2025, 12:00
+Wolverhampton vs Crystal Palace, Premier League, 22/11/2025, 12:00
+Newcastle United vs Manchester City, Premier League, 22/11/2025, 14:30
+
+# La Liga
+Alavés vs Celta Vigo, La Liga, 22/11/2025, 09:00
+Barcelona vs Athletic Club, La Liga, 22/11/2025, 11:15
+Osasuna vs Real Sociedad, La Liga, 22/11/2025, 13:30
+Villarreal vs Mallorca, La Liga, 22/11/2025, 16:00
+
+# Bundesliga
+Augsburg vs Hamburger SV, Bundesliga, 22/11/2025, 11:30
+Bayern Munich vs Freiburg, Bundesliga, 22/11/2025, 11:30
+Borussia Dortmund vs Stuttgart, Bundesliga, 22/11/2025, 11:30
+Heidenheim vs Borussia Mönchengladbach, Bundesliga, 22/11/2025, 11:30
+Wolfsburg vs Bayer Leverkusen, Bundesliga, 22/11/2025, 11:30
+FC Köln vs Eintracht Frankfurt, Bundesliga, 22/11/2025, 14:30
+
+# Serie A
+Cagliari vs Genoa, Serie A, 22/11/2025, 11:00
+Udinese vs Bologna, Serie A, 22/11/2025, 11:00
+Fiorentina vs Juventus, Serie A, 22/11/2025, 14:00
+Napoli vs Atalanta, Serie A, 22/11/2025, 16:45
+
+# Brasileirão
+Botafogo vs Grêmio, Brasileirão, 22/11/2025, 19:30
+Flamengo vs Red Bull Bragantino, Brasileirão, 22/11/2025, 21:30
+Palmeiras vs Fluminense, Brasileirão, 22/11/2025, 21:30
+
+# SUNDAY - November 23
+# Premier League
+Leeds United vs Aston Villa, Premier League, 23/11/2025, 11:00
+Arsenal vs Tottenham Hotspur, Premier League, 23/11/2025, 13:30
+
+# La Liga
+Real Oviedo vs Rayo Vallecano, La Liga, 23/11/2025, 09:00
+Real Betis vs Girona, La Liga, 23/11/2025, 11:15
+Getafe vs Atlético Madrid, La Liga, 23/11/2025, 13:30
+Elche vs Real Madrid, La Liga, 23/11/2025, 16:00
+
+# Bundesliga
+RB Leipzig vs Werder Bremen, Bundesliga, 23/11/2025, 11:30
+St. Pauli vs Union Berlin, Bundesliga, 23/11/2025, 13:30
+
+# Serie A
+Verona vs Parma, Serie A, 23/11/2025, 08:30
+Cremonese vs Roma, Serie A, 23/11/2025, 11:00
+Lazio vs Lecce, Serie A, 23/11/2025, 14:00
+Inter Milan vs AC Milan, Serie A, 23/11/2025, 16:45
+
+# Brasileirão
+São Paulo vs Juventude, Brasileirão, 23/11/2025, 16:00
+Bahia vs Vasco da Gama, Brasileirão, 23/11/2025, 16:00
+Sport Recife vs Vitória, Brasileirão, 23/11/2025, 18:30
+Cruzeiro vs Corinthians, Brasileirão, 23/11/2025, 20:30
+
+# MONDAY - November 24
+# Premier League
+Manchester United vs Everton, Premier League, 24/11/2025, 17:00
+
+# La Liga
+Espanyol vs Sevilla, La Liga, 24/11/2025, 16:00
+
+# Serie A
+Torino vs Como, Serie A, 24/11/2025, 15:30
+Sassuolo vs Pisa, Serie A, 24/11/2025, 17:45
+
+# Brasileirão
+Mirassol vs Ceará, Brasileirão, 24/11/2025, 19:00
+Internacional vs Santos, Brasileirão, 24/11/2025, 21:00
