@@ -14,9 +14,10 @@ import os
 import sys
 import json
 import subprocess
+import time
 from datetime import datetime
 from pathlib import Path
-from anthropic import Anthropic
+from anthropic import Anthropic, APIError, RateLimitError
 from pyairtable import Api
 from typing import Dict, List, Optional
 from dotenv import load_dotenv
@@ -135,6 +136,60 @@ class YudorOrchestrator:
     # =========================
     # HELPER METHODS
     # =========================
+
+    def call_claude_with_retry(self, prompt: str, model: str = "claude-3-5-sonnet-20241022",
+                               max_tokens: int = 16000, max_retries: int = 3) -> str:
+        """
+        Call Claude API with retry logic and exponential backoff
+
+        Handles:
+        - Rate limiting (429 errors)
+        - API errors (500+ errors)
+        - Network timeouts
+
+        Args:
+            prompt: The prompt to send
+            model: Claude model to use
+            max_tokens: Maximum tokens in response
+            max_retries: Maximum retry attempts
+
+        Returns:
+            Response text from Claude
+        """
+        retry_delay = 5  # Initial delay in seconds
+
+        for attempt in range(max_retries):
+            try:
+                response = self.claude.messages.create(
+                    model=model,
+                    max_tokens=max_tokens,
+                    messages=[{"role": "user", "content": prompt}]
+                )
+                return response.content[0].text
+
+            except RateLimitError as e:
+                if attempt < max_retries - 1:
+                    wait_time = retry_delay * (2 ** attempt)  # Exponential backoff
+                    print(f"⚠️  Rate limited. Waiting {wait_time}s before retry {attempt + 2}/{max_retries}...")
+                    time.sleep(wait_time)
+                else:
+                    print(f"❌ Rate limit exceeded after {max_retries} attempts")
+                    raise
+
+            except APIError as e:
+                if attempt < max_retries - 1:
+                    wait_time = retry_delay
+                    print(f"⚠️  API Error: {str(e)[:60]}. Retrying in {wait_time}s...")
+                    time.sleep(wait_time)
+                else:
+                    print(f"❌ API Error after {max_retries} attempts: {e}")
+                    raise
+
+            except Exception as e:
+                print(f"❌ Unexpected error: {e}")
+                raise
+
+        raise Exception(f"Failed after {max_retries} attempts")
 
     def load_prompt(self, prompt_name: str) -> str:
         """Load a prompt file from prompts/ directory"""
@@ -1056,18 +1111,18 @@ Focus ONLY on data quality calculation. Do NOT run full analysis.
     def run_scraper(self, match_string: Optional[str] = None) -> str:
         """
         Run scraper.py to get URLs
-        
+
         Args:
             match_string: Single match like "Flamengo vs Bragantino, Brasileirão, 25/11/2025, 19:00"
                          If None, uses matches.txt
-        
+
         Returns:
             Path to generated JSON file
         """
         print("\n" + "="*80)
         print("🔍 STAGE 1: SCRAPING URLs")
         print("="*80)
-        
+
         # If single match, create temp matches.txt
         input_path = self.config.MATCHES_ALL_FILE
         if match_string:
@@ -1075,22 +1130,112 @@ Focus ONLY on data quality calculation. Do NOT run full analysis.
             with open(temp_file, "w") as f:
                 f.write(match_string)
             input_path = temp_file
-        
+
         # Run scraper
         result = subprocess.run(
             [sys.executable, str(self.config.SCRAPER_SCRIPT), "--input", str(input_path)],
             capture_output=True,
             text=True
         )
-        
+
         if result.returncode != 0:
             print(f"❌ Scraper failed: {result.stderr}")
             sys.exit(1)
-        
+
         print("✅ URLs scraped successfully")
-        
+
         # Return path to generated JSON
         return str(self.config.BASE_DIR / "match_data_v29.json")
+
+    def run_integrated_scraper(self, match_string: str) -> Dict:
+        """
+        Run integrated scraper combining FootyStats + FBref + Formations
+
+        This is the NEW workflow using:
+        - FootyStats URL scraping (existing)
+        - FBref statistics (Q7, Q8, Q14)
+        - Formation database (Q6)
+
+        Args:
+            match_string: Match like "Flamengo vs Bragantino, Brasileirão, 25/11/2025, 19:00"
+
+        Returns:
+            Complete structured match data
+        """
+        print("\n" + "="*80)
+        print("🔍 STAGE 1: INTEGRATED DATA SCRAPING")
+        print("="*80)
+
+        # Parse match string
+        parts = match_string.split(",")
+        teams = parts[0].strip().split(" vs ")
+        home_team = teams[0].strip()
+        away_team = teams[1].strip()
+        league = parts[1].strip()
+        date = parts[2].strip()  # DD/MM/YYYY
+
+        # Generate match ID
+        teams_id = f"{home_team}{away_team}".replace(" ", "")
+        date_id = date.replace("/", "")
+        match_id = f"{teams_id}_{date_id}"
+
+        print(f"Match: {home_team} vs {away_team}")
+        print(f"League: {league}")
+        print(f"Date: {date}")
+        print(f"Match ID: {match_id}\n")
+
+        # First, run URL scraper to get FootyStats URL
+        urls_json_path = self.run_scraper(match_string)
+        with open(urls_json_path) as f:
+            urls_data = json.load(f)
+
+        # Get the match data (there should be one match)
+        match_data = next(iter(urls_data.values()))
+        footystats_url = match_data.get("footystats_url", "")
+
+        if not footystats_url:
+            print("❌ No FootyStats URL found from scraper")
+            sys.exit(1)
+
+        print(f"FootyStats URL: {footystats_url}\n")
+
+        # Now run integrated scraper
+        print("🔄 Running integrated scraper...")
+
+        try:
+            from scripts.integrated_scraper import IntegratedDataScraper
+
+            # Initialize integrated scraper
+            scraper = IntegratedDataScraper(league=league, season='2425')
+
+            # Scrape complete match data
+            complete_data = scraper.scrape_complete_match_data(
+                match_id=match_id,
+                home_team=home_team,
+                away_team=away_team,
+                league=league,
+                date=date,
+                footystats_url=footystats_url
+            )
+
+            # Save to file
+            output_path = self.config.BASE_DIR / f"match_data_INTEGRATED_{match_id}.json"
+            with open(output_path, "w", encoding="utf-8") as f:
+                json.dump(complete_data, f, indent=2, ensure_ascii=False)
+
+            print(f"\n💾 Saved integrated data to: {output_path}")
+
+            return complete_data
+
+        except ImportError as e:
+            print(f"❌ Integrated scraper not available: {e}")
+            print("   Falling back to old workflow")
+            return None
+        except Exception as e:
+            print(f"❌ Integrated scraper failed: {e}")
+            import traceback
+            traceback.print_exc()
+            return None
     
     # =========================
     # STAGE 2: DATA EXTRACTION
@@ -1172,33 +1317,67 @@ Focus ONLY on data quality calculation. Do NOT run full analysis.
     # STAGE 3: YUDOR ANALYSIS (BLIND PRICING)
     # =========================
     
-    def analyze_match(self, extracted_data: Dict, match_id: str) -> Dict:
+    def analyze_match(self, extracted_data: Dict, match_id: str, use_integrated: bool = False) -> Dict:
         """
         Run Yudor analysis with BLIND PRICING (no market odds)
-        
+
         Args:
-            extracted_data: Data from extraction stage
+            extracted_data: Data from extraction stage (or integrated scraper)
             match_id: Match identifier
-            
+            use_integrated: If True, uses .claude/analysis_prompt.md with pre-calculated FBref scores
+
         Returns:
             Analysis results
         """
         print("\n" + "="*80)
         print("🎯 STAGE 3: YUDOR ANALYSIS (BLIND PRICING)")
         print("="*80)
-        
-        # Load Yudor analysis prompt
-        yudor_prompt_path = self.config.PROMPTS_DIR / "YUDOR_ANALYSIS_PROMPT.md"
-        if not yudor_prompt_path.exists():
-            print("❌ YUDOR_ANALYSIS_PROMPT.md not found!")
-            sys.exit(1)
-        
-        with open(yudor_prompt_path) as f:
-            yudor_prompt = f.read()
-        
-        # CRITICAL: Add blind pricing instruction
-        blind_pricing_instruction = """
-        
+
+        # Check if we should use new integrated workflow
+        claude_analysis_prompt = self.config.BASE_DIR / ".claude" / "analysis_prompt.md"
+
+        if use_integrated and claude_analysis_prompt.exists():
+            # NEW WORKFLOW: Use .claude/analysis_prompt.md with FBref integration
+            print("📋 Using NEW workflow (.claude/analysis_prompt.md + FBref)")
+
+            with open(claude_analysis_prompt) as f:
+                analysis_prompt = f.read()
+
+            # Prepare prompt with match data
+            full_prompt = f"""
+{analysis_prompt}
+
+## MATCH DATA TO ANALYZE:
+
+{json.dumps(extracted_data, indent=2)}
+
+## YOUR TASK:
+
+Analyze this match using the structured data provided. Use the pre-calculated FBref scores for Q7, Q8, Q14. Calculate Q1-Q6, Q9-Q13, Q15-Q19 from FootyStats data. Output analysis in exact JSON format specified above.
+
+🚨 CRITICAL: BLIND PRICING MODE 🚨
+- DO NOT use or reference market odds
+- Calculate YOUR fair Asian Handicap line
+- User will calculate edge manually later
+"""
+
+            print("🤖 Running Yudor analysis with FBref integration...")
+
+        else:
+            # OLD WORKFLOW: Use existing YUDOR_ANALYSIS_PROMPT.md
+            print("📋 Using OLD workflow (YUDOR_ANALYSIS_PROMPT.md)")
+
+            yudor_prompt_path = self.config.PROMPTS_DIR / "YUDOR_ANALYSIS_PROMPT.md"
+            if not yudor_prompt_path.exists():
+                print("❌ YUDOR_ANALYSIS_PROMPT.md not found!")
+                sys.exit(1)
+
+            with open(yudor_prompt_path) as f:
+                yudor_prompt = f.read()
+
+            # CRITICAL: Add blind pricing instruction
+            blind_pricing_instruction = """
+
 🚨 CRITICAL: BLIND PRICING MODE 🚨
 
 You MUST NOT see or use market odds in your analysis. Your job is to:
@@ -1210,7 +1389,7 @@ You MUST NOT see or use market odds in your analysis. Your job is to:
    - Home advantage
    - Injuries impact
    - All Q1-Q19 factors
-   
+
 3. Provide YOUR fair line (e.g., "Flamengo -1.25")
 4. DO NOT calculate edge - user will do this manually
 5. DO NOT reference market odds - stay blind
@@ -1227,21 +1406,22 @@ Example output:
 }
 
 The user will compare YOUR line to market and calculate edge themselves.
-        """
-        
-        yudor_prompt += blind_pricing_instruction
-        
+            """
+
+            yudor_prompt += blind_pricing_instruction
+            full_prompt = f"Analyze this match (BLIND PRICING - no market odds):\n\n{json.dumps(extracted_data, indent=2)}"
+
         # Call Claude for analysis
         print("🤖 Running Yudor analysis...")
-        
+
         try:
             message = self.claude.messages.create(
                 model=self.config.CLAUDE_MODEL,
                 max_tokens=self.config.MAX_TOKENS,
-                system=yudor_prompt,
+                system=yudor_prompt if not use_integrated or not claude_analysis_prompt.exists() else "",
                 messages=[{
                     "role": "user",
-                    "content": f"Analyze this match (BLIND PRICING - no market odds):\n\n{json.dumps(extracted_data, indent=2)}"
+                    "content": full_prompt
                 }]
             )
             
@@ -1286,9 +1466,59 @@ The user will compare YOUR line to market and calculate edge themselves.
             sys.exit(1)
     
     # =========================
+    # HELPER: CORRECT FAIR ODDS CALCULATION
+    # =========================
+
+    def calculate_fair_odds_at_line(self, pr_casa_pct: float, pr_vis_pct: float, ah_line: float) -> float:
+        """
+        Calculate Fair Odds at a specific AH line using CORRECT YUDOR methodology
+
+        Args:
+            pr_casa_pct: Home probability as PERCENTAGE (36.2, not 0.362)
+            pr_vis_pct: Away probability as PERCENTAGE (33.5, not 0.335)
+            ah_line: Asian Handicap line (-0.25, 0.0, +1.0, etc.)
+
+        Returns:
+            Fair odds at that line (e.g., 2.35)
+
+        Methodology:
+            1. Moneyline (at -0.5) = 100 / favorite_percentage
+            2. For each +0.25 step: multiply by 0.85 (easier to cover)
+            3. For each -0.25 step: multiply by 1.15 (harder to cover)
+
+        Example:
+            pr_casa_pct=36.2, pr_vis_pct=33.5, ah_line=-0.25
+            → Favorite: 36.2%
+            → Moneyline: 100/36.2 = 2.76 (at line -0.5)
+            → Steps from -0.5 to -0.25: +1 step
+            → Odds: 2.76 × 0.85 = 2.35
+        """
+        # Determine favorite
+        fav_prob_pct = max(pr_casa_pct, pr_vis_pct)
+
+        # Moneyline odds (at line -0.5 for favorite)
+        odd_ml = 100 / fav_prob_pct
+
+        # Calculate steps from -0.5 to ah_line
+        steps = (ah_line + 0.5) / 0.25
+
+        # Apply multipliers
+        if steps > 0:
+            # Positive steps: easier to cover → lower odds
+            odds = odd_ml * (0.85 ** steps)
+        elif steps < 0:
+            # Negative steps: harder to cover → higher odds
+            odds = odd_ml * (1.15 ** abs(steps))
+        else:
+            # Exactly at -0.5
+            odds = odd_ml
+
+        return round(odds, 2)
+
+    # =========================
     # STAGE 4: AIRTABLE SYNC
     # =========================
-    
+
     def save_to_airtable(self, match_id: str, match_info: Dict, analysis: Dict):
         """
         Save analysis to Airtable
@@ -1321,19 +1551,113 @@ The user will compare YOUR line to market and calculate edge themselves.
             except:
                 match_date_formatted = match_date_str  # Fallback to original if parsing fails
 
+            # Determine which team to bet on based on AH line
+            ah_fair = analysis.get("yudor_ah_fair", analysis.get("yudor_fair_ah", 0))
+            home_team = match_info.get("home", "")
+            away_team = match_info.get("away", "")
+
+            # Determine yudor_ah_team based on line and favorite_side
+            yudor_ah_team = analysis.get("yudor_ah_team", "")
+            if not yudor_ah_team:
+                # Fallback logic if not explicitly provided
+                favorite_side = analysis.get("favorite_side", "")
+                if favorite_side == "HOME":
+                    yudor_ah_team = home_team
+                elif favorite_side == "AWAY":
+                    yudor_ah_team = away_team
+                elif ah_fair < 0:
+                    # Negative line typically means home is favorite
+                    yudor_ah_team = home_team
+                else:
+                    # Positive line typically means away is favorite
+                    yudor_ah_team = away_team
+
+            # Calculate Yudor Fair Odds using CORRECT methodology
+            yudor_fair_odds = analysis.get("yudor_fair_odds", 0)
+            if not yudor_fair_odds and ah_fair != 0:
+                # Get probabilities from analysis
+                pr_casa = analysis.get("pr_casa", 0)
+                pr_vis = analysis.get("pr_vis", 0)
+                pr_empate = analysis.get("pr_empate", 0)
+
+                if pr_casa and pr_vis and pr_empate:
+                    # Detect format: decimal (sum ≈ 1.0) or percentage (sum ≈ 100)
+                    prob_sum = pr_casa + pr_vis + pr_empate
+
+                    if prob_sum > 10:
+                        # Already percentages
+                        pr_casa_pct = pr_casa
+                        pr_vis_pct = pr_vis
+                    else:
+                        # Convert decimals to percentages
+                        pr_casa_pct = pr_casa * 100
+                        pr_vis_pct = pr_vis * 100
+
+                    # Use CORRECT calculation
+                    yudor_fair_odds = self.calculate_fair_odds_at_line(pr_casa_pct, pr_vis_pct, ah_fair)
+                else:
+                    # Fallback to approximation if probabilities missing
+                    yudor_fair_odds = 2.0 - (ah_fair * 0.4)
+                    yudor_fair_odds = round(max(1.01, min(yudor_fair_odds, 10.0)), 2)
+
+            # Extract Q1-Q19 scores from consolidated_data
+            q1_q19_scores = ""
+            if "consolidated_data" in analysis:
+                consolidated = analysis["consolidated_data"]
+                if "q_scores" in consolidated:
+                    q_scores = consolidated["q_scores"]
+                    # Create readable summary
+                    q_lines = []
+                    for q_id, q_data in sorted(q_scores.items()):
+                        home = q_data.get("home_score", 0)
+                        away = q_data.get("away_score", 0)
+                        q_lines.append(f"{q_id}: {home} vs {away}")
+                    q1_q19_scores = "\n".join(q_lines)
+                elif isinstance(consolidated, dict):
+                    # Try alternative structure
+                    q_lines = []
+                    for i in range(1, 20):
+                        q_key = f"Q{i}"
+                        if q_key in consolidated:
+                            q_data = consolidated[q_key]
+                            if isinstance(q_data, dict):
+                                home = q_data.get("home_score", 0)
+                                away = q_data.get("away_score", 0)
+                                q_lines.append(f"{q_key}: {home} vs {away}")
+                    if q_lines:
+                        q1_q19_scores = "\n".join(q_lines)
+
+            # If still empty, try to extract from Full Analysis JSON
+            if not q1_q19_scores and "q_scores" in analysis:
+                q_scores = analysis["q_scores"]
+                q_lines = []
+                for q_id, q_data in sorted(q_scores.items()):
+                    if isinstance(q_data, dict):
+                        home = q_data.get("home_score", 0)
+                        away = q_data.get("away_score", 0)
+                        q_lines.append(f"{q_id}: {home} vs {away}")
+                q1_q19_scores = "\n".join(q_lines) if q_lines else "Q scores not available"
+
+            if not q1_q19_scores:
+                q1_q19_scores = "Q1-Q19 scores not found in analysis"
+
             record_data = {
                 "match_id": match_id,
                 "match_date": match_date_formatted,  # YYYY-MM-DD format
-                "Home Team": match_info.get("home", ""),  # Title Case with spaces
-                "Away Team": match_info.get("away", ""),
+                "Home Team": home_team,  # Title Case with spaces
+                "Away Team": away_team,
                 "League": match_info.get("league", ""),
-                "Yudor AH Fair": analysis.get("yudor_ah_fair", analysis.get("yudor_fair_ah", 0)),
+                "Analysis Timestamp": datetime.now().strftime("%Y-%m-%d"),  # NEW: When analysis was done
+                "Yudor AH Fair": ah_fair,
+                "Yudor AH Team": yudor_ah_team,  # NEW: Which team to bet on
+                "Yudor Fair Odds": yudor_fair_odds,  # NEW: Fair odds calculation
                 "Yudor Decision": analysis.get("decision", ""),
                 "CS Final": analysis.get("cs_final", 0),
                 "R Score": analysis.get("r_score", 0),
                 "Tier": analysis.get("tier", 0),
-                "Full Analysis": json.dumps(analysis, indent=2),
                 "Data Quality": analysis.get("confidence", 0),
+                "Q1-Q19 Scores": q1_q19_scores,  # NEW: Q1-Q19 summary
+                "Full Analysis": json.dumps(analysis, indent=2),
                 "Status": "ANALYZED"
             }
             
@@ -1835,42 +2159,114 @@ CRITICAL: Return ONLY the JSON object, no other text.
     # =========================
     # COMPLETE WORKFLOW
     # =========================
-    
+
+    def analyze_complete_integrated(self, match_string: str):
+        """
+        NEW Complete workflow with FBref integration:
+        - Integrated scraper (FootyStats + FBref + Formations)
+        - Claude analysis with .claude/analysis_prompt.md
+        - Save to Airtable
+
+        Args:
+            match_string: Match like "Barcelona vs Athletic Club, La Liga, 22/11/2025"
+        """
+        print("\n" + "="*80)
+        print("🎯 YUDOR COMPLETE ANALYSIS WORKFLOW (FBref Integrated)")
+        print("="*80)
+        print(f"\nMatch: {match_string}\n")
+
+        # Stage 1: Integrated scraping
+        integrated_data = self.run_integrated_scraper(match_string)
+
+        if not integrated_data:
+            print("⚠️  Integrated scraper failed, falling back to old workflow")
+            return self.analyze_complete(match_string)
+
+        # Check data quality
+        data_quality = integrated_data.get("data_quality", {}).get("overall_score", 0)
+        print(f"\n📊 Data Quality: {data_quality}/5.0")
+
+        if data_quality < 3.0:
+            print("⚠️  Data quality too low, consider skipping this match")
+            proceed = input("Continue anyway? (y/n): ").strip().lower()
+            if proceed != 'y':
+                print("❌ Skipping match due to low data quality")
+                return
+
+        # Get match info for Airtable
+        match_id = integrated_data["match_id"]
+        match_info = {
+            "home_team": integrated_data["home_team"],
+            "away_team": integrated_data["away_team"],
+            "league": integrated_data["league"],
+            "date": integrated_data["date"]
+        }
+
+        # Stage 2: Analysis with FBref data (no separate extraction needed)
+        analysis = self.analyze_match(integrated_data, match_id, use_integrated=True)
+
+        # Stage 3: Save to Airtable
+        self.save_to_airtable(match_id, match_info, analysis)
+
+        # Stage 4: Interactive edge calculation
+        bet_decision = self.calculate_edge_interactive(analysis)
+
+        # Save bet decision if entered
+        if bet_decision and bet_decision.get("entered") and self.airtable:
+            try:
+                bets_table = self.base.table(AirtableSchema.TABLES["bets"])
+                bets_table.create({
+                    "match_id": match_id,
+                    "entry_timestamp": datetime.now().isoformat(),
+                    "market_ah_line": bet_decision["market_line"],
+                    "market_ah_odds": bet_decision["market_odds"],
+                    "edge_pct": bet_decision["edge_pct"],
+                    "stake": bet_decision.get("stake", 0),
+                    "notes": bet_decision.get("notes", "")
+                })
+                print("\n✅ Bet tracked in Airtable")
+            except Exception as e:
+                print(f"\n⚠️  Could not save bet to Airtable: {e}")
+
+        print("\n" + "="*80)
+        print("✅ ANALYSIS COMPLETE (FBref Integrated)")
+        print("="*80)
+
     def analyze_complete(self, match_string: str):
         """
-        Complete workflow: scrape → extract → analyze → save
-        
+        OLD Complete workflow: scrape → extract → analyze → save
+
         Args:
             match_string: Match like "Flamengo vs Bragantino, Brasileirão, 25/11/2025, 19:00"
         """
         print("\n" + "="*80)
-        print("🎯 YUDOR COMPLETE ANALYSIS WORKFLOW")
+        print("🎯 YUDOR COMPLETE ANALYSIS WORKFLOW (OLD)")
         print("="*80)
         print(f"\nMatch: {match_string}\n")
-        
+
         # Generate match ID
         parts = match_string.split(",")
         teams = parts[0].strip().replace(" vs ", "vs").replace(" ", "")
         date = parts[2].strip().replace("/", "")
         match_id = f"{teams}_{date}"
-        
+
         # Stage 1: Scrape URLs
         urls_json = self.run_scraper(match_string)
-        
+
         # Load match info
         with open(urls_json) as f:
             urls_data = json.load(f)
-        
+
         # Get the match data (there should be one match)
         match_data = next(iter(urls_data.values()))
         match_info = match_data["match_info"]
-        
+
         # Stage 2: Extract data
         extracted_data = self.extract_data(urls_json)
-        
+
         # Stage 3: Yudor analysis (blind pricing)
-        analysis = self.analyze_match(extracted_data, match_id)
-        
+        analysis = self.analyze_match(extracted_data, match_id, use_integrated=False)
+
         # Stage 4: Save to Airtable
         self.save_to_airtable(match_id, match_info, analysis)
         
@@ -2127,21 +2523,23 @@ def main():
 
     if len(sys.argv) < 2:
         print("""
-🎯 YUDOR MASTER ORCHESTRATOR v5.3
+🎯 YUDOR MASTER ORCHESTRATOR v5.3 (FBref Integrated)
 
 Usage:
+  python master_orchestrator.py analyze-fbref "Barcelona vs Athletic Club, La Liga, 22/11/2025"
+  python master_orchestrator.py analyze "Flamengo vs Bragantino, Brasileirão, 25/11/2025"
   python master_orchestrator.py pre-filter [--input matches_all.txt]
   python master_orchestrator.py analyze-batch [--input matches_priority.txt]
   python master_orchestrator.py loss-analysis --auto
   python master_orchestrator.py loss-analysis --match-id MATCH_ID
-  python master_orchestrator.py analyze "Flamengo vs Bragantino, Brasileirão, 25/11/2025, 19:00"
 
 Commands:
+  analyze-fbref "match"   - 🆕 Analyze with FBref integration (Q7, Q8, Q14 from real data)
+  analyze "match"         - Analyze single match (old workflow)
   pre-filter              - Filter 30-40 games by data quality (creates matches_priority.txt)
   analyze-batch           - Run v5.3 analysis on priority games (full automation)
   loss-analysis --auto    - Analyze all unanalyzed losses from Airtable
   loss-analysis --match-id - Analyze specific loss manually
-  analyze "match"         - Analyze single match (legacy command)
 
 Options:
   --input FILE            - Specify input file (default: matches_all.txt or matches_priority.txt)
@@ -2149,6 +2547,9 @@ Options:
   --match-id MATCH_ID     - Specify match ID for manual loss analysis
 
 Examples:
+  # 🆕 NEW WORKFLOW with FBref:
+  python master_orchestrator.py analyze-fbref "Barcelona vs Athletic Club, La Liga, 22/11/2025"
+
   # Complete workflow for weekend betting:
   1. python master_orchestrator.py pre-filter
   2. python master_orchestrator.py analyze-batch
@@ -2177,7 +2578,17 @@ Examples:
             match_id = sys.argv[i + 1]
 
     # Execute commands
-    if command == "pre-filter":
+    if command == "analyze-fbref":
+        # NEW: Integrated workflow with FBref
+        if len(sys.argv) < 3:
+            print("❌ Usage: python master_orchestrator.py analyze-fbref \"match string\"")
+            print("   Example: python master_orchestrator.py analyze-fbref \"Barcelona vs Athletic Club, La Liga, 22/11/2025\"")
+            sys.exit(1)
+
+        match_string = sys.argv[2]
+        orchestrator.analyze_complete_integrated(match_string)
+
+    elif command == "pre-filter":
         orchestrator.pre_filter(input_file=input_file)
 
     elif command == "analyze-batch":

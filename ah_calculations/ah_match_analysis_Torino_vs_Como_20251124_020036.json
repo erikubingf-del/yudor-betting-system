@@ -1,0 +1,164 @@
+{
+  "timestamp": "2025-11-24T02:25:59.068439",
+  "match": {
+    "home": "Torino",
+    "away": "Como",
+    "league": "Serie A",
+    "sources": 4
+  },
+  "probabilities": {
+    "raw": {
+      "raw_casa": 34.44,
+      "raw_vis": 45.56,
+      "p_empate": 25,
+      "sources_used": 2,
+      "sources": [
+        "fbref_xg",
+        "understat_xg"
+      ]
+    },
+    "normalized": {
+      "home_win": 31.94,
+      "away_win": 43.06,
+      "draw": 25
+    }
+  },
+  "ah_analysis": {
+    "favorite_side": "AWAY",
+    "favorite_prob": 43.06,
+    "underdog_prob": 31.94,
+    "draw_prob": 25,
+    "odd_ml": 2.32,
+    "odd_plus_0_5": 1.47,
+    "fair_line": -0.25,
+    "fair_odd": 1.97,
+    "all_lines": [
+      {
+        "line": -3.0,
+        "odd": 9.4,
+        "side": "AWAY"
+      },
+      {
+        "line": -2.75,
+        "odd": 8.17,
+        "side": "AWAY"
+      },
+      {
+        "line": -2.5,
+        "odd": 7.1,
+        "side": "AWAY"
+      },
+      {
+        "line": -2.25,
+        "odd": 6.18,
+        "side": "AWAY"
+      },
+      {
+        "line": -2.0,
+        "odd": 5.37,
+        "side": "AWAY"
+      },
+      {
+        "line": -1.75,
+        "odd": 4.67,
+        "side": "AWAY"
+      },
+      {
+        "line": -1.5,
+        "odd": 4.06,
+        "side": "AWAY"
+      },
+      {
+        "line": -1.25,
+        "odd": 3.53,
+        "side": "AWAY"
+      },
+      {
+        "line": -1.0,
+        "odd": 3.07,
+        "side": "AWAY"
+      },
+      {
+        "line": -0.75,
+        "odd": 2.67,
+        "side": "AWAY"
+      },
+      {
+        "line": -0.5,
+        "odd": 2.32,
+        "side": "AWAY"
+      },
+      {
+        "line": -0.25,
+        "odd": 1.97,
+        "side": "AWAY"
+      },
+      {
+        "line": 0.0,
+        "odd": 1.68,
+        "side": "AWAY"
+      },
+      {
+        "line": 0.25,
+        "odd": 1.43,
+        "side": "AWAY"
+      },
+      {
+        "line": 0.5,
+        "odd": 1.21,
+        "side": "AWAY"
+      },
+      {
+        "line": 0.75,
+        "odd": 1.25,
+        "side": "AWAY"
+      },
+      {
+        "line": 1.0,
+        "odd": 1.06,
+        "side": "AWAY"
+      },
+      {
+        "line": 1.25,
+        "odd": 0.9,
+        "side": "AWAY"
+      },
+      {
+        "line": 1.5,
+        "odd": 0.77,
+        "side": "AWAY"
+      },
+      {
+        "line": 1.75,
+        "odd": 0.65,
+        "side": "AWAY"
+      },
+      {
+        "line": 2.0,
+        "odd": 0.55,
+        "side": "AWAY"
+      },
+      {
+        "line": 2.25,
+        "odd": 0.47,
+        "side": "AWAY"
+      },
+      {
+        "line": 2.5,
+        "odd": 0.4,
+        "side": "AWAY"
+      },
+      {
+        "line": 2.75,
+        "odd": 0.34,
+        "side": "AWAY"
+      },
+      {
+        "line": 3.0,
+        "odd": 0.29,
+        "side": "AWAY"
+      }
+    ]
+  },
+  "source_file": "match_analysis_Torino_vs_Como_20251124_020036.json"
+}

@@ -1,0 +1,27 @@
+{
+  "timestamp": "2025-11-24T02:25:03.542907",
+  "total_matches": 3,
+  "matches": [
+    {
+      "match": "Unknown vs Unknown",
+      "league": "Unknown",
+      "fair_line": 0.0,
+      "fair_odd": 1.93,
+      "favorite": "AWAY"
+    },
+    {
+      "match": "Unknown vs Unknown",
+      "league": "Unknown",
+      "fair_line": 0.0,
+      "fair_odd": 1.93,
+      "favorite": "AWAY"
+    },
+    {
+      "match": "Unknown vs Unknown",
+      "league": "Unknown",
+      "fair_line": 0.0,
+      "fair_odd": 1.93,
+      "favorite": "AWAY"
+    }
+  ]
+}

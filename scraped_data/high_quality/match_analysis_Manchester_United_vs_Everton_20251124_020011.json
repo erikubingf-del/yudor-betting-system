@@ -1,0 +1,411 @@
+{
+  "match_info": {
+    "home_team": "Manchester United",
+    "away_team": "Everton",
+    "league": "Premier League",
+    "season": "2425",
+    "analysis_date": "2025-11-24T02:00:00.670725"
+  },
+  "home_team_data": {
+    "team_name": "Manchester United",
+    "sources_available": [
+      "understat"
+    ],
+    "fbref": {},
+    "sofascore": {},
+    "fotmob": {},
+    "understat": {
+      "team_xg": {
+        "xG_total": 56.91131,
+        "xG_avg": 1.497666052631579,
+        "xGA_total": 60.72751,
+        "xGA_avg": 1.5980923684210526,
+        "matches": 38
+      }
+    },
+    "clubelo": {},
+    "match_history": {},
+    "data_quality": {
+      "understat": 5
+    },
+    "overall_data_quality": 5.0
+  },
+  "away_team_data": {
+    "team_name": "Everton",
+    "sources_available": [
+      "fbref",
+      "understat",
+      "clubelo",
+      "match_history"
+    ],
+    "fbref": {
+      "standard": {
+        "('players_used', '')": "26",
+        "('Age', '')": 28.0,
+        "('Poss', '')": 40.9,
+        "('Playing Time', 'MP')": "38",
+        "('Playing Time', 'Starts')": "418",
+        "('Playing Time', 'Min')": "3420",
+        "('Playing Time', '90s')": "38",
+        "('Performance', 'Gls')": "39",
+        "('Performance', 'Ast')": "27",
+        "('Performance', 'G+A')": "66",
+        "('Performance', 'G-PK')": "37",
+        "('Performance', 'PK')": "2",
+        "('Performance', 'PKatt')": "2",
+        "('Performance', 'CrdY')": "82",
+        "('Performance', 'CrdR')": "2",
+        "('Expected', 'xG')": 41.8,
+        "('Expected', 'npxG')": 40.2,
+        "('Expected', 'xAG')": 32.2,
+        "('Expected', 'npxG+xAG')": 72.4,
+        "('Progression', 'PrgC')": "486",
+        "('Progression', 'PrgP')": "1041",
+        "('Per 90 Minutes', 'Gls')": 1.03,
+        "('Per 90 Minutes', 'Ast')": 0.71,
+        "('Per 90 Minutes', 'G+A')": 1.74,
+        "('Per 90 Minutes', 'G-PK')": 0.97,
+        "('Per 90 Minutes', 'G+A-PK')": 1.68,
+        "('Per 90 Minutes', 'xG')": 1.1,
+        "('Per 90 Minutes', 'xAG')": 0.85,
+        "('Per 90 Minutes', 'xG+xAG')": 1.95,
+        "('Per 90 Minutes', 'npxG')": 1.06,
+        "('Per 90 Minutes', 'npxG+xAG')": 1.91,
+        "('url', '')": "/en/squads/d3fd31cc/2024-2025/Everton-Stats"
+      },
+      "shooting": {
+        "('players_used', '')": "26",
+        "('90s', '')": "38",
+        "('Standard', 'Gls')": "39",
+        "('Standard', 'Sh')": "404",
+        "('Standard', 'SoT')": "139",
+        "('Standard', 'SoT%')": 34.4,
+        "('Standard', 'Sh/90')": 10.63,
+        "('Standard', 'SoT/90')": 3.66,
+        "('Standard', 'G/Sh')": 0.09,
+        "('Standard', 'G/SoT')": 0.27,
+        "('Standard', 'Dist')": 16.8,
+        "('Standard', 'FK')": "11",
+        "('Standard', 'PK')": "2",
+        "('Standard', 'PKatt')": "2",
+        "('Expected', 'xG')": 41.8,
+        "('Expected', 'npxG')": 40.2,
+        "('Expected', 'npxG/Sh')": 0.1,
+        "('Expected', 'G-xG')": -2.8,
+        "('Expected', 'np:G-xG')": -3.2,
+        "('url', '')": "/en/squads/d3fd31cc/2024-2025/Everton-Stats"
+      },
+      "passing": {
+        "('players_used', '')": "26",
+        "('90s', '')": "38",
+        "('Total', 'Cmp')": "11405",
+        "('Total', 'Att')": "14953",
+        "('Total', 'Cmp%')": 76.3,
+        "('Total', 'TotDist')": "215027",
+        "('Total', 'PrgDist')": "85013",
+        "('Short', 'Cmp')": "5039",
+        "('Short', 'Att')": "5809",
+        "('Short', 'Cmp%')": 86.7,
+        "('Medium', 'Cmp')": "4604",
+        "('Medium', 'Att')": "5451",
+        "('Medium', 'Cmp%')": 84.5,
+        "('Long', 'Cmp')": "1526",
+        "('Long', 'Att')": "2901",
+        "('Long', 'Cmp%')": 52.6,
+        "('Ast', '')": "27",
+        "('xAG', '')": 32.2,
+        "('Expected', 'xA')": 27.2,
+        "('Expected', 'A-xAG')": -5.2,
+        "('KP', '')": "298",
+        "('1/3', '')": "1003",
+        "('PPA', '')": "261",
+        "('CrsPA', '')": "92",
+        "('PrgP', '')": "1041",
+        "('url', '')": "/en/squads/d3fd31cc/2024-2025/Everton-Stats"
+      },
+      "passing_types": {
+        "('players_used', '')": "26",
+        "('90s', '')": "38",
+        "('Att', '')": "14953",
+        "('Pass Types', 'Live')": "13245",
+        "('Pass Types', 'Dead')": "1627",
+        "('Pass Types', 'FK')": "424",
+        "('Pass Types', 'TB')": "30",
+        "('Pass Types', 'Sw')": "83",
+        "('Pass Types', 'Crs')": "682",
+        "('Pass Types', 'TI')": "678",
+        "('Pass Types', 'CK')": "154",
+        "('Corner Kicks', 'In')": "101",
+        "('Corner Kicks', 'Out')": "24",
+        "('Corner Kicks', 'Str')": "11",
+        "('Outcomes', 'Cmp')": "11405",
+        "('Outcomes', 'Off')": "81",
+        "('Outcomes', 'Blocks')": "295",
+        "('url', '')": "/en/squads/d3fd31cc/2024-2025/Everton-Stats"
+      },
+      "defense": {
+        "('players_used', '')": "26",
+        "('90s', '')": "38",
+        "('Tackles', 'Tkl')": "732",
+        "('Tackles', 'TklW')": "433",
+        "('Tackles', 'Def 3rd')": "366",
+        "('Tackles', 'Mid 3rd')": "269",
+        "('Tackles', 'Att 3rd')": "97",
+        "('Challenges', 'Tkl')": "338",
+        "('Challenges', 'Att')": "656",
+        "('Challenges', 'Tkl%')": 51.5,
+        "('Challenges', 'Lost')": "318",
+        "('Blocks', 'Blocks')": "392",
+        "('Blocks', 'Sh')": "138",
+        "('Blocks', 'Pass')": "254",
+        "('Int', '')": "345",
+        "('Tkl+Int', '')": "1077",
+        "('Clr', '')": "1088",
+        "('Err', '')": "25",
+        "('url', '')": "/en/squads/d3fd31cc/2024-2025/Everton-Stats"
+      },
+      "possession": {
+        "('players_used', '')": "26",
+        "('Poss', '')": 40.9,
+        "('90s', '')": "38",
+        "('Touches', 'Touches')": "19408",
+        "('Touches', 'Def Pen')": "2462",
+        "('Touches', 'Def 3rd')": "6930",
+        "('Touches', 'Mid 3rd')": "7927",
+        "('Touches', 'Att 3rd')": "4762",
+        "('Touches', 'Att Pen')": "732",
+        "('Touches', 'Live')": "19406",
+        "('Take-Ons', 'Att')": "636",
+        "('Take-Ons', 'Succ')": "283",
+        "('Take-Ons', 'Succ%')": 44.5,
+        "('Take-Ons', 'Tkld')": "305",
+        "('Take-Ons', 'Tkld%')": 48.0,
+        "('Carries', 'Carries')": "9535",
+        "('Carries', 'TotDist')": "51039",
+        "('Carries', 'PrgDist')": "25414",
+        "('Carries', 'PrgC')": "486",
+        "('Carries', '1/3')": "364",
+        "('Carries', 'CPA')": "119",
+        "('Carries', 'Mis')": "525",
+        "('Carries', 'Dis')": "390",
+        "('Receiving', 'Rec')": "11309",
+        "('Receiving', 'PrgR')": "1023",
+        "('url', '')": "/en/squads/d3fd31cc/2024-2025/Everton-Stats"
+      },
+      "playing_time": {
+        "('players_used', '')": "26",
+        "('Age', '')": 28.0,
+        "('Playing Time', 'MP')": "38",
+        "('Playing Time', 'Min')": "3420",
+        "('Playing Time', 'Mn/MP')": "90",
+        "('Playing Time', 'Min%')": "100",
+        "('Playing Time', '90s')": "38",
+        "('Starts', 'Starts')": "418",
+        "('Starts', 'Mn/Start')": "84",
+        "('Starts', 'Compl')": "286",
+        "('Subs', 'Subs')": "130",
+        "('Subs', 'Mn/Sub')": "19",
+        "('Subs', 'unSub')": "211",
+        "('Team Success', 'PPM')": 1.26,
+        "('Team Success', 'onG')": "42",
+        "('Team Success', 'onGA')": "44",
+        "('Team Success', '+/-')": "-2",
+        "('Team Success', '+/-90')": -0.05,
+        "('Team Success (xG)', 'onxG')": 41.8,
+        "('Team Success (xG)', 'onxGA')": 46.2,
+        "('Team Success (xG)', 'xG+/-')": -4.5,
+        "('Team Success (xG)', 'xG+/-90')": -0.12,
+        "('url', '')": "/en/squads/d3fd31cc/2024-2025/Everton-Stats"
+      },
+      "misc": {
+        "('players_used', '')": "26",
+        "('90s', '')": "38",
+        "('Performance', 'CrdY')": "82",
+        "('Performance', 'CrdR')": "2",
+        "('Performance', '2CrdY')": "1",
+        "('Performance', 'Fls')": "430",
+        "('Performance', 'Fld')": "384",
+        "('Performance', 'Off')": "81",
+        "('Performance', 'Crs')": "682",
+        "('Performance', 'Int')": "345",
+        "('Performance', 'TklW')": "433",
+        "('Performance', 'PKwon')": "1",
+        "('Performance', 'PKcon')": "2",
+        "('Performance', 'OG')": "0",
+        "('Performance', 'Recov')": "1524",
+        "('Aerial Duels', 'Won')": "614",
+        "('Aerial Duels', 'Lost')": "564",
+        "('Aerial Duels', 'Won%')": 52.1,
+        "('url', '')": "/en/squads/d3fd31cc/2024-2025/Everton-Stats"
+      },
+      "keeper": {
+        "('players_used', '')": "1",
+        "('Playing Time', 'MP')": "38",
+        "('Playing Time', 'Starts')": "38",
+        "('Playing Time', 'Min')": "3420",
+        "('Playing Time', '90s')": "38",
+        "('Performance', 'GA')": "44",
+        "('Performance', 'GA90')": 1.16,
+        "('Performance', 'SoTA')": "163",
+        "('Performance', 'Saves')": "117",
+        "('Performance', 'Save%')": 73.0,
+        "('Performance', 'W')": "11",
+        "('Performance', 'D')": "15",
+        "('Performance', 'L')": "12",
+        "('Performance', 'CS')": "12",
+        "('Performance', 'CS%')": 31.6,
+        "('Penalty Kicks', 'PKatt')": "2",
+        "('Penalty Kicks', 'PKA')": "0",
+        "('Penalty Kicks', 'PKsv')": "2",
+        "('Penalty Kicks', 'PKm')": "0",
+        "('Penalty Kicks', 'Save%')": 100.0,
+        "('url', '')": "/en/squads/d3fd31cc/2024-2025/Everton-Stats"
+      }
+    },
+    "sofascore": {},
+    "fotmob": {},
+    "understat": {
+      "team_xg": {
+        "xG_total": 46.869415,
+        "xG_avg": 1.2334056578947368,
+        "xGA_total": 53.663086,
+        "xGA_avg": 1.4121864736842105,
+        "matches": 38
+      }
+    },
+    "clubelo": {
+      "elo_rating": {
+        "current_elo": 1803.58276367,
+        "elo_change_30d": -2.6038818399999855,
+        "rank": 24,
+        "level": 1
+      }
+    },
+    "match_history": {
+      "season_record": {
+        "wins": 60,
+        "draws": 50,
+        "losses": 80,
+        "goals_for": 206,
+        "goals_against": 266,
+        "matches": 190,
+        "points": 230
+      }
+    },
+    "data_quality": {
+      "fbref": 5,
+      "understat": 5,
+      "clubelo": 4,
+      "match_history": 4
+    },
+    "overall_data_quality": 4.5
+  },
+  "head_to_head": {
+    "home_wins": 6,
+    "draws": 3,
+    "away_wins": 1,
+    "home_goals": 22,
+    "away_goals": 9,
+    "total_matches": 10,
+    "last_5_results": [
+      "W",
+      "W",
+      "W",
+      "W",
+      "D"
+    ],
+    "recent_meetings": [
+      {
+        "date": "2020-11-07 12:30:00",
+        "home": "Everton",
+        "away": "Man United",
+        "score": "1-3",
+        "result_for_home_team": "W"
+      },
+      {
+        "date": "2021-02-06 20:00:00",
+        "home": "Man United",
+        "away": "Everton",
+        "score": "3-3",
+        "result_for_home_team": "D"
+      },
+      {
+        "date": "2021-10-02 12:30:00",
+        "home": "Man United",
+        "away": "Everton",
+        "score": "1-1",
+        "result_for_home_team": "D"
+      },
+      {
+        "date": "2022-04-09 12:30:00",
+        "home": "Everton",
+        "away": "Man United",
+        "score": "1-0",
+        "result_for_home_team": "L"
+      },
+      {
+        "date": "2022-10-09 19:00:00",
+        "home": "Everton",
+        "away": "Man United",
+        "score": "1-2",
+        "result_for_home_team": "W"
+      },
+      {
+        "date": "2023-04-08 12:30:00",
+        "home": "Man United",
+        "away": "Everton",
+        "score": "2-0",
+        "result_for_home_team": "W"
+      },
+      {
+        "date": "2023-11-26 16:30:00",
+        "home": "Everton",
+        "away": "Man United",
+        "score": "0-3",
+        "result_for_home_team": "W"
+      },
+      {
+        "date": "2024-03-09 12:30:00",
+        "home": "Man United",
+        "away": "Everton",
+        "score": "2-0",
+        "result_for_home_team": "W"
+      },
+      {
+        "date": "2024-12-01 13:30:00",
+        "home": "Man United",
+        "away": "Everton",
+        "score": "4-0",
+        "result_for_home_team": "W"
+      },
+      {
+        "date": "2025-02-22 12:30:00",
+        "home": "Everton",
+        "away": "Man United",
+        "score": "2-2",
+        "result_for_home_team": "D"
+      }
+    ]
+  },
+  "team_news_urls": {
+    "home": "NOT_FOUND",
+    "away": "https://www.skysports.com/football/teams"
+  },
+  "summary": {
+    "total_sources": 5,
+    "home_sources": 1,
+    "away_sources": 4,
+    "overall_quality": 4.8,
+    "home_quality": 5.0,
+    "away_quality": 4.5,
+    "coverage_score": "POOR",
+    "ready_for_analysis": false,
+    "sources_breakdown": {
+      "fbref": false,
+      "understat": true,
+      "clubelo": false,
+      "match_history": false
+    }
+  },
+  "sportsmole_preview_url": "NOT_FOUND"
+}

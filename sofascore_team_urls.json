@@ -1,0 +1,84 @@
+{
+  "La Liga": {
+    "alavés": {
+      "url": "https://www.sofascore.com/team/football/lemona/2874",
+      "team_id": "2874"
+    },
+    "athletic club": {
+      "url": "https://www.sofascore.com/team/football/athletic-club-kortrijk/1151426",
+      "team_id": "1151426"
+    },
+    "atlético madrid": {
+      "url": "NOT_FOUND",
+      "team_id": null
+    },
+    "barcelona": {
+      "url": "https://www.sofascore.com/team/football/barcelona-sc-reserve/256649",
+      "team_id": "256649"
+    },
+    "betis": {
+      "url": "https://www.sofascore.com/team/football/cd-union-arroyo/1151276",
+      "team_id": "1151276"
+    },
+    "celta vigo": {
+      "url": "NOT_FOUND",
+      "team_id": null
+    },
+    "espanyol": {
+      "url": "NOT_FOUND",
+      "team_id": null
+    },
+    "getafe": {
+      "url": "https://www.sofascore.com/team/football/cdi-de-la-amistad-u19/298564",
+      "team_id": "298564"
+    },
+    "girona": {
+      "url": "https://www.sofascore.com/team/football/gulset-if/1083298",
+      "team_id": "1083298"
+    },
+    "las palmas": {
+      "url": "NOT_FOUND",
+      "team_id": null
+    },
+    "leganés": {
+      "url": "https://www.sofascore.com/team/football/cerro-reyes/35091",
+      "team_id": "35091"
+    },
+    "mallorca": {
+      "url": "https://www.sofascore.com/team/football/ae-anagennisi-schimatariou/1115283",
+      "team_id": "1115283"
+    },
+    "osasuna": {
+      "url": "https://www.sofascore.com/team/football/fk-partizan-drenovac/924875",
+      "team_id": "924875"
+    },
+    "rayo vallecano": {
+      "url": "NOT_FOUND",
+      "team_id": null
+    },
+    "real madrid": {
+      "url": "https://www.sofascore.com/team/football/h2/521747",
+      "team_id": "521747"
+    },
+    "real sociedad": {
+      "url": "https://www.sofascore.com/team/football/yalova-samanlispor/1111972",
+      "team_id": "1111972"
+    },
+    "sevilla": {
+      "url": "https://www.sofascore.com/team/football/tca-u19/1150972",
+      "team_id": "1150972"
+    },
+    "valencia": {
+      "url": "https://www.sofascore.com/team/football/vi-foot/549268",
+      "team_id": "549268"
+    },
+    "valladolid": {
+      "url": "https://www.sofascore.com/team/football/juventud-rondilla/1151281",
+      "team_id": "1151281"
+    },
+    "villarreal": {
+      "url": "https://www.sofascore.com/team/football/b2/23555",
+      "team_id": "23555"
+    }
+  }
+}
