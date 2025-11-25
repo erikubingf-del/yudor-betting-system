@@ -24,8 +24,8 @@ import json
 from pathlib import Path
 from pyairtable import Api
 
-# Load env
-env_file = Path(__file__).parent.parent / '.env'
+# Load env (navigate up to project root from scripts/production/)
+env_file = Path(__file__).parent.parent.parent / '.env'
 if env_file.exists():
     with open(env_file) as f:
         for line in f:
@@ -45,7 +45,7 @@ api = Api(api_key)
 base = api.base(base_id)
 table = base.table("Match Analyses")
 
-ARCHIVED_DIR = Path(__file__).parent.parent / 'archived_analyses'
+ARCHIVED_DIR = Path(__file__).parent.parent.parent / 'archived_analyses'
 
 
 def calculate_correct_probabilities(raw_casa: float, raw_vis: float, pr_empate: float) -> dict:
