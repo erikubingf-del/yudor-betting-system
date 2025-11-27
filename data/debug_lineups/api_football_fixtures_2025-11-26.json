@@ -1,0 +1,226 @@
+{
+    "get": "fixtures",
+    "parameters": {
+        "league": "71",
+        "season": "2025",
+        "date": "2025-11-26"
+    },
+    "errors": [],
+    "results": 3,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "fixture": {
+                "id": 1478032,
+                "referee": "Savio Pereira Sampaio, Brazil",
+                "timezone": "UTC",
+                "date": "2025-11-26T00:30:00+00:00",
+                "timestamp": 1764117000,
+                "periods": {
+                    "first": 1764117000,
+                    "second": null
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Arena do Gr\u00eamio",
+                    "city": "Porto Alegre"
+                },
+                "status": {
+                    "long": "First Half",
+                    "short": "1H",
+                    "elapsed": 17,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 71,
+                "name": "Serie A",
+                "country": "Brazil",
+                "logo": "https://media.api-sports.io/football/leagues/71.png",
+                "flag": "https://media.api-sports.io/flags/br.svg",
+                "season": 2025,
+                "round": "Regular Season - 36",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 130,
+                    "name": "Gremio",
+                    "logo": "https://media.api-sports.io/football/teams/130.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 121,
+                    "name": "Palmeiras",
+                    "logo": "https://media.api-sports.io/football/teams/121.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": null,
+                    "away": null
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1478027,
+                "referee": "Rafael Rodrigo Klein, Brazil",
+                "timezone": "UTC",
+                "date": "2025-11-26T00:30:00+00:00",
+                "timestamp": 1764117000,
+                "periods": {
+                    "first": 1764117000,
+                    "second": null
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Arena MRV",
+                    "city": "Belo Horizonte"
+                },
+                "status": {
+                    "long": "First Half",
+                    "short": "1H",
+                    "elapsed": 17,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 71,
+                "name": "Serie A",
+                "country": "Brazil",
+                "logo": "https://media.api-sports.io/football/leagues/71.png",
+                "flag": "https://media.api-sports.io/flags/br.svg",
+                "season": 2025,
+                "round": "Regular Season - 36",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 1062,
+                    "name": "Atletico-MG",
+                    "logo": "https://media.api-sports.io/football/teams/1062.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 127,
+                    "name": "Flamengo",
+                    "logo": "https://media.api-sports.io/football/teams/127.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": null,
+                    "away": null
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1478028,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2025-11-26T22:00:00+00:00",
+                "timestamp": 1764194400,
+                "periods": {
+                    "first": null,
+                    "second": null
+                },
+                "venue": {
+                    "id": null,
+                    "name": null,
+                    "city": null
+                },
+                "status": {
+                    "long": "Not Started",
+                    "short": "NS",
+                    "elapsed": null,
+                    "extra": null
+                }
+            },
+            "league": {
+                "id": 71,
+                "name": "Serie A",
+                "country": "Brazil",
+                "logo": "https://media.api-sports.io/football/leagues/71.png",
+                "flag": "https://media.api-sports.io/flags/br.svg",
+                "season": 2025,
+                "round": "Regular Season - 36",
+                "standings": true
+            },
+            "teams": {
+                "home": {
+                    "id": 794,
+                    "name": "RB Bragantino",
+                    "logo": "https://media.api-sports.io/football/teams/794.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 154,
+                    "name": "Fortaleza EC",
+                    "logo": "https://media.api-sports.io/football/teams/154.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": null,
+                "away": null
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": null,
+                    "away": null
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        }
+    ]
+}

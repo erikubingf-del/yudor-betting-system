@@ -1,0 +1,883 @@
+{
+    "success": true,
+    "pager": {
+        "current_page": 1,
+        "max_page": 1,
+        "results_per_page": 1,
+        "total_results": 1
+    },
+    "metadata": {
+        "request_limit": "1800",
+        "request_remaining": "1797",
+        "request_reset_message": "Request limit is refreshed every hour."
+    },
+    "data": {
+        "id": 7834665,
+        "homeID": 635,
+        "awayID": 2601,
+        "season": "2025",
+        "status": "incomplete",
+        "roundID": 116495,
+        "game_week": 36,
+        "revised_game_week": -1,
+        "homeGoals": [],
+        "awayGoals": [],
+        "homeGoalCount": 0,
+        "awayGoalCount": 0,
+        "totalGoalCount": 0,
+        "team_a_corners": -1,
+        "team_b_corners": -1,
+        "totalCornerCount": -1,
+        "team_a_offsides": -1,
+        "team_b_offsides": -1,
+        "team_a_yellow_cards": -1,
+        "team_b_yellow_cards": -1,
+        "team_a_red_cards": -1,
+        "team_b_red_cards": -1,
+        "team_a_shotsOnTarget": -1,
+        "team_b_shotsOnTarget": -1,
+        "team_a_shotsOffTarget": -1,
+        "team_b_shotsOffTarget": -1,
+        "team_a_shots": -1,
+        "team_b_shots": -1,
+        "team_a_fouls": -1,
+        "team_b_fouls": -1,
+        "team_a_possession": -1,
+        "team_b_possession": -1,
+        "refereeID": null,
+        "coach_a_ID": -1,
+        "coach_b_ID": -1,
+        "stadium_name": "Est\u00e1dio Nabi Abi Chedid",
+        "stadium_location": "Rua Em\u00edlio Coleta, Bragan\u00e7a Paulista, S\u00e3o Paulo",
+        "team_a_cards_num": -1,
+        "team_b_cards_num": -1,
+        "odds_ft_1": 1.85,
+        "odds_ft_x": 3.7,
+        "odds_ft_2": 3.8,
+        "odds_ft_over05": 1,
+        "odds_ft_over15": 1.28,
+        "odds_ft_over25": 1.75,
+        "odds_ft_over35": 2.9,
+        "odds_ft_over45": 5.1,
+        "odds_ft_under05": 11.5,
+        "odds_ft_under15": 3.6,
+        "odds_ft_under25": 1.95,
+        "odds_ft_under35": 1.34,
+        "odds_ft_under45": 1.15,
+        "odds_btts_yes": 1.7,
+        "odds_btts_no": 2,
+        "odds_team_a_cs_yes": 2.7,
+        "odds_team_a_cs_no": 1.4,
+        "odds_team_b_cs_yes": 4.33,
+        "odds_team_b_cs_no": 1.18,
+        "odds_doublechance_1x": 1.23,
+        "odds_doublechance_12": 1.25,
+        "odds_doublechance_x2": 1.8,
+        "odds_1st_half_result_1": 2.44,
+        "odds_1st_half_result_x": 2.3,
+        "odds_1st_half_result_2": 4,
+        "odds_2nd_half_result_1": 2.25,
+        "odds_2nd_half_result_x": 2.6,
+        "odds_2nd_half_result_2": 3.8,
+        "odds_dnb_1": 1.36,
+        "odds_dnb_2": 3,
+        "odds_corners_over_75": 1.18,
+        "odds_corners_over_85": 1.38,
+        "odds_corners_over_95": 1.74,
+        "odds_corners_over_105": 1.95,
+        "odds_corners_over_115": 2.5,
+        "odds_corners_under_75": 4.1,
+        "odds_corners_under_85": 2.97,
+        "odds_corners_under_95": 2.25,
+        "odds_corners_under_105": 1.8,
+        "odds_corners_under_115": 1.5,
+        "odds_corners_1": 1.73,
+        "odds_corners_x": 8.1,
+        "odds_corners_2": 2.34,
+        "odds_team_to_score_first_1": 1.67,
+        "odds_team_to_score_first_x": 9.5,
+        "odds_team_to_score_first_2": 2.45,
+        "odds_win_to_nil_1": 3.45,
+        "odds_win_to_nil_2": 6.5,
+        "odds_1st_half_over05": 1.35,
+        "odds_1st_half_over15": 2.65,
+        "odds_1st_half_over25": 6.25,
+        "odds_1st_half_over35": 19,
+        "odds_1st_half_under05": 2.94,
+        "odds_1st_half_under15": 1.42,
+        "odds_1st_half_under25": 1.09,
+        "odds_1st_half_under35": 1.02,
+        "odds_2nd_half_over05": 1.19,
+        "odds_2nd_half_over15": 2,
+        "odds_2nd_half_over25": 4.2,
+        "odds_2nd_half_over35": 10,
+        "odds_2nd_half_under05": 3.9,
+        "odds_2nd_half_under15": 1.73,
+        "odds_2nd_half_under25": 1.2,
+        "odds_2nd_half_under35": 1.05,
+        "odds_btts_1st_half_yes": 0,
+        "odds_btts_1st_half_no": 0,
+        "odds_btts_2nd_half_yes": 0,
+        "odds_btts_2nd_half_no": 0,
+        "overallGoalCount": 0,
+        "ht_goals_team_a": 0,
+        "ht_goals_team_b": 0,
+        "goals_2hg_team_a": 0,
+        "goals_2hg_team_b": 0,
+        "GoalCount_2hg": 0,
+        "HTGoalCount": 0,
+        "date_unix": 1764194400,
+        "winningTeam": -1,
+        "no_home_away": 0,
+        "btts_potential": 62,
+        "btts_fhg_potential": 18,
+        "btts_2hg_potential": 33,
+        "goalTimingDisabled": 0,
+        "attendance": -1,
+        "corner_timings_recorded": -1,
+        "card_timings_recorded": -1,
+        "team_a_fh_corners": -1,
+        "team_b_fh_corners": -1,
+        "team_a_2h_corners": -1,
+        "team_b_2h_corners": -1,
+        "corner_fh_count": -1,
+        "corner_2h_count": -1,
+        "team_a_fh_cards": -1,
+        "team_b_fh_cards": -1,
+        "team_a_2h_cards": -1,
+        "team_b_2h_cards": -1,
+        "total_fh_cards": -1,
+        "total_2h_cards": -1,
+        "attacks_recorded": -1,
+        "team_a_dangerous_attacks": 0,
+        "team_b_dangerous_attacks": 0,
+        "team_a_attacks": 0,
+        "team_b_attacks": 0,
+        "team_a_xg": 0,
+        "team_b_xg": 0,
+        "total_xg": 0,
+        "team_a_penalties_won": 0,
+        "team_b_penalties_won": 0,
+        "team_a_penalty_goals": 0,
+        "team_b_penalty_goals": 0,
+        "team_a_penalty_missed": 0,
+        "team_b_penalty_missed": 0,
+        "pens_recorded": 1,
+        "goal_timings_recorded": 1,
+        "team_a_0_10_min_goals": 0,
+        "team_b_0_10_min_goals": 0,
+        "team_a_corners_0_10_min": -1,
+        "team_b_corners_0_10_min": -1,
+        "team_a_cards_0_10_min": -1,
+        "team_b_cards_0_10_min": -1,
+        "throwins_recorded": -1,
+        "team_a_throwins": -1,
+        "team_b_throwins": -1,
+        "freekicks_recorded": -1,
+        "team_a_freekicks": -1,
+        "team_b_freekicks": -1,
+        "goalkicks_recorded": -1,
+        "team_a_goalkicks": -1,
+        "team_b_goalkicks": -1,
+        "o45_potential": 15,
+        "o35_potential": 27,
+        "o25_potential": 59,
+        "o15_potential": 77,
+        "o05_potential": 94,
+        "o15HT_potential": 29,
+        "o05HT_potential": 80,
+        "o05_2H_potential": 79,
+        "o15_2H_potential": 53,
+        "corners_potential": 9.77,
+        "offsides_potential": 2.76,
+        "cards_potential": 5.35,
+        "avg_potential": 2.77,
+        "home_url": "/clubs/clube-atletico-bragantino-635",
+        "home_image": "teams/brazil-clube-atletico-bragantino.png",
+        "home_name": "Bragantino",
+        "away_url": "/clubs/fortaleza-ec-2601",
+        "away_image": "teams/brazil-fortaleza-ec.png",
+        "away_name": "Fortaleza",
+        "home_ppg": 1.65,
+        "away_ppg": 0.76,
+        "pre_match_home_ppg": 1.65,
+        "pre_match_away_ppg": 0.76,
+        "pre_match_teamA_overall_ppg": 1.29,
+        "pre_match_teamB_overall_ppg": 1,
+        "u45_potential": 85,
+        "u35_potential": 74,
+        "u25_potential": 41,
+        "u15_potential": 24,
+        "u05_potential": 6,
+        "corners_o85_potential": 68,
+        "corners_o95_potential": 53,
+        "corners_o105_potential": 44,
+        "team_a_xg_prematch": 1.59,
+        "team_b_xg_prematch": 1.17,
+        "total_xg_prematch": 2.76,
+        "match_url": "/brazil/clube-atletico-bragantino-vs-fortaleza-ec-h2h-stats",
+        "competition_id": 14231,
+        "matches_completed_minimum": 34,
+        "lineups": {
+            "team_a": [],
+            "team_b": []
+        },
+        "bench": {
+            "team_a": [],
+            "team_b": []
+        },
+        "team_a_goal_details": [],
+        "team_b_goal_details": [],
+        "trends": {
+            "home": [
+                [
+                    "chart",
+                    "Coming into this game, Bragantino has picked up 9 points from the last 5 games, both home and away. That's 1.8 points per game on average. BTTS has landed in just 2 of those games. Bragantino has scored 6 times in the last 5 fixtures."
+                ],
+                [
+                    "bad",
+                    "Just 2 of the last 5 games for Bragantino has ended with both teams scoring. They have won 3 of those 5 games. Overall, BTTS has landed in 20/35 games for Bragantino this season."
+                ]
+            ],
+            "away": [
+                [
+                    "chart",
+                    "Coming into this game, Fortaleza has picked up 7 points from the last 5 games, both home and away. That's 1.4 points per game on average. BTTS has landed in an intriguing 5 of those games. Fortaleza has scored 10 times in the last 5 fixtures."
+                ],
+                [
+                    "great",
+                    "Fortaleza has enjoyed playing away from home recently, with the side currently unbeaten in 4 games."
+                ],
+                [
+                    "great",
+                    "Momentum is really building for Fortaleza as they have now gone 6 games without losing. They have won 1 of the last 5 games they have played."
+                ],
+                [
+                    "great",
+                    "It's possible we will see a couple of goals here, with the last 5 games for Fortaleza ending with 2 goals or more being scored."
+                ],
+                [
+                    "great",
+                    "Fortaleza is unbeaten in the last 5 games coming into this fixture against Bragantino, having won 1 and drawn 4. They have scored 10 goals in those 5 games."
+                ],
+                [
+                    "great",
+                    "The last 5 games for Fortaleza has each seen both teams scoring. Will they improve their defence, or will we see more of the same here? This season Fortaleza has seen a total of 17/34 fixtures end with both teams scoring. That's 50% of all matches played."
+                ],
+                [
+                    "great",
+                    "It's likely that Fortaleza will score today, as they have netted in the last 6 games coming into this one and have scored 10 goals in the last five games."
+                ]
+            ]
+        },
+        "homeGoals_timings": [],
+        "awayGoals_timings": [],
+        "team_a_card_details": [],
+        "team_b_card_details": [],
+        "h2h": {
+            "team_a_id": 635,
+            "team_b_id": 2601,
+            "previous_matches_results": {
+                "team_a_win_home": 3,
+                "team_a_win_away": 1,
+                "team_b_win_home": 4,
+                "team_b_win_away": 2,
+                "draw": 1,
+                "team_a_wins": 4,
+                "team_b_wins": 6,
+                "totalMatches": 11,
+                "team_a_win_percent": 36,
+                "team_b_win_percent": 55
+            },
+            "betting_stats": {
+                "over05": 11,
+                "over15": 10,
+                "over25": 9,
+                "over35": 2,
+                "over45": 1,
+                "over55": 1,
+                "btts": 6,
+                "clubACS": 2,
+                "clubBCS": 3,
+                "over05Percentage": 100,
+                "over15Percentage": 91,
+                "over25Percentage": 82,
+                "over35Percentage": 18,
+                "over45Percentage": 9,
+                "over55Percentage": 9,
+                "bttsPercentage": 55,
+                "clubACSPercentage": 18,
+                "clubBCSPercentage": 27,
+                "avg_goals": 3.09,
+                "total_goals": 34
+            },
+            "previous_matches_ids": [
+                {
+                    "id": 7834479,
+                    "date_unix": 1753565400,
+                    "team_a_id": 2601,
+                    "team_b_id": 635,
+                    "team_a_goals": 3,
+                    "team_b_goals": 1
+                },
+                {
+                    "id": 7373447,
+                    "date_unix": 1723930200,
+                    "team_a_id": 635,
+                    "team_b_id": 2601,
+                    "team_a_goals": 1,
+                    "team_b_goals": 2
+                },
+                {
+                    "id": 7373212,
+                    "date_unix": 1714339800,
+                    "team_a_id": 2601,
+                    "team_b_id": 635,
+                    "team_a_goals": 1,
+                    "team_b_goals": 1
+                },
+                {
+                    "id": 5406784,
+                    "date_unix": 1701387000,
+                    "team_a_id": 635,
+                    "team_b_id": 2601,
+                    "team_a_goals": 1,
+                    "team_b_goals": 2
+                },
+                {
+                    "id": 5406598,
+                    "date_unix": 1690666200,
+                    "team_a_id": 2601,
+                    "team_b_id": 635,
+                    "team_a_goals": 0,
+                    "team_b_goals": 3
+                },
+                {
+                    "id": 1588950,
+                    "date_unix": 1668036600,
+                    "team_a_id": 2601,
+                    "team_b_id": 635,
+                    "team_a_goals": 6,
+                    "team_b_goals": 0
+                },
+                {
+                    "id": 1588756,
+                    "date_unix": 1658354400,
+                    "team_a_id": 635,
+                    "team_b_id": 2601,
+                    "team_a_goals": 2,
+                    "team_b_goals": 1
+                },
+                {
+                    "id": 1214907,
+                    "date_unix": 1636840800,
+                    "team_a_id": 635,
+                    "team_b_id": 2601,
+                    "team_a_goals": 3,
+                    "team_b_goals": 0
+                },
+                {
+                    "id": 1214715,
+                    "date_unix": 1627239600,
+                    "team_a_id": 2601,
+                    "team_b_id": 635,
+                    "team_a_goals": 1,
+                    "team_b_goals": 0
+                },
+                {
+                    "id": 848390,
+                    "date_unix": 1607803200,
+                    "team_a_id": 635,
+                    "team_b_id": 2601,
+                    "team_a_goals": 2,
+                    "team_b_goals": 1
+                },
+                {
+                    "id": 848200,
+                    "date_unix": 1598745600,
+                    "team_a_id": 2601,
+                    "team_b_id": 635,
+                    "team_a_goals": 3,
+                    "team_b_goals": 0
+                }
+            ]
+        },
+        "tv_stations": [
+            "Bet365"
+        ],
+        "weather": {
+            "id": 677179,
+            "fixture_id": 19387258,
+            "venue_id": 338627,
+            "temperature": {
+                "day": 24.4,
+                "morning": 11.93,
+                "evening": 23.63,
+                "night": 14.12
+            },
+            "feels_like": {
+                "day": 23.89,
+                "morning": 11.58,
+                "evening": 23.17,
+                "night": 13.94
+            },
+            "wind": {
+                "speed": 5.7,
+                "direction": 132
+            },
+            "humidity": "38%",
+            "pressure": 1013,
+            "clouds": "0%",
+            "description": "sky is clear",
+            "icon": "https://cdn.sportmonks.com/images/weather/01d.png",
+            "type": "forecast",
+            "metric": "celcius",
+            "current": null
+        },
+        "gpt_en": "<div class=\"match-analysis\">\n  <p><strong>Bragantino vs Fortaleza</strong> \u2014 Est\u00e1dio Nabi Abi Chedid, Week 36, 2025</p>\n\n  <p>Market snapshot: Bragantino 1.96, Draw 3.25, Fortaleza 3.31. Home edge is clear; xG signals Bragantino control, while Fortaleza\u2019s away form weighs on the odds.</p>\n\n  <ul>\n    <li><strong xG edge:</strong> Bragantino home xG 1.59 vs Fortaleza away xG 1.17. Total forecast around 2.8 goals; aligns with a 2-1 or 2-0 vibe.</li>\n\n    <li><strongGoal timing:</strong> First half BTTS is low (18% average), but first-half goal chance is high (Over 0.5 in 1st half ~80%). Expect a sharper start, with more action after the break.</li>\n\n    <li><strongBTTS:</strong> BTTS Yes market 1.70, and the historical average BTTS rate is about 62%. Probable both teams find a way to score.</li>\n\n    <li><strongTotal goals:</strong> Historical average total goals around 2.77; Over 2.5 is 1.89, suggesting a two-goal game is most likely, with room for a late twist.</li>\n\n    <li><strongCorners:</strong> High-volume game expected. Over 7.5 corners 1.17, Over 9.5 1.72, and Bragantino to have most corners is 1.85.</li>\n\n    <li><strongDefensive outlook:</strong> Bragantino clean sheets Yes 2.80 vs Fortaleza 3.80. Bragantino has a stronger probability to keep a clean sheet than Fortaleza, but neither is a sure thing.</li>\n\n    <li><strongForm context:</strong> Bragantino at home xG 1.59 and PPPG 1.65; Fortaleza away xG 1.17 with just a 12% away win rate. Home superiority tilts the balance toward Bragantino.</li>\n  </ul>\n\n  <p><strong Quick predictions</strong></p>\n  <ul>\n    <li>Likeliest result: Bragantino win, but Fortaleza push for a fight if they nick a goal.</li>\n    <li>Scoreline range: 2-1 or 2-0 to Bragantino.</li>\n  </ul>\n\n  <p><strong Betting lean</strong></p>\n  <ul>\n    <li>Bragantino to win or draw \u2014 1.25</li>\n    <li>BTTS \u2014 Yes \u2014 1.70</li>\n    <li>Over 2.5 goals \u2014 1.89</li>\n    <li>Bragantino to have most corners \u2014 1.85</li>\n  </ul>\n\n  <p>Bottom line: the numbers back a Bragantino win with a lively, corner-heavy flow and a meaningful chance of both teams scoring. The fixture sits in the zone where a disciplined, attack-minded home side can control the tempo, while Fortaleza gamble on pockets of quality away from home.</p>\n</div>",
+        "gpt_int": {
+            "es": "An\u00e1lisis de apuestas Bragantino vs Fortaleza (2025, Jornada 36)\n\nDatos clave\n- Estadio: Est\u00e1dio Nabi Abi Chedid (Bragantino local)\n- Cuota destacada: Bragantino 1.96; Empate 3.25; Fortaleza 3.31\n- L\u00ednea de goles: Over 0.5 1.01; Over 1.5 1.25; Over 2.5 1.89; Under 3.5 1.30\n- BTTS: S\u00ed 1.70; No 2.00\n- Rachas y tendencias relevantes: promedio de corners en los partidos previos alto (9.77). Bragantino suele generar m\u00e1s c\u00f3rners en casa; Fortaleza fuera tiene xG a favor de 1.17 y xG en contra de 1.75, con un 12% de victorias como visitante.\n- Datos ofensivos y defensivos: xG medio por partido Bragantino 1.59; Fortaleza 1.17. Total medio entre ambos: 2.76. Bragantino tiene mejor rendimiento ofensivo en casa (xG for 1.59) y Fortaleza es m\u00e1s vulnerable fuera defensivamente.\n\nQu\u00e9 esperar\n- Inicio del partido: alta probabilidad de abrir el marcador en los primeros minutos (promedio de 1st half Over 0.5 y otros indicadores de actividad temprana). Apuesta de goles tempranos plausible.\n- Goles y ritmo: con un promedio de 2.76 goles por partido entre estos equipos, es razonable esperar un partido con m\u00e1s de 2.5 goles.\n\nApuestas recomendadas (en funci\u00f3n de las cuotas y tendencias)\n- Opci\u00f3n conservadora (asegura el valor de Bragantino en casa):\n  - Bragantino para ganar (doble oportunidad Bragantino Win o Draw) a 1.25\n  - Justificaci\u00f3n: Bragantino tiene mejor rendimiento en casa y Fortaleza es d\u00e9bil como visitante (12% de victorias fuera).\n- Opci\u00f3n principal de valor (combina tendencia de goles y goles en ambas porter\u00edas):\n  - Bragantino gana o BTTS S\u00ed y Over 2.5\n    - Bragantino Win (1.96) + BTTS S\u00ed (1.70) + Over 2.5 (1.89)\n    - Razonamiento: dominio en casa + probabilidad de que ambos marquen + ritmo ofensivo esperado.\n- Opci\u00f3n de alta confianza en c\u00f3rners:\n  - Over 7.5 corners a 1.17\n  - Bragantino tiene tendencia a ser el equipo con m\u00e1s Corners en el partido (1.85) y el promedio general de corners es alto (9.77), lo que a\u00f1ade seguridad para una apuesta de c\u00f3rners altos.\n  - Si buscas m\u00e1s upside: Over 9.5 corners a 1.72.\n- Enfoque de riesgo moderado:\n  - BTTS S\u00ed a 1.70 + Over 2.5 a 1.89\n  - Por qu\u00e9: las cuotas combinadas reflejan la probabilidad de que haya goles en ambos lados y un partido con al menos dos tantos.\n\nNotas de riesgo\n- El rendimiento defensivo de Fortaleza fuera no es favorable (xG en contra 1.75). Esto favorece a Bragantino, pero puede haber contragolpes que afecten a Fortaleza.\n- Aunque Bragantino es favorito, un empate o derrota no es imposible si Fortaleza aprovecha transiciones r\u00e1pidas y la presi\u00f3n del estadio visitante no se mantiene.\n\nConjunto final sugerido\n- Apuesta principal (conservadora): Bragantino Win o Draw (1.25)\n- Apuesta de valor compuesta: Bragantino para ganar + BTTS S\u00ed + Over 2.5\n- Apuesta de c\u00f3rners: Over 7.5 corners (1.17) y, como alternativa, Over 9.5 corners (1.72)\n\nAntecedentes \u00fatiles\n- Previo a este encuentro, el estilo y las cifras de ambos equipos se alinean con un partido con varios goles y una cantidad significativa de saques de esquina. El rendimiento de Bragantino en casa y la debilidad relativa de Fortaleza como visitante sostienen que Bragantino tiene mayor probabilidad de control del juego.",
+            "pt": "An\u00e1lise de apostas: Bragantino vs Fortaleza (Brasileir\u00e3o 2025, Rodada 36)\n\nResumo r\u00e1pido\n- Favorito: Bragantino (casa) with odds de vit\u00f3ria em 1.96; empate 3.25; Fortaleza 3.31.\n- Dicas-chave: Double Chance Bragantino Win or Draw em 1.25 \u00e9 op\u00e7\u00e3o segura; linha de gols relativamente alta para uma partida entre equipes com m\u00e9dias semelhantes.\n- BTTS: Prov\u00e1vel (Yes em 1.70).\n- Corners: volume alto esperado; Over 7.5 corners em 1.17 \u00e9 op\u00e7\u00e3o de baixo risco.\n- Total de gols: m\u00e9dia hist\u00f3rica aponta para ~2.8 gols no encontro; Over 2.5 em 1.89 costuma ser favored.\n\nAn\u00e1lise t\u00e1tica e estat\u00edstica relevante\n- xG e produ\u00e7\u00e3o ofensiva: Bragantino xG m\u00e9dio por jogo antes do confronto \u00e9 1.59; Fortaleza joga fora com xG m\u00e9dio de 1.17. Isso sugere vantagem ofensiva de Bragantino, mas Fortaleza pode reagir em condi\u00e7\u00f5es de jogo abertas.\n- Soma de xG dos dois times: ~2.76 por jogo entre as equipes, alinhado com a m\u00e9dia hist\u00f3rica de 2.77; portanto, \u00e9 prov\u00e1vel ver pelo menos 2 gols no confronto.\n- Desempenho em casa vs fora: Bragantino tem m\u00e9dia de xG sofrido em casa pr\u00f3ximo de 1.45; a equipe costuma criar chances e tem boa press\u00e3o em Nabi Abi Chedid. Fortaleza atua como visitante com baixo aproveitamento de vit\u00f3ria (apenas 12%), o que refor\u00e7a o favoritismo do time da casa.\n- Probabilidade de gols por metade: a m\u00e9dia de BTTS na 1\u00aa metade \u00e9 baixa (~18%), mas a 2\u00aa metade tem maior probabilidade (~33%). O in\u00edcio pode ter gols, mas o ritmo costuma subir na segunda etapa.\n- Escanteios: a m\u00e9dia hist\u00f3rica de cantos entre as duas equipes \u00e9 alta (aprox. 9.8 por jogo), com a linha Over 7.5 em 1.17 parecendo bastante vi\u00e1vel. Bragantino tende a dominar as bordas do campo e assinalar mais cantos, especialmente em casa.\n- Chances de manter a baliza zerada: Bragantino tem odds de Clean Sheets em 2.80 (sim)/1.38 (n\u00e3o); Fortaleza em 3.80 (sim)/1.22 (n\u00e3o). Isso aponta para uma possibilidade de gols para ambas as equipes, mas sem confiabilidade total de goleira 0.\n- Tend\u00eancia de corners: Bragantino costuma aparecer com mais cantos do que Fortaleza, com a op\u00e7\u00e3o \u201cBragantino Has Most Corners In The Match\u201d em 1.85. Ainda assim, h\u00e1 cen\u00e1rios em que as duas equipes igualam em cantos (6.60).\n\nPredi\u00e7\u00f5es pr\u00e1ticas e dicas de aposta\n- Aposta principal (baixo risco): Double Chance Bragantino Win or Draw 1.25 \u2014 mant\u00e9m a seguran\u00e7a mesmo em caso de empate.\n- Cen\u00e1rio de gols: Over 2.5 gols em 1.89 \u2014 prov\u00e1vel dado a soma de xG e a m\u00e9dia de gols por jogo entre as duas equipes.\n- Bloqueio de BTTS: BTTS Yes em 1.70 \u2014 h\u00e1 boa chance de ambas as equipes marcarem, dada a propens\u00e3o ofensiva de Bragantino em casa e a possibilidade de Fortaleza responder fora.\n- Corners: Over 7.5 cantos em 1.17 ou Over 9.5 cantos em 1.72 \u2014 op\u00e7\u00e3o s\u00f3lida para quem gosta de markets de dom\u00ednio de jogo e volume de cantos.\n- Op\u00e7\u00e3o adicional (cautela): Bragantino vencer em 1.96 \u2014 se voc\u00ea confia no favoritismo da equipe da casa, pode valer uma aposta simples, desde que aceite o risco.\n\nNotas r\u00e1pidas para o jogo\n- Est\u00e1dio: Est\u00e1dio Nabi Abi Chedid (casa do Bragantino).\n- Data de kickoff: 27 de novembro.\n- Tend\u00eancia de jogo: expectativa de dom\u00ednio de Bragantino, com Fortaleza buscando contragolpe e rea\u00e7\u00e3o em casa adversa.\n- Observa\u00e7\u00e3o de odds: Bragantino favorito levemente; odds pr\u00f3ximas de 2.0 para a vit\u00f3ria destacam equil\u00edbrio moderado, mas a vantagem de casa privilegia o Bragantino.\n\nConselho de gest\u00e3o de banca\n- Combine 2\u20133 op\u00e7\u00f5es com valida\u00e7\u00e3o de risco: use a aposta principal (double chance) como base, acrescente Over 2.5 e BTTS Yes para diversifica\u00e7\u00e3o, e inclua uma aposta de cantos como prote\u00e7\u00e3o de variance.\n- Evite overbet em favoritos sem corroborar com o tempo de jogo e estado de forma pr\u00f3ximo ao kickoff; mantenha o tamanho de aposta proporcional ao seu apetite de risco.\n\nResumo final\nBragantino aparece como favorito em casa; a combina\u00e7\u00e3o de xG, chance de gols em alta e hist\u00f3rico de cantos favorece apostas em Over 2.5, BTTS Yes e cantos elevados. A Double Chance Bragantino Win or Draw \u00e9 uma aposta conservadora que se alinha com o cen\u00e1rio atual.",
+            "tr": "Ma\u00e7: Bragantino vs Fortaleza\nSezon: 2025, Week 36\nStadyum: Est\u00e1dio Nabi Abi Chedid\n\nK\u0131sa \u00f6zet ve kilit noktalar\n- Bragantino evinde daha avantajl\u0131 konumda. Ev sahibi tak\u0131m i\u00e7in ge\u00e7mi\u015fteki xG ve ev sahibi performans\u0131 g\u00fc\u00e7l\u00fc; Bragantino\u2019n\u0131n ev xG\u2019si 1.59, evinde kazanma oran\u0131 %47. Fortaleza ise deplasmanda zay\u0131f formda (deplasmandaki kazanma oran\u0131 %12). Bu, Bragantino lehine temel bir ipucu.\n- Ma\u00e7 \u00e7o\u011funlukla goll\u00fc bitme e\u011filiminde. Ortalama toplam gol 2.77 ve Over 2.5 taraf\u0131 1.89 (y\u00fcksek olas\u0131l\u0131k). \u0130lk yar\u0131da BTTS oran\u0131 d\u00fc\u015f\u00fck olsa da ma\u00e7 genelde ikinci yar\u0131da etkili olur.\n- Goller ve k\u00f6\u015feler a\u00e7\u0131s\u0131ndan iki taraf da \u00fcretim yapabilir. Over 0.5 gol 1.01 gibi d\u00fc\u015f\u00fck oranlar, gol ihtimalinin y\u00fcksek oldu\u011funu g\u00f6steriyor. K\u00f6\u015felerde ise Over 7.5 k\u00f6\u015fe: 1.17 ile d\u00fc\u015f\u00fck riskli bir tercih.\n- Ortak dinamikler: BTTS (Yes) oran\u0131 1.70; \u00e7ift \u015fans Bragantino Win veya Draw 1.25; bu ma\u00e7 i\u00e7in Bragantino\u2019n\u0131n favori ama Benfica-like s\u00fcrpriz ihtimali de az de\u011fil.\n\nAnaliz ve kilit istatistikler\n- Ma\u00e7 sonucu a\u00e7\u0131s\u0131ndan: Bragantino Win 1.96, Draw 3.25, Fortaleza Win 3.31. Ev sahibi avantaj\u0131 ve Fortaleza\u2019n\u0131n deplasman performanslar\u0131 d\u00fc\u015f\u00fcn\u00fcl\u00fcnce Bragantino\u2019n\u0131n kazanmas\u0131 beklenen senaryo olarak \u00f6ne \u00e7\u0131k\u0131yor.\n- Temel gol olas\u0131l\u0131klar\u0131: Over 0.5 Goals 1.01, Over 1.5 Goals 1.25, Over 2.5 Goals 1.89. Ma\u00e7ta en az bir gol\u00fcn olmas\u0131 neredeyse kesin; 2.5 gol \u00fcst\u00fc olas\u0131l\u0131\u011f\u0131 ise g\u00f6rece y\u00fcksek.\n- BTTS (both teams to score): Yes 1.70, No 2.00. Her iki tak\u0131m\u0131n da skor potansiyeli y\u00fcksek g\u00f6r\u00fcn\u00fcyor; \u00e7ift y\u00f6nl\u00fc gol ihtimali \u00f6nemli.\n- Ev sahibi k\u00f6\u015fe \u00fcretimi: Bragantino \u201cMost Corners in the Match\u201d oran\u0131 1.85 ile \u00f6ne \u00e7\u0131k\u0131yor; toplam k\u00f6\u015fe say\u0131s\u0131 ortalamas\u0131 9.77 civar\u0131nda. Over 7.5 k\u00f6\u015fe 1.17 gibi d\u00fc\u015f\u00fck riskli bir se\u00e7enek.\n- Her iki tak\u0131m\u0131n k\u00f6\u015fe e\u015fitli\u011fi ihtimali: \u201cBragantino and Fortaleza Same Amount of Corner Kicks\u201d 6.60; bu se\u00e7enek nispeten d\u00fc\u015f\u00fck olas\u0131l\u0131kl\u0131 olsa da risk tercihlerinde de\u011ferlendirilebilir.\n- \u0130lk yar\u0131/dk. zamanlamas\u0131 i\u00e7g\u00f6r\u00fcleri: \u0130lk yar\u0131da BTTS oran\u0131 18% civar\u0131nda, dolay\u0131s\u0131yla 1. yar\u0131da net bir goller beklenmeyebilir. Ancak 1. yar\u0131 Over 0.5 gol olas\u0131l\u0131\u011f\u0131 y\u00fcksek (yakla\u015f\u0131k %80 civar\u0131nda). \u0130kinci yar\u0131 BTTS oran\u0131 yakla\u015f\u0131k %33, ikinci yar\u0131 i\u00e7in riskli fakat potansiyel getirisi olan bir alan.\n- Toplam gol ortalamas\u0131 ve ma\u00e7 i\u00e7i \u00fcretim: Her iki tak\u0131m\u0131n toplam gol beklentisi (xG) Bragantino i\u00e7in 1.59, Fortaleza i\u00e7in 1.17; ma\u00e7 ba\u015f\u0131na toplam xG yakla\u015f\u0131k 2.76. Bu da ma\u00e7\u0131n 2-3 gol aral\u0131\u011f\u0131nda sonu\u00e7lanabilece\u011fini destekliyor.\n\nBahis \u00f6nerileri (y\u00fcksek g\u00fcvenlikli ve orta riskli kombinasyonlar)\n- \u00d6ncelik (y\u00fcksek g\u00fcvenlikli): Bragantino Win or Draw (Double Chance) \u2013 1.25. Bragantino\u2019n\u0131n evinde \u00fcst\u00fcnl\u00fc\u011f\u00fc ve Fortaleza\u2019n\u0131n deplasman performans\u0131n\u0131n zay\u0131f olmas\u0131 nedeniyle g\u00fcvenli bir tercih.\n- Temel gol bahsi: Over 2.5 Goals \u2013 1.89. Ortalama gol \u00fcretimi ve her iki tak\u0131m\u0131n da skor potansiyeli ile uyumlu.\n- BTTS i\u00e7in orta riskli se\u00e7enek: BTTS Yes \u2013 1.70. Her iki tak\u0131m\u0131n da gol atabilme ihtimali y\u00fcksek g\u00f6r\u00fcn\u00fcyor.\n- K\u00f6\u015fe bahsi (d\u00fc\u015f\u00fck riskli): Over 7.5 K\u00f6\u015fe \u2013 1.17. Genel k\u00f6\u015fe ortalamas\u0131n\u0131 a\u015fma ihtimali kuvvetli.\n- Ekstra (risk severler): Bragantino\u2019nin ev sahibi avantaj\u0131 ve toplam k\u00f6\u015fe say\u0131s\u0131na dayal\u0131 \u201cBragantino has Most Corners in the Match\u201d +1.85 \u2013 riskli ama ma\u00e7 i\u00e7erisinde \u00f6ne ge\u00e7ebilir.\n\nKullan\u0131m notlar\u0131\n- Bu analiz, mevcut \u00f6zel istatistiklere dayan\u0131r (Bragantino ev formu, Fortaleza deplasman formu, xG verileri, k\u00f6\u015fe e\u011filimleri). 0.00 de\u011ferler i\u00e7eren g\u00f6r\u00fcnt\u00fclenen hedefler dikkate al\u0131nmad\u0131.\n- Ma\u00e7\u0131n tamam\u0131 i\u00e7in bie\u015fik ve s\u00fcrpriz ihtimali yok de\u011fil; \u00f6zellikle BTTS ve k\u00f6\u015fe bahislerinde ufak bir s\u00fcrpriz ihtimali g\u00f6z \u00f6n\u00fcnde bulundurulabilir.\n- Ma\u00e7 g\u00fcncel durumuna g\u00f6re kadro ve sakatl\u0131klar bu \u00f6ng\u00f6r\u00fcleri de\u011fi\u015ftirebilir; bu nedenle son durumu kontrol etmekte fayda var.\n\n\u0130lgili veri noktalar\u0131 (k\u0131sa referans):\n- Bragantino ev xG: 1.59; Bragantino ev win %: 47\n- Fortaleza deplasman: kazanma %: 12\n- Ortalama toplam gol: 2.77; Over 2.5: 1.89; BTTS Yes: 1.70\n- K\u00f6\u015fe: Over 7.5 k\u00f6\u015fe 1.17; Bragantino\u2019nin ma\u00e7 i\u00e7inde en \u00e7ok k\u00f6\u015fe \u00e7\u0131karma ihtimali: 1.85\n- \u0130lk yar\u0131 BTTS: ~18%; 2. yar\u0131 BTTS: ~33%\n\nNot: Bu analiz, taraflar aras\u0131ndaki genel e\u011filimleri ve mevcut bahis oranlar\u0131n\u0131 \u00f6zetler; herhangi bir iddia i\u00e7in oyun i\u00e7i de\u011fi\u015fiklikleri (kadro, kart cezalar\u0131 vb.) kontrol edin.",
+            "de": "Bragantino vs Fortaleza \u2013 36. Spieltag der Saison 2025, Est\u00e1dio Nabi Abi Chedid. Favorit ist Bragantino.\n\nWichtige Quoten (Stand): \n- Sieg Bragantino 1.96 | Remis 3.25 | Sieg Fortaleza 3.31\n- Over 0.5 Tore 1.01 | Over 1.5 Tore 1.25 | Over 2.5 Tore 1.89 | Over 3.5 Tore 3.26\n- BTTS Ja 1.70 | BTTS Nein 2.00\n- Double Chance Bragantino Win/Draw 1.25 | Fortaleza Win/Draw 1.70\n- Bragantino Clean Sheet Ja 2.80 | Nein 1.38 | Fortaleza Clean Sheet Ja 3.80 | Nein 1.22\n- Ecken: Over 7.5 1.17 | Over 8.5 1.28 | Over 9.5 1.72 | Over 10.5 1.89\n\nWedeutende Leistungsdaten (Vergleich zur Form und Durchschnitt)\n- Heimst\u00e4rke Bragantino: Heim-Winquote 47%, xG zu Hause 1.59; gegnerisches xG zu Hause 1.45 \u2013 deutliche Angriffsst\u00e4rke zu Hause.\n- Ausw\u00e4rtsst\u00e4rke Fortaleza: Ausw\u00e4rts-Winquote nur 12%, ausw\u00e4rts xG 1.17 \u2013 defensiv und offensiv weniger pr\u00e4sent als Bragantino zu Hause.\n- Gesamt-xG zwischen beiden Teams vor dem Match: 2.76 \u2013 deutet auf torgef\u00e4hriges Duell hin; Over 2.5 Tore ist nahe am \u00fcblichen Wert (ca. 59% der vergleichbaren Matches gingen over).\n\nWas spricht f\u00fcr Bragantino\n- Heimvorteil kombiniert mit besseren xG-Werten (1.59 zu Hause vs. 1.17 bei Fortaleza ausw\u00e4rts).\n- Bragantino hat die klarere Favoritenrolle (Double Chance Bragantino Win/Draw 1.25).\n- Hohe Tor- und Offensivaktivit\u00e4t in direkten Duellen (GesamtxG stark; Over 2.5 Optionen attraktiv).\n\nWas spricht f\u00fcr Fortaleza\n- Fortaleza h\u00e4lt sich in der Regel defensiv stabiler, was Clean-Sheet-M\u00f6glichkeiten erh\u00f6ht, auch wenn die Ausw\u00e4rtsform schw\u00e4cher ist (Clean Sheet Quote h\u00f6her als bei Bragantino, aber insgesamt riskant bei Ausw\u00e4rtsverpflichtung).\n- Beide Teams treffen h\u00e4ufig: BTTS Ja 1.70, was Robusteinsch\u00e4tzung unterst\u00fctzt.\n\nKey Trends und Eins\u00e4tze\n- Over 2.5 Tore (1.89) passt zur Gesamttendenz von 2.76 xG im direkten Aufeinandertreffen; Wer auf Tore setzt, k\u00f6nnte hier eine gute Balance zwischen Risiko und Gewinnchance finden.\n- BTTS Ja (1.70) reflektiert die hohe Trefferwahrscheinlichkeit beider Mannschaften basierend auf historischen Werten (62% BTTS-Rate im Vorlauf).\n- Eckenlastiges Spiel ist wahrscheinlich: Over 9.5 Ecken (1.72) oder Over 10.5 (1.89) passen zu der starken Corner-Phasen-Statistik (Durchschnitt ca. 9.77 Ecken pro Spiel).\n\nSzenarien-Empfehlungen (knappe, praxisnahe Wetten)\n- Basis-Tipp: Bragantino Sieg (1.96) mit zus\u00e4tzlicher BTTS Ja (1.70) \u2013 hohe Trefferquote und klarer Favoritenschatten, etwas riskanter durch m\u00f6gliche Gegentreffer.\n- Alternative Kombi: Double Chance Bragantino Win/Draw (1.25) + Over 2.5 Tore (1.89) \u2013 konservativer, aber mit guter Treffer- und Siegchance.\n- Risiko-Boost: Over 9.5 Ecken (1.72) \u2013 wenn du auf ein k\u00e4mpferisches Offensivduell setzt, liefert oft viele Eckb\u00e4lle.\n\nHinweis zum Spielverlauf (ohne Spieler):\n- Erwartete Zielwege: Mehr Risiko in der zweiten Halbzeit m\u00f6glich (2. Halbzeit-BTTS-Durchschnitt ca. 33%), k\u00f6nnte zu sp\u00e4ten Treffern f\u00fchren.\n- Defensive Phasen: Bragantino hat zu Hause tendenziell stabilere Defensive, Fortaleza muss Offensiv-Impulse liefern, um etwas mitzunehmen.\n\nZusammenfassung\nBragantino ist am Heimschirm der Favorit mit st\u00e4rkerem xG-Profil und einer soliden Heimbilanz. Fortaleza hat Au\u00dfenseiter-Chancen, sollte aber offensiv Akzente setzen, um Punkte zu sichern. Die wahrscheinlichsten Optionen: Sieg Bragantino, oft beide Teams treffen, mit einer realistischen Chance auf Over 2.5 Tore und eine Corner-intense Partie.",
+            "fr": "Analyse rapide du match: Bragantino vs Fortaleza (Saison 2025, Journ\u00e9e 36, Est\u00e1dio Nabi Abi Chedid)\n\nContexte et contexte statistique\n- Bragantino joue \u00e0 domicile et affiche une moyenne xG maison de 1.59; Fortaleza, en d\u00e9placement, affiche 1.17 xG quand loin de chez eux. Signes clairs d\u2019un l\u00e9ger avantage offensif pour Bragantino dans ce rencontres.\n- Propri\u00e9taire du matelas d\u00e9fensif et offensif: Bragantino a une probabilit\u00e9 de victoire plus \u00e9lev\u00e9e que Fortaleza \u00e0 l\u2019ext\u00e9rieur (Fortaleza away win ~12%), renfor\u00e7ant le favori \u00e0 domicile.\n- Score et buts attendus: xG total du match autour de 2.76 (1.59 pour Bragantino \u00e0 domicile + 1.17 pour Fortaleza en d\u00e9placement), indiquant un potentiel l\u00e9g\u00e8rement au-dessus du moyenne pour ce clich\u00e9 de rencontre.\n- Tendances de buts: moyenne g\u00e9n\u00e9rale BTTS autour de 62% avant ce match; la 1re mi-temps pr\u00e9sente une probabilit\u00e9 moindre de BTTS (\u224818%), mais la 2e mi-temps augmente (\u224833%). Attendez-vous \u00e0 des buts plus probables apr\u00e8s la pause.\n- Corners: les moyennes montrent environ 9.8 corners par match; Over 7.5 corners est quasi assur\u00e9 (1.17), et Over 8.5 reste tr\u00e8s accessible (1.28).\n\nStatistiques cl\u00e9s \u00e0 surveiller\n- Buts et actions: Over 2.5 goals \u00e0 ~59% (probabilit\u00e9 \u00e9lev\u00e9e), et Over 1.5 goals \u00e0 ~77%; pr\u00e9f\u00e8rez donc un match avec plusieurs occasions et buts.\n- Corners: expectez une rencontre avec pas mal de corners; Bragantino a une probabilit\u00e9 l\u00e9g\u00e8rement plus \u00e9lev\u00e9e d\u2019obtenir le plus grand nombre de corners (ou les deux \u00e9quipes pourraient \u00eatre proches sur les coups de pied de coin).\n- Parit\u00e9s et opportunit\u00e9s de but en 1er mi-temps: Over 0.5 en 1er mi-temps est tr\u00e8s probable (\u224880%), mais la probabilit\u00e9 que les deux \u00e9quipes marquent dans ce intervalle reste mod\u00e9r\u00e9e.\n- Possibilit\u00e9s de clean sheet: Bragantino propose une option clean sheet \u00e0 2.80; Fortaleza \u00e0 3.80; ces chiffres sugg\u00e8rent que le pari pr\u00e9cision net est moins probable mais possible selon le d\u00e9roulement du match.\n\nPr\u00e9visions et conseils de paris\n- Verdict principal: Bragantino en position de force pour la victoire, mais Doubl\u00e9 Chance Bragantino Win or Draw \u00e0 1.25 offre une s\u00e9curit\u00e9 raisonnable si vous voulez limiter le risque.\n- Score probable: 2-1 en faveur de Bragantino appara\u00eet comme le sc\u00e9nario le plus plausible, compte tenu du profil des \u00e9quipes et du contexte domicile/ext\u00e9rieur.\n- Bets recommand\u00e9s (valeurs raisonnables):\n  - Over 2.5 goals (1.89) et BTTS Yes (1.70) pour viser une rencontre avec plusieurs buts et les deux \u00e9quipes capables de marquer.\n  - Bragantino Win ou Draw (double chance) \u00e0 1.25 pour une couverture fiable si vous privil\u00e9giez la s\u00e9curit\u00e9.\n  - Corners: Over 8.5 corners (1.28) ou Over 9.5 corners (1.72) pour profiter de la moyenne \u00e9lev\u00e9e de corners et du potentiel offensif des deux c\u00f4t\u00e9s.\n- Option de hedge: parier Bragantino pour gagner et BTTS Yes peut offrir un \u00e9quilibre entre possibilit\u00e9 de victoire et assurance que les deux \u00e9quipes scorent.\n\nPoints cl\u00e9s \u00e0 garder en t\u00eate\n- Bragantino est favorit \u00e0 domicile avec un profil xG plus \u00e9lev\u00e9 et une meilleure dynamique offensive, tandis que Fortaleza montre des difficult\u00e9s \u00e0 l\u2019ext\u00e9rieur.\n- Le match devrait comporter plusieurs occasions et probablement plus de 2 buts, avec une probabilit\u00e9 \u00e9lev\u00e9e de buts dans la seconde mi-temps.\n- Les corners seront un \u00e9l\u00e9ment important; viser Over 7.5/8.5 ou m\u00eame Over 9.5 peut apporter une bonne valeur selon votre approche.\n\nRappel rapide des chiffres utiles\n- Cotes notablement favorables: Bragantino 1.96; Double Chance Bragantino Win or Draw 1.25; Over 2.5 Goals 1.89; BTTS Yes 1.70.\n- Corners: Over 7.5 1.17; Over 8.5 1.28; Over 9.5 1.72.\n- Attentes g\u00e9n\u00e9rales: moyenne xG du match environ 2.76; BTTS global ~62%; 1er mi-temps Over 0.5 ~80%, 2e mi-temps Over 0.5 ~79%.\n\nConclusion rapide\nAttendu: Bragantino en contr\u00f4le \u00e0 domicile, mais avec une marge insuffisante pour exclure Fortaleza de marquer. Parier sur Over 2.5 et BTTS Yes para\u00eet une valeur solide, avec une option de s\u00e9curit\u00e9 en Double Chance Bragantino Win or Draw. Score probable autour de 2-1 en faveur de Bragantino.",
+            "ja": "\u8a66\u5408\u5206\u6790: \u30d6\u30e9\u30ac\u30f3\u30c1\u30fc\u30ce vs \u30d5\u30a9\u30eb\u30bf\u30ec\u30b6\n\u30b7\u30fc\u30ba\u30f3: 2025\u5e74 \u7b2c36\u7bc0\n\u4f1a\u5834: Est\u00e1dio Nabi Abi Chedid\n\u72b6\u6cc1: \u672a\u5b8c\u306e\u8a66\u5408\n\n\u7dcf\u8a55\u3068\u80cc\u666f\n- \u30db\u30fc\u30e0\u6709\u5229\u8981\u56e0\u304c\u5f37\u3044\u3002\u30d6\u30e9\u30ac\u30f3\u30c1\u30fc\u30ce\u306e\u30db\u30fc\u30e0\u52dd\u7387\u306f\u7d0447%\u3001\u653b\u6483\u529b\u306e\u30a2\u30c9\u30d0\u30f3\u30c6\u30fc\u30b8\uff08\u30db\u30fc\u30e0\u3067 +18\u306e\u653b\u6483\u529b\u512a\u4f4d\uff09\u3082\u793a\u5506\u3002\u5bfe\u3059\u308b\u30d5\u30a9\u30eb\u30bf\u30ec\u30b6\u306f\u30a2\u30a6\u30a7\u30fc\u6210\u7e3e\u304c\u4f4e\u8abf\uff08\u30a2\u30a6\u30a7\u30fc\u52dd\u7387\u7d0412%\uff09\u3002\n- \u4e21\u8005\u306e\u904e\u53bb\u30c7\u30fc\u30bf\u304b\u3089\u7dcf\u5f97\u70b9\u306e\u671f\u5f85\u5024\u306f\u9ad8\u3081\u3002\u524d\u8a66\u5408\u9593\u306e\u5e73\u5747xG\u5408\u8a08\u306f\u7d042.76\u3001\u904e\u53bb\u306e\u5bfe\u6226\u50be\u5411\u3067\u30822.5\u4ee5\u4e0a\u306e\u5f97\u70b9\u304c\u898b\u8fbc\u307e\u308c\u3084\u3059\u3044\u5c40\u9762\u304c\u591a\u3044\u3002\n- BTTS\u306e\u50be\u5411\u306f\u9ad8\u3081\u3002\u4e21\u30c1\u30fc\u30e0\u304c\u5f97\u70b9\u3059\u308b\u78ba\u7387\u306e\u5e73\u5747\u306f\u7d0462%\u3068\u9ad8\u304f\u3001BTTS Yes\u306e\u30aa\u30c3\u30ba1.70\u306f\u5e02\u5834\u611f\u899a\u3068\u4e00\u81f4\u3002\n- \u30b3\u30fc\u30ca\u30fc\u6226\u7565\u306b\u3082\u6ce8\u8996\u3002\u76f4\u8fd1\u306e\u30c7\u30fc\u30bf\u3067\u7dcf\u30b3\u30fc\u30ca\u30fc\u6570\u306e\u5e73\u5747\u306f\u7d049.8\u30027.5\u4ee5\u4e0a\u3092\u72d9\u3046\u30aa\u30c3\u30ba1.17\u306f\u5805\u3081\u306e\u6307\u6a19\u30019.5\u201311.5\u8fba\u308a\u306e\u30ec\u30f3\u30b8\u3082\u73fe\u5b9f\u5473\u3042\u308a\u3002\n\n\u30aa\u30c3\u30ba\u3068\u7d71\u8a08\u306e\u8aad\u307f\u65b9\uff08\u8981\u70b9\uff09\n- \u52dd\u6557\u30aa\u30c3\u30ba: \u30d6\u30e9\u30ac\u30f3\u30c1\u30fc\u30ce\u52dd\u52291.96\u3001\u30c9\u30ed\u30fc3.25\u3001\u30d5\u30a9\u30eb\u30bf\u30ec\u30b6\u52dd\u52293.31\u3002\u30db\u30fc\u30e0\u3067\u306e\u512a\u4f4d\u6027\u3092\u53cd\u6620\u3057\u3066\u30d6\u30e9\u30ac\u30f3\u30c1\u30fc\u30ce\u512a\u52e2\u306e\u898b\u7acb\u3066\u304c\u59a5\u5f53\u3002\n- \u5f97\u70b9\u30e9\u30a4\u30f3: Over 2.5 goals 1.89\u3001Over 1.5 goals 1.25\u3001Over 0.5 goals\u306f1.01\u3002\u7dcf\u5f97\u70b9\u306f\u4e0a\u6607\u50be\u5411\u3067\u30010\u20131\u70b9\u53f0\u306e\u4f4e\u5f97\u70b9\u5bc4\u308a\u306b\u306f\u5bc4\u3089\u305a\u30012\u20133\u30b4\u30fc\u30eb\u306e\u30ec\u30f3\u30b8\u304c\u6709\u529b\u3002\n- BTTS: Yes 1.70\u3001No 2.00\u3002\u9ad8\u3081\u306eBTTS\u671f\u5f85\u5024\u3092\u8e0f\u307e\u3048\u3001\u4e21\u8005\u306e\u5f97\u70b9\u53ef\u80fd\u6027\u3092\u4e21\u65b9\u898b\u308b\u6226\u7565\u304c\u6709\u52b9\u3002\n- \u30b3\u30fc\u30ca\u30fc: Over 9.5\u30b3\u30fc\u30ca\u30fc1.72\u3001Over 10.5\u30b3\u30fc\u30ca\u30fc1.89\u3002\u8a66\u5408\u5168\u4f53\u3067\u30b3\u30fc\u30ca\u30fc\u304c10\u672c\u524d\u5f8c\u306b\u53ce\u307e\u308b\u30b1\u30fc\u30b9\u304c\u591a\u3044\u304c\u3001\u4e21\u8005\u306e\u653b\u6483\u529b\u3092\u8003\u3048\u308b\u3068\u4e2d\u301c\u9ad8\u30ec\u30f3\u30b8\u3067\u306e\u6210\u7acb\u304c\u73fe\u5b9f\u7684\u3002\n- \u30d6\u30e9\u30ac\u30f3\u30c1\u30fc\u30ce\u306e\u30b3\u30fc\u30ca\u30fc\u6709\u5229\u6027: \u300cBragantino Has Most Corners In The Match\u300d\u30aa\u30c3\u30ba1.85\u3002\u30db\u30fc\u30e0\u306e\u653b\u6483\u5727\u529b\u304b\u3089\u3001\u30d6\u30e9\u30ac\u30f3\u30c1\u30fc\u30ce\u304c\u6700\u591a\u30b3\u30fc\u30ca\u30fc\u3092\u53d6\u308a\u5207\u308b\u5c55\u958b\u3082\u60f3\u5b9a\u3002\n\n\u63a8\u5968\u30d9\u30c3\u30c8\u6848\uff08\u5b9f\u6226\u5411\u3051\u306e\u7d44\u307f\u5408\u308f\u305b\uff09\n- \u30bb\u30fc\u30d5\u7cfb\n  - Bragantino Win or Draw\uff08\u30c0\u30d6\u30eb\u30c1\u30e3\u30f3\u30b9\uff09 1.25\n  - BTTS Yes\uff08\u4e21\u30c1\u30fc\u30e0\u5f97\u70b9\uff09 1.70\n- \u4e2d\u301c\u9ad8\u30ea\u30bf\u30fc\u30f3\u7cfb\n  - Over 2.5 goals\uff082.5\u5f97\u70b9\u4ee5\u4e0a\uff09 1.89\n  - Over 9.5 corners\uff089.5\u672c\u4ee5\u4e0a\u306e\u30b3\u30fc\u30ca\u30fc\uff09 1.72\n- \u30aa\u30d7\u30b7\u30e7\u30f3\n  - Bragantino\u304c\u8a66\u5408\u6700\u591a\u30b3\u30fc\u30ca\u30fc\u3092\u53d6\u308b\uff08Most Corners by Bragantino\uff09 1.85\n\n\u72d9\u3044\u3068\u7559\u610f\u70b9\n- \u30db\u30fc\u30e0\u5f37\u5316\u3068\u76f8\u624b\u306e\u30a2\u30a6\u30a7\u30fc\u4e0d\u632f\u3092\u80cc\u666f\u306b\u3001\u30d6\u30e9\u30ac\u30f3\u30c1\u30fc\u30ce\u306e\u52dd\u6a5f\u306f\u9ad8\u3081\u3002\u305f\u3060\u3057\u672a\u5b8c\u306e\u8a66\u5408\u306e\u72b6\u6cc1\u5909\u5316\u306b\u306f\u6ce8\u610f\u3002\u5f97\u70b9\u3068\u30b3\u30fc\u30ca\u30fc\u306e\u4e21\u65b9\u3067\u30dc\u30fc\u30c0\u30fc\u3092\u8d85\u3048\u308b\u5c55\u958b\u304c\u8aad\u307f\u3084\u3059\u3044\u3002\n- \u7dcf\u5f97\u70b9\u3092\u72d9\u3046\u306a\u3089Over2.5\u30fbBTTS\u306e\u4f75\u7528\u304c\u5408\u7406\u7684\u3002\u30b3\u30fc\u30ca\u30fc\u7279\u5316\u306a\u3089Over9.5\u3068Bragantino\u306b\u3088\u308b\u6700\u591a\u30b3\u30fc\u30ca\u30fc\u306e\u30bb\u30c3\u30c8\u3082\u6709\u52b9\u3002\n- 0.5\u30b4\u30fc\u30eb\u672a\u6e80\u306e\u53ef\u80fd\u6027\u306f\u4f4e\u304f\u3001\u5e8f\u76e4\u304b\u3089\u306e\u30a2\u30af\u30c6\u30a3\u30d6\u306a\u5c55\u958b\u3092\u60f3\u5b9a\u30021st half\u306e\u5f97\u70b9\u6a5f\u4f1a\u306b\u3082\u6ce8\u610f\u3002\n\n\u8981\u70b9\n- \u30db\u30fc\u30e0\u512a\u4f4d\u3068\u9ad8\u3044\u5f97\u70b9\u30ec\u30f3\u30b8\u306e\u7d44\u307f\u5408\u308f\u305b\u304c\u57fa\u672c\u7dda\u3002 BTTS\u3068Over\u7cfb\u306e\u4e21\u65b9\u3092\u8ef8\u306b\u636e\u3048\u3064\u3064\u3001\u5b88\u5099\u304c\u5b89\u5b9a\u3057\u306a\u3051\u308c\u3070Bragantino\u306e\u52dd\u5229\u30aa\u30c3\u30ba1.96\u3092\u6839\u62e0\u306b\u62bc\u3057\u76ee\u3092\u72d9\u3046\u306e\u3082\u3042\u308a\u3002",
+            "it": "Analisi rapida per scommesse: Bragantino vs Fortaleza, stagione 2025, Giornata 36, Est\u00e1dio Nabi Abi Chedid.\n\nSituazione chiave\n- Pronostico favorisce Bragantino in casa: lines 1.96 vs Fortaleza 3.31, pareggio 3.25.\n- Attacco/efficienza: Bragantino xG a casa 1.59; Fortaleza xG in trasferta 1.17; totale medio di xG tra le due squadre 2.76.\n- Probabilit\u00e0 gol: Over 1.5 a 1.25 e Over 2.5 a 1.89 indicano potenziale di pi\u00f9 reti; Over 0.5 \u00e8 quasi certo (1.01).\n- BTTS: s\u00ec \u00e8 probabile (BTTS Yes a 1.70); BTTS No a 2.00.\n- Primo tempo: BTTS probabile poco (media 18%), ma oltre il 80% delle partite hanno almeno un gol nel primo tempo.\n- Fase difensiva: Bragantino potrebbe concedere qualcosa a casa (clean sheets Yes a 2.80; No a 1.38). Fortaleza outsider offensivamente in trasferta (clean sheets Yes 3.80; No 1.22).\n\nAspetti tattici\n- Bragantino mostra chiaro vantaggio offensivo in casa (attacco in crescita, difesa moderatamente vulnerabile). Fortaleza ha percentuale bassa di vittorie in trasferta e potrebbe aver bisogno di contropiede.\n- Volume di calci d\u2019angolo: Over 7.5 corners a 1.17\u2013Over 9.5 a 1.72; potenziale alta quantit\u00e0 di calci d\u2019angolo per entrambe le squadre. Possibilit\u00e0 di avere il maggior numero di angoli da parte di Bragantino (1.85).\n\nPrevisioni rapide\n- Risultato probabile: 2-1 o 2-2 (Bragantino favorito, ma Fortaleza pu\u00f2 rispondere).\n- Obiettivi di scommessa consigliati:\n  - Bragantino vince: 1.96\n  - BTTS (s\u00ec): 1.70\n  - Over 2.5 goals: 1.89\n  - Corners: Over 8.5 o Bragantino ha pi\u00f9 angoli (Over 8.5 a 1.28; Bragantino has Most Corners a 1.85)\n\nRiassunto chiave\n- Alta probabilit\u00e0 di reti totali, con Bragantino favorito ma Fortaleza pronta a rispondere.\n- Linea di corte: vittoria casa e entrambe le squadre a segno offre valore, accompagnata da un possibile exploit sui corner data la tendenza storica.",
+            "se": "Analys inf\u00f6r Bragantino vs Fortaleza (Brasilien, 2025, Spieltag 36)\nPlats: Est\u00e1dio Nabi Abi Chedid\n\n\u00d6versikt\n- Hemmaplan ger Bragantino f\u00f6rdel: Bragantino har viss hemmaplansvinst (47% i hemmaplan), medan Fortaleza \u00e4r svagare som g\u00e4ster (ca 12% vinst borta). Det st\u00e4rker Bragitancos chanser i denna match.\n- xG-ramverk indikerar offensiv tydlighet till Bragantino hemma: Bragantino ligger runt 1.59 i f\u00f6rv\u00e4ntade m\u00e5l per match hemma, medan Fortaleza som g\u00e4ster ligger n\u00e4rmare 1.17. Totalt f\u00f6r m\u00f6tet ligger f\u00f6rv\u00e4ntade m\u00e5l runt 2.76, vilket passar en match d\u00e4r b\u00e5da lagen kan hitta n\u00e4tet men d\u00e4r defensiv stabilitet fortfarande r\u00e4knas.\n- M\u00e5lriktning och odds: Under 4.5 m\u00e5l \u00e4r starkt spelbart enligt historiska m\u00f6nster (drygt 85% brukar g\u00e5 under 4.5). \u00d6ver 2.5 m\u00e5l ligger omkring 59% historiskt, men marknaden ser \u00e4nd\u00e5 oddsen som n\u00e5got streckade mot ett l\u00e4ngre m\u00e5lspel. BTTS har generellt h\u00f6g sannolikhet (runt 62% historiskt), vilket g\u00f6r BTTS till ett attraktivt komplement.\n- H\u00f6rnor och press: Genomsnittliga h\u00f6rnor i dessa m\u00f6ten ligger h\u00f6gt (n\u00e4ra 9\u201310 totalt). \u00d6ver 7.5 h\u00f6rnor ges l\u00e5gt odds, vilket speglar en ofta fylld chansning i denna typ av match. Bragantino tenderar ofta att vinna m\u00e5nga h\u00f6rnor (statvardering kring 1.85 f\u00f6r att Bragantino har flest h\u00f6rnor).\n\nNyckelstatistik att v\u00e4ga in\n- F\u00f6rv\u00e4ntade m\u00e5l och m\u00e5lfrekvens: Totalt xG mellan lagen runt 2.76. F\u00f6rv\u00e4ntat att matchen landar i n\u00e5got mellan 2\u20133 m\u00e5l. Under 3.5 m\u00e5l \u00e4r starkt snitt (undre risk) och odds omkring 1.30, vilket speglar den historiska trenden.\n- M\u00e5lf\u00f6rdelning och b\u00e5da laget g\u00f6r m\u00e5l: BTTS-oddsen (1.70) ligger i linje med en 60+% historisk sannolikhet att b\u00e5da lagen g\u00f6r m\u00e5l.\n- H\u00f6rnstatistik: Totalt h\u00f6rnor \u00f6ver 7.5 \u00e4r l\u00e5gt odds (1.17). Bragantino har ofta flest h\u00f6rnor i matchen (1.85), vilket g\u00f6r h\u00f6rnkampen till en tydlig faktor.\n- F\u00f6rv\u00e4ntad defensiv och ren m\u00e5ltagning: Bragantino har en h\u00f6gre defensiv stabilitet hemma \u00e4n Fortaleza i borta-situationer. En ren nolla f\u00f6r Bragantino (Clean Sheet Yes, odds 2.80) \u00e4r m\u00f6jligt men inte given baserat p\u00e5 motst\u00e5ndets offensiva potential.\n\nTaktiska takeaways\n- Bragantino kommer sannolikt att inleda med h\u00f6g press hemma och f\u00f6rs\u00f6ka kontrollera matchens tempo. Detta \u00f6kar chanserna f\u00f6r h\u00f6rnor och tidiga m\u00e5lminuter.\n- Fortaleza kan vara farliga i omst\u00e4llningar och vid fasta situationer; dock har bortaresan en l\u00e4gre vinstprocent, vilket g\u00f6r Bragantino-f\u00f6rv\u00e4ntning starkare.\n- F\u00f6rv\u00e4nta en match med m\u00e5ltendens, men med en stor del av m\u00e5len sannolikt f\u00f6re eller under halvtidsvilan och fortsatt kamp i andra halvlek.\n\n Rekommenderade vadslagningsid\u00e9er\n- Prim\u00e4rt spel: Bragantino Win or Draw (double chance) \u2013 odds cirka 1.25. F\u00f6r en tryggare satsning med hemmaplansf\u00f6rdel och xG-f\u00f6rv\u00e4ntan \u00e4r detta logiskt.\n- Andra spelv\u00e4rde: Under 3.5 m\u00e5l \u2013 odds cirka 1.30. St\u00f6ds av historiska trender som pekar mot ett t\u00e4tt, defensivt f\u00f6rh\u00e5llande och m\u00e5ltalsfluktuationer under 4.5 m\u00e5l.\n- Toppiga till\u00e4gg: BTTS Yes \u2013 odds cirka 1.70. Med en historisk BTTS-niv\u00e5 runt 62% \u00e4r det ett rimligt antal m\u00e5linsikter d\u00e4r b\u00e5da lagen kan hitta n\u00e4tet.\n- H\u00f6rnor: Over 7.5 h\u00f6rnor \u2013 odds cirka 1.17. En l\u00e5g risk f\u00f6r en match som ofta bjuder p\u00e5 mycket h\u00f6rnkamp.\n- Alternativ h\u00f6rnkamp: Bragantino har flest h\u00f6rnor \u2013 odds 1.85. Om Bragantino f\u00e5r dominera det f\u00f6rsta bes\u00f6ket i offensiven \u00f6kar chanserna kraftigt f\u00f6r att de tar flest h\u00f6rnor.\n\nObservera\n- Informationen bygger p\u00e5 tillg\u00e4ngliga statistiska indikatorer och historiska m\u00f6nster f\u00f6r dessa tv\u00e5 lag i liknande sammanhang. Matchens status \u00e4r ofullst\u00e4ndig och utfallet kan variera n\u00e4r spelet spelas f\u00e4rdigt.\n- Ingen spelrekommendation b\u00f6r ses som garanti; anv\u00e4nd g\u00e4rna en kombination av dubbla chanser + m\u00e5l/halvleksspecifika bets enligt din riskprofil.",
+            "ru": "\u041c\u0430\u0442\u0447: \u0411\u0440\u0430\u0433\u0438\u0442\u0430\u043d\u0442\u0438\u043d\u043e vs Fortaleza\n\u0421\u0435\u0437\u043e\u043d: 2025, \u0422\u0443\u0440 36, \u0421\u0442\u0430\u0434\u0438\u043e\u043d: Est\u00e1dio Nabi Abi Chedid\n\n\u041a\u043b\u044e\u0447\u0435\u0432\u044b\u0435 \u0432\u044b\u0432\u043e\u0434\u044b\n- \u0411\u0440\u0430\u0433\u0438\u0442\u0430\u043d\u0442\u0438\u043d\u043e \u0444\u0430\u0432\u043e\u0440\u0438\u0442 \u043d\u0430 \u0434\u043e\u043c\u0430\u0448\u043d\u0435\u043c \u043f\u043e\u043b\u0435: \u043f\u043e\u0431\u0435\u0434\u0430 1.96, \u0434\u0432\u043e\u0439\u043d\u043e\u0439 \u0448\u0430\u043d\u0441 \u0411\u0440\u0430\u0433\u0438\u0442\u0430\u043d\u0442\u0438\u043d\u043e Win or Draw 1.25. \u0414\u043e\u043c\u0430\u0448\u043d\u044f\u044f \u0441\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043a\u0430: \u043f\u043e\u0431\u0435\u0434\u044b \u0432 \u0441\u0440\u0435\u0434\u043d\u0435\u043c \u0431\u043b\u0438\u0437\u043a\u043e \u043a 47%, xG \u0434\u043e\u043c\u0430 1.59 \u0437\u0430 \u043c\u0430\u0442\u0447 \u043f\u0440\u0438 \u043f\u0440\u043e\u043f\u0443\u0441\u043a\u0435 1.45 \u043f\u0440\u043e\u0442\u0438\u0432 \u2014 \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 \u0441\u043e\u043f\u0435\u0440\u043d\u0438\u043a\u0430 \u0437\u0434\u0435\u0441\u044c \u043e\u0436\u0438\u0434\u0430\u0435\u043c\u043e \u0432\u044b\u0441\u043e\u043a\u043e\u0435.\n- Fortaleza \u2014 \u0441\u043b\u0430\u0431\u0435\u0435 \u0432 \u0432\u044b\u0435\u0437\u0434\u0435: \u043f\u043e\u0431\u0435\u0434\u0430 \u043d\u0430 \u0432\u044b\u0435\u0437\u0434\u0435 12%, xG \u0437\u0430 \u0432\u044b\u0435\u0437\u0434 1.17, xG \u043f\u0440\u043e\u0442\u0438\u0432 1.75. \u0412\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0447\u0438\u0441\u0442\u043e\u0433\u043e \u043b\u0438\u0441\u0442\u0430 \u0443 Fortaleza \u043d\u0438\u0437\u043a\u0430\u044f (\u0447\u0438\u0441\u0442\u044b\u0435 \u043b\u0438\u0441\u0442\u044b 3.80 \u043f\u0440\u043e\u0442\u0438\u0432 1.22 \u201cNo\u201d).\n- \u041e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u043f\u043e \u0433\u043e\u043b\u0430\u043c: \u0441\u0440\u0435\u0434\u043d\u0438\u0439 xG \u043d\u0430 \u043c\u0430\u0442\u0447 Bragantino 1.59, Fortaleza 1.17; \u0441\u043e\u0432\u043e\u043a\u0443\u043f\u043d\u044b\u0439 xG \u043c\u0435\u0436\u0434\u0443 \u043a\u043e\u043c\u0430\u043d\u0434\u0430\u043c\u0438 \u0434\u043e \u043c\u0430\u0442\u0447\u0430 2.77 (\u043f\u0440\u0430\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u0438 \u0441\u043e\u0432\u043f\u0430\u0434\u0430\u0435\u0442 \u0441 \u0442\u0435\u043a\u0443\u0449\u0435\u0439 \u043e\u0446\u0435\u043d\u043a\u043e\u0439 2.76). \u042d\u0442\u043e \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u0442 \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u044b \u0441 \u0433\u043e\u043b\u0430\u043c\u0438 \u043e\u0431\u0435\u0438\u0445 \u043a\u043e\u043c\u0430\u043d\u0434 \u0438 \u0443\u043c\u0435\u0440\u0435\u043d\u043d\u043e\u0439 \u0438\u0442\u043e\u0433\u043e\u0432\u043e\u0439 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c\u044e.\n- \u0418\u0441\u0442\u043e\u0440\u0438\u044f \u0433\u043e\u043b\u043e\u0432 \u0438 \u0442\u0430\u0439\u043c\u044b: BTTS \u0432 \u0441\u0440\u0435\u0434\u043d\u0435\u043c 62% \u043c\u0435\u0436\u0434\u0443 \u044d\u0442\u0438\u043c\u0438 \u043a\u043e\u043c\u0430\u043d\u0434\u0430\u043c\u0438, \u043f\u0435\u0440\u0432\u044b\u0439 \u0442\u0430\u0439\u043c \u0432 \u0441\u0440\u0435\u0434\u043d\u0435\u043c \u0434\u0430\u0451\u0442 \u043c\u0435\u043d\u044c\u0448\u0435 \u0433\u043e\u043b\u043e\u0432 (BTTS 18%), \u0432\u0442\u043e\u0440\u0443\u044e \u043f\u043e\u043b\u043e\u0432\u0438\u043d\u0443 \u0447\u0430\u0449\u0435 \u2014 \u0447\u0442\u043e \u043f\u043e\u043b\u0435\u0437\u043d\u043e \u0434\u043b\u044f \u0441\u0442\u0440\u0430\u0442\u0435\u0433\u0438\u0439 \u0441\u0442\u0430\u0432\u043e\u043a \u043d\u0430 \u0432\u0442\u043e\u0440\u043e\u0439 \u0442\u0430\u0439\u043c.\n- \u0423\u0433\u043b\u043e\u0432\u044b\u0435: \u0441\u0440\u0435\u0434\u043d\u0435\u0435 \u043f\u043e \u0438\u0445 \u0432\u0441\u0442\u0440\u0435\u0447\u0430\u043c \u043e\u043a\u043e\u043b\u043e 9.77 \u0443\u0433\u043b\u043e\u0432\u044b\u0445. \u041b\u0438\u043d\u0438\u0438 \u043d\u0430 \u0443\u0433\u043e\u043b\u043a\u0438 \u0432\u044b\u0448\u0435 7.5\u20139.5 \u0432\u044b\u0433\u043b\u044f\u0434\u044f\u0442 \u0432\u043e\u0441\u0442\u0440\u0435\u0431\u043e\u0432\u0430\u043d\u043d\u043e, \u043e\u0441\u043e\u0431\u0435\u043d\u043d\u043e \u0432 \u0441\u043e\u0447\u0435\u0442\u0430\u043d\u0438\u0438 \u0441 \u0430\u0442\u0430\u043a\u0443\u044e\u0449\u0438\u043c \u0441\u0442\u0438\u043b\u0435\u043c \u043e\u0431\u0435\u0438\u0445 \u043a\u043e\u043c\u0430\u043d\u0434.\n\n\u0420\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0430\u0446\u0438\u0438 \u043f\u043e \u0441\u0442\u0430\u0432\u043a\u0430\u043c (\u0433\u043b\u0430\u0432\u043d\u044b\u0435 \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u044b)\n- \u041e\u0441\u043d\u043e\u0432\u043d\u043e\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442: Bragantino Win or Draw (\u0434\u0432\u043e\u0439\u043d\u043e\u0439 \u0448\u0430\u043d\u0441) \u2014 1.25. \u0412\u044b\u0441\u043e\u043a\u0430\u044f \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c \u0441\u043e\u0445\u0440\u0430\u043d\u0438\u0442\u044c \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c \u0432 \u0440\u0430\u043c\u043a\u0430\u0445 \u0434\u043e\u043c\u0430\u0448\u043d\u0435\u0439 \u0444\u043e\u0440\u043c\u044b \u0438 \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432 \u043f\u043e xG.\n- BTTS (\u0414\u0430): 1.70. \u0412\u044b\u0441\u043e\u043a\u0430 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c, \u0447\u0442\u043e \u043e\u0431\u0435 \u043a\u043e\u043c\u0430\u043d\u0434\u044b \u0437\u0430\u0431\u044c\u044e\u0442, \u0443\u0447\u0438\u0442\u044b\u0432\u0430\u044f \u0441\u0440\u0435\u0434\u043d\u0438\u0439 \u0443\u0440\u043e\u0432\u0435\u043d\u044c BTTS \u0438 \u0430\u0442\u0430\u043a\u0443\u044e\u0449\u0438\u0439 \u043f\u043e\u0442\u0435\u043d\u0446\u0438\u0430\u043b \u0432 \u043e\u0447\u043d\u044b\u0445 \u0432\u0441\u0442\u0440\u0435\u0447\u0430\u0445.\n- Over 2.5 \u0433\u043e\u043b\u0430: 1.89. \u041e\u0436\u0438\u0434\u0430\u0435\u043c\u0430\u044f \u043e\u0431\u0449\u0430\u044f \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c \u0431\u043b\u0438\u0437\u043a\u0430 \u043a \u0438\u0441\u0442\u043e\u0440\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0441\u0440\u0435\u0434\u043d\u0435-\u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0439 \u043f\u043e \u0434\u0430\u043d\u043d\u044b\u043c; \u043e\u0431\u0435 \u043a\u043e\u043c\u0430\u043d\u0434\u044b \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u044b \u0437\u0430\u0431\u0438\u0442\u044c.\n- Over 9.5 \u0443\u0433\u043b\u043e\u0432\u044b\u0445: 1.72. \u0421 \u0443\u0447\u0451\u0442\u043e\u043c \u0441\u0440\u0435\u0434\u043d\u0435\u0439 \u043a\u0440\u0443\u0442\u043a\u0438 \u0443\u0433\u043b\u043e\u0432\u044b\u0445 \u0438 \u0442\u043e\u0433\u043e, \u0447\u0442\u043e Bragantino \u0447\u0430\u0449\u0435 \u0431\u0435\u0440\u0435\u0442 \u0443\u0433\u043b\u043e\u0432\u044b\u0435 \u043f\u0440\u0438 \u0434\u043e\u043c\u0430\u0448\u043d\u0435\u043c \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0438, \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u0430 \u0441\u0442\u0430\u0432\u043a\u0430 \u043d\u0430 \u0432\u044b\u0441\u043e\u043a\u0438\u0439 \u043b\u0438\u043c\u0438\u0442 \u0443\u0433\u043b\u043e\u0432\u044b\u0445.\n- \u0412\u0430\u0440\u0438\u0430\u043d\u0442 \u0441 \u0447\u0438\u0441\u0442\u044b\u043c\u0438 \u043b\u0438\u0441\u0442\u0430\u043c\u0438: \u043d\u0435 \u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0443\u0435\u0442\u0441\u044f \u0441\u0442\u0430\u0432\u0438\u0442\u044c \u043d\u0430 Bragantino Clean Sheets \u0432 2.80 \u0438\u043b\u0438 Fortaleza Clean Sheets \u0432 3.80 \u2014 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c \u0447\u0438\u0441\u0442\u043e\u0433\u043e \u043b\u0438\u0441\u0442\u0430 \u0437\u0434\u0435\u0441\u044c \u043d\u0438\u0436\u0435, \u0447\u0435\u043c \u0441\u0442\u0430\u0432\u043a\u0430 \u201cNo\u201d \u043f\u043e \u044d\u0442\u0438\u043c \u0440\u044b\u043d\u043a\u0430\u043c.\n\n\u041a\u043e\u043d\u0442\u0435\u043a\u0441\u0442 \u0438 \u0440\u0438\u0441\u043a\u0438\n- \u041e\u0441\u043d\u043e\u0432\u043d\u043e\u0439 \u0440\u0438\u0441\u043a: Bragantino \u043d\u0435 \u0441\u043b\u0438\u0448\u043a\u043e\u043c \u0441\u0442\u0430\u0431\u0438\u043b\u0435\u043d \u0432 \u043f\u043b\u0430\u043d\u0435 \u0447\u0438\u0441\u0442\u044b\u0445 \u043b\u0438\u0441\u0442\u043e\u0432; Fortaleza \u043c\u043e\u0436\u0435\u0442 \u0437\u0430\u0431\u0438\u0442\u044c \u0432 \u0432\u044b\u0435\u0437\u0434\u043d\u043e\u0439 \u0438\u0433\u0440\u0435, \u043e\u0441\u043e\u0431\u0435\u043d\u043d\u043e \u043f\u0440\u0438 \u043a\u043e\u043d\u0442\u0440\u0430\u0442\u0430\u043a\u0443\u044e\u0449\u0435\u0439 \u0434\u0438\u043d\u0430\u043c\u0438\u043a\u0435. \u042d\u0442\u043e \u0443\u0441\u0438\u043b\u0438\u0432\u0430\u0435\u0442 \u0430\u0440\u0433\u0443\u043c\u0435\u043d\u0442\u044b \u0432 \u043f\u043e\u043b\u044c\u0437\u0443 BTTS \u0438 Over 2.5.\n- \u0422\u0430\u0439\u043c\u0438\u043d\u0433 \u0433\u043e\u043b\u043e\u0432: \u0447\u0430\u0441\u0442\u044c \u0433\u043e\u043b\u043e\u0432 \u043c\u043e\u0436\u0435\u0442 \u043f\u0440\u0438\u0439\u0442\u0438 \u0432\u043e \u0432\u0442\u043e\u0440\u043e\u0439 \u043f\u043e\u043b\u043e\u0432\u0438\u043d\u0435, \u0443\u0447\u0438\u0442\u044b\u0432\u0430\u044f \u043e\u0431\u0449\u0438\u0435 \u043f\u043e\u043a\u0430\u0437\u0430\u0442\u0435\u043b\u0438 \u0442\u0430\u0439\u043c\u043e\u0432 (BTTS \u0432\u043e 2-\u0439 \u043f\u043e\u043b\u043e\u0432\u0438\u043d\u0435 \u0432\u044b\u0448\u0435 \u0441\u0440\u0435\u0434\u043d\u0435\u0433\u043e).\n- \u041f\u0440\u043e\u0433\u043d\u043e\u0437\u0438\u0440\u0443\u0435\u043c\u044b\u0439 \u0441\u0447\u0451\u0442: \u043f\u0440\u0438\u043c\u0435\u0440\u043d\u043e 2\u20131 \u0432 \u043f\u043e\u043b\u044c\u0437\u0443 \u0411\u0440\u0430\u0433\u0438\u0442\u0430\u043d\u0442\u0438\u043d\u043e \u0432\u044b\u0433\u043b\u044f\u0434\u0438\u0442 \u043a\u0430\u043a \u043e\u0434\u0438\u043d \u0438\u0437 \u043d\u0430\u0438\u0431\u043e\u043b\u0435\u0435 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u044b\u0445 \u0438\u0441\u0445\u043e\u0434\u043e\u0432, \u043d\u043e \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u044b 1\u20131 \u0438\u043b\u0438 2\u20132 \u043d\u0435 \u0438\u0441\u043a\u043b\u044e\u0447\u0435\u043d\u044b \u0432 \u043a\u043e\u043d\u0442\u0435\u043a\u0441\u0442\u0435 BTTS \u0438 \u043e\u0431\u0449\u0435\u0439 \u0434\u0438\u043d\u0430\u043c\u0438\u043a\u0438.\n\n\u0418\u0442\u043e\u0433\n\u041c\u0430\u0442\u0447 \u043e\u0431\u0435\u0449\u0430\u0435\u0442 \u0430\u043a\u0442\u0438\u0432\u043d\u0443\u044e \u043e\u0442\u043a\u0440\u044b\u0442\u0443\u044e \u0431\u043e\u0440\u044c\u0431\u0443 \u0441 \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e\u043c \u0445\u043e\u0437\u044f\u0435\u0432 \u0438 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c\u044e \u0433\u043e\u043b\u043e\u0432 \u043e\u0431\u0435\u0438\u0445 \u043a\u043e\u043c\u0430\u043d\u0434. \u0420\u0435\u0437\u044e\u043c\u0438\u0440\u0443\u044f, \u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0443\u0435\u043c\u044b\u0435 \u0441\u0442\u0430\u0432\u043a\u0438: Bragantino Win or Draw (1.25), BTTS Yes (1.70), Over 2.5 \u0433\u043e\u043b\u0430 (1.89), Over 9.5 \u0443\u0433\u043b\u043e\u0432\u044b\u0445 (1.72)."
+        },
+        "odds_comparison": {
+            "Goals Over/Under": {
+                "Under 3.5": {
+                    "1xbet": "1.33",
+                    "10Bet": "1.36",
+                    "Unibet": "1.34",
+                    "Pinnacle": "1.39",
+                    "888Sport": "1.36"
+                },
+                "Under 0.5": {
+                    "1xbet": "9.20",
+                    "10Bet": "9.50",
+                    "Unibet": "11.50",
+                    "888Sport": "11.00"
+                },
+                "Under 4.5": {
+                    "1xbet": "1.10",
+                    "10Bet": "1.12",
+                    "Unibet": "1.09",
+                    "Pinnacle": "1.15",
+                    "888Sport": "1.13"
+                },
+                "Over 0.5": {
+                    "1xbet": "1.00",
+                    "10Bet": "1.05",
+                    "Unibet": "1.02",
+                    "888Sport": "1.04"
+                },
+                "Under 1.5": {
+                    "1xbet": "3.54",
+                    "10Bet": "3.60",
+                    "Unibet": "3.80",
+                    "Pinnacle": "3.97",
+                    "888Sport": "3.80"
+                },
+                "Over 1.5": {
+                    "1xbet": "1.22",
+                    "10Bet": "1.28",
+                    "Unibet": "1.25",
+                    "Pinnacle": "1.26",
+                    "888Sport": "1.25"
+                },
+                "Over 2.5": {
+                    "1xbet": "1.84",
+                    "Sbo": "1.81",
+                    "10Bet": "1.83",
+                    "Unibet": "1.87",
+                    "Pinnacle": "1.81",
+                    "bet365": "1.80",
+                    "888Sport": "1.75"
+                },
+                "Under 2.5": {
+                    "1xbet": "2.00",
+                    "Sbo": "2.03",
+                    "10Bet": "1.95",
+                    "Unibet": "1.90",
+                    "Pinnacle": "2.03",
+                    "bet365": "2.00",
+                    "888Sport": "1.95"
+                },
+                "Over 4.5": {
+                    "1xbet": "5.15",
+                    "10Bet": "5.75",
+                    "Unibet": "6.75",
+                    "Pinnacle": "5.77",
+                    "888Sport": "5.50"
+                },
+                "Over 3.5": {
+                    "1xbet": "2.83",
+                    "10Bet": "3.10",
+                    "Unibet": "3.25",
+                    "Pinnacle": "3.03",
+                    "888Sport": "2.90"
+                }
+            },
+            "1st Half Goals": {
+                "Under 2.5": {
+                    "1xbet": "1.07",
+                    "10Bet": "1.09"
+                },
+                "Over 1.5": {
+                    "1xbet": "2.59",
+                    "10Bet": "2.65"
+                },
+                "Under 1.5": {
+                    "1xbet": "1.44",
+                    "10Bet": "1.42"
+                },
+                "Over 2.5": {
+                    "1xbet": "5.85",
+                    "10Bet": "6.25"
+                },
+                "Over 0.5": {
+                    "1xbet": "1.35",
+                    "10Bet": "1.36"
+                },
+                "Under 0.5": {
+                    "1xbet": "2.94",
+                    "10Bet": "2.85"
+                }
+            },
+            "Corners": {
+                "Under 9.5": {
+                    "Pinnacle": "2.25",
+                    "Unibet": "2.12",
+                    "1xbet": "2.25"
+                },
+                "Over 10.5": {
+                    "Pinnacle": "1.97",
+                    "Unibet": "2.00",
+                    "1xbet": "1.95",
+                    "10Bet": "1.95"
+                },
+                "Under 10.5": {
+                    "Pinnacle": "1.81",
+                    "Unibet": "1.70",
+                    "1xbet": "1.80",
+                    "10Bet": "1.77"
+                },
+                "Over 11.5": {
+                    "Pinnacle": "2.48",
+                    "Unibet": "2.55",
+                    "1xbet": "2.42"
+                },
+                "Under 11.5": {
+                    "Pinnacle": "1.49",
+                    "Unibet": "1.44",
+                    "1xbet": "1.50"
+                },
+                "Over 9.5": {
+                    "Pinnacle": "1.59",
+                    "Unibet": "1.63",
+                    "1xbet": "1.60"
+                },
+                "Under 8.5": {
+                    "Unibet": "2.75",
+                    "1xbet": "2.97"
+                },
+                "Under 7.5": {
+                    "Unibet": "3.85",
+                    "1xbet": "4.10"
+                },
+                "Over 7.5": {
+                    "Unibet": "1.21",
+                    "1xbet": "1.18"
+                },
+                "Over 8.5": {
+                    "Unibet": "1.38",
+                    "1xbet": "1.35"
+                }
+            },
+            "Second Half Result": {
+                "Home": {
+                    "10Bet": "2.25",
+                    "WilliamHill": "2.30",
+                    "1xbet": "2.21",
+                    "888Sport": "2.30",
+                    "Unibet": "2.25",
+                    "bet365": "2.20"
+                },
+                "Away": {
+                    "10Bet": "3.65",
+                    "WilliamHill": "3.80",
+                    "1xbet": "3.84",
+                    "888Sport": "3.80",
+                    "Unibet": "3.90",
+                    "bet365": "3.75"
+                },
+                "Draw": {
+                    "10Bet": "2.50",
+                    "WilliamHill": "2.45",
+                    "1xbet": "2.55",
+                    "888Sport": "2.45",
+                    "Unibet": "2.60",
+                    "bet365": "2.50"
+                }
+            },
+            "FT Result": {
+                "Home": {
+                    "CloudBet": "1.85",
+                    "Betfair": "1.85",
+                    "Unibet": "1.92",
+                    "bet365": "1.85",
+                    "Sbo": "1.86",
+                    "10Bet": "1.91",
+                    "WilliamHill": "1.91",
+                    "188Bet": "1.90",
+                    "1xbet": "1.94",
+                    "888Sport": "1.91",
+                    "Pinnacle": "1.87",
+                    "HKJC": "1.81",
+                    "Dafabet": "1.93",
+                    "MansionBet": "1.89",
+                    "bwin": "1.90",
+                    "Ladbrokes": "1.91",
+                    "MelBet": "1.92"
+                },
+                "Away": {
+                    "CloudBet": "3.98",
+                    "Betfair": "3.50",
+                    "Unibet": "3.85",
+                    "bet365": "4.10",
+                    "Sbo": "3.52",
+                    "10Bet": "3.95",
+                    "WilliamHill": "3.75",
+                    "188Bet": "3.60",
+                    "1xbet": "3.93",
+                    "888Sport": "3.75",
+                    "Pinnacle": "4.02",
+                    "HKJC": "3.45",
+                    "Dafabet": "4.00",
+                    "MansionBet": "3.65",
+                    "bwin": "3.80",
+                    "Ladbrokes": "3.80",
+                    "MelBet": "3.88"
+                },
+                "Draw": {
+                    "CloudBet": "3.70",
+                    "Betfair": "3.25",
+                    "Unibet": "3.50",
+                    "bet365": "3.70",
+                    "Sbo": "3.25",
+                    "10Bet": "3.55",
+                    "WilliamHill": "3.40",
+                    "188Bet": "3.65",
+                    "1xbet": "3.66",
+                    "888Sport": "3.40",
+                    "Pinnacle": "3.74",
+                    "HKJC": "3.45",
+                    "Dafabet": "3.70",
+                    "MansionBet": "3.60",
+                    "bwin": "3.70",
+                    "Ladbrokes": "3.60",
+                    "MelBet": "3.62"
+                }
+            },
+            "Corner Match Bet": {
+                "1": {
+                    "bet365": "1.83"
+                },
+                "2": {
+                    "bet365": "2.25"
+                }
+            },
+            "Corners 1X2": {
+                "Away": {
+                    "1xbet": "2.65",
+                    "Unibet": "2.40",
+                    "WilliamHill": "2.20"
+                },
+                "Home": {
+                    "1xbet": "1.67",
+                    "Unibet": "1.73",
+                    "WilliamHill": "1.80"
+                },
+                "Draw": {
+                    "1xbet": "8.10",
+                    "Unibet": "7.50",
+                    "WilliamHill": "8.50"
+                }
+            },
+            "Both Teams To Score": {
+                "No": {
+                    "bet365": "2.05",
+                    "10Bet": "2.05",
+                    "WilliamHill": "2.05",
+                    "Unibet": "2.00",
+                    "188Bet": "2.11",
+                    "Pinnacle": "2.16",
+                    "1xbet": "2.06",
+                    "888Sport": "2.05"
+                },
+                "Yes": {
+                    "bet365": "1.70",
+                    "10Bet": "1.70",
+                    "WilliamHill": "1.70",
+                    "Unibet": "1.70",
+                    "188Bet": "1.70",
+                    "Pinnacle": "1.71",
+                    "1xbet": "1.68",
+                    "888Sport": "1.70"
+                }
+            },
+            "2nd Half Goals": {
+                "Over 1.5": {
+                    "10Bet": "1.95",
+                    "888Sport": "2.00",
+                    "WilliamHill": "2.00",
+                    "Unibet": "2.08"
+                },
+                "Under 1.5": {
+                    "10Bet": "1.77",
+                    "888Sport": "1.73",
+                    "WilliamHill": "1.73",
+                    "Unibet": "1.68"
+                },
+                "Over 2.5": {
+                    "10Bet": "3.90",
+                    "888Sport": "4.20",
+                    "WilliamHill": "4.40",
+                    "Unibet": "4.60"
+                },
+                "Under 2.5": {
+                    "10Bet": "1.22",
+                    "888Sport": "1.20",
+                    "WilliamHill": "1.18",
+                    "Unibet": "1.16"
+                },
+                "Over 0.5": {
+                    "10Bet": "1.20",
+                    "888Sport": "1.22",
+                    "WilliamHill": "1.22",
+                    "Unibet": "1.22"
+                },
+                "Under 0.5": {
+                    "10Bet": "4.10",
+                    "888Sport": "3.90",
+                    "WilliamHill": "3.90",
+                    "Unibet": "3.95"
+                }
+            },
+            "Clean Sheet - Home": {
+                "Yes": {
+                    "10Bet": "2.70"
+                },
+                "No": {
+                    "10Bet": "1.40"
+                }
+            },
+            "Double Chance": {
+                "Home/Draw": {
+                    "10Bet": "1.25",
+                    "Sbo": "1.17",
+                    "WilliamHill": "1.29",
+                    "Unibet": "1.23",
+                    "Pinnacle": "1.26",
+                    "1xbet": "1.26",
+                    "888Sport": "1.29"
+                },
+                "Draw/Away": {
+                    "10Bet": "1.85",
+                    "Sbo": "1.95",
+                    "WilliamHill": "1.80",
+                    "Unibet": "1.80",
+                    "Pinnacle": "1.95",
+                    "1xbet": "1.88",
+                    "888Sport": "1.80"
+                },
+                "Home/Away": {
+                    "10Bet": "1.25",
+                    "Sbo": "1.21",
+                    "WilliamHill": "1.30",
+                    "Unibet": "1.27",
+                    "Pinnacle": "1.29",
+                    "1xbet": "1.29",
+                    "888Sport": "1.30"
+                }
+            },
+            "Half Time Result": {
+                "Draw": {
+                    "10Bet": "2.10",
+                    "Sbo": "2.15",
+                    "1xbet": "2.17",
+                    "888Sport": "2.25",
+                    "bet365": "2.25",
+                    "WilliamHill": "2.25",
+                    "Unibet": "2.30",
+                    "188Bet": "2.27",
+                    "Pinnacle": "2.35"
+                },
+                "Away": {
+                    "10Bet": "4.33",
+                    "Sbo": "3.95",
+                    "1xbet": "4.33",
+                    "888Sport": "4.00",
+                    "bet365": "4.33",
+                    "WilliamHill": "4.00",
+                    "Unibet": "3.95",
+                    "188Bet": "4.00",
+                    "Pinnacle": "4.54"
+                },
+                "Home": {
+                    "10Bet": "2.40",
+                    "Sbo": "2.32",
+                    "1xbet": "2.42",
+                    "888Sport": "2.40",
+                    "bet365": "2.40",
+                    "WilliamHill": "2.40",
+                    "Unibet": "2.48",
+                    "188Bet": "2.44",
+                    "Pinnacle": "2.44"
+                }
+            },
+            "Both Teams to Score in 1st Half": {
+                "Yes": {
+                    "10Bet": "4.00",
+                    "bet365": "4.33",
+                    "WilliamHill": "4.00",
+                    "Pinnacle": "4.52",
+                    "1xbet": "4.05"
+                },
+                "No": {
+                    "10Bet": "1.20",
+                    "bet365": "1.20",
+                    "WilliamHill": "1.20",
+                    "Pinnacle": "1.20",
+                    "1xbet": "1.20"
+                }
+            },
+            "Both Teams to Score in 2nd Half": {
+                "Yes": {
+                    "10Bet": "2.90",
+                    "bet365": "3.25",
+                    "WilliamHill": "3.25",
+                    "1xbet": "3.08"
+                },
+                "No": {
+                    "10Bet": "1.36",
+                    "bet365": "1.33",
+                    "WilliamHill": "1.30",
+                    "1xbet": "1.32"
+                }
+            },
+            "Clean Sheet - Away": {
+                "Yes": {
+                    "10Bet": "4.33"
+                },
+                "No": {
+                    "10Bet": "1.18"
+                }
+            }
+        }
+    },
+    "message": "Usage of the API is bound to our Terms of Use : https://footystats.org/api/documentations/terms-of-use-and-legal"
+}

@@ -1,0 +1,1037 @@
+{
+    "success": true,
+    "pager": {
+        "current_page": 1,
+        "max_page": 1,
+        "results_per_page": 1,
+        "total_results": 1
+    },
+    "metadata": {
+        "request_limit": "1800",
+        "request_remaining": "1798",
+        "request_reset_message": "Request limit is refreshed every hour."
+    },
+    "data": {
+        "id": 7834666,
+        "homeID": 620,
+        "awayID": 612,
+        "season": "2025",
+        "status": "incomplete",
+        "roundID": 116495,
+        "game_week": 36,
+        "revised_game_week": -1,
+        "homeGoals": [],
+        "awayGoals": [],
+        "homeGoalCount": 0,
+        "awayGoalCount": 0,
+        "totalGoalCount": 0,
+        "team_a_corners": -1,
+        "team_b_corners": -1,
+        "totalCornerCount": -1,
+        "team_a_offsides": -1,
+        "team_b_offsides": -1,
+        "team_a_yellow_cards": -1,
+        "team_b_yellow_cards": -1,
+        "team_a_red_cards": -1,
+        "team_b_red_cards": -1,
+        "team_a_shotsOnTarget": -1,
+        "team_b_shotsOnTarget": -1,
+        "team_a_shotsOffTarget": -1,
+        "team_b_shotsOffTarget": -1,
+        "team_a_shots": -1,
+        "team_b_shots": -1,
+        "team_a_fouls": -1,
+        "team_b_fouls": -1,
+        "team_a_possession": -1,
+        "team_b_possession": -1,
+        "refereeID": null,
+        "coach_a_ID": -1,
+        "coach_b_ID": -1,
+        "stadium_name": "",
+        "stadium_location": "",
+        "team_a_cards_num": -1,
+        "team_b_cards_num": -1,
+        "odds_ft_1": 3.75,
+        "odds_ft_x": 3.05,
+        "odds_ft_2": 2,
+        "odds_ft_over05": 1.05,
+        "odds_ft_over15": 1.4,
+        "odds_ft_over25": 2.4,
+        "odds_ft_over35": 4.81,
+        "odds_ft_over45": 8.2,
+        "odds_ft_under05": 7,
+        "odds_ft_under15": 2.95,
+        "odds_ft_under25": 1.57,
+        "odds_ft_under35": 1.17,
+        "odds_ft_under45": 1.05,
+        "odds_btts_yes": 2.2,
+        "odds_btts_no": 1.8,
+        "odds_team_a_cs_yes": 3.7,
+        "odds_team_a_cs_no": 1.22,
+        "odds_team_b_cs_yes": 2.35,
+        "odds_team_b_cs_no": 1.53,
+        "odds_doublechance_1x": 1.33,
+        "odds_doublechance_12": 1.28,
+        "odds_doublechance_x2": 1.22,
+        "odds_1st_half_result_1": 4.33,
+        "odds_1st_half_result_x": 1.92,
+        "odds_1st_half_result_2": 2.5,
+        "odds_2nd_half_result_1": 4.2,
+        "odds_2nd_half_result_x": 2.15,
+        "odds_2nd_half_result_2": 2.45,
+        "odds_dnb_1": 3,
+        "odds_dnb_2": 1.36,
+        "odds_corners_over_75": 1.32,
+        "odds_corners_over_85": 1.48,
+        "odds_corners_over_95": 1.87,
+        "odds_corners_over_105": 2.27,
+        "odds_corners_over_115": 2.87,
+        "odds_corners_under_75": 3.35,
+        "odds_corners_under_85": 2.45,
+        "odds_corners_under_95": 1.91,
+        "odds_corners_under_105": 1.59,
+        "odds_corners_under_115": 1.37,
+        "odds_corners_1": 2.65,
+        "odds_corners_x": 8.5,
+        "odds_corners_2": 1.65,
+        "odds_team_to_score_first_1": 2.6,
+        "odds_team_to_score_first_x": 7.7,
+        "odds_team_to_score_first_2": 1.66,
+        "odds_win_to_nil_1": 6.25,
+        "odds_win_to_nil_2": 3.1,
+        "odds_1st_half_over05": 1.43,
+        "odds_1st_half_over15": 3.15,
+        "odds_1st_half_over25": 7,
+        "odds_1st_half_over35": 29,
+        "odds_1st_half_under05": 2.65,
+        "odds_1st_half_under15": 1.33,
+        "odds_1st_half_under25": 1.02,
+        "odds_1st_half_under35": 1.01,
+        "odds_2nd_half_over05": 1.36,
+        "odds_2nd_half_over15": 2.63,
+        "odds_2nd_half_over25": 5.6,
+        "odds_2nd_half_over35": 13,
+        "odds_2nd_half_under05": 3,
+        "odds_2nd_half_under15": 1.5,
+        "odds_2nd_half_under25": 1.1,
+        "odds_2nd_half_under35": 1.03,
+        "odds_btts_1st_half_yes": 0,
+        "odds_btts_1st_half_no": 0,
+        "odds_btts_2nd_half_yes": 0,
+        "odds_btts_2nd_half_no": 0,
+        "overallGoalCount": 0,
+        "ht_goals_team_a": 0,
+        "ht_goals_team_b": 0,
+        "goals_2hg_team_a": 0,
+        "goals_2hg_team_b": 0,
+        "GoalCount_2hg": 0,
+        "HTGoalCount": 0,
+        "date_unix": 1764117000,
+        "winningTeam": -1,
+        "no_home_away": 0,
+        "btts_potential": 52,
+        "btts_fhg_potential": 12,
+        "btts_2hg_potential": 37,
+        "goalTimingDisabled": 0,
+        "attendance": -1,
+        "corner_timings_recorded": -1,
+        "card_timings_recorded": -1,
+        "team_a_fh_corners": -1,
+        "team_b_fh_corners": -1,
+        "team_a_2h_corners": -1,
+        "team_b_2h_corners": -1,
+        "corner_fh_count": -1,
+        "corner_2h_count": -1,
+        "team_a_fh_cards": -1,
+        "team_b_fh_cards": -1,
+        "team_a_2h_cards": -1,
+        "team_b_2h_cards": -1,
+        "total_fh_cards": -1,
+        "total_2h_cards": -1,
+        "attacks_recorded": -1,
+        "team_a_dangerous_attacks": 0,
+        "team_b_dangerous_attacks": 0,
+        "team_a_attacks": 0,
+        "team_b_attacks": 0,
+        "team_a_xg": 0,
+        "team_b_xg": 0,
+        "total_xg": 0,
+        "team_a_penalties_won": 0,
+        "team_b_penalties_won": 0,
+        "team_a_penalty_goals": 0,
+        "team_b_penalty_goals": 0,
+        "team_a_penalty_missed": 0,
+        "team_b_penalty_missed": 0,
+        "pens_recorded": 1,
+        "goal_timings_recorded": 1,
+        "team_a_0_10_min_goals": 0,
+        "team_b_0_10_min_goals": 0,
+        "team_a_corners_0_10_min": -1,
+        "team_b_corners_0_10_min": -1,
+        "team_a_cards_0_10_min": -1,
+        "team_b_cards_0_10_min": -1,
+        "throwins_recorded": -1,
+        "team_a_throwins": -1,
+        "team_b_throwins": -1,
+        "freekicks_recorded": -1,
+        "team_a_freekicks": -1,
+        "team_b_freekicks": -1,
+        "goalkicks_recorded": -1,
+        "team_a_goalkicks": -1,
+        "team_b_goalkicks": -1,
+        "o45_potential": 10,
+        "o35_potential": 25,
+        "o25_potential": 49,
+        "o15_potential": 70,
+        "o05_potential": 88,
+        "o15HT_potential": 24,
+        "o05HT_potential": 55,
+        "o05_2H_potential": 76,
+        "o15_2H_potential": 52,
+        "corners_potential": 13.07,
+        "offsides_potential": 2.44,
+        "cards_potential": 5.71,
+        "avg_potential": 2.46,
+        "home_url": "/clubs/ca-mineiro-620",
+        "home_image": "teams/brazil-ca-mineiro.png",
+        "home_name": "Atl\u00e9tico Mineiro",
+        "away_url": "/clubs/cr-flamengo-612",
+        "away_image": "teams/brazil-cr-flamengo.png",
+        "away_name": "Flamengo",
+        "home_ppg": 1.94,
+        "away_ppg": 1.76,
+        "pre_match_home_ppg": 1.94,
+        "pre_match_away_ppg": 1.76,
+        "pre_match_teamA_overall_ppg": 1.29,
+        "pre_match_teamB_overall_ppg": 2.11,
+        "u45_potential": 91,
+        "u35_potential": 76,
+        "u25_potential": 52,
+        "u15_potential": 31,
+        "u05_potential": 13,
+        "corners_o85_potential": 61,
+        "corners_o95_potential": 58,
+        "corners_o105_potential": 46,
+        "team_a_xg_prematch": 1.83,
+        "team_b_xg_prematch": 1.61,
+        "total_xg_prematch": 3.44,
+        "match_url": "/brazil/cr-flamengo-vs-ca-mineiro-h2h-stats",
+        "competition_id": 14231,
+        "matches_completed_minimum": 34,
+        "lineups": {
+            "team_a": [],
+            "team_b": []
+        },
+        "bench": {
+            "team_a": [],
+            "team_b": []
+        },
+        "team_a_goal_details": [],
+        "team_b_goal_details": [],
+        "trends": {
+            "home": [
+                [
+                    "chart",
+                    "Coming into this game, Atl\u00e9tico Mineiro has picked up 8 points from the last 5 games, both home and away. That's 1.6 points per game on average. BTTS has landed in just 2 of those games. Atl\u00e9tico Mineiro has scored 10 times in the last 5 fixtures."
+                ],
+                [
+                    "great",
+                    "Superb stuff from Atl\u00e9tico Mineiro at home, where they are currently unbeaten in 8 games. Can they go another game without defeat?"
+                ],
+                [
+                    "great",
+                    "Flamengo's defence will have to be at their best today if they're to stop Atl\u00e9tico Mineiro from scoring. The home side has scored in the last 5 games in front of their own fans. They have failed to score in 3 home matches this season."
+                ],
+                [
+                    "great",
+                    "It's possible we will see a couple of goals here, with the last 4 games for Atl\u00e9tico Mineiro ending with 2 goals or more being scored."
+                ],
+                [
+                    "great",
+                    "Atl\u00e9tico Mineiro will be looking to keep up the momentum today against Flamengo, having lost just 1 game from the last 5. They have won 2 and drawn 2"
+                ],
+                [
+                    "bad",
+                    "Things have not been going that well in front of goal for Atl\u00e9tico Mineiro recently, with the side failing to score in 2 of the last 5 games. Will the manager change his tactics today, or throw in another forward?"
+                ],
+                [
+                    "bad",
+                    "Atl\u00e9tico Mineiro has fired blanks in 13 games this season. That's 38% of games where they have not been able to find the back of the net. Do they need a new forward? In the last 5 games, they have scored just 10 goals."
+                ],
+                [
+                    "bad",
+                    "Just 2 of the last 5 games for Atl\u00e9tico Mineiro has ended with both teams scoring. They have won 2 of those 5 games. Overall, BTTS has landed in 14/34 games for Atl\u00e9tico Mineiro this season."
+                ]
+            ],
+            "away": [
+                [
+                    "chart",
+                    "Coming into this game, Flamengo has picked up 10 points from the last 5 games, both home and away. That's 2 points per game on average. BTTS has landed in an intriguing 4 of those games. Flamengo has scored 14 times in the last 5 fixtures."
+                ],
+                [
+                    "great",
+                    "We might see some goals in this one, with the last 6 games involving Flamengo has ended with 3 or more goals being scored. Will Atl\u00e9tico Mineiro get in on the action today? There has been a total of 21 goals in the last 5 games for Flamengo, both home and away."
+                ],
+                [
+                    "great",
+                    "Flamengo will be looking to keep up the momentum today against Atl\u00e9tico Mineiro, having lost just 1 game from the last 5. They have won 3 and drawn 1"
+                ],
+                [
+                    "great",
+                    "In the last 5 matches for Flamengo, 4 of those games has ended with both teams scoring. This season 15 matches (43% of all matches) involving Flamengo has seen BTTS landing."
+                ],
+                [
+                    "great",
+                    "It's likely that Flamengo will score today, as they have netted in the last 6 games coming into this one and have scored 14 goals in the last five games."
+                ]
+            ]
+        },
+        "homeGoals_timings": [],
+        "awayGoals_timings": [],
+        "team_a_card_details": [],
+        "team_b_card_details": [],
+        "h2h": {
+            "team_a_id": 620,
+            "team_b_id": 612,
+            "previous_matches_results": {
+                "team_a_win_home": 10,
+                "team_a_win_away": 4,
+                "team_b_win_home": 11,
+                "team_b_win_away": 5,
+                "draw": 4,
+                "team_a_wins": 14,
+                "team_b_wins": 16,
+                "totalMatches": 34,
+                "team_a_win_percent": 41,
+                "team_b_win_percent": 47
+            },
+            "betting_stats": {
+                "over05": 33,
+                "over15": 24,
+                "over25": 17,
+                "over35": 9,
+                "over45": 3,
+                "over55": 1,
+                "btts": 14,
+                "clubACS": 10,
+                "clubBCS": 11,
+                "over05Percentage": 97,
+                "over15Percentage": 71,
+                "over25Percentage": 50,
+                "over35Percentage": 26,
+                "over45Percentage": 9,
+                "over55Percentage": 3,
+                "bttsPercentage": 41,
+                "clubACSPercentage": 29,
+                "clubBCSPercentage": 32,
+                "avg_goals": 2.56,
+                "total_goals": 87
+            },
+            "previous_matches_ids": [
+                {
+                    "id": 7917246,
+                    "date_unix": 1754517600,
+                    "team_a_id": 620,
+                    "team_b_id": 612,
+                    "team_a_goals": 0,
+                    "team_b_goals": 1
+                },
+                {
+                    "id": 8285652,
+                    "date_unix": 1754008200,
+                    "team_a_id": 612,
+                    "team_b_id": 620,
+                    "team_a_goals": 0,
+                    "team_b_goals": 1
+                },
+                {
+                    "id": 7834471,
+                    "date_unix": 1753659000,
+                    "team_a_id": 612,
+                    "team_b_id": 620,
+                    "team_a_goals": 1,
+                    "team_b_goals": 0
+                },
+                {
+                    "id": 7373585,
+                    "date_unix": 1731538800,
+                    "team_a_id": 612,
+                    "team_b_id": 620,
+                    "team_a_goals": 0,
+                    "team_b_goals": 0
+                },
+                {
+                    "id": 7731659,
+                    "date_unix": 1731265200,
+                    "team_a_id": 620,
+                    "team_b_id": 612,
+                    "team_a_goals": 0,
+                    "team_b_goals": 1
+                },
+                {
+                    "id": 7731658,
+                    "date_unix": 1730660400,
+                    "team_a_id": 612,
+                    "team_b_id": 620,
+                    "team_a_goals": 3,
+                    "team_b_goals": 1
+                },
+                {
+                    "id": 7373306,
+                    "date_unix": 1720053000,
+                    "team_a_id": 620,
+                    "team_b_id": 612,
+                    "team_a_goals": 2,
+                    "team_b_goals": 4
+                },
+                {
+                    "id": 5406780,
+                    "date_unix": 1701297000,
+                    "team_a_id": 612,
+                    "team_b_id": 620,
+                    "team_a_goals": 0,
+                    "team_b_goals": 3
+                },
+                {
+                    "id": 5406595,
+                    "date_unix": 1690675200,
+                    "team_a_id": 620,
+                    "team_b_id": 612,
+                    "team_a_goals": 1,
+                    "team_b_goals": 2
+                },
+                {
+                    "id": 1588895,
+                    "date_unix": 1665876600,
+                    "team_a_id": 612,
+                    "team_b_id": 620,
+                    "team_a_goals": 1,
+                    "team_b_goals": 0
+                },
+                {
+                    "id": 2358403,
+                    "date_unix": 1657758600,
+                    "team_a_id": 612,
+                    "team_b_id": 620,
+                    "team_a_goals": 2,
+                    "team_b_goals": 0
+                },
+                {
+                    "id": 2358404,
+                    "date_unix": 1655944200,
+                    "team_a_id": 620,
+                    "team_b_id": 612,
+                    "team_a_goals": 2,
+                    "team_b_goals": 1
+                },
+                {
+                    "id": 1588704,
+                    "date_unix": 1655665200,
+                    "team_a_id": 620,
+                    "team_b_id": 612,
+                    "team_a_goals": 2,
+                    "team_b_goals": 0
+                },
+                {
+                    "id": 1532315,
+                    "date_unix": 1645383600,
+                    "team_a_id": 620,
+                    "team_b_id": 612,
+                    "team_a_goals": 2,
+                    "team_b_goals": 2
+                },
+                {
+                    "id": 1214870,
+                    "date_unix": 1635631200,
+                    "team_a_id": 612,
+                    "team_b_id": 620,
+                    "team_a_goals": 1,
+                    "team_b_goals": 0
+                },
+                {
+                    "id": 1214683,
+                    "date_unix": 1625695200,
+                    "team_a_id": 620,
+                    "team_b_id": 612,
+                    "team_a_goals": 2,
+                    "team_b_goals": 1
+                },
+                {
+                    "id": 848332,
+                    "date_unix": 1604870100,
+                    "team_a_id": 620,
+                    "team_b_id": 612,
+                    "team_a_goals": 4,
+                    "team_b_goals": 0
+                },
+                {
+                    "id": 848142,
+                    "date_unix": 1596999600,
+                    "team_a_id": 612,
+                    "team_b_id": 620,
+                    "team_a_goals": 0,
+                    "team_b_goals": 1
+                },
+                {
+                    "id": 555061,
+                    "date_unix": 1570748400,
+                    "team_a_id": 612,
+                    "team_b_id": 620,
+                    "team_a_goals": 3,
+                    "team_b_goals": 1
+                },
+                {
+                    "id": 554867,
+                    "date_unix": 1558216800,
+                    "team_a_id": 620,
+                    "team_b_id": 612,
+                    "team_a_goals": 2,
+                    "team_b_goals": 1
+                },
+                {
+                    "id": 349359,
+                    "date_unix": 1537729200,
+                    "team_a_id": 612,
+                    "team_b_id": 620,
+                    "team_a_goals": 2,
+                    "team_b_goals": 1
+                },
+                {
+                    "id": 349165,
+                    "date_unix": 1527379200,
+                    "team_a_id": 620,
+                    "team_b_id": 612,
+                    "team_a_goals": 0,
+                    "team_b_goals": 1
+                },
+                {
+                    "id": 33283,
+                    "date_unix": 1502650800,
+                    "team_a_id": 620,
+                    "team_b_id": 612,
+                    "team_a_goals": 2,
+                    "team_b_goals": 0
+                },
+                {
+                    "id": 33089,
+                    "date_unix": 1494702000,
+                    "team_a_id": 612,
+                    "team_b_id": 620,
+                    "team_a_goals": 1,
+                    "team_b_goals": 1
+                },
+                {
+                    "id": 33792,
+                    "date_unix": 1477765800,
+                    "team_a_id": 620,
+                    "team_b_id": 612,
+                    "team_a_goals": 2,
+                    "team_b_goals": 2
+                },
+                {
+                    "id": 33602,
+                    "date_unix": 1468159200,
+                    "team_a_id": 612,
+                    "team_b_id": 620,
+                    "team_a_goals": 2,
+                    "team_b_goals": 0
+                },
+                {
+                    "id": 149327,
+                    "date_unix": 1442775600,
+                    "team_a_id": 620,
+                    "team_b_id": 612,
+                    "team_a_goals": 4,
+                    "team_b_goals": 1
+                },
+                {
+                    "id": 149133,
+                    "date_unix": 1434828600,
+                    "team_a_id": 612,
+                    "team_b_id": 620,
+                    "team_a_goals": 0,
+                    "team_b_goals": 2
+                },
+                {
+                    "id": 149788,
+                    "date_unix": 1416441600,
+                    "team_a_id": 620,
+                    "team_b_id": 612,
+                    "team_a_goals": 4,
+                    "team_b_goals": 0
+                },
+                {
+                    "id": 354749,
+                    "date_unix": 1415232000,
+                    "team_a_id": 620,
+                    "team_b_id": 612,
+                    "team_a_goals": 4,
+                    "team_b_goals": 1
+                },
+                {
+                    "id": 354747,
+                    "date_unix": 1414627200,
+                    "team_a_id": 612,
+                    "team_b_id": 620,
+                    "team_a_goals": 2,
+                    "team_b_goals": 0
+                },
+                {
+                    "id": 149596,
+                    "date_unix": 1408582800,
+                    "team_a_id": 612,
+                    "team_b_id": 620,
+                    "team_a_goals": 2,
+                    "team_b_goals": 1
+                },
+                {
+                    "id": 150117,
+                    "date_unix": 1382292000,
+                    "team_a_id": 620,
+                    "team_b_id": 612,
+                    "team_a_goals": 1,
+                    "team_b_goals": 0
+                },
+                {
+                    "id": 149921,
+                    "date_unix": 1375642800,
+                    "team_a_id": 612,
+                    "team_b_id": 620,
+                    "team_a_goals": 3,
+                    "team_b_goals": 0
+                }
+            ]
+        },
+        "tv_stations": [
+            "Bet365"
+        ],
+        "weather": {
+            "id": 677148,
+            "fixture_id": 19387259,
+            "venue_id": 343454,
+            "temperature": {
+                "day": 26.79,
+                "morning": 15.73,
+                "evening": 26.99,
+                "night": 19.24
+            },
+            "feels_like": {
+                "day": 26.53,
+                "morning": 15.34,
+                "evening": 26.53,
+                "night": 18.66
+            },
+            "wind": {
+                "speed": 4.15,
+                "direction": 263
+            },
+            "humidity": "36%",
+            "pressure": 1012,
+            "clouds": "7%",
+            "description": "sky is clear",
+            "icon": "https://cdn.sportmonks.com/images/weather/01d.png",
+            "type": "forecast",
+            "metric": "celcius",
+            "current": null
+        },
+        "gpt_en": "<div>\n  <p>Two sides with contrasting temperaments meet in a game where the odds whisper Flamengo, but the terrain at home keeps Atl\u00e9tico Mineiro in the conversation. The numbers hint at a tight, low\u2011scoring night with chances on the counter.</p>\n  <ul>\n    <li><strong>Outright angle:</strong> Flamengo are slight favourites (2.00) with Atl\u00e9tico Mineiro at 3.80. Double Chance Flamengo Win or Draw is a solid 1.27, backed by Flamengo\u2019s 53% win rate away and Atl\u00e9tico\u2019s home edge.</li>\n    <li><strong>Goal expectations:</strong> Under 2.5 goals is the more probable route (1.74) vs Over 2.5 (2.14). Historical fixture xG sits around 3.44 per game, but this pairing tends to tighten up; first half goals are less frequent (average BTTS in the first half around 12%).</li>\n    <li><strong>BTTS:</strong> Yes at 1.85 aligns with a plausible, balanced night\u2014average BTTS between these teams sits near 52%.</li>\n    <li><strong>Corners:</strong> Expect a busy night from set pieces. Over 7.5 corners is 1.30, with a path to 9.5 at 1.86 if the match opens late.</li>\n    <li><strong>Context stats to weigh:</strong> Under 4.5 goals is historically dominant (average 91%), suggesting a compact 90 minutes. Home xG for Atl\u00e9tico Mineiro is around 1.83, away xG for Flamengo around 1.61, and the fixture average xG is 3.44, underscoring the likelihood of a close, tactical contest.</li>\n    <li><strong>Defensive notes:</strong> Flamengo\u2019s away numbers show solidity (xG for 1.61, against 1.12) while Atl\u00e9tico Mineiro\u2019s home defensive profile remains a real factor.</li>\n  </ul>\n  <p>Top betting angles: Flamengo to avoid defeat (1.27) and Under 2.5 goals (1.74) offer conservative routes; BTTS Yes (1.85) provides a mid-range play; Over 7.5 corners (1.30) serves as a practical prop bet for a match driven by transitions.</p>\n</div>",
+        "gpt_int": {
+            "es": "An\u00e1lisis de partido (Espa\u00f1ol): Atl\u00e9tico Mineiro vs Flamengo | Brasileir\u00e3o 2025 | Rodada 36\n\nSituaci\u00f3n y cuotas clave\n- Ganador probable: Flamengo (2.02). Atl\u00e9tico Mineiro 3.77, Empate 3.45.\n- Doble oportunidad: Flamengo W o D 1.27; Atl\u00e9tico Mineiro W o D 1.32.\n- Goles: Over 2.5 2.15; Under 2.5 1.70.\n- Ambos equipos marcan (BTTS): Yes 1.85; No 1.85.\n- Corners: Over 7.5 1.30; Over 8.5 1.53; Over 9.5 1.86.\n- Clean sheets: Flamengo Yes 2.45; Atl\u00e9tico Mineiro Yes 3.75.\n- La cuota sugiere Flamengo con mejor rendimiento reciente fuera de casa; Atl\u00e9tico Mineiro trae ventaja de local.\n\nContexto y datos relevantes\n- Promedios de rendimiento: Atl\u00e9tico Mineiro tiene un xG por partido en casa de 1.83; Flamengo fuera del estadio propio promedia 1.61 a favor y 1.12 en contra. Esto indica que Flamengo suele generar peligro como visitante y Atl\u00e9tico puede responder defensivamente en casa.\n- Head-to-head xG: entre ambos equipos el xG total medio es 3.44 por encuentro, por encima del promedio general (2.46). Esto sugiere que, cuando se enfrentan, tienden a verse m\u00e1s goles que la media.\n- Tendencias de goles y rendimientos: el promedio previo de BTTS entre estos equipos es cercano a la mitad de los encuentros (52%), y el 1er tiempo tiende a ser m\u00e1s propenso a no tomar mucho ritmo, aunque hay una buena probabilidad de un gol temprano (Over 0.5 en 1er tiempo ~55%). En conjunto, las l\u00edneas de goles en este choque pueden inclinarse a un partido con goles, pero no necesariamente explosivo.\n- Corners y ataques: el promedio de c\u00f3rners entre ambos equipos es de 13.07 por partido; las casas de apuestas muestran l\u00edneas que favorecen un partido con varios saques de esquina (Over 7.5 a 1.30, Over 8.5 a 1.53). Atl\u00e9tico Mineiro aparece con una probabilidad notable de sacar el mayor n\u00famero de esquinas en el choque (aprox. 2.60), Flamengo tambi\u00e9n est\u00e1 en la pelea (1.64).\n\nLecturas clave para apostar\n- Opci\u00f3n principal (riesgo moderado): Flamengo para ganar o empatar (doble oportunidad W/D) a 1.27. La combinaci\u00f3n de rendimiento fuera de casa de Flamengo y el historial de xG sugiere que es razonable esperar al menos un punto para Flamengo en este encuentro.\n- Valoraci\u00f3n defensiva y de goles: Under 3.5 goles a 1.22 es una apuesta s\u00f3lida si buscas una lectura conservadora basada en la probabilidad hist\u00f3rica de la liga y el hecho de que la l\u00ednea de goles en cabeza a cabeza no suele superar ampliamente ese umbral, a pesar de que el head-to-head promedia 3.44 xG.\n- Apuesta de goles: Under 2.5 a 1.70 podr\u00eda ser una opci\u00f3n razonable si se espera un encuentro frenado defensivamente, manteniendo la lectura de que el choque no se desmadra en teoremas de alta puntuaci\u00f3n (aunque el xG head-to-head sugiere potencial de 3+).\n- Apuestas de esquinas: Over 7.5 c\u00f3rners a 1.30 ofrece valor razonable, dada la media de 13.07 c\u00f3rners por partido entre los dos equipos y la tendencia a encuentros con m\u00faltiples saques de esquina.\n- BTTS: Las probabilidades de que ambos marquen est\u00e1n alrededor de 52% hist\u00f3ricamente; si te gustan los juegos equilibrados, BTTS Yes a 1.85 es una opci\u00f3n razonable, pero no es un \u201cmust\u201d.\n\nResumen pr\u00e1ctico\n- Predicci\u00f3n corta: Flamengo ganar\u00e1 o, como m\u00ednimo, obtendr\u00e1 un punto; Atl\u00e9tico Mineiro buscar\u00e1 aprovechar el factor local para complicar el choque.\n- Apuestas sugeridas (orden de uso pr\u00e1ctico): \n  1) Flamengo W/D (1.27) como apuesta segura.\n  2) Under 3.5 goles (1.22) como cobertura conservadora.\n  3) Over 7.5 c\u00f3rners (1.30) para explotar el volumen de saques de esquina esperado.\n- Considera BTTS Yes (1.85) si buscas un giro equilibrado, pero no es la opci\u00f3n m\u00e1s clara seg\u00fan las medias.\n\nNotas finales\n- Mant\u00e9n en mente que el estadio y el contexto de la jornada influyen; la ventaja de local para Atl\u00e9tico Mineiro es relevante, pero Flamengo muestra fortaleza en salidas.\n- Las estad\u00edsticas ofrecen una lectura \u00fatil de probabilidades, pero el f\u00fatbol siempre puede sorprender, especialmente en una jornada tan cerrada como la 36.",
+            "pt": "An\u00e1lise r\u00e1pida de apostas: Atl\u00e9tico Mineiro vs Flamengo (2025, Semana 36)\n\nVis\u00e3o geral\n- Atl\u00e9tico Mineiro tem vantagem de jogar em casa, com um hist\u00f3rico de melhor desempenho ofensivo em casa. Flamengo mostra for\u00e7a como visitante, com boa taxa de vit\u00f3ria fora.\n- Odds importantes: Flamengo vence a 2.02, Atl\u00e9tico Mineiro vence a 3.77, empate 3.45. Double Chance: Atl\u00e9tico Mineiro Win or Draw 1.32; Flamengo Win or Draw 1.27.\n- Foco de gols: Over 1.5 gols a 1.32; Under 2.5 gols a 1.70. Over 2.5 gols est\u00e1 em 2.15, sugerindo cen\u00e1rio mais comum de poucos gols.\n- BTTS (ambas as equipes marcando): Yes e No est\u00e3o em 1.85, igualados.\n- Cantos: Over 7.5 cantos em 1.30 \u00e9 linha comum; Over 9.5 em 1.86 oferece valor moderado; Atl\u00e9tico Mineiro tem maior probabilidade de gerar mais cantos na partida.\n\nDados-chave e tend\u00eancias (em rela\u00e7\u00e3o \u00e0s estat\u00edsticas fornecidas)\n- Gols esperados (xG): Atl\u00e9tico Mineiro xG m\u00e9dio por jogo antes do jogo: 1.83; Flamengo fora de casa: 1.61. Em casa, Atl\u00e9tico tende a ter xG de 1.83 e sofrer menos, o que sustenta a vantagem recente em casa.\n- Forma e const\u00e2ncia: Pr\u00e9-jogo, Atl\u00e9tico Mineiro tem 1.94 pontos por jogo; Flamengo tem 1.76. Leve vantagem para o Atl\u00e9tico na consist\u00eancia de desempenho geral, mas Flamengo mant\u00e9m boa performance fora de casa.\n- Gols por tempo: BTTS tem uma m\u00e9dia de 52% entre ambas as equipes. A probabilidade de marcar no 2\u00ba tempo \u00e9 maior (m\u00e9dia de 37% para 2\u00ba tempo BTTS), o que sugere poss\u00edvel gol tardio.\n- Cantos: m\u00e9dia hist\u00f3rica de cantos entre as equipes ~13.07 por jogo. Linhas de cantos altas costumam favorecer apostas em Over, com Atl\u00e9tico tendo a op\u00e7\u00e3o \u201cHas Most Corners In The Match\u201d a 2.60 ou Flamengo a 1.64 para ter mais cantos.\n\nSugest\u00f5es de apostas (f\u00e1ceis de ler para bettors 25+)\n- Aposta principal (menos risco): Double Chance Atl\u00e9tico Mineiro Win or Draw (1.32). O fator casa aliado ao hist\u00f3rico de dom\u00ednio defensivo/ofensivo em casa sustenta uma linha segura.\n- Op\u00e7\u00e3o de valor moderado: Under 2.5 gols (1.70). Baseado na m\u00e9dia de gols acima de 2.5 em cerca de 49% dos jogos entre as duas equipes, o duelo tende a ficar truncado, com chances de 1\u20130 ou 1\u20131.\n- Op\u00e7\u00e3o de BTTS: BTTS Yes (1.85). Com a m\u00e9dia de BTTS em 52% e as capacidades ofensivas de ambas as equipes, \u00e9 razo\u00e1vel esperar gols em pelo menos um dos tempos.\n- Cantos (op\u00e7\u00e3o adicional): Over 7.5 cantos (1.30) ou Over 9.5 cantos (1.86) para quem busca valor em escanteios; a tend\u00eancia de jogo aberto ou fases de press\u00e3o favorece mais bolas \u00e0 \u00e1rea.\n\nPlacar prov\u00e1vel\n- Cen\u00e1rio mais prov\u00e1vel: 1\u20131 ou 1\u20130 para Atl\u00e9tico Mineiro (com Under 2.5 gols mantendo a aposta segura). A combina\u00e7\u00e3o de vantagem de mando de campo com a propens\u00e3o a gols no segundo tempo sustenta a probabilidade de um jogo com poucos gols, mas com ocasi\u00f5es de conclus\u00e3o.\n\nNotas r\u00e1pidas\n- Evite apostas baseadas em estat\u00edsticas que n\u00e3o foram registradas no jogo (ex.: timing exato de gols ainda n\u00e3o dispon\u00edvel).\n- Apostas sugeridas usam dados fornecidos (odds, xG m\u00e9dios, m\u00e9dias de BTTS e cantos) e comparam com as tend\u00eancias relativas \u00e0 casa/visitante.\n- Sem HTML. If a statistic shows 0.00, foi omitida conforme instru\u00e7\u00e3o.\n\nResumo\n- Cen\u00e1rio equilibrado, com leve favor\u00e1vel ao Atl\u00e9tico Mineiro por jogar em casa, mas Flamengo ainda tem hist\u00f3rico forte fora. Linhas de Under 2.5, Double Chance Atl\u00e9tico Mineiro Win/Draw e BTTS Yes oferecem combina\u00e7\u00f5es sensatas com bom equil\u00edbrio entre risco e retorno. Cantos representam uma boa linha complementar, dada a m\u00e9dia elevada de atividades de canto e as probabilidades de quem domina a posse e as jogadas de press\u00e3o.",
+            "tr": "KISA ANAL\u0130Z: Atl\u00e9tico Mineiro vs Flamengo (2025, 36. hafta)\n\nDurum: Ma\u00e7 durumu incomplete, ama mevcut veriler \u00fczerinden sahaya yans\u0131mas\u0131 muhtemel trendler g\u00f6steriyoruz.\n\nTemel oranlar\n- Sonu\u00e7 ihtimalleri: Flamengo kazanma 2.02, beraberlik 3.45, Atl\u00e9tico Mineiro kazanma 3.77.\n- \u00c7ifte \u015fanslar: Atl\u00e9tico Mineiro Win or Draw 1.32; Flamengo Win or Draw 1.27.\n- Gol bahisleri: Over 0.5 1.02 (ger\u00e7ek\u00e7i a\u015f\u0131r\u0131 erken gol riski her hal\u00fck\u00e2rda d\u00fc\u015f\u00fck), Over 1.5 1.32, Over 2.5 2.15, Over 3.5 3.54, Under 3.5 1.22, Under 4.5 1.05. BTTS Yes 1.85, BTTS No 1.85.\n- Tak\u0131m savunmas\u0131/kalesi: Atl\u00e9tico Mineiro Clean Sheets Yes 3.75 (daha az g\u00fcvenli), Flamengo Clean Sheets Yes 2.45 (biraz daha umut verici). \n- Kornerler: Over 7.5 korner 1.30; Over 8.5 1.53; Over 9.5 1.86. Atl\u00e9tico Mineiro has Most Corners In The Match 2.60; Flamengo has Most Corners In The Match 1.64.\n- Ev sahibi avantaj\u0131 ve h\u00fccum/savunma dengesi: Ev sahibi i\u00e7in genel saha avantaj\u0131 31 puanl\u0131k toplam avantaj; H\u00fccum avantaj\u0131 +38, Savunma avantaj\u0131 +23. Ev sahibi tak\u0131m, \u00f6zellikle h\u00fccuma \u00e7\u0131kan tarafta avantajl\u0131 konumda.\n- Beklenen gol (xG) ve ma\u00e7 dinamikleri: Ev sahibi xG 1.83, Misafir xG 1.61; Toplam ma\u00e7 xG ortalamas\u0131 3.44. Ev sahibi, evinde h\u00fccum bask\u0131s\u0131n\u0131 koruyabilir; Misafir ise deplasmanda \u00fcretkenlik g\u00f6sterebiliyor.\n- Oranlar ve tempo: 1. \u0130lk yar\u0131 BTTS oran\u0131 d\u00fc\u015f\u00fck (yakla\u015f\u0131k %12); 2. \u0130kinci yar\u0131 BTTS oran\u0131 daha y\u00fcksek (yakla\u015f\u0131k %37). Bu, ma\u00e7\u0131n ikinci yar\u0131da daha a\u00e7\u0131k bitebilece\u011fine i\u015faret ediyor.\n- Ortalama ma\u00e7 grafiklerine g\u00f6re: Genel olarak 4.5 alt\u0131nda ma\u00e7lar bask\u0131n (\u00e7ok y\u00fcksek oranda); 3.5 alt\u0131nda ve 2.5 alt\u0131nda ma\u00e7lar da \u00f6nemli bir paya sahip. Bu ma\u00e7ta da y\u00fcksek skorlu ihtimalin az olmad\u0131\u011f\u0131n\u0131 g\u00f6steriyor, fakat 3.5 gol\u00fcn \u00fcst\u00fc olma ihtimali nispeten d\u00fc\u015f\u00fck g\u00f6r\u00fcn\u00fcyor.\n\n\u0130statistiksel notlar (bal\u0131ktaki farklar)\n- Head-to-head toplam gol beklentisi genelde 3.44 seviyesinde; bu ma\u00e7 i\u00e7in de benzer bir e\u011filim beklemek mant\u0131kl\u0131 olabilir. Ancak genel lig ortalamalar\u0131na bak\u0131ld\u0131\u011f\u0131nda bu e\u015fle\u015fmede gol potansiyelinin biraz daha y\u00fcksek seyretti\u011fini g\u00f6steren veriler mevcut.\n- Flamengo deplasmanda \u00fcretken; ama Atl\u00e9tico Mineiro\u2019nun ev sahibi avantaj\u0131 ve savunma/kale dengesi bu avantaj\u0131 dengeliyor. \u0130lk yar\u0131 \u00e7ok a\u00e7\u0131k tempo beklemek riskli, ikinci yar\u0131 daha aktif goller gelebilir.\n\nK\u0131sa sonu\u00e7 ve \u00f6neriler\n- En g\u00fcvenli hareket: Under 3.5 gol tercihi (oran 1.22). Ma\u00e7\u0131n genel gol bantlar\u0131na bak\u0131ld\u0131\u011f\u0131nda 3.5 alt\u0131 \u00e7o\u011fu senaryoyu kaps\u0131yor ve bu ma\u00e7 i\u00e7in temel g\u00fcvenli se\u00e7enek olabilir.\n- Orta riskli ama potansiyel de\u011fer: Flamengo Win or Draw (double chance) 1.27 veya Atl\u00e9tico Mineiro Win or Draw 1.32. \u00c7o\u011fu analiz, Flamengo\u2019n\u0131n deplasman performans\u0131ndan ve ma\u00e7taki genel dengeden \u00f6t\u00fcr\u00fc daha dengeli bir sonu\u00e7 pe\u015finde olabilir; ancak ev sahibi avantaj\u0131 da bu ihtimali dengeler.\n- Orta risk/y\u00fcksek potansiyel: Atl\u00e9tico Mineiro Most Corners In The Match 2.60. Ev sahibi \u00fcst\u00fcn korner i\u015ftah\u0131n\u0131 ve sahadaki bask\u0131y\u0131 yans\u0131tabilir.\n- Alternatif BTTS odakl\u0131: BTTS Yes 1.85. Her iki taraf\u0131n da gol bulma potansiyeli mevcut; \u00f6zellikle ikinci yar\u0131daki BTTS olas\u0131l\u0131klar\u0131 ak\u0131lda tutulmal\u0131.\n\nK\u0131sa \u00f6zet\n- Oyun dengesi Flamengo taraf\u0131nda olsa da ev sahibi avantaj\u0131 g\u00fc\u00e7l\u00fc.\n- Toplam gol ve korner dinamikleri orta-\u00fcst bir tempoya i\u015faret ediyor; ancak 3.5 alt\u0131 tehditleri daha bask\u0131n olabilir.\n- Bahis stratejisi olarak g\u00fcvenli temel: Under 3.5 gol; orta riskli se\u00e7enekler: Flamengo win/draw veya Atl\u00e9tico Mineiro korner avantaj\u0131. BTTS ise ma\u00e7\u0131n gidi\u015fat\u0131na g\u00f6re cazip olabilir.",
+            "de": "Match-Analyse: Atl\u00e9tico Mineiro vs Flamengo (Saison 2025, Spieltag 36)\n\nZusammenfassung\n- Flamengo ist Favorit, aber Atl\u00e9tico Mineiro besitzt Heimvorteil und enge Head-to-Head-Dynamik. Die Torwahrscheinlichkeit liegt eher im leichten bis moderaten Bereich, mit Potenzial f\u00fcr mehrere Tore aufgrund der Statistik im direkten Duell.\n\nWichtige Statistiken und Hinweise (im Kontext der Durchschnittswerte von FootyStats)\n- Gesamt-xG head-to-head: ca. 3.44 pro Spiel (hierbei beide Teams). Das liegt deutlich \u00fcber dem allgemeinen Schnitt (2.46), deutet auf tendenziell torreiches Duell hin.\n- Durchschnittliches Under/Over 4.5 Tore: 91% Under. Unter 4.5 Tore ist also sehr wahrscheinlich, auch wenn das Spiel thematisch torreich erscheinen kann.\n- Over/Under 3.5 Tore: ca. 25% Over, daher eher defensiv gepr\u00e4gt, trotz der teils torreichen Kopf-an-Kopf-Bilanz.\n- Over/Under 2.5 Tore: ca. 49% Over \u2013 knapp 50/50, kein klares Favoritensignal.\n- BTTS (Beide treffen): Durchschnitt 52% in Vergleichen beider Teams; BTTS-Quoten hier ca. 1.85 \u2013 moderat attraktiv.\n- Eckb\u00e4lle: Durchschnitt ca. 13 Ecken pro Spiel; Over 7.5 Ecken ist mit 1.30 stark quotiert \u2013 realistische Chance auf zahlreiche Ecken.\n- Heim-/Ausw\u00e4rtsform: Flamengo away xG \u2248 1.61, away-Win-Rate ca. 53%; Atl\u00e9tico zu Hause eigener Attacke-/Defensivwerten zufolge Vorteil in der Offensive, aber Flamengo besitzt klare Offensivqualit\u00e4t auf Au\u00dfenbahnen.\n\nWett-Insights und Value-Bets\n- Flamengo gewinnt oder Unentschieden (Double Chance Flamengo Win oder Draw) \u2013 Quote 1.27\n  Warum: Flamengo hat Ausw\u00e4rtsst\u00e4rke und das Head-to-Head-Bild plus h\u00f6here Offensivqualit\u00e4t im Vergleich zum Gegner. Geringe Risiko-Bet.\n- Beide Teams treffen (BTTS Yes) \u2013 Quote ca. 1.85\n  Warum: BTTS liegt historisch bei etwa 52% \u2013 kompatibel mit der erwarteten Behandlungsvielfalt beider Offensiven; Odds reflektieren eine echte Mittellage.\n- \u00dcber 2.5 Tore \u2013 Quote 2.15\n  Warum: Trotz der starken Under-Trends ist das Kopf-an-Kopf-Duell tendenziell torreich (3.44 xG in der head-to-head). Die 2.15 bietet moderaten Value je nach Spielverlauf.\n- Under 4.5 Tore \u2013 Quote ca. 1.05\n  Warum: Sehr starke Wahrscheinlichkeit (ca. 91% laut historischen Anteilen). Sicherheitsbet f\u00fcr unterhaltsames, aber weniger torreiches Spiel.\n- \u00dcber 7.5 Eckb\u00e4lle \u2013 Quote ca. 1.30\n  Warum: Mit einem durchschnittlichen Gesamtwert von ca. 13 Ecken pro Spiel ist eine obere H\u00e4lfte der Eckb\u00e4lle sehr wahrscheinlich; Einstiegslage gut f\u00fcr Kombi- oder Einzelwetten.\n- Atl\u00e9tico Mineiro hat die meisten Eckb\u00e4lle im Spiel \u2013 Quote ca. 2.60\n  Warum: Heimvorteil und die strategische Spielweise k\u00f6nnten Atl\u00e9tico mehr Standardsituationen liefern; attraktiver Value, wenn man auf Heimdominanz setzt.\n- Risiko-Tipp: Flamengo gewinnt zu Null oder Atl\u00e9tico zu Null ist eher selten (Clean Sheets-Quoten: Flamengo 2.45, Atl\u00e9tico 3.75)\n  Warum: Beide Teams besitzen defensives Potenzial, aber die Offensivqualit\u00e4t Londonsite-Ausw\u00e4rts oder Heimbilanz spricht gegen eine klare Nullnummer.\n\nPrognose-Szenarien\n- Wahrscheinlichste Outcome: Flamengo gewinnt knapp (z. B. 2:1 oder 1:0) mit beiden Seiten Chancen; BTTS m\u00f6glich.\n- Alternative Szenarien: Unentschieden mit torreicherer zweiter Halbzeit (BTTS ja) oder ein eher defensives 1:0/0:0 mit wenigen Treffern.\n- Sicherheitseinsch\u00e4tzung: Under 4.5 Tore ist die sicherste Wette; Double Chance Flamengo ist solide; BTTS und Over 2.5 bieten mittleren bis hohen Value je nach Risikobereitschaft.\n\nHinweise zum Einsatz\n- Da der Spieltag 36 nahe dem Saisonfinale liegt, k\u00f6nnen individuelle Motivationen (Klassenerhalt, Platzierung) die Form beeinflussen. Ber\u00fccksichtigen Sie Live-Quoten und angepasste taktische Anpassungen beim Wetten.\n- Wenn Sie auf Ecken setzen, planen Sie eine zus\u00e4tzliche Absicherung \u00fcber Over-7.5 oder Over-8.5 je nach Ihren Risikoprofilen.\n\nSchlussgedanke\n- Das Spiel bietet eine gute Balance aus Offensivpotenzial und defensiver Stabilit\u00e4t beider Teams. Wetten Sie auf Flamengo als Favoriten mit der Double-Chance-Option, kombinieren Sie BTTS mit Over 2.5 f\u00fcr potenziell schrittweise Rendite, und nutzen Sie die starken Eckquoten als zus\u00e4tzlichen Income-Stream.",
+            "fr": "Analyse de match rapide: Atl\u00e9tico Mineiro vs Flamengo (Saison 2025, Journ\u00e9e 36)\n\nContexte et forme\n- Points par match avant le match: Atl\u00e9tico Mineiro 1.94, Flamengo 1.76.\n- Avantage domicile/ext\u00e9rieur: Atl\u00e9tico Mineiro \u00e0 domicile a une moyenne d\u00e9montrant une l\u00e9g\u00e8re pr\u00e9f\u00e9rence locale (attaque + d\u00e9fense en \u00e9quilibre) avec des chiffres d\u2019attaque forts \u00e0 domicile (avantage d\u2019attaque +38) mais une d\u00e9fense plus fragile que certaines \u00e9quipes. Flamengo affiche un fort rendement hors domicile (53% de victoire \u00e0 l\u2019ext\u00e9rieur) avec xG away de 1.61 et xG contre \u00e0 l\u2019ext\u00e9rieur de 1.12.\n- xG et moyenne de la rencontre: xG moyen par match de chaque \u00e9quipe avant le match: Atl\u00e9tico 1.83, Flamengo 1.61. Le xG moyen total des confrontations directes (Atl\u00e9tico Mineiro vs Flamengo) est de 3.44, sugg\u00e9rant des matchs potentiellement plut\u00f4t ouverts.\n- Corners et dynamique de jeu: moyenne des corners entre les deux \u00e9quipes avant le match = 13.07 par match (fort volume probable). Le march\u00e9 montre des options int\u00e9ressantes sur les corners (Over 7.5, Over 8.5, etc.).\n\n Tendances et implications\n- BTTS (les deux \u00e9quipes marquent): moyenne globale entre les deux \u00e9quipes avant le match = ~52%. Attendez-vous \u00e0 des occasions des deux c\u00f4t\u00e9s.\n- Sc\u00e9narios de scoring: Over 1.5 est tr\u00e8s probable selon les historiques (av. 70%); Over 2.5 est plus \u00e9quilibr\u00e9 (~49%), ce qui cadre avec le total xG combin\u00e9 d\u2019environ 3.44 dans les confrontations directes.\n- D\u00e9fense et \u00e9ventuels cleans sheets: Atl\u00e9tico Mineiro a une cote Clean Sheets \u00e0 3.75, Flamengo \u00e0 2.45; les deux d\u00e9fenses montrent des possibilit\u00e9s mais aucune garantie absolue de clean sheet.\n- March\u00e9 des buts et du score: Under 3.5 est tr\u00e8s favorable (1.22), et Under 4.5 est quasi assur\u00e9 (1.05). Cela appuie une pr\u00e9diction d\u2019un match avec quelques buts, sans exc\u00e8s.\n\nPredictions et insights cl\u00e9s\n- R\u00e9sultat probables: Flamengo est l\u00e9g\u00e8rement favori sur les cotes (2.02). En tenant compte du contexte, un r\u00e9sultat avec un l\u00e9ger avantage pour Flamengo ou un nul n\u2019est pas improbable.\n- Score plausible: 0-1 ou 1-1 restent des sc\u00e9narios r\u00e9alistes, compte tenu du poids des deux \u00e9quipes et du contexte d\u00e9fensif/attakique.\n- Tendances du match: expectative d\u2019un match avec des occasions du c\u00f4t\u00e9 des deux \u00e9quipes; une seconde p\u00e9riode active est plausible (les donn\u00e9es historiques montrent un BTTS plus \u00e9lev\u00e9 en 2nde p\u00e9riode).\n- Corners: volume \u00e9lev\u00e9 probable (Over 7.5 ou Over 8.5 corners possibles).\n\nBets recommand\u00e9s (valeur et s\u00e9curit\u00e9)\n- S\u00e9curit\u00e9 relative (prudent): Double Chance Flamengo Win ou Draw (1.27) \u2013 couvre Flamengo en cas de nul ou victoire et b\u00e9n\u00e9ficie du fait que Flamengo est solide \u00e0 l\u2019ext\u00e9rieur.\n- S\u00e9curit\u00e9 mod\u00e9r\u00e9e: Under 3.5 goals (1.22) \u2013 historique indique une probabilit\u00e9 \u00e9lev\u00e9e de moins de 4 buts dans ce type de rencontre, surtout avec les chiffres de d\u00e9ficit maximal raisonnable.\n- Option offensive/mod\u00e9r\u00e9e: Over 2.5 goals (2.15) \u2013 compatible avec le xG total et le contexte de 3.44 en moyenne dans les confrontations, mais plus risqu\u00e9 que l\u2019Under 3.5.\n- Corners: Over 7.5 corners (1.30) ou Over 8.5 corners (1.53) \u2013 les volumes habituels et les chiffres moyens de corners soutiennent ces march\u00e9s.\n- BTTS: Yes (1.85) \u2013 align\u00e9 avec la statistique moyenne de BTTS des deux \u00e9quipes (environ 52%).\n\nConseils rapides\n- Si vous cherchez une option tr\u00e8s safe, privil\u00e9giez le Double Chance Flamengo ou nul et l\u2019Under 3.5.\n- Pour une approche moyenne, combinez Flamengo Win ou Draw avec BTTS Yes et Over 2.5, selon votre tol\u00e9rance au risque.\n- Sur le volume de corners, viser Over 7.5 ou Over 8.5 peut offrir une valeur raisonnable compte tenu du contexte et des historiques de corners.\n\nNote: toutes les donn\u00e9es proviennent des statistiques et cotes fournies pour ce match. Les chiffres donnent une image pr\u00e9-match et doivent \u00eatre utilis\u00e9s comme guide rapide pour vos d\u00e9cisions de mise.",
+            "ja": "\u8a66\u5408\u5206\u6790 (\u65e5\u672c\u8a9e)\n\n\u5bfe\u6226: \u30a2\u30c8\u30ec\u30c1\u30b3\u30fbMineiro vs Flamengo\n\u30b7\u30fc\u30ba\u30f3: 2025\n\u7b2c36\u7bc0\n\u4f1a\u5834: \u4e0d\u660e\uff08\u30b9\u30bf\u30b8\u30a2\u30e0\u540d\u672a\u8a18\u8f09\uff09\n\u30aa\u30c3\u30ba\u8981\u70b9\n- Flamengo\u52dd\u5229 2.02 / \u5f15\u5206 3.45 / Atl\u00e9tico Mineiro\u52dd\u5229 3.77\n- BTTS Yes 1.85 / No 1.85\n- \u30c0\u30d6\u30eb\u30c1\u30e3\u30f3\u30b9: Atl\u00e9tico Mineiro Win or Draw 1.32 / Flamengo Win or Draw 1.27\n- \u7dcf\u30b3\u30fc\u30ca\u30fc: Over 7.5 1.30 / Over 9.5 1.86 / Over 10.5 2.35\n- \u5404\u7a2e\u30af\u30ea\u30fc\u30f3\u30b7\u30fc\u30c8: Atl\u00e9tico Mineiro Clean Sheets Yes 3.75 / Flamengo Clean Sheets Yes 2.45\n- \u30aa\u30fc\u30d0\u30fc\u7cfb\u306e\u50be\u5411: Over 0.5 Goals 1.02 / Over 1.5 Goals 1.32 / Over 2.5 Goals 2.15 / Over 3.5 Goals 3.54 / Over 4.5 Goals 6.70\n\n\u91cd\u8981\u7d71\u8a08\u3068\u8aad\u307f\u66ff\u3048\u30dd\u30a4\u30f3\u30c8\n- \u653b\u6483\u529b\u3068\u7dcf\u5f97\u70b9\u306e\u6f5c\u5728\u6027\n  - \u4e21\u30c1\u30fc\u30e0\u306e\u76f4\u8fd1\u30c7\u30fc\u30bf\u306b\u57fa\u3065\u304f\u7dcfxG\u306f\u7d043.44\u3068\u9ad8\u3081\u306e\u76ee\u5b89\u3002\u3064\u307e\u308a\u5f97\u70b9\u570f\u5185\u306e\u30c1\u30e3\u30f3\u30b9\u306f\u591a\u304f\u30012\u20133\u70b9\u53f0\u306e\u5f97\u70b9\u30d1\u30bf\u30fc\u30f3\u304c\u60f3\u5b9a\u3055\u308c\u3084\u3059\u3044\u3002\n  - \u5404\u30c1\u30fc\u30e0\u306e\u5e73\u5747xG\uff08\u30a2\u30c8\u30ec\u30c1\u30b3Mineiro 1.83\u3001 Flamengo 1.61\uff09\u304b\u3089\u3001\u4e21\u8ecd\u306e\u6c7a\u5b9a\u529b\u306f\u4e2d\uff5e\u9ad8\u6c34\u6e96\u3002\u7dcf\u5f97\u70b9\u306f2.5\u524d\u5f8c\u306e\u30ec\u30f3\u30b8\u306b\u53ce\u307e\u308a\u3084\u3059\u3044\u3068\u898b\u3089\u308c\u308b\u3002\n- 4.5\u5f97\u70b9\u30e9\u30a4\u30f3\u30684.5\u4ee5\u4e0a\u306e\u78ba\u7387\n  - 4.5\u5f97\u70b9\u4ee5\u4e0a\u306f\u5e73\u5747\u3057\u3066\u7d049\u201310%\u7a0b\u5ea6\u3068\u4f4e\u304f\u30014.5\u672a\u6e80\u304c\u7d0490%\u4ee5\u4e0a\u306e\u50be\u5411\u3002\u30ea\u30b9\u30af\u3092\u6291\u3048\u308b\u306a\u30894.5\u672a\u6e80\u5bc4\u308a\u306e\u5c55\u958b\u3092\u60f3\u5b9a\u3002\n- 2.5\u5f97\u70b9\u30e9\u30a4\u30f3\u3068\u524d\u534a/\u5f8c\u534a\u306e\u52d5\u304d\n  - 2.5\u4ee5\u4e0a\u306f\u304a\u304a\u3080\u306d50%\u8fd1\u8fba\u306e\u78ba\u7387\uff08\u5e73\u5747\u306f49%\uff09\u3002\u3053\u306e\u5bfe\u6226\u3067\u30822\u20133\u5f97\u70b9\u306e\u8a66\u5408\u304c\u591a\u304f\u306a\u308b\u53ef\u80fd\u6027\u304c\u9ad8\u3044\u3002\n  - \u5f8c\u534a\u306e\u5f97\u70b9\u50be\u5411\u306f\u5f37\u3081\u3067\u3001\u5f8c\u534a\u306b\u5f97\u70b9\u304c\u751f\u307e\u308c\u3084\u3059\u3044\u50be\u5411\uff08\u5f8c\u534a\u306eBTTS\u3084\u5f8c\u534a\u306e\u5f97\u70b9\u6a5f\u4f1a\u306b\u8981\u6ce8\u610f\uff09\u3002\n- \u30b3\u30fc\u30ca\u30fc\u50be\u5411\n  - \u7dcf\u30b3\u30fc\u30ca\u30fc\u306e\u5e73\u5747\u306f\u7d0413\u672c\u3002Over7.5\u306f\u4f4e\u3081\u306e1.30\u3001Over9.5\u306f1.86\u3001Over10.5\u306f2.35\u7a0b\u5ea6\u3002\u73fe\u72b6\u306e\u30c7\u30fc\u30bf\u3067\u306f\u5f8c\u534a\u6226\u3067\u306e\u30bb\u30c3\u30c8\u30d7\u30ec\u30fc\u6a5f\u4f1a\u3082\u591a\u3081\u306b\u751f\u307e\u308c\u305d\u3046\u3002\n  - Atl\u00e9tico Mineiro\u304c\u300c\u3053\u306e\u8a66\u5408\u3067\u6700\u591a\u30b3\u30fc\u30ca\u30fc\u3092\u7372\u5f97\u3059\u308b\u53ef\u80fd\u6027\u304c\u6700\u3082\u9ad8\u3044\u300d\u3068\u3044\u3046\u30aa\u30c3\u30ba\u6848\u304c2.60\u3001 Flamengo\u304cMost Corners\u3092\u53d6\u308b\u6848\u304c1.64\u3002\u3069\u3061\u3089\u304c\u512a\u4f4d\u304b\u306f\u5c55\u958b\u6b21\u7b2c\u3060\u304c\u3001\u4e21\u65b9\u306b\u30c1\u30e3\u30f3\u30b9\u306f\u3042\u308a\u305d\u3046\u3002\n- \u5b88\u5099/\u30db\u30fc\u30e0\u30a2\u30c9\u30d0\u30f3\u30c6\u30fc\u30b8\n  - Atl\u00e9tico Mineiro\u306f\u30db\u30fc\u30e0\u3067\u306e\u7dcf\u5408\u7684\u306a\u30a2\u30c9\u30d0\u30f3\u30c6\u30fc\u30b8\u304c\u975e\u5e38\u306b\u5927\u304d\u3044\u3068\u306e\u30c7\u30fc\u30bf\u3002\u30db\u30fc\u30e0\u6226\u3067\u306e\u5f97\u70b9\u6a5f\u4f1a\u5897\u52a0\u3068\u5b88\u5099\u306e\u5b89\u5b9a\u6027\u304c\u671f\u5f85\u3067\u304d\u308b\u4e00\u65b9\u3001Flamengo\u306e\u30a2\u30a6\u30a7\u30fc\u6210\u7e3e\u306f\u5b89\u5b9a\u611f\u304c\u3042\u308b\u305f\u3081\u4e92\u89d2\u5bc4\u305b\u306e\u5bfe\u6297\u306b\u306a\u308b\u53ef\u80fd\u6027\u3002\n\n\u6226\u7565\u7684\u8aad\u307f\n- \u63a8\u5968\u30aa\u30c3\u30ba\u306e\u52d5\u5411\u304b\u3089\u898b\u3066\u3001 Flamengo\u304c\u30a2\u30a6\u30a7\u30fc\u3067\u306e\u512a\u4f4d\u3092\u6d3b\u304b\u3057\u3064\u3064\u3001 Atl\u00e9tico Mineiro\u306e\u30db\u30fc\u30e0\u30a2\u30c9\u30d0\u30f3\u30c6\u30fc\u30b8\u3068\u653b\u6483\u529b\u3092\u751f\u304b\u3057\u3066\u3001\u4e21\u8ecd\u3068\u3082\u5f97\u70b9\u3092\u596a\u3044\u5408\u3046\u5c55\u958b\u304c\u60f3\u5b9a\u3055\u308c\u308b\u3002\n- \u7ecf\u5178\u306a\u9078\u629e\u80a2\u3068\u3057\u3066\u300c Flamengo Win or Draw\uff08Double Chance\uff09= 1.27\u300d\u3084\u300c Flamengo wins = 2.02\u300d\u304c\u73fe\u5b9f\u7684\u3002\u5f15\u5206\u307e\u3067\u8996\u91ce\u306b\u5165\u308c\u3066\u3082\u30ea\u30b9\u30af\u306f\u6291\u3048\u3081\u3002\n- \u7dcf\u5f97\u70b9\u306e\u30ec\u30f3\u30b8\u3068\u3057\u3066\u300c Over 2.5 = 2.15\u300d\u304c\u9b45\u529b\u3002\u4e21\u8ecd\u306e\u653b\u6483\u6f5c\u5728\u529b\u3068\u5f8c\u534a\u306e\u5f97\u70b9\u6a5f\u4f1a\u3092\u8003\u3048\u308b\u3068\u30012\u20133\u5f97\u70b9\u7a0b\u5ea6\u306e\u53ef\u80fd\u6027\u304c\u9ad8\u3044\u3002\n- BTTS\u306f\u4e2d\u7a0b\u5ea6\u306e\u78ba\u7387\uff08Yes 1.85\uff09\u3002\u4e21\u30c1\u30fc\u30e0\u3068\u3082\u5f97\u70b9\u306e\u6a5f\u4f1a\u306f\u3042\u308b\u305f\u3081\u3001\u76f8\u624b\u306e\u5b88\u5099\u9663\u5f62\u6b21\u7b2c\u3067\u6210\u7acb\u3057\u3084\u3059\u3044\u3002\n- \u30b3\u30fc\u30ca\u30fc\u95a2\u9023\u306f\u4e0a\u632f\u308c\u671f\u5f85\u3002\u7dcf\u30b3\u30fc\u30ca\u30fc7.5\u4ed8\u8fd1\u4ee5\u4e0a\u3092\u72d9\u3046\u306e\u306f\u6709\u52b9\u304b\u3082\u3057\u308c\u306a\u3044\u3002Over9.5\u306f1.86\u3001Over10.5\u306f2.35\u306e\u30e9\u30a4\u30f3\u3082\u691c\u8a0e\u4fa1\u5024\u3042\u308a\u3002\n\n\u77ed\u671f\u7684\u306a\u30d9\u30c3\u30c8\u63d0\u6848\uff08\u30ea\u30b9\u30af\u8a31\u5bb9\u5ea6\u5225\u306e\u4f8b\uff09\n- \u30bb\u30fc\u30d5\u7cfb\n  - Flamengo Win or Draw\uff08\u30c0\u30d6\u30eb\u30c1\u30e3\u30f3\u30b9\uff09 1.27\n  - Over 2.5 Goals 2.15\n- \u30d0\u30e9\u30f3\u30b9\u7cfb\n  - Flamengo\u52dd\u5229 2.02\n  - BTTS Yes 1.85\n- \u4e0a\u632f\u308c\u72d9\u3044\n  - Over 9.5 Corner Kicks 1.86\n  - Over 10.5 Corner Kicks 2.35\n- \u30cf\u30a4\u30ea\u30b9\u30af/\u9ad8\u30ea\u30bf\u30fc\u30f3\n  - Atl\u00e9tico Mineiro \u304c\u6700\u591a\u30b3\u30fc\u30ca\u30fc\u3092\u53d6\u308b\uff082.60\uff09\u307e\u305f\u306f Flamengo \u304c\u6700\u591a\u30b3\u30fc\u30ca\u30fc\u3092\u53d6\u308b\uff081.64\uff09\u3068\u3059\u308b\u8ced\u3051\u5408\u6226\n\n\u88dc\u8db3\n- \u30b9\u30bf\u30b8\u30a2\u30e0\u540d\u304c\u672a\u8a18\u8f09\u306e\u305f\u3081\u3001\u30db\u30fc\u30e0\u30a2\u30c9\u30d0\u30f3\u30c6\u30fc\u30b8\u306e\u5f71\u97ff\u306f\u300c\u4eee\u306e\u524d\u63d0\u300d\u3068\u3057\u3066\u306e\u89e3\u91c8\u3067\u3059\u3002\u5b9f\u969b\u306e\u73fe\u5730\u72b6\u6cc1\u3067\u306e\u5f71\u97ff\u306f\u52d5\u304f\u53ef\u80fd\u6027\u304c\u3042\u308a\u307e\u3059\u3002\n- \u8a66\u5408\u306e\u9032\u884c\u6b21\u7b2c\u3067\u5f8c\u534a\u306b\u5f97\u70b9\u304c\u5165\u308a\u3084\u3059\u3044\u30d1\u30bf\u30fc\u30f3\u304c\u591a\u3044\u3068\u3044\u3046\u30c7\u30fc\u30bf\u50be\u5411\u3092\u8e0f\u307e\u3048\u3001\u5f8c\u534a\u306e\u8ced\u3051\u3084\u30bb\u30ab\u30f3\u30c9\u30cf\u30fc\u30d5\u306e\u5c55\u958b\u306b\u3082\u6ce8\u76ee\u3057\u3066\u304f\u3060\u3055\u3044\u3002\n\n\u8981\u70b9\n- \u7dcf\u5f97\u70b9\u306f2\u20133\u70b9\u5bc4\u308a\u306e\u8a66\u5408\u304c\u591a\u3044\u30024.5\u70b9\u4ee5\u4e0a\u306f\u4f4e\u78ba\u7387\u3002\n- Flamengo\u306e\u52dd\u5229\u30aa\u30c3\u30ba\u306f2.02\u3068\u76f8\u5bfe\u7684\u306b\u8fd1\u304f\u3001\u30c0\u30d6\u30eb\u30c1\u30e3\u30f3\u30b9\u306f\u6709\u52b9\u3002\n- BTTS\u3068Over2.5\u306f\u73fe\u5b9f\u7684\u306a\u7d44\u307f\u5408\u308f\u305b\u3002\u5f8c\u534a\u306e\u5f97\u70b9\u6a5f\u4f1a\u3082\u591a\u3044\u50be\u5411\u3092\u8003\u616e\u3057\u307e\u3057\u3087\u3046\u3002",
+            "it": "Analisi di scommessa: Atl\u00e9tico Mineiro vs Flamengo (Brasileir\u00e3o 2025, G36)\n\nContesto rapido\n- Atletico Mineiro ha vantaggio casalingo forte: win rate in casa 50%, xG casa 1.83 vs xG subita 1.12. Il dato indica un shy di attacco in casa superiore e una difesa solida.\n- Flamengo ha buone performance in trasferta: win rate away 53%, xG away 1.61 vs xG contro 1.12. Attacco robusto anche in trasferta.\n- Storicamente questo confronto tende a produrre xG totali elevati: xG medio tra le due squadre prima di questa sfida \u00e8 3.44, superiore alla media generale di 2.46. Potenziale per gol quindi alto.\n- Probabilit\u00e0 di gol gi\u00e0 alta fin dall\u2019inizio: Over 0.5 \u00e8 estremamente probabile (odds 1.02). Infortuni e turnover non disponibili.\n\nPunti chiave e statistiche da notare\n- BTTS (Entrambe le squadre segnano): BTTS Yes 1.85; con le due squadre capaci di segnare in diverse fasi della partita, \u00e8 una candidata solida.\n- Gol totali: Over 2.5 2.15 vs Under 2.5 1.70. Non \u00e8 semplice, ma i dati storici indicano una tendenza verso una gara con pi\u00f9 di 2 gol (3.44 xG combinato). Non sorprende se il match sforer\u00e0 i 2,5 gol.\n- Probabilit\u00e0 di reti nel primo tempo: 1\u00b0 tempo Over 1.5 goals \u00e8 basso (non fornito direttamente qui), ma la tendenza generale di BTTS e xG elevato suggerisce possibili segnature anche nel primo tempo, seppur meno probabile rispetto al secondo tempo.\n- Corners: Over 7.5 corners 1.30, Over 9.5 1.86, Over 10.5 2.35. La partita tende a fornire un numero consistente di corner; \u00e8 probabile che si muovano in livelli sopra la media (la media di corners tra le due squadre \u00e8 13.07).\n- Clean sheets: Atletico clean sheets Yes 3.75; Flamengo clean sheets Yes 2.45. Entrambe le difese hanno possibilit\u00e0 di mantenere la porta inviolata in determinate fasi, ma la maggior parte delle scommesse preferisce puntare su reti.\n- Double Chance: Flamengo Win or Draw 1.27 \u00e8 leggermente pi\u00f9 probabile rispetto ad Atletico Win or Draw 1.32; entrambe le opzioni indicano una gara potenzialmente bilanciata, con Flamengo leggermente favorito a non perdere.\n- Probabilit\u00e0 di segnare in generale: la rete \u00e8 molto probabile dato l\u2019andamento storico (Over 0.5 a 1.02 suggerisce quasi certa presenza di gol).\n\nSuggerimenti di scommessa (valore e sicurezza)\n- Scelta principale (pi\u00f9 sicura): Flamengo Win or Draw (Double Chance) a 1.27. Approccio difensivo su una gara difficile in trasferta per Atletico, ma con la forma e i dati a favore di Flamengo.\n- Obiettivo rendimento offensivo: Over 2.5 a 2.15. Potrebbe essere una scommessa con valore, considerando l\u2019xG combinato storico e la tendenza al gol.\n- BTTS per aumentare valore: BTTS Yes a 1.85. Se entrambe le squadre hanno margini di manovra e attacco, c\u2019\u00e8 buona probabilit\u00e0 di entrambe a segnarla.\n- Corners: Over 7.5 corners a 1.30 o Over 9.5 a 1.86. Se vuoi un over/bet di sicuro con margine, i corners offrono valore ragionato data la tendenza storica.\n- Alternative di copertura: Atletico Mineiro Win or Draw 1.32 \u00e8 una seconda opzione di Double Chance, ma meno prudente rispetto a Flamengo.\n\nDefinizione del pronostico\n- Probabile esito: 1-2 o 2-2, con gol per entrambe le squadre e un buon numero di corner. Le letture mostrano una partita con potenziale alto di gol ma con una leggera tendenza difensiva nelle fasi iniziali, spostando il peso nel secondo tempo.\n\nNote rapide\n- Non ci sono dati di marcature dei singoli giocatori per questo incontro.\n- Lo status \u00e8 incomplete; le statistiche fornite rappresentano il contesto pre-partita e non l\u2019esito effettivo.\n\nRiassunto rapido delle scommesse consigliate\n- Flamengo Win or Draw (Double Chance): 1.27\n- Over 2.5: 2.15\n- BTTS Yes: 1.85\n- Over 7.5 corners: 1.30 (opzione sicura di volume)\n\nRicorda: tutte le scommesse comportano rischio. Le valutazioni qui presentate si basano su i dati forniti e sulle tendenze storiche, ma nulla garantisce l\u2019esito finale. Buona fortuna.",
+            "se": "Speltips inf\u00f6r matchen: Atl\u00e9tico Mineiro vs Flamengo, Brasilien 2025, omg\u00e5ng 36 (hemma f\u00f6r Atl\u00e9tico Mineiro)\n\nNyckelfakta\n- Hemmaplansf\u00f6rtj\u00e4nst: Atl\u00e9tico Mineiro har stark offensiv hemma (attackf\u00f6rdel 38, f\u00f6rsvarseffekt 23; total f\u00f6rdel hemma 31). Detta st\u00e4rker hemmalaget trots Flamengo som kommer starkt som away-l\u00e4ge.\n- F\u00f6rv\u00e4ntad m\u00e5lproduktion: Snitt-xG per match innan matchen: Atl\u00e9tico Mineiro 1.83, Flamengo 1.61. Sammanlagd f\u00f6rv\u00e4ntad xG runt 3.44, vilket tyder p\u00e5 ett j\u00e4mnt men m\u00e5lfarligt m\u00f6te.\n- M\u00e5l- och m\u00e5lchanser: Totalt m\u00e5lantagande kring 2\u20133 m\u00e5l \u00e4r troligt med viss risk f\u00f6r 0\u20131 eller 1\u20132. Under 4.5 m\u00e5l \u00e4r mycket sannolikt enligt avtalade tr\u00f6sklar (91% underskott).\n- F\u00f6rv\u00e4ntad f\u00f6rsta halvlek: 55% chans f\u00f6r minst ett m\u00e5l i f\u00f6rsta halvlek ligger n\u00e4ra linjen; f\u00f6rsta halvlek \u00f6ver 0.5 m\u00e5l k\u00e4nns rimlig men \u00f6ver 1.5 \u00e4r mindre sannolikt (cirka 24%).\n- Andra halvlek: Andra halvlek har h\u00f6gre sannolikhet f\u00f6r m\u00e5l (\u00f6ver 0.5 m\u00e5l runt 76%; \u00f6ver 1.5 m\u00e5l cirka 52%).\n\nSpeltips (h\u00f6gst sannolikt och bra v\u00e4rde)\n- Cute hedge 1: Double Chance Atl\u00e9tico Mineiro Win eller Draw \u2013 Odds omkring 1.32. Hemmaplansf\u00f6rdelen och h\u00f6gre xG hemma g\u00f6r Atl\u00e9tico till ett s\u00e4krare val att inte f\u00f6rlora.\n- Cute hedge 2: Under 2.5 m\u00e5l \u2013 Odds cirka 1.70. Med generell defensiv stabilitet och 3.44 i gemensam f\u00f6rv\u00e4ntad xG kan matchen ofta sluta under eller precis runt 2\u20133 m\u00e5l.\n- Cute hedge 3: BTTS (B\u00e5da lagen scorer) \u2013 Yes omkring 1.85. Med tv\u00e5 offensivt kapabla lag och h\u00f6g sannolikhet f\u00f6r m\u00e5l i b\u00e5da halvlekar \u00f6kar chansen att b\u00e5da lag g\u00f6r m\u00e5l.\n- Extras (cornerspel): \u00d6ver 7.5 h\u00f6rnor \u2013 Odds cirka 1.30. Prepper att matchen blir anfallstung och pressas till m\u00e5nga fasta situationer; \u00f6ver 7.5 h\u00f6rnor \u00e4r vanligt i denna typ av m\u00f6te.\n\nVad v\u00e4ntas h\u00e4nda (scorelinestimit)\n- Mest troliga resultatintervallet: 1\u20131 eller 2\u20131 till hemmalaget. Hemmaplan och f\u00f6rdel i anfall \u00f6kar chanserna f\u00f6r Atl\u00e9tico att \u00e5terv\u00e4nda med po\u00e4ng eller sm\u00e5 segrar, samtidigt som Flamengo sannolikt f\u00e5r sina chanser via kontringar eller fasta situationer.\n\nViktiga siffror att h\u00e5lla koll p\u00e5\n- Totala m\u00e5l: F\u00f6rv\u00e4ntat runt 2\u20133 m\u00e5l i matchen; \u00f6ver 4.5 m\u00e5l k\u00e4nns mycket osannolikt.\n- F\u00f6rsta halvlek: Mindre sannolikt att se flera m\u00e5l tidigt, men en m\u00e5lchans i f\u00f6rsta 45 minuter \u00e4r m\u00f6jlig (\u00f6ver 0.5 m\u00e5l runt 55%).\n- Andra halvlek: H\u00f6gre sannolikhet f\u00f6r m\u00e5l efter paus; betalda insatser p\u00e5 m\u00e5l i andra halvan \u00e4r v\u00e4rt att \u00f6verv\u00e4ga.\n- H\u00f6rnor: F\u00f6rv\u00e4ntat h\u00f6gt antal h\u00f6rnor i matchen; \u00f6ver 7.5 h\u00f6rnor ligger i attraktivt omr\u00e5de.\n\nSammanfattning\n- B\u00e4sta bet: Atl\u00e9tico Mineiro Win/Draw (Double Chance) \u2013 bra trygghet med hemmaplansf\u00f6rdel.\n- H\u00f6gre v\u00e4rde: Under 2.5 m\u00e5l och BTTS Yes ger rimligt utrymme om du vill sprida risk.\n- M\u00e5l- och h\u00f6rntrender pekar mot ett kontrollerat, l\u00e5gt/mellanh\u00f6gt m\u00e5lspel med betydande aktivitet i den andra halvan och flera fasta situationer.\n\nAvspark: 26 november (datumet indikerar t\u00e4tt mellan ligan och slutspel)",
+            "ru": "\u0410\u0442\u043b\u0435\u0442\u0438\u043a\u043e \u041c\u0438\u043d\u0435\u0439\u0440\u043e vs \u0424\u043b\u0430\u043c\u0435\u043d\u0433\u043e \u2014 betting \u0430\u043d\u0430\u043b\u0438\u0437 (2025, \u0422\u0443\u0440 36)\n\n\u041a\u0440\u0430\u0442\u043a\u043e \u043f\u043e \u0440\u044b\u043d\u043a\u0443\n- \u0424\u043b\u0430\u043c\u0435\u043d\u0433\u043e \u0444\u0430\u0432\u043e\u0440\u0438\u0442 \u043d\u0430 \u043f\u043e\u0431\u0435\u0434\u0443: \u043f\u043e\u0431\u0435\u0434\u0430 \u0424\u043b\u0430\u043c\u0435\u043d\u0433\u043e 2.02; \u043d\u0438\u0447\u044c\u044f 3.45; \u043f\u043e\u0431\u0435\u0434\u0430 \u0410\u0442\u043b\u0435\u0442\u0438\u043a\u043e 3.77.\n- \u041e\u0431\u043e\u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044b\u0439 \u043e\u0431\u0449\u0438\u0439 \u043f\u0440\u043e\u0433\u043d\u043e\u0437 \u043f\u043e \u0433\u043e\u043b\u0430\u043c: Over 2.5 2.15, Under 2.5 1.70 (\u043d\u0430 \u0440\u044b\u043d\u043a\u0435 Under \u0431\u043e\u043b\u0435\u0435 \u0432\u044b\u0441\u043e\u043a\u0438\u0439 \u0448\u0430\u043d\u0441 \u043f\u043e \u0441\u0442\u0430\u0432\u043a\u0435). \u0421\u0440\u0435\u0434\u043d\u0438\u0439 \u043f\u043e\u043a\u0430\u0437\u0430\u0442\u0435\u043b\u044c \u043f\u043e \u043c\u0430\u0442\u0447\u0430\u043c \u043c\u0435\u0436\u0434\u0443 \u044d\u0442\u0438\u043c\u0438 \u043a\u043b\u0443\u0431\u0430\u043c\u0438 \u0434\u043e \u0432\u0441\u0442\u0440\u0435\u0447\u0438 \u2014 3.44 xG \u0441\u0443\u043c\u043c\u0430\u0440\u043d\u043e, \u0447\u0442\u043e \u0432\u044b\u0448\u0435 \u043e\u0431\u0449\u0435\u0433\u043e \u0441\u0440\u0435\u0434\u043d\u0435\u0433\u043e 2.46. \u042d\u0442\u043e \u0433\u043e\u0432\u043e\u0440\u0438\u0442 \u043e \u043f\u043e\u0442\u0435\u043d\u0446\u0438\u0430\u043b\u0435 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u0438 \u0432 \u043e\u0447\u043d\u043e\u043c \u043f\u043e\u0435\u0434\u0438\u043d\u043a\u0435.\n- \u041d\u0435\u0441\u043c\u043e\u0442\u0440\u044f \u043d\u0430 \u0444\u0430\u0432\u043e\u0440\u0438\u0442\u0441\u0442\u0432\u043e \u0424\u043b\u0430\u043c\u0435\u043d\u0433\u043e, \u0434\u043e\u043c\u0430\u0448\u043d\u0438\u0439 \u0444\u0430\u043a\u0442\u043e\u0440 \u0443 \u0410\u0442\u043b\u0435\u0442\u0438\u043a\u043e \u043e\u0441\u0442\u0430\u0435\u0442\u0441\u044f \u0437\u043d\u0430\u0447\u0438\u043c\u044b\u043c: \u0434\u043e\u043c\u0430\u0448\u043d\u044f\u044f \u043f\u043e\u0431\u0435\u0434\u043d\u0430\u044f \u0441\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043a\u0430 \u0410\u0442\u043b\u0435\u0442\u0438\u043a\u043e \u2014 \u043e\u043a\u043e\u043b\u043e 50%, \u0430\u0442\u0430\u043a\u0443\u044e\u0449\u0430\u044f \u0441\u0438\u043b\u0430 \u043d\u0430 \u0441\u0432\u043e\u0435\u0439 \u0430\u0440\u0435\u043d\u0435 \u0432\u044b\u0448\u0435 \u0441\u0440\u0435\u0434\u043d\u0435\u0433\u043e, \u0437\u0430\u0449\u0438\u0442\u0430 \u2014 \u0443\u043c\u0435\u0440\u0435\u043d\u043d\u0430\u044f. \n- \u0412\u0430\u0436\u043d\u044b\u0435 \u0441\u0435\u043d\u0441\u043e\u0440\u044b: \u0432\u0442\u043e\u0440\u043e\u0439 \u0442\u0430\u0439\u043c \u0447\u0430\u0449\u0435 \u043f\u0440\u0438\u043d\u043e\u0441\u0438\u0442 \u0433\u043e\u043b\u044b (2-\u0439 \u0442\u0430\u0439\u043c BTTS \u043e\u043a\u043e\u043b\u043e 37%), \u043f\u0435\u0440\u0432\u0430\u044f \u043f\u043e\u043b\u043e\u0432\u0438\u043d\u0430 \u2014 \u043c\u0435\u043d\u0435\u0435 \u00ab\u044f\u0440\u043a\u0430\u044f\u00bb \u043f\u043e BTTS (\u043f\u0440\u0438\u043c\u0435\u0440\u043d\u043e 12%).\n\n\u041a\u043b\u044e\u0447\u0435\u0432\u044b\u0435 \u0441\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043a\u0438 \u0438 \u0438\u043d\u0441\u0430\u0439\u0442\u044b\n- \u041e\u0436\u0438\u0434\u0430\u0435\u043c\u0430\u044f \u043a\u0440\u043e\u0441\u0441-\u0430\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c: \u0441\u0440\u0435\u0434\u043d\u0435\u0435 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u0443\u0433\u043b\u043e\u0432\u044b\u0445 \u0432 \u043c\u0430\u0442\u0447\u0430\u0445 \u043c\u0435\u0436\u0434\u0443 \u044d\u0442\u0438\u043c\u0438 \u043a\u043e\u043c\u0430\u043d\u0434\u0430\u043c\u0438 13.07. \u0417\u0434\u0435\u0441\u044c \u0440\u044b\u043d\u043e\u043a \u043f\u0440\u0435\u0434\u043b\u0430\u0433\u0430\u0435\u0442 \u043d\u0430\u0434\u0451\u0436\u043d\u044b\u0435 \u0441\u0442\u0430\u0432\u043a\u0438 \u043d\u0430 \u0443\u0433\u043b\u043e\u0432\u044b\u0435: Over 7.5 \u0443\u0433\u043b\u043e\u0432\u044b\u0445 1.30, Over 8.5 1.53, Over 9.5 1.86. \u0412\u0435\u0440\u043e\u044f\u0442\u043d\u0435\u0435 \u0432\u0441\u0435\u0433\u043e \u043c\u0430\u0442\u0447 \u0431\u0443\u0434\u0435\u0442 \u043d\u0430\u0441\u044b\u0449\u0435\u043d \u0443\u0433\u043b\u043e\u0432\u044b\u043c\u0438.\n- \u0412\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c \u0441\u0443\u0445\u043e\u0439 \u0438\u0433\u0440\u044b: \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u0438 \u0447\u0438\u0441\u0442\u043e\u0439 \u043e\u0431\u043e\u0440\u043e\u043d\u044b \u0443 \u043e\u0431\u0435\u0438\u0445 \u0441\u0442\u043e\u0440\u043e\u043d \u0440\u0430\u0437\u0431\u0440\u043e\u0441\u0430\u043d\u044b. Atl\u00e9tico Mineiro Clean Sheets (\u0414\u0430) 3.75, Flamengo Clean Sheets (\u0414\u0430) 2.45. \u042d\u0442\u043e \u0437\u043d\u0430\u0447\u0438\u0442, \u0447\u0442\u043e \u0447\u0438\u0441\u0442\u043e\u0433\u043e \u00ab\u0441\u0443\u0445\u043e\u0433\u043e\u00bb \u043c\u0430\u0442\u0447\u0430 \u043d\u0435 \u0438\u0441\u043a\u043b\u044e\u0447\u0430\u0442\u044c, \u043d\u043e \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c \u043f\u0440\u043e\u043f\u0443\u0441\u0442\u0438\u0442\u044c \u043e\u0434\u043d\u0430-\u0434\u0432\u0435 \u0433\u043e\u043b\u043e\u0432\u044b \u0432\u044b\u0448\u0435, \u0447\u0435\u043c \u00ab\u043f\u043e\u043b\u043d\u0430\u044f\u00bb \u0441\u0443\u0445\u0430\u044f \u0438\u0433\u0440\u0430.\n- \u041a\u043e\u0440\u0438\u0434\u043e\u0440\u044b \u0430\u0442\u0430\u043a: \u043e\u0447\u0435\u0440\u0447\u0435\u043d\u043e \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e Flamengo \u0432 \u0443\u0433\u043b\u043e\u0432\u044b\u0445 \u043d\u0430 \u0434\u0438\u0441\u0442\u0430\u043d\u0446\u0438\u0438, \u043d\u043e \u0410\u0442\u043b\u0435\u0442\u0438\u043a\u043e \u0432 \u0434\u043e\u043c\u0430\u0448\u043d\u0438\u0445 \u043c\u0430\u0442\u0447\u0430\u0445 \u043c\u043e\u0436\u0435\u0442 \u00ab\u043f\u0435\u0440\u0435\u0445\u0432\u0430\u0442\u0438\u0442\u044c\u00bb \u0438\u043d\u0438\u0446\u0438\u0430\u0442\u0438\u0432\u0443 \u0438 \u0443\u0433\u043b\u044b \u0432 \u0441\u0432\u043e\u044e \u043f\u043e\u043b\u044c\u0437\u0443. Double Chance: \u0410\u0442\u043b\u0435\u0442\u0438\u043a\u043e Win or Draw 1.32 \u2014 \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u0430\u044f \u0441\u0442\u0430\u0432\u043a\u0430 \u043d\u0430 \u0441\u0446\u0435\u043d\u0430\u0440\u0438\u0439, \u0433\u0434\u0435 \u0410\u0442\u043b\u0435\u0442\u0438\u043a\u043e \u0441\u043e\u0445\u0440\u0430\u043d\u044f\u0435\u0442 \u0448\u0430\u043d\u0441\u044b \u043d\u0430 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442.\n- xG \u0438 \u0430\u0442\u0430\u043a\u0443\u044e\u0449\u0430\u044f \u0434\u0438\u043d\u0430\u043c\u0438\u043a\u0430: \u0434\u043e \u043c\u0430\u0442\u0447\u0430 \u0441\u0440\u0435\u0434\u043d\u0438\u0439 xG \u0410\u0442\u043b\u0435\u0442\u0438\u043a\u043e 1.83, \u0443 \u0424\u043b\u0430\u043c\u0435\u043d\u0433\u043e \u2014 1.61. \u0412 \u0441\u0443\u043c\u043c\u0435 \u043e\u0436\u0438\u0434\u0430\u0435\u0442\u0441\u044f \u043e\u043a\u043e\u043b\u043e 3.44 xG \u0437\u0430 \u043c\u0430\u0442\u0447. \u042d\u0442\u043e \u0443\u043a\u0430\u0437\u044b\u0432\u0430\u0435\u0442 \u043d\u0430 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c \u0437\u0430\u043c\u0435\u0442\u043d\u043e\u0439 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u0438, \u043d\u043e \u0443\u0447\u0438\u0442\u044b\u0432\u0430\u0439\u0442\u0435, \u0447\u0442\u043e \u0440\u044b\u043d\u043e\u043a \u0447\u0430\u0449\u0435 \u0434\u0435\u0440\u0436\u0438\u0442 \u043f\u043e\u0434 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u0435\u043c 2\u20133 \u043c\u044f\u0447\u0430 \u043a\u0430\u043a \u043e\u0441\u043d\u043e\u0432\u043d\u0443\u044e \u0437\u043e\u043d\u0443.\n\n\u041f\u0440\u043e\u0433\u043d\u043e\u0437 \u0438 \u0441\u0446\u0435\u043d\u0430\u0440\u0438\u0438\n- \u0412\u0435\u0440\u043e\u044f\u0442\u043d\u044b\u0439 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442: \u043c\u0430\u0442\u0447 \u0441 \u0443\u043c\u0435\u0440\u0435\u043d\u043d\u043e\u0439 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c\u044e, \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u044b \u043e\u0431\u0430 \u0437\u0430\u0431\u044c\u044e\u0442. \u0420\u0435\u0430\u043b\u0438\u0441\u0442\u0438\u0447\u043d\u044b\u0435 \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u044b: 1\u20132 \u0432 \u043f\u043e\u043b\u044c\u0437\u0443 \u0424\u043b\u0430\u043c\u0435\u043d\u0433\u043e \u0438\u043b\u0438 2\u20131 \u0432 \u043f\u043e\u043b\u044c\u0437\u0443 \u0410\u0442\u043b\u0435\u0442\u0438\u043a\u043e (\u0434\u043e\u043c\u0430\u0448\u043d\u0435\u0435 \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e \u043c\u043e\u0436\u0435\u0442 \u0432\u044b\u0440\u0432\u0430\u0442\u044c \u043e\u0434\u0438\u043d \u0433\u043e\u043b \u0443 \u0424\u043b\u0430\u043c\u0435\u043d\u0433\u043e). \u0412 \u043b\u044e\u0431\u043e\u043c \u0441\u043b\u0443\u0447\u0430\u0435, \u0440\u0435\u0447\u044c \u043e 2\u20133 \u0433\u043e\u043b\u0430\u0445 \u0441\u0443\u043c\u043c\u0430\u0440\u043d\u043e.\n- \u0412\u0442\u043e\u0440\u043e\u0439 \u0442\u0430\u0439\u043c \u0438\u043c\u0435\u0435\u0442 \u0432\u044b\u0448\u0435 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c \u043f\u043e\u043f\u0430\u0434\u0430\u043d\u0438\u044f \u0433\u043e\u043b\u043e\u0432 \u043f\u043e \u0441\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043a\u0435 (2-\u0439 \u0442\u0430\u0439\u043c \u0447\u0430\u0449\u0435 \u043f\u0440\u0438\u043d\u043e\u0441\u0438\u0442 \u0433\u043e\u043b\u044b), \u0442\u0430\u043a \u0447\u0442\u043e \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435 \u0432 \u043f\u043e\u0437\u0434\u043d\u0438\u0445 \u0442\u0430\u0439\u043c\u0430\u0445 \u2014 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u044b\u0439 \u0441\u0446\u0435\u043d\u0430\u0440\u0438\u0439.\n- \u0411\u043b\u043e\u043a \u0440\u0438\u0441\u043a\u0430: \u0440\u0438\u0441\u043a \u00ab\u043c\u043d\u043e\u0433\u043e \u0433\u043e\u043b\u043e\u0432\u00bb \u043d\u0438\u0436\u0435, \u0447\u0435\u043c \u0432 \u043f\u0440\u0438\u0432\u044b\u0447\u043d\u044b\u0445 \u044f\u0440\u043a\u0438\u0445 \u043c\u0430\u0442\u0447\u0430\u0445, \u043d\u043e, \u0443\u0447\u0438\u0442\u044b\u0432\u0430\u044f xG 3.44 \u0438 \u0441\u0440\u0435\u0434\u043d\u044e\u044e \u0430\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c \u0443\u0433\u043b\u043e\u0432\u044b\u0445 \u2014 \u0433\u043e\u043b\u044b \u0432 \u0446\u0435\u043b\u043e\u043c \u043e\u0436\u0438\u0434\u0430\u044e\u0442\u0441\u044f.\n\n\u0421\u0442\u0430\u0432\u043a\u0438 \u0434\u043d\u044f (\u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0430\u0446\u0438\u0438)\n- \u041e\u0441\u043d\u043e\u0432\u043d\u0430\u044f \u0441\u0442\u0430\u0432\u043a\u0430: \u0424\u043b\u0430\u043c\u0435\u043d\u0433\u043e \u043f\u043e\u0431\u0435\u0434\u0430 (2.02) \u2014 \u0440\u044b\u043d\u043e\u043a \u0432\u0438\u0434\u0438\u0442 \u0438\u0445 \u043a\u0430\u043a \u0444\u0430\u0432\u043e\u0440\u0438\u0442\u0430 \u043d\u0430 \u0432\u044b\u0435\u0437\u0434\u0435.\n- \u0410\u043b\u044c\u0442\u0435\u0440\u043d\u0430\u0442\u0438\u0432\u0430/\u0445\u0435\u0434\u0436: Under 2.5 \u0433\u043e\u043b\u0430 (1.70) \u2014 \u0431\u043e\u043b\u0435\u0435 \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u044b\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442, \u0443\u0447\u0438\u0442\u044b\u0432\u0430\u044f \u0448\u0438\u0440\u043e\u043a\u0438\u0439 \u0434\u0438\u0430\u043f\u0430\u0437\u043e\u043d, \u043d\u043e \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u0430 \u0441\u0440\u0435\u0434\u043d\u044f\u044f \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c.\n- BTTS (\u043e\u0431\u0435 \u0437\u0430\u0431\u044c\u044e\u0442): \u0414\u0430 (1.85) \u2014 \u0443\u0447\u0438\u0442\u044b\u0432\u0430\u044f \u043e\u0431\u0435 \u0430\u0442\u0430\u043a\u0443\u044e\u0449\u0438\u0435 \u043b\u0438\u043d\u0438\u0438 \u0438 \u0441\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043a\u0443 \u0432\u0442\u043e\u0440\u043e\u0439 \u043f\u043e\u043b\u043e\u0432\u0438\u043d\u044b BTTS, \u0448\u0430\u043d\u0441\u044b \u0432\u044b\u0433\u043b\u044f\u0434\u044f\u0442 \u043f\u0440\u0438\u0432\u043b\u0435\u043a\u0430\u0442\u0435\u043b\u044c\u043d\u043e.\n- \u0423\u0433\u043b\u043e\u0432\u044b\u0435: Over 9.5 \u0443\u0433\u043b\u043e\u0432\u044b\u0445 (1.86) \u0438\u043b\u0438 Over 10.5 (2.35) \u2014 \u0435\u0441\u043b\u0438 \u043e\u0440\u0438\u0435\u043d\u0442\u0438\u0440\u043e\u0432\u0430\u0442\u044c\u0441\u044f \u043d\u0430 \u043e\u0431\u0449\u0443\u044e \u0442\u0435\u043d\u0434\u0435\u043d\u0446\u0438\u044e \u0443\u0433\u043b\u043e\u0432\u044b\u0445 \u0438 \u0432\u044b\u0441\u043e\u043a\u0438\u0439 \u0441\u0440\u0435\u0434\u043d\u0438\u0439 \u043f\u043e\u043a\u0430\u0437\u0430\u0442\u0435\u043b\u044c (13.07), \u044d\u0442\u043e \u0445\u043e\u0440\u043e\u0448\u0430\u044f \u00ab\u043c\u043e\u0449\u043d\u0430\u044f \u0441\u0442\u0430\u0432\u043a\u0430\u00bb \u0434\u043b\u044f \u044d\u043a\u0441\u043f\u0440\u0435\u0441\u0441-\u0441\u0442\u0430\u0432\u043e\u043a \u043d\u0430 \u043c\u0430\u0442\u0447.\n- \u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439 \u0432\u044b\u0431\u043e\u0440: Atl\u00e9tico Mineiro to win most corners (2.60) \u2014 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e, \u0410\u0442\u043b\u0435\u0442\u0438\u043a\u043e \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u0435\u0435 \u0432 \u0443\u0433\u043b\u043e\u0432\u044b\u0445 \u043d\u0430 \u0441\u0432\u043e\u0435\u0439 \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438; \u0441\u0442\u043e\u0438\u0442 \u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u043a\u0430\u043a \u043a\u043e\u043d\u0442\u0440\u0430\u0441\u0442\u043d\u0443\u044e \u0433\u0440\u0443\u043f\u043f\u0443 \u0441\u0442\u0430\u0432\u043e\u043a.\n\n\u041f\u0440\u0438\u043c\u0435\u0447\u0430\u043d\u0438\u044f\n- \u0421\u0442\u0430\u0434\u0438\u044f/\u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435 \u043c\u0430\u0442\u0447\u0430: \u043c\u0430\u0442\u0447 \u043f\u043e\u043c\u0435\u0447\u0435\u043d \u043a\u0430\u043a \u043d\u0435\u043f\u043e\u043b\u043d\u044b\u0439 \u0441\u0442\u0430\u0442\u0443\u0441; \u0443\u0447\u0442\u0438\u0442\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u044b\u0435 \u0438\u0437\u043c\u0435\u043d\u0435\u043d\u0438\u044f \u0441\u043e\u0441\u0442\u0430\u0432\u0430 \u0438 \u0442\u0430\u043a\u0442\u0438\u043a\u0438 \u0438\u0437-\u0437\u0430 \u043c\u043e\u0442\u0438\u0432\u0430\u0446\u0438\u0438 \u043d\u0430 \u0442\u0443\u0440\u043d\u0438\u0440\u043d\u0443\u044e \u043f\u0435\u0440\u0435\u0441\u0442\u0440\u043e\u0439\u043a\u0443.\n- \u041d\u0435 \u0437\u0430\u0431\u044b\u0432\u0430\u0439\u0442\u0435 \u043e \u0440\u0430\u0441\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u0438\u0438 \u0448\u0430\u043d\u0441\u043e\u0432 \u043f\u043e \u0442\u0430\u0439\u043c\u0430\u043c: \u043f\u0435\u0440\u0432\u044b\u0439 \u0442\u0430\u0439\u043c \u043c\u0435\u043d\u0435\u0435 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e \u0434\u0430\u0451\u0442 \u0434\u0432\u0430 \u0433\u043e\u043b\u0430 \u0441\u0443\u043c\u043c\u0430\u0440\u043d\u043e, \u0432\u0442\u043e\u0440\u043e\u0439 \u0442\u0430\u0439\u043c \u2014 \u0431\u043e\u043b\u0435\u0435 \u0432\u0435\u0440\u043e\u044f\u0442\u0435\u043d \u0434\u043b\u044f \u0432\u0437\u044f\u0442\u0438\u044f \u0432\u043e\u0440\u043e\u0442.\n\n\u041a\u043e\u0440\u043e\u0442\u043a\u043e: \u0444\u0430\u0432\u043e\u0440\u0438\u0442 \u2014 \u0424\u043b\u0430\u043c\u0435\u043d\u0433\u043e, \u043d\u043e \u0434\u043e\u043c\u0430\u0448\u043d\u0438\u0439 \u0444\u0430\u043a\u0442\u043e\u0440 \u0410\u0442\u043b\u0435\u0442\u0438\u043a\u043e \u0432\u0430\u0436\u0435\u043d. \u041e\u0436\u0438\u0434\u0430\u044e\u0442\u0441\u044f 2\u20133 \u0433\u043e\u043b\u0430 \u0432 \u043c\u0430\u0442\u0447\u0435, \u0432\u044b\u0441\u043e\u043a\u0438\u0439 \u0443\u0440\u043e\u0432\u0435\u043d\u044c \u0443\u0433\u043b\u043e\u0432\u044b\u0445 \u0438 \u0437\u043d\u0430\u0447\u0438\u0442\u0435\u043b\u044c\u043d\u0430\u044f \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c \u0433\u043e\u043b\u043e\u0432 \u0432\u043e \u0432\u0442\u043e\u0440\u043e\u043c \u0442\u0430\u0439\u043c\u0435. \u0420\u0430\u0441\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u0439\u0442\u0435 \u043a\u043e\u043c\u0431\u0438\u043d\u0430\u0446\u0438\u0438: \u043f\u043e\u0431\u0435\u0434\u0430 \u0424\u043b\u0430\u043c\u0435\u043d\u0433\u043e, BTTS \u0414\u0430, \u0438 \u0432\u0430\u0440\u0438\u0430\u043d\u0442 \u043d\u0430 \u0443\u0433\u043b\u043e\u0432\u044b\u0435 (Over 9.5\u2013Over 10.5) \u0434\u043b\u044f \u043c\u0443\u043b\u044c\u0442\u0438\u0441\u0442\u0430\u0432\u043a\u0438."
+        },
+        "odds_comparison": {
+            "Half Time Result": {
+                "Home": {
+                    "bet365": "4.75",
+                    "1xbet": "4.75",
+                    "WilliamHill": "4.33",
+                    "Sbo": "4.59",
+                    "Unibet": "4.30",
+                    "188Bet": "4.55",
+                    "888Sport": "4.33",
+                    "10Bet": "4.33",
+                    "Pinnacle": "4.72"
+                },
+                "Draw": {
+                    "bet365": "2.00",
+                    "1xbet": "1.96",
+                    "WilliamHill": "2.10",
+                    "Sbo": "1.95",
+                    "Unibet": "2.14",
+                    "188Bet": "2.10",
+                    "888Sport": "2.10",
+                    "10Bet": "2.05",
+                    "Pinnacle": "2.11"
+                },
+                "Away": {
+                    "bet365": "2.75",
+                    "1xbet": "2.61",
+                    "WilliamHill": "2.50",
+                    "Sbo": "2.64",
+                    "Unibet": "2.50",
+                    "188Bet": "2.47",
+                    "888Sport": "2.50",
+                    "10Bet": "2.50",
+                    "Pinnacle": "2.84"
+                }
+            },
+            "Corners": {
+                "Over 9.5": {
+                    "10Bet": "1.80"
+                },
+                "Under 9.5": {
+                    "10Bet": "1.91"
+                }
+            },
+            "Corners 1X2": {
+                "Home": {
+                    "WilliamHill": "2.50",
+                    "Unibet": "2.70",
+                    "1xbet": "2.65"
+                },
+                "Away": {
+                    "WilliamHill": "1.65",
+                    "Unibet": "1.61",
+                    "1xbet": "1.70"
+                },
+                "Draw": {
+                    "WilliamHill": "8.50",
+                    "Unibet": "7.50",
+                    "1xbet": "9.10"
+                }
+            },
+            "Second Half Result": {
+                "Away": {
+                    "888Sport": "2.50",
+                    "1xbet": "2.32",
+                    "Unibet": "2.45",
+                    "10Bet": "2.35",
+                    "bet365": "2.37",
+                    "WilliamHill": "2.50"
+                },
+                "Home": {
+                    "888Sport": "3.90",
+                    "1xbet": "4.25",
+                    "Unibet": "3.90",
+                    "10Bet": "3.95",
+                    "bet365": "4.00",
+                    "WilliamHill": "3.90"
+                },
+                "Draw": {
+                    "888Sport": "2.20",
+                    "1xbet": "2.28",
+                    "Unibet": "2.35",
+                    "10Bet": "2.25",
+                    "bet365": "2.25",
+                    "WilliamHill": "2.20"
+                }
+            },
+            "Goals Over/Under": {
+                "Under 1.5": {
+                    "1xbet": "2.61",
+                    "10Bet": "2.88",
+                    "Pinnacle": "2.83",
+                    "Unibet": "2.95",
+                    "888Sport": "2.63"
+                },
+                "Under 2.5": {
+                    "1xbet": "1.62",
+                    "10Bet": "1.65",
+                    "Pinnacle": "1.60",
+                    "Sbo": "1.56",
+                    "Unibet": "1.62",
+                    "888Sport": "1.57",
+                    "bet365": "1.53"
+                },
+                "Under 3.5": {
+                    "1xbet": "1.17",
+                    "10Bet": "1.22",
+                    "Pinnacle": "1.21",
+                    "Unibet": "1.19",
+                    "888Sport": "1.18"
+                },
+                "Under 0.5": {
+                    "1xbet": "6.70",
+                    "10Bet": "7.50",
+                    "Pinnacle": "7.84",
+                    "Unibet": "8.50",
+                    "888Sport": "7.00"
+                },
+                "Under 4.5": {
+                    "1xbet": "1.02",
+                    "10Bet": "1.07",
+                    "Unibet": "1.04",
+                    "888Sport": "1.05"
+                },
+                "Over 4.5": {
+                    "1xbet": "7.90",
+                    "10Bet": "8.00",
+                    "Unibet": "10.00",
+                    "888Sport": "10.00"
+                },
+                "Over 0.5": {
+                    "1xbet": "1.05",
+                    "10Bet": "1.08",
+                    "Pinnacle": "1.10",
+                    "Unibet": "1.06",
+                    "888Sport": "1.08"
+                },
+                "Over 3.5": {
+                    "1xbet": "4.10",
+                    "10Bet": "4.20",
+                    "Pinnacle": "4.65",
+                    "Unibet": "4.40",
+                    "888Sport": "4.50"
+                },
+                "Over 1.5": {
+                    "1xbet": "1.39",
+                    "10Bet": "1.40",
+                    "Pinnacle": "1.46",
+                    "Unibet": "1.38",
+                    "888Sport": "1.44"
+                },
+                "Over 2.5": {
+                    "1xbet": "2.36",
+                    "10Bet": "2.20",
+                    "Pinnacle": "2.44",
+                    "Sbo": "2.42",
+                    "Unibet": "2.30",
+                    "888Sport": "2.30",
+                    "bet365": "2.40"
+                }
+            },
+            "FT Result": {
+                "Draw": {
+                    "CloudBet": "3.30",
+                    "10Bet": "3.30",
+                    "1xbet": "3.31",
+                    "WilliamHill": "3.10",
+                    "Sbo": "2.99",
+                    "Unibet": "3.25",
+                    "Ladbrokes": "3.25",
+                    "bwin": "3.25",
+                    "Pinnacle": "3.29",
+                    "Interwetten": "3.25",
+                    "188Bet": "3.45",
+                    "Betfair": "3.00",
+                    "HKJC": "3.10",
+                    "888Sport": "3.10",
+                    "bet365": "3.20",
+                    "Dafabet": "3.35",
+                    "MansionBet": "3.55"
+                },
+                "Away": {
+                    "CloudBet": "2.05",
+                    "10Bet": "1.98",
+                    "1xbet": "2.03",
+                    "WilliamHill": "1.95",
+                    "Sbo": "1.97",
+                    "Unibet": "1.95",
+                    "Ladbrokes": "2.00",
+                    "bwin": "2.00",
+                    "Pinnacle": "2.05",
+                    "Interwetten": "2.05",
+                    "188Bet": "1.85",
+                    "Betfair": "1.90",
+                    "HKJC": "1.85",
+                    "888Sport": "1.95",
+                    "bet365": "2.00",
+                    "Dafabet": "2.03",
+                    "MansionBet": "1.85"
+                },
+                "Home": {
+                    "CloudBet": "4.15",
+                    "10Bet": "4.00",
+                    "1xbet": "4.06",
+                    "WilliamHill": "3.90",
+                    "Sbo": "4.04",
+                    "Unibet": "3.95",
+                    "Ladbrokes": "3.90",
+                    "bwin": "3.90",
+                    "Pinnacle": "4.15",
+                    "Interwetten": "3.80",
+                    "188Bet": "4.00",
+                    "Betfair": "3.75",
+                    "HKJC": "3.70",
+                    "888Sport": "3.90",
+                    "bet365": "4.00",
+                    "Dafabet": "4.00",
+                    "MansionBet": "3.90"
+                }
+            },
+            "2nd Half Goals": {
+                "Over 2.5": {
+                    "Unibet": "5.80",
+                    "10Bet": "5.50"
+                },
+                "Over 1.5": {
+                    "Unibet": "2.45",
+                    "10Bet": "2.40"
+                },
+                "Under 1.5": {
+                    "Unibet": "1.50",
+                    "10Bet": "1.50"
+                },
+                "Under 2.5": {
+                    "Unibet": "1.10",
+                    "10Bet": "1.11"
+                },
+                "Over 0.5": {
+                    "Unibet": "1.30",
+                    "10Bet": "1.30"
+                },
+                "Under 0.5": {
+                    "Unibet": "3.25",
+                    "10Bet": "3.20"
+                }
+            },
+            "1st Half Goals": {
+                "Under 2.5": {
+                    "WilliamHill": "1.06",
+                    "10Bet": "1.07",
+                    "1xbet": "1.02",
+                    "Unibet": "1.05"
+                },
+                "Over 0.5": {
+                    "WilliamHill": "1.44",
+                    "10Bet": "1.42",
+                    "1xbet": "1.49",
+                    "Unibet": "1.43",
+                    "Pinnacle": "1.51"
+                },
+                "Under 0.5": {
+                    "WilliamHill": "2.62",
+                    "10Bet": "2.65",
+                    "1xbet": "2.44",
+                    "Unibet": "2.65",
+                    "Pinnacle": "2.66"
+                },
+                "Over 1.5": {
+                    "WilliamHill": "3.10",
+                    "10Bet": "2.88",
+                    "1xbet": "3.22",
+                    "Unibet": "3.15",
+                    "Pinnacle": "3.47"
+                },
+                "Under 1.5": {
+                    "WilliamHill": "1.33",
+                    "10Bet": "1.36",
+                    "1xbet": "1.30",
+                    "Unibet": "1.32",
+                    "Pinnacle": "1.33"
+                },
+                "Over 2.5": {
+                    "WilliamHill": "9.00",
+                    "10Bet": "7.00",
+                    "1xbet": "8.00",
+                    "Unibet": "8.00"
+                }
+            },
+            "Double Chance": {
+                "Home/Draw": {
+                    "10Bet": "1.80",
+                    "Sbo": "1.84",
+                    "Pinnacle": "1.83",
+                    "WilliamHill": "1.80",
+                    "Unibet": "1.78",
+                    "1xbet": "1.80",
+                    "888Sport": "1.80"
+                },
+                "Home/Away": {
+                    "10Bet": "1.28",
+                    "Sbo": "1.31",
+                    "Pinnacle": "1.37",
+                    "WilliamHill": "1.35",
+                    "Unibet": "1.32",
+                    "1xbet": "1.34",
+                    "888Sport": "1.33"
+                },
+                "Draw/Away": {
+                    "10Bet": "1.22",
+                    "Sbo": "1.17",
+                    "Pinnacle": "1.27",
+                    "WilliamHill": "1.22",
+                    "Unibet": "1.23",
+                    "1xbet": "1.25",
+                    "888Sport": "1.22"
+                }
+            },
+            "Both Teams to Score in 2nd Half": {
+                "Yes": {
+                    "10Bet": "3.70",
+                    "bet365": "4.33",
+                    "WilliamHill": "3.90",
+                    "1xbet": "3.84"
+                },
+                "No": {
+                    "10Bet": "1.22",
+                    "bet365": "1.20",
+                    "WilliamHill": "1.22",
+                    "1xbet": "1.22"
+                }
+            },
+            "Both Teams To Score": {
+                "Yes": {
+                    "Unibet": "1.96",
+                    "Pinnacle": "2.15",
+                    "bet365": "2.05",
+                    "188Bet": "2.02",
+                    "1xbet": "2.01",
+                    "888Sport": "1.95",
+                    "WilliamHill": "1.95",
+                    "10Bet": "1.91"
+                },
+                "No": {
+                    "Unibet": "1.74",
+                    "Pinnacle": "1.75",
+                    "bet365": "1.70",
+                    "188Bet": "1.77",
+                    "1xbet": "1.72",
+                    "888Sport": "1.75",
+                    "WilliamHill": "1.75",
+                    "10Bet": "1.80"
+                }
+            },
+            "Both Teams to Score in 1st Half": {
+                "Yes": {
+                    "bet365": "6.00",
+                    "WilliamHill": "5.00",
+                    "Pinnacle": "5.88",
+                    "1xbet": "5.15",
+                    "10Bet": "4.50"
+                },
+                "No": {
+                    "bet365": "1.12",
+                    "WilliamHill": "1.15",
+                    "Pinnacle": "1.15",
+                    "1xbet": "1.13",
+                    "10Bet": "1.17"
+                }
+            },
+            "Clean Sheet - Home": {
+                "No": {
+                    "10Bet": "1.22"
+                },
+                "Yes": {
+                    "10Bet": "3.70"
+                }
+            },
+            "Clean Sheet - Away": {
+                "No": {
+                    "10Bet": "1.53"
+                },
+                "Yes": {
+                    "10Bet": "2.35"
+                }
+            }
+        }
+    },
+    "message": "Usage of the API is bound to our Terms of Use : https://footystats.org/api/documentations/terms-of-use-and-legal"
+}

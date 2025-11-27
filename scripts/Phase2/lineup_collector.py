@@ -23,11 +23,10 @@ class FotMobScraper:
     BASE_URL = "https://www.fotmob.com/api"
 
     HEADERS = {
-        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-        'Accept': 'application/json, text/plain, */*',
+        'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) FotMob/165 Mobile/15E148',
+        'Accept': 'application/json',
         'Accept-Language': 'en-US,en;q=0.9',
-        'Referer': 'https://www.fotmob.com/',
-        'Origin': 'https://www.fotmob.com'
+        'X-Requested-With': 'XMLHttpRequest'
     }
 
     # League ID mapping (FotMob league IDs)
@@ -62,8 +61,14 @@ class FotMobScraper:
         """
         try:
             # Convert date format
-            match_date = datetime.strptime(date, '%d/%m/%Y')
+            try:
+                match_date = datetime.strptime(date, '%d/%m/%Y')
+            except ValueError:
+                match_date = datetime.strptime(date, '%Y-%m-%d')
             
+            # Try searching by team name
+            logger.info(f"Searching FotMob for: {home_team} vs {away_team} on {date}")
+
             # Search for home team - UPDATED ENDPOINT
             search_url = f"{self.BASE_URL}/search/suggest"
             params = {'term': home_team, 'lang': 'en'}
@@ -94,6 +99,7 @@ class FotMobScraper:
                                     self._team_name_match(a_name, away_team)):
                                     
                                     # Check date (fuzzy check or exact)
+                                    # API returns ISO format. We have DD/MM/YYYY
                                     if m_date_str:
                                         try:
                                             m_dt = datetime.fromisoformat(m_date_str.replace('Z', '+00:00'))
@@ -143,18 +149,21 @@ class FotMobScraper:
             
             # Let's try to parse the fallback data
             fallback = data.get('props', {}).get('pageProps', {}).get('fallback', {})
+            logger.info(f"Fallback keys: {list(fallback.keys())}")
             
             for key, val in fallback.items():
                 if key.startswith('team-'):
                     details = val.get('details', {})
                     next_match = details.get('nextMatch')
                     if next_match:
+                        logger.info(f"Found nextMatch ID: {next_match.get('id')}")
                         if str(next_match.get('id')) == match_id_str:
                             return f"https://www.fotmob.com{next_match.get('pageUrl')}"
                     
                     # Check ongoing match
                     ongoing = details.get('ongoing')
                     if ongoing:
+                        logger.info(f"Found ongoing ID: {ongoing.get('id')}")
                         if str(ongoing.get('id')) == match_id_str:
                              if ongoing.get('pageUrl'):
                                  return f"https://www.fotmob.com{ongoing.get('pageUrl')}"
@@ -184,6 +193,7 @@ class FotMobScraper:
         except Exception as e:
             logger.error(f"Error getting match URL from team page: {e}")
             return None
+
     def get_match_details(self, match_id: str, home_team: str = None, away_team: str = None, home_team_id: str = None) -> Optional[Dict]:
         """
         Get match details including formations and lineups
@@ -202,9 +212,12 @@ class FotMobScraper:
             
             if not url:
                 # Fallback to constructing URL (which might fail)
+                # Try constructing slug if teams are known
                 if home_team and away_team:
                     slug = f"{home_team.lower().replace(' ', '-')}-vs-{away_team.lower().replace(' ', '-')}"
-                    url = f"https://www.fotmob.com/matches/{slug}/{match_id}"
+                    url = f"https://www.fotmob.com/matches/{slug}/{match_id}" # This is likely wrong format (needs alphanumeric)
+                    # But maybe numeric works with correct slug?
+                    # Let's try the numeric ID URL as last resort
                 else:
                     url = f"https://www.fotmob.com/matches/match/{match_id}"
                 logger.warning(f"Using fallback URL (likely to fail): {url}")
@@ -257,12 +270,14 @@ class FotMobScraper:
         """
         Main method to get formations and lineups
         """
+        # Default result
         default = {
             'home_formation': '0',
             'away_formation': '0',
             'home_lineup': [],
             'away_lineup': [],
-            'source': 'default'
+            'source': 'default',
+            'match_id': None
         }
 
         # Search for match
@@ -275,6 +290,7 @@ class FotMobScraper:
         match_id = match_info['id']
         home_team_id = match_info.get('home_team_id')
 
+        # Add delay before fetching details
         time.sleep(self.delay)
 
         # Get match details
@@ -292,6 +308,13 @@ class FotMobScraper:
     def _team_name_match(self, name1: str, name2: str) -> bool:
         """
         Check if two team names match (fuzzy matching)
+
+        Args:
+            name1: First team name
+            name2: Second team name
+
+        Returns:
+            True if names match, False otherwise
         """
         # Normalize names
         n1 = name1.lower().strip()
@@ -316,6 +339,59 @@ class FotMobScraper:
             return True
 
         return False
+
+    def _find_match_in_fixtures(self, fixtures_data: Dict, home_team: str, away_team: str, match_date: datetime) -> Optional[str]:
+        """
+        Find specific match in fixtures data
+
+        Args:
+            fixtures_data: FotMob fixtures response
+            home_team: Home team name
+            away_team: Away team name
+            match_date: Match date
+
+        Returns:
+            Match ID or None
+        """
+        try:
+            # FotMob structures fixtures in different ways
+            all_fixtures = []
+
+            # Try different data structures
+            if 'fixtures' in fixtures_data:
+                if 'allFixtures' in fixtures_data['fixtures']:
+                    if 'fixtures' in fixtures_data['fixtures']['allFixtures']:
+                        all_fixtures = fixtures_data['fixtures']['allFixtures']['fixtures']
+
+            # Search through fixtures
+            for fixture in all_fixtures:
+                try:
+                    # Get fixture date
+                    fixture_date_str = fixture.get('status', {}).get('utcTime', '')
+                    if fixture_date_str:
+                        fixture_date = datetime.fromisoformat(fixture_date_str.replace('Z', '+00:00'))
+
+                        # Check if same day
+                        if fixture_date.date() != match_date.date():
+                            continue
+
+                    # Check teams
+                    home = fixture.get('home', {}).get('name', '')
+                    away = fixture.get('away', {}).get('name', '')
+
+                    if (self._team_name_match(home, home_team) and
+                        self._team_name_match(away, away_team)):
+                        return fixture.get('id')
+
+                except Exception as e:
+                    logger.debug(f"Error parsing fixture: {e}")
+                    continue
+
+            return None
+
+        except Exception as e:
+            logger.error(f"Error finding match in fixtures: {e}")
+            return None
 
     def _extract_match_data(self, data: Dict) -> Optional[Dict]:
         """
@@ -372,6 +448,11 @@ class FotMobScraper:
                     result['home_form'] = team_form[0]
                     result['away_form'] = team_form[1]
 
+            # Check if we got valid formations
+            if result['home_formation'] == '0' or result['away_formation'] == '0':
+                logger.warning("Formations not available yet (match may not have started)")
+                return None
+
             return result
 
         except Exception as e:
@@ -381,6 +462,12 @@ class FotMobScraper:
     def _parse_lineup(self, players_data: List) -> List[Dict]:
         """
         Parse lineup data
+
+        Args:
+            players_data: FotMob players array
+
+        Returns:
+            List of player dicts with name, position, rating
         """
         lineup = []
         for p in players_data:
@@ -418,12 +505,12 @@ def test_fotmob_scraper():
     print("Testing FotMob Scraper")
     print("="*80)
 
-    # Example: Red Bull Bragantino vs Fortaleza on 26/11/2025
+    # Example: Barcelona vs Athletic Club on 22/11/2025
     result = scraper.get_formations(
-        home_team="Red Bull Bragantino",
-        away_team="Fortaleza",
-        date="26/11/2025",
-        league="Serie A"
+        home_team="Barcelona",
+        away_team="Athletic Club",
+        date="22/11/2025",
+        league="La Liga"
     )
 
     print(f"\n📊 Result:")

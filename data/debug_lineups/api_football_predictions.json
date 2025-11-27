@@ -1,0 +1,1445 @@
+{
+    "get": "predictions",
+    "parameters": {
+        "fixture": "1478027"
+    },
+    "errors": [],
+    "results": 1,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "predictions": {
+                "winner": {
+                    "id": 127,
+                    "name": "Flamengo",
+                    "comment": "Win or draw"
+                },
+                "win_or_draw": true,
+                "under_over": null,
+                "goals": {
+                    "home": "-2.5",
+                    "away": "-3.5"
+                },
+                "advice": "Double chance : draw or Flamengo",
+                "percent": {
+                    "home": "10%",
+                    "draw": "45%",
+                    "away": "45%"
+                }
+            },
+            "league": {
+                "id": 71,
+                "name": "Serie A",
+                "country": "Brazil",
+                "logo": "https://media.api-sports.io/football/leagues/71.png",
+                "flag": "https://media.api-sports.io/flags/br.svg",
+                "season": 2025
+            },
+            "teams": {
+                "home": {
+                    "id": 1062,
+                    "name": "Atletico-MG",
+                    "logo": "https://media.api-sports.io/football/teams/1062.png",
+                    "last_5": {
+                        "played": 5,
+                        "form": "53%",
+                        "att": "67%",
+                        "def": "53%",
+                        "goals": {
+                            "for": {
+                                "total": 10,
+                                "average": "2.0"
+                            },
+                            "against": {
+                                "total": 7,
+                                "average": "1.4"
+                            }
+                        }
+                    },
+                    "league": {
+                        "form": "LDDLWDWWDDWWLLLWDLLLDLWDLWDLWDWWDL",
+                        "fixtures": {
+                            "played": {
+                                "home": 16,
+                                "away": 18,
+                                "total": 34
+                            },
+                            "wins": {
+                                "home": 8,
+                                "away": 3,
+                                "total": 11
+                            },
+                            "draws": {
+                                "home": 7,
+                                "away": 4,
+                                "total": 11
+                            },
+                            "loses": {
+                                "home": 1,
+                                "away": 11,
+                                "total": 12
+                            }
+                        },
+                        "goals": {
+                            "for": {
+                                "total": {
+                                    "home": 24,
+                                    "away": 13,
+                                    "total": 37
+                                },
+                                "average": {
+                                    "home": "1.5",
+                                    "away": "0.7",
+                                    "total": "1.1"
+                                },
+                                "minute": {
+                                    "0-15": {
+                                        "total": 6,
+                                        "percentage": "16.22%"
+                                    },
+                                    "16-30": {
+                                        "total": null,
+                                        "percentage": null
+                                    },
+                                    "31-45": {
+                                        "total": 5,
+                                        "percentage": "13.51%"
+                                    },
+                                    "46-60": {
+                                        "total": 5,
+                                        "percentage": "13.51%"
+                                    },
+                                    "61-75": {
+                                        "total": 8,
+                                        "percentage": "21.62%"
+                                    },
+                                    "76-90": {
+                                        "total": 13,
+                                        "percentage": "35.14%"
+                                    },
+                                    "91-105": {
+                                        "total": null,
+                                        "percentage": null
+                                    },
+                                    "106-120": {
+                                        "total": null,
+                                        "percentage": null
+                                    }
+                                },
+                                "under_over": {
+                                    "0.5": {
+                                        "over": 21,
+                                        "under": 13
+                                    },
+                                    "1.5": {
+                                        "over": 10,
+                                        "under": 24
+                                    },
+                                    "2.5": {
+                                        "over": 5,
+                                        "under": 29
+                                    },
+                                    "3.5": {
+                                        "over": 1,
+                                        "under": 33
+                                    },
+                                    "4.5": {
+                                        "over": 0,
+                                        "under": 34
+                                    }
+                                }
+                            },
+                            "against": {
+                                "total": {
+                                    "home": 14,
+                                    "away": 25,
+                                    "total": 39
+                                },
+                                "average": {
+                                    "home": "0.9",
+                                    "away": "1.4",
+                                    "total": "1.1"
+                                },
+                                "minute": {
+                                    "0-15": {
+                                        "total": 3,
+                                        "percentage": "7.69%"
+                                    },
+                                    "16-30": {
+                                        "total": 5,
+                                        "percentage": "12.82%"
+                                    },
+                                    "31-45": {
+                                        "total": 5,
+                                        "percentage": "12.82%"
+                                    },
+                                    "46-60": {
+                                        "total": 11,
+                                        "percentage": "28.21%"
+                                    },
+                                    "61-75": {
+                                        "total": 4,
+                                        "percentage": "10.26%"
+                                    },
+                                    "76-90": {
+                                        "total": 11,
+                                        "percentage": "28.21%"
+                                    },
+                                    "91-105": {
+                                        "total": null,
+                                        "percentage": null
+                                    },
+                                    "106-120": {
+                                        "total": null,
+                                        "percentage": null
+                                    }
+                                },
+                                "under_over": {
+                                    "0.5": {
+                                        "over": 22,
+                                        "under": 12
+                                    },
+                                    "1.5": {
+                                        "over": 13,
+                                        "under": 21
+                                    },
+                                    "2.5": {
+                                        "over": 4,
+                                        "under": 30
+                                    },
+                                    "3.5": {
+                                        "over": 0,
+                                        "under": 34
+                                    },
+                                    "4.5": {
+                                        "over": 0,
+                                        "under": 34
+                                    }
+                                }
+                            }
+                        },
+                        "biggest": {
+                            "streak": {
+                                "wins": 2,
+                                "draws": 2,
+                                "loses": 3
+                            },
+                            "wins": {
+                                "home": "3-0",
+                                "away": "2-4"
+                            },
+                            "loses": {
+                                "home": "1-3",
+                                "away": "3-0"
+                            },
+                            "goals": {
+                                "for": {
+                                    "home": 3,
+                                    "away": 4
+                                },
+                                "against": {
+                                    "home": 3,
+                                    "away": 3
+                                }
+                            }
+                        },
+                        "clean_sheet": {
+                            "home": 8,
+                            "away": 4,
+                            "total": 12
+                        },
+                        "failed_to_score": {
+                            "home": 3,
+                            "away": 10,
+                            "total": 13
+                        },
+                        "penalty": {
+                            "scored": {
+                                "total": 1,
+                                "percentage": "100.00%"
+                            },
+                            "missed": {
+                                "total": 0,
+                                "percentage": "0%"
+                            },
+                            "total": 1
+                        },
+                        "lineups": [
+                            {
+                                "formation": "4-2-3-1",
+                                "played": 11
+                            },
+                            {
+                                "formation": "3-4-2-1",
+                                "played": 10
+                            },
+                            {
+                                "formation": "4-4-2",
+                                "played": 3
+                            },
+                            {
+                                "formation": "4-3-3",
+                                "played": 2
+                            },
+                            {
+                                "formation": "3-4-3",
+                                "played": 2
+                            },
+                            {
+                                "formation": "3-4-1-2",
+                                "played": 2
+                            },
+                            {
+                                "formation": "4-4-1-1",
+                                "played": 1
+                            },
+                            {
+                                "formation": "4-2-2-2",
+                                "played": 1
+                            },
+                            {
+                                "formation": "4-3-2-1",
+                                "played": 1
+                            },
+                            {
+                                "formation": "4-3-1-2",
+                                "played": 1
+                            }
+                        ],
+                        "cards": {
+                            "yellow": {
+                                "0-15": {
+                                    "total": 4,
+                                    "percentage": "4.55%"
+                                },
+                                "16-30": {
+                                    "total": 6,
+                                    "percentage": "6.82%"
+                                },
+                                "31-45": {
+                                    "total": 15,
+                                    "percentage": "17.05%"
+                                },
+                                "46-60": {
+                                    "total": 16,
+                                    "percentage": "18.18%"
+                                },
+                                "61-75": {
+                                    "total": 17,
+                                    "percentage": "19.32%"
+                                },
+                                "76-90": {
+                                    "total": 15,
+                                    "percentage": "17.05%"
+                                },
+                                "91-105": {
+                                    "total": 14,
+                                    "percentage": "15.91%"
+                                },
+                                "106-120": {
+                                    "total": null,
+                                    "percentage": null
+                                },
+                                "": {
+                                    "total": 1,
+                                    "percentage": "1.14%"
+                                }
+                            },
+                            "red": {
+                                "0-15": {
+                                    "total": null,
+                                    "percentage": null
+                                },
+                                "16-30": {
+                                    "total": 1,
+                                    "percentage": "14.29%"
+                                },
+                                "31-45": {
+                                    "total": 1,
+                                    "percentage": "14.29%"
+                                },
+                                "46-60": {
+                                    "total": null,
+                                    "percentage": null
+                                },
+                                "61-75": {
+                                    "total": 1,
+                                    "percentage": "14.29%"
+                                },
+                                "76-90": {
+                                    "total": 1,
+                                    "percentage": "14.29%"
+                                },
+                                "91-105": {
+                                    "total": 3,
+                                    "percentage": "42.86%"
+                                },
+                                "106-120": {
+                                    "total": null,
+                                    "percentage": null
+                                }
+                            }
+                        }
+                    }
+                },
+                "away": {
+                    "id": 127,
+                    "name": "Flamengo",
+                    "logo": "https://media.api-sports.io/football/teams/127.png",
+                    "last_5": {
+                        "played": 5,
+                        "form": "67%",
+                        "att": "93%",
+                        "def": "53%",
+                        "goals": {
+                            "for": {
+                                "total": 14,
+                                "average": "2.8"
+                            },
+                            "against": {
+                                "total": 7,
+                                "average": "1.4"
+                            }
+                        }
+                    },
+                    "league": {
+                        "form": "DWWWDWLWDWWWLWWWDWWWDWDWDLWWLWDWWLW",
+                        "fixtures": {
+                            "played": {
+                                "home": 18,
+                                "away": 17,
+                                "total": 35
+                            },
+                            "wins": {
+                                "home": 13,
+                                "away": 9,
+                                "total": 22
+                            },
+                            "draws": {
+                                "home": 5,
+                                "away": 3,
+                                "total": 8
+                            },
+                            "loses": {
+                                "home": 0,
+                                "away": 5,
+                                "total": 5
+                            }
+                        },
+                        "goals": {
+                            "for": {
+                                "total": {
+                                    "home": 45,
+                                    "away": 28,
+                                    "total": 73
+                                },
+                                "average": {
+                                    "home": "2.5",
+                                    "away": "1.6",
+                                    "total": "2.1"
+                                },
+                                "minute": {
+                                    "0-15": {
+                                        "total": 11,
+                                        "percentage": "15.07%"
+                                    },
+                                    "16-30": {
+                                        "total": 4,
+                                        "percentage": "5.48%"
+                                    },
+                                    "31-45": {
+                                        "total": 11,
+                                        "percentage": "15.07%"
+                                    },
+                                    "46-60": {
+                                        "total": 14,
+                                        "percentage": "19.18%"
+                                    },
+                                    "61-75": {
+                                        "total": 19,
+                                        "percentage": "26.03%"
+                                    },
+                                    "76-90": {
+                                        "total": 14,
+                                        "percentage": "19.18%"
+                                    },
+                                    "91-105": {
+                                        "total": null,
+                                        "percentage": null
+                                    },
+                                    "106-120": {
+                                        "total": null,
+                                        "percentage": null
+                                    }
+                                },
+                                "under_over": {
+                                    "0.5": {
+                                        "over": 29,
+                                        "under": 6
+                                    },
+                                    "1.5": {
+                                        "over": 20,
+                                        "under": 15
+                                    },
+                                    "2.5": {
+                                        "over": 11,
+                                        "under": 24
+                                    },
+                                    "3.5": {
+                                        "over": 5,
+                                        "under": 30
+                                    },
+                                    "4.5": {
+                                        "over": 4,
+                                        "under": 31
+                                    }
+                                }
+                            },
+                            "against": {
+                                "total": {
+                                    "home": 8,
+                                    "away": 15,
+                                    "total": 23
+                                },
+                                "average": {
+                                    "home": "0.4",
+                                    "away": "0.9",
+                                    "total": "0.7"
+                                },
+                                "minute": {
+                                    "0-15": {
+                                        "total": 4,
+                                        "percentage": "17.39%"
+                                    },
+                                    "16-30": {
+                                        "total": 3,
+                                        "percentage": "13.04%"
+                                    },
+                                    "31-45": {
+                                        "total": 3,
+                                        "percentage": "13.04%"
+                                    },
+                                    "46-60": {
+                                        "total": 2,
+                                        "percentage": "8.70%"
+                                    },
+                                    "61-75": {
+                                        "total": 2,
+                                        "percentage": "8.70%"
+                                    },
+                                    "76-90": {
+                                        "total": 9,
+                                        "percentage": "39.13%"
+                                    },
+                                    "91-105": {
+                                        "total": null,
+                                        "percentage": null
+                                    },
+                                    "106-120": {
+                                        "total": null,
+                                        "percentage": null
+                                    }
+                                },
+                                "under_over": {
+                                    "0.5": {
+                                        "over": 18,
+                                        "under": 17
+                                    },
+                                    "1.5": {
+                                        "over": 5,
+                                        "under": 30
+                                    },
+                                    "2.5": {
+                                        "over": 0,
+                                        "under": 35
+                                    },
+                                    "3.5": {
+                                        "over": 0,
+                                        "under": 35
+                                    },
+                                    "4.5": {
+                                        "over": 0,
+                                        "under": 35
+                                    }
+                                }
+                            }
+                        },
+                        "biggest": {
+                            "streak": {
+                                "wins": 3,
+                                "draws": 1,
+                                "loses": 1
+                            },
+                            "wins": {
+                                "home": "8-0",
+                                "away": "1-5"
+                            },
+                            "loses": {
+                                "home": null,
+                                "away": "2-1"
+                            },
+                            "goals": {
+                                "for": {
+                                    "home": 8,
+                                    "away": 5
+                                },
+                                "against": {
+                                    "home": 2,
+                                    "away": 2
+                                }
+                            }
+                        },
+                        "clean_sheet": {
+                            "home": 12,
+                            "away": 5,
+                            "total": 17
+                        },
+                        "failed_to_score": {
+                            "home": 2,
+                            "away": 4,
+                            "total": 6
+                        },
+                        "penalty": {
+                            "scored": {
+                                "total": 7,
+                                "percentage": "100.00%"
+                            },
+                            "missed": {
+                                "total": 0,
+                                "percentage": "0%"
+                            },
+                            "total": 7
+                        },
+                        "lineups": [
+                            {
+                                "formation": "4-2-3-1",
+                                "played": 31
+                            },
+                            {
+                                "formation": "4-4-2",
+                                "played": 2
+                            },
+                            {
+                                "formation": "4-1-4-1",
+                                "played": 1
+                            },
+                            {
+                                "formation": "4-3-3",
+                                "played": 1
+                            }
+                        ],
+                        "cards": {
+                            "yellow": {
+                                "0-15": {
+                                    "total": 5,
+                                    "percentage": "6.58%"
+                                },
+                                "16-30": {
+                                    "total": 13,
+                                    "percentage": "17.11%"
+                                },
+                                "31-45": {
+                                    "total": 7,
+                                    "percentage": "9.21%"
+                                },
+                                "46-60": {
+                                    "total": 9,
+                                    "percentage": "11.84%"
+                                },
+                                "61-75": {
+                                    "total": 12,
+                                    "percentage": "15.79%"
+                                },
+                                "76-90": {
+                                    "total": 20,
+                                    "percentage": "26.32%"
+                                },
+                                "91-105": {
+                                    "total": 9,
+                                    "percentage": "11.84%"
+                                },
+                                "106-120": {
+                                    "total": null,
+                                    "percentage": null
+                                },
+                                "": {
+                                    "total": 1,
+                                    "percentage": "1.32%"
+                                }
+                            },
+                            "red": {
+                                "0-15": {
+                                    "total": 1,
+                                    "percentage": "20.00%"
+                                },
+                                "16-30": {
+                                    "total": null,
+                                    "percentage": null
+                                },
+                                "31-45": {
+                                    "total": null,
+                                    "percentage": null
+                                },
+                                "46-60": {
+                                    "total": null,
+                                    "percentage": null
+                                },
+                                "61-75": {
+                                    "total": 1,
+                                    "percentage": "20.00%"
+                                },
+                                "76-90": {
+                                    "total": 3,
+                                    "percentage": "60.00%"
+                                },
+                                "91-105": {
+                                    "total": null,
+                                    "percentage": null
+                                },
+                                "106-120": {
+                                    "total": null,
+                                    "percentage": null
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "comparison": {
+                "form": {
+                    "home": "44%",
+                    "away": "56%"
+                },
+                "att": {
+                    "home": "42%",
+                    "away": "58%"
+                },
+                "def": {
+                    "home": "50%",
+                    "away": "50%"
+                },
+                "poisson_distribution": {
+                    "home": "38%",
+                    "away": "62%"
+                },
+                "h2h": {
+                    "home": "38%",
+                    "away": "62%"
+                },
+                "goals": {
+                    "home": "40%",
+                    "away": "60%"
+                },
+                "total": {
+                    "home": "42.0%",
+                    "away": "58.0%"
+                }
+            },
+            "h2h": [
+                {
+                    "fixture": {
+                        "id": 1377527,
+                        "referee": null,
+                        "timezone": "UTC",
+                        "date": "2025-08-06T22:00:00+00:00",
+                        "timestamp": 1754517600,
+                        "periods": {
+                            "first": 1754517600,
+                            "second": 1754521200
+                        },
+                        "venue": {
+                            "id": 21427,
+                            "name": "Arena MRV",
+                            "city": "Belo Horizonte, Minas Gerais"
+                        },
+                        "status": {
+                            "long": "Match Finished",
+                            "short": "PEN",
+                            "elapsed": 120,
+                            "extra": null
+                        }
+                    },
+                    "league": {
+                        "id": 73,
+                        "name": "Copa Do Brasil",
+                        "country": "Brazil",
+                        "logo": "https://media.api-sports.io/football/leagues/73.png",
+                        "flag": "https://media.api-sports.io/flags/br.svg",
+                        "season": 2025,
+                        "round": "Round of 16",
+                        "standings": false
+                    },
+                    "teams": {
+                        "home": {
+                            "id": 1062,
+                            "name": "Atletico-MG",
+                            "logo": "https://media.api-sports.io/football/teams/1062.png",
+                            "winner": true
+                        },
+                        "away": {
+                            "id": 127,
+                            "name": "Flamengo",
+                            "logo": "https://media.api-sports.io/football/teams/127.png",
+                            "winner": false
+                        }
+                    },
+                    "goals": {
+                        "home": 0,
+                        "away": 1
+                    },
+                    "score": {
+                        "halftime": {
+                            "home": 0,
+                            "away": 1
+                        },
+                        "fulltime": {
+                            "home": 0,
+                            "away": 1
+                        },
+                        "extratime": {
+                            "home": 0,
+                            "away": 0
+                        },
+                        "penalty": {
+                            "home": 4,
+                            "away": 3
+                        }
+                    }
+                },
+                {
+                    "fixture": {
+                        "id": 1377526,
+                        "referee": "Raphael Claus, Brazil",
+                        "timezone": "UTC",
+                        "date": "2025-08-01T00:30:00+00:00",
+                        "timestamp": 1754008200,
+                        "periods": {
+                            "first": 1754008200,
+                            "second": 1754011800
+                        },
+                        "venue": {
+                            "id": null,
+                            "name": "Est\u00e1dio do Maracan\u00e3",
+                            "city": "Rio de Janeiro"
+                        },
+                        "status": {
+                            "long": "Match Finished",
+                            "short": "FT",
+                            "elapsed": 90,
+                            "extra": 7
+                        }
+                    },
+                    "league": {
+                        "id": 73,
+                        "name": "Copa Do Brasil",
+                        "country": "Brazil",
+                        "logo": "https://media.api-sports.io/football/leagues/73.png",
+                        "flag": "https://media.api-sports.io/flags/br.svg",
+                        "season": 2025,
+                        "round": "Round of 16",
+                        "standings": false
+                    },
+                    "teams": {
+                        "home": {
+                            "id": 127,
+                            "name": "Flamengo",
+                            "logo": "https://media.api-sports.io/football/teams/127.png",
+                            "winner": false
+                        },
+                        "away": {
+                            "id": 1062,
+                            "name": "Atletico-MG",
+                            "logo": "https://media.api-sports.io/football/teams/1062.png",
+                            "winner": true
+                        }
+                    },
+                    "goals": {
+                        "home": 0,
+                        "away": 1
+                    },
+                    "score": {
+                        "halftime": {
+                            "home": 0,
+                            "away": 0
+                        },
+                        "fulltime": {
+                            "home": 0,
+                            "away": 1
+                        },
+                        "extratime": {
+                            "home": null,
+                            "away": null
+                        },
+                        "penalty": {
+                            "home": null,
+                            "away": null
+                        }
+                    }
+                },
+                {
+                    "fixture": {
+                        "id": 1351203,
+                        "referee": "Ramon Abatti Abel, Brazil",
+                        "timezone": "UTC",
+                        "date": "2025-07-27T23:30:00+00:00",
+                        "timestamp": 1753659000,
+                        "periods": {
+                            "first": 1753659000,
+                            "second": 1753662600
+                        },
+                        "venue": {
+                            "id": null,
+                            "name": "Est\u00e1dio do Maracan\u00e3",
+                            "city": "Rio de Janeiro"
+                        },
+                        "status": {
+                            "long": "Match Finished",
+                            "short": "FT",
+                            "elapsed": 90,
+                            "extra": 5
+                        }
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media.api-sports.io/flags/br.svg",
+                        "season": 2025,
+                        "round": "Regular Season - 17",
+                        "standings": true
+                    },
+                    "teams": {
+                        "home": {
+                            "id": 127,
+                            "name": "Flamengo",
+                            "logo": "https://media.api-sports.io/football/teams/127.png",
+                            "winner": true
+                        },
+                        "away": {
+                            "id": 1062,
+                            "name": "Atletico-MG",
+                            "logo": "https://media.api-sports.io/football/teams/1062.png",
+                            "winner": false
+                        }
+                    },
+                    "goals": {
+                        "home": 1,
+                        "away": 0
+                    },
+                    "score": {
+                        "halftime": {
+                            "home": 0,
+                            "away": 0
+                        },
+                        "fulltime": {
+                            "home": 1,
+                            "away": 0
+                        },
+                        "extratime": {
+                            "home": null,
+                            "away": null
+                        },
+                        "penalty": {
+                            "home": null,
+                            "away": null
+                        }
+                    }
+                },
+                {
+                    "fixture": {
+                        "id": 1180678,
+                        "referee": "Davi de Oliveira Lacerda",
+                        "timezone": "UTC",
+                        "date": "2024-11-13T23:00:00+00:00",
+                        "timestamp": 1731538800,
+                        "periods": {
+                            "first": 1731538800,
+                            "second": 1731542400
+                        },
+                        "venue": {
+                            "id": null,
+                            "name": "Estadio Jornalista M\u00e1rio Filho",
+                            "city": "Rio de Janeiro, Rio de Janeiro"
+                        },
+                        "status": {
+                            "long": "Match Finished",
+                            "short": "FT",
+                            "elapsed": 90,
+                            "extra": 6
+                        }
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media.api-sports.io/flags/br.svg",
+                        "season": 2024,
+                        "round": "Regular Season - 33",
+                        "standings": true
+                    },
+                    "teams": {
+                        "home": {
+                            "id": 127,
+                            "name": "Flamengo",
+                            "logo": "https://media.api-sports.io/football/teams/127.png",
+                            "winner": null
+                        },
+                        "away": {
+                            "id": 1062,
+                            "name": "Atletico-MG",
+                            "logo": "https://media.api-sports.io/football/teams/1062.png",
+                            "winner": null
+                        }
+                    },
+                    "goals": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "score": {
+                        "halftime": {
+                            "home": 0,
+                            "away": 0
+                        },
+                        "fulltime": {
+                            "home": 0,
+                            "away": 0
+                        },
+                        "extratime": {
+                            "home": null,
+                            "away": null
+                        },
+                        "penalty": {
+                            "home": null,
+                            "away": null
+                        }
+                    }
+                },
+                {
+                    "fixture": {
+                        "id": 1313106,
+                        "referee": "Raphael Claus",
+                        "timezone": "UTC",
+                        "date": "2024-11-10T19:00:00+00:00",
+                        "timestamp": 1731265200,
+                        "periods": {
+                            "first": 1731265200,
+                            "second": 1731268800
+                        },
+                        "venue": {
+                            "id": 21427,
+                            "name": "Arena MRV",
+                            "city": "Belo Horizonte, Minas Gerais"
+                        },
+                        "status": {
+                            "long": "Match Finished",
+                            "short": "FT",
+                            "elapsed": 90,
+                            "extra": 9
+                        }
+                    },
+                    "league": {
+                        "id": 73,
+                        "name": "Copa Do Brasil",
+                        "country": "Brazil",
+                        "logo": "https://media.api-sports.io/football/leagues/73.png",
+                        "flag": "https://media.api-sports.io/flags/br.svg",
+                        "season": 2024,
+                        "round": "Final",
+                        "standings": false
+                    },
+                    "teams": {
+                        "home": {
+                            "id": 1062,
+                            "name": "Atletico-MG",
+                            "logo": "https://media.api-sports.io/football/teams/1062.png",
+                            "winner": false
+                        },
+                        "away": {
+                            "id": 127,
+                            "name": "Flamengo",
+                            "logo": "https://media.api-sports.io/football/teams/127.png",
+                            "winner": true
+                        }
+                    },
+                    "goals": {
+                        "home": 0,
+                        "away": 1
+                    },
+                    "score": {
+                        "halftime": {
+                            "home": 0,
+                            "away": 0
+                        },
+                        "fulltime": {
+                            "home": 0,
+                            "away": 1
+                        },
+                        "extratime": {
+                            "home": null,
+                            "away": null
+                        },
+                        "penalty": {
+                            "home": null,
+                            "away": null
+                        }
+                    }
+                },
+                {
+                    "fixture": {
+                        "id": 1313105,
+                        "referee": "Rafael Rodrigo Klein",
+                        "timezone": "UTC",
+                        "date": "2024-11-03T19:00:00+00:00",
+                        "timestamp": 1730660400,
+                        "periods": {
+                            "first": 1730660400,
+                            "second": 1730664000
+                        },
+                        "venue": {
+                            "id": null,
+                            "name": "Estadio Jornalista M\u00e1rio Filho",
+                            "city": "Rio de Janeiro, Rio de Janeiro"
+                        },
+                        "status": {
+                            "long": "Match Finished",
+                            "short": "FT",
+                            "elapsed": 90,
+                            "extra": 7
+                        }
+                    },
+                    "league": {
+                        "id": 73,
+                        "name": "Copa Do Brasil",
+                        "country": "Brazil",
+                        "logo": "https://media.api-sports.io/football/leagues/73.png",
+                        "flag": "https://media.api-sports.io/flags/br.svg",
+                        "season": 2024,
+                        "round": "Final",
+                        "standings": false
+                    },
+                    "teams": {
+                        "home": {
+                            "id": 127,
+                            "name": "Flamengo",
+                            "logo": "https://media.api-sports.io/football/teams/127.png",
+                            "winner": true
+                        },
+                        "away": {
+                            "id": 1062,
+                            "name": "Atletico-MG",
+                            "logo": "https://media.api-sports.io/football/teams/1062.png",
+                            "winner": false
+                        }
+                    },
+                    "goals": {
+                        "home": 3,
+                        "away": 1
+                    },
+                    "score": {
+                        "halftime": {
+                            "home": 2,
+                            "away": 0
+                        },
+                        "fulltime": {
+                            "home": 3,
+                            "away": 1
+                        },
+                        "extratime": {
+                            "home": null,
+                            "away": null
+                        },
+                        "penalty": {
+                            "home": null,
+                            "away": null
+                        }
+                    }
+                },
+                {
+                    "fixture": {
+                        "id": 1180486,
+                        "referee": "Ramon Abatti",
+                        "timezone": "UTC",
+                        "date": "2024-07-04T00:30:00+00:00",
+                        "timestamp": 1720053000,
+                        "periods": {
+                            "first": 1720053000,
+                            "second": 1720056600
+                        },
+                        "venue": {
+                            "id": 21427,
+                            "name": "Arena MRV",
+                            "city": "Belo Horizonte, Minas Gerais"
+                        },
+                        "status": {
+                            "long": "Match Finished",
+                            "short": "FT",
+                            "elapsed": 90,
+                            "extra": null
+                        }
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media.api-sports.io/flags/br.svg",
+                        "season": 2024,
+                        "round": "Regular Season - 14",
+                        "standings": true
+                    },
+                    "teams": {
+                        "home": {
+                            "id": 1062,
+                            "name": "Atletico-MG",
+                            "logo": "https://media.api-sports.io/football/teams/1062.png",
+                            "winner": false
+                        },
+                        "away": {
+                            "id": 127,
+                            "name": "Flamengo",
+                            "logo": "https://media.api-sports.io/football/teams/127.png",
+                            "winner": true
+                        }
+                    },
+                    "goals": {
+                        "home": 2,
+                        "away": 4
+                    },
+                    "score": {
+                        "halftime": {
+                            "home": 0,
+                            "away": 2
+                        },
+                        "fulltime": {
+                            "home": 2,
+                            "away": 4
+                        },
+                        "extratime": {
+                            "home": null,
+                            "away": null
+                        },
+                        "penalty": {
+                            "home": null,
+                            "away": null
+                        }
+                    }
+                },
+                {
+                    "fixture": {
+                        "id": 1005999,
+                        "referee": "Ramon Abatti",
+                        "timezone": "UTC",
+                        "date": "2023-11-29T22:30:00+00:00",
+                        "timestamp": 1701297000,
+                        "periods": {
+                            "first": 1701297000,
+                            "second": 1701300600
+                        },
+                        "venue": {
+                            "id": null,
+                            "name": "Estadio Jornalista M\u00e1rio Filho",
+                            "city": "Rio de Janeiro, Rio de Janeiro"
+                        },
+                        "status": {
+                            "long": "Match Finished",
+                            "short": "FT",
+                            "elapsed": 90,
+                            "extra": null
+                        }
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media.api-sports.io/flags/br.svg",
+                        "season": 2023,
+                        "round": "Regular Season - 36",
+                        "standings": true
+                    },
+                    "teams": {
+                        "home": {
+                            "id": 127,
+                            "name": "Flamengo",
+                            "logo": "https://media.api-sports.io/football/teams/127.png",
+                            "winner": false
+                        },
+                        "away": {
+                            "id": 1062,
+                            "name": "Atletico-MG",
+                            "logo": "https://media.api-sports.io/football/teams/1062.png",
+                            "winner": true
+                        }
+                    },
+                    "goals": {
+                        "home": 0,
+                        "away": 3
+                    },
+                    "score": {
+                        "halftime": {
+                            "home": 0,
+                            "away": 1
+                        },
+                        "fulltime": {
+                            "home": 0,
+                            "away": 3
+                        },
+                        "extratime": {
+                            "home": null,
+                            "away": null
+                        },
+                        "penalty": {
+                            "home": null,
+                            "away": null
+                        }
+                    }
+                },
+                {
+                    "fixture": {
+                        "id": 1005814,
+                        "referee": "Flavio Rodrigues De Souza",
+                        "timezone": "UTC",
+                        "date": "2023-07-30T00:00:00+00:00",
+                        "timestamp": 1690675200,
+                        "periods": {
+                            "first": 1690675200,
+                            "second": 1690678800
+                        },
+                        "venue": {
+                            "id": 206,
+                            "name": "Est\u00e1dio Raimundo Sampaio",
+                            "city": "Belo Horizonte, Minas Gerais"
+                        },
+                        "status": {
+                            "long": "Match Finished",
+                            "short": "FT",
+                            "elapsed": 90,
+                            "extra": null
+                        }
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media.api-sports.io/flags/br.svg",
+                        "season": 2023,
+                        "round": "Regular Season - 17",
+                        "standings": true
+                    },
+                    "teams": {
+                        "home": {
+                            "id": 1062,
+                            "name": "Atletico-MG",
+                            "logo": "https://media.api-sports.io/football/teams/1062.png",
+                            "winner": false
+                        },
+                        "away": {
+                            "id": 127,
+                            "name": "Flamengo",
+                            "logo": "https://media.api-sports.io/football/teams/127.png",
+                            "winner": true
+                        }
+                    },
+                    "goals": {
+                        "home": 1,
+                        "away": 2
+                    },
+                    "score": {
+                        "halftime": {
+                            "home": 1,
+                            "away": 0
+                        },
+                        "fulltime": {
+                            "home": 1,
+                            "away": 2
+                        },
+                        "extratime": {
+                            "home": null,
+                            "away": null
+                        },
+                        "penalty": {
+                            "home": null,
+                            "away": null
+                        }
+                    }
+                },
+                {
+                    "fixture": {
+                        "id": 838302,
+                        "referee": "Ramon Abatti",
+                        "timezone": "UTC",
+                        "date": "2022-10-15T23:30:00+00:00",
+                        "timestamp": 1665876600,
+                        "periods": {
+                            "first": 1665876600,
+                            "second": 1665880200
+                        },
+                        "venue": {
+                            "id": null,
+                            "name": "Estadio Jornalista M\u00e1rio Filho",
+                            "city": "Rio de Janeiro, Rio de Janeiro"
+                        },
+                        "status": {
+                            "long": "Match Finished",
+                            "short": "FT",
+                            "elapsed": 90,
+                            "extra": null
+                        }
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media.api-sports.io/flags/br.svg",
+                        "season": 2022,
+                        "round": "Regular Season - 32",
+                        "standings": true
+                    },
+                    "teams": {
+                        "home": {
+                            "id": 127,
+                            "name": "Flamengo",
+                            "logo": "https://media.api-sports.io/football/teams/127.png",
+                            "winner": true
+                        },
+                        "away": {
+                            "id": 1062,
+                            "name": "Atletico-MG",
+                            "logo": "https://media.api-sports.io/football/teams/1062.png",
+                            "winner": false
+                        }
+                    },
+                    "goals": {
+                        "home": 1,
+                        "away": 0
+                    },
+                    "score": {
+                        "halftime": {
+                            "home": 1,
+                            "away": 0
+                        },
+                        "fulltime": {
+                            "home": 1,
+                            "away": 0
+                        },
+                        "extratime": {
+                            "home": null,
+                            "away": null
+                        },
+                        "penalty": {
+                            "home": null,
+                            "away": null
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

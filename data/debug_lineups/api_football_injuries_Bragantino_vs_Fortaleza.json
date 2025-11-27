@@ -1,0 +1,406 @@
+{
+    "get": "injuries",
+    "parameters": {
+        "fixture": "1478028"
+    },
+    "errors": [],
+    "results": 14,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "player": {
+                "id": 197814,
+                "name": "Bruninho",
+                "photo": "https://media.api-sports.io/football/players/197814.png",
+                "type": "Missing Fixture",
+                "reason": "Heel Injury"
+            },
+            "team": {
+                "id": 794,
+                "name": "RB Bragantino",
+                "logo": "https://media.api-sports.io/football/teams/794.png"
+            },
+            "fixture": {
+                "id": 1478028,
+                "timezone": "UTC",
+                "date": "2025-11-26T22:00:00+00:00",
+                "timestamp": 1764194400
+            },
+            "league": {
+                "id": 71,
+                "season": 2025,
+                "name": "Serie A",
+                "country": "Brazil",
+                "logo": "https://media.api-sports.io/football/leagues/71.png",
+                "flag": "https://media.api-sports.io/flags/br.svg"
+            }
+        },
+        {
+            "player": {
+                "id": 10027,
+                "name": "Eric Ramires",
+                "photo": "https://media.api-sports.io/football/players/10027.png",
+                "type": "Missing Fixture",
+                "reason": "Hamstring Injury"
+            },
+            "team": {
+                "id": 794,
+                "name": "RB Bragantino",
+                "logo": "https://media.api-sports.io/football/teams/794.png"
+            },
+            "fixture": {
+                "id": 1478028,
+                "timezone": "UTC",
+                "date": "2025-11-26T22:00:00+00:00",
+                "timestamp": 1764194400
+            },
+            "league": {
+                "id": 71,
+                "season": 2025,
+                "name": "Serie A",
+                "country": "Brazil",
+                "logo": "https://media.api-sports.io/football/leagues/71.png",
+                "flag": "https://media.api-sports.io/flags/br.svg"
+            }
+        },
+        {
+            "player": {
+                "id": 350927,
+                "name": "H. Mosquera",
+                "photo": "https://media.api-sports.io/football/players/350927.png",
+                "type": "Missing Fixture",
+                "reason": "Hamstring Injury"
+            },
+            "team": {
+                "id": 794,
+                "name": "RB Bragantino",
+                "logo": "https://media.api-sports.io/football/teams/794.png"
+            },
+            "fixture": {
+                "id": 1478028,
+                "timezone": "UTC",
+                "date": "2025-11-26T22:00:00+00:00",
+                "timestamp": 1764194400
+            },
+            "league": {
+                "id": 71,
+                "season": 2025,
+                "name": "Serie A",
+                "country": "Brazil",
+                "logo": "https://media.api-sports.io/football/leagues/71.png",
+                "flag": "https://media.api-sports.io/flags/br.svg"
+            }
+        },
+        {
+            "player": {
+                "id": 197533,
+                "name": "Praxedes",
+                "photo": "https://media.api-sports.io/football/players/197533.png",
+                "type": "Missing Fixture",
+                "reason": "Yellow Cards"
+            },
+            "team": {
+                "id": 794,
+                "name": "RB Bragantino",
+                "logo": "https://media.api-sports.io/football/teams/794.png"
+            },
+            "fixture": {
+                "id": 1478028,
+                "timezone": "UTC",
+                "date": "2025-11-26T22:00:00+00:00",
+                "timestamp": 1764194400
+            },
+            "league": {
+                "id": 71,
+                "season": 2025,
+                "name": "Serie A",
+                "country": "Brazil",
+                "logo": "https://media.api-sports.io/football/leagues/71.png",
+                "flag": "https://media.api-sports.io/flags/br.svg"
+            }
+        },
+        {
+            "player": {
+                "id": 152410,
+                "name": "G. Rodriguez",
+                "photo": "https://media.api-sports.io/football/players/152410.png",
+                "type": "Missing Fixture",
+                "reason": "Knee Injury"
+            },
+            "team": {
+                "id": 794,
+                "name": "RB Bragantino",
+                "logo": "https://media.api-sports.io/football/teams/794.png"
+            },
+            "fixture": {
+                "id": 1478028,
+                "timezone": "UTC",
+                "date": "2025-11-26T22:00:00+00:00",
+                "timestamp": 1764194400
+            },
+            "league": {
+                "id": 71,
+                "season": 2025,
+                "name": "Serie A",
+                "country": "Brazil",
+                "logo": "https://media.api-sports.io/football/leagues/71.png",
+                "flag": "https://media.api-sports.io/flags/br.svg"
+            }
+        },
+        {
+            "player": {
+                "id": 51571,
+                "name": "A. Sant'Anna",
+                "photo": "https://media.api-sports.io/football/players/51571.png",
+                "type": "Missing Fixture",
+                "reason": "Hamstring Injury"
+            },
+            "team": {
+                "id": 794,
+                "name": "RB Bragantino",
+                "logo": "https://media.api-sports.io/football/teams/794.png"
+            },
+            "fixture": {
+                "id": 1478028,
+                "timezone": "UTC",
+                "date": "2025-11-26T22:00:00+00:00",
+                "timestamp": 1764194400
+            },
+            "league": {
+                "id": 71,
+                "season": 2025,
+                "name": "Serie A",
+                "country": "Brazil",
+                "logo": "https://media.api-sports.io/football/leagues/71.png",
+                "flag": "https://media.api-sports.io/flags/br.svg"
+            }
+        },
+        {
+            "player": {
+                "id": 431417,
+                "name": "Vinicinho",
+                "photo": "https://media.api-sports.io/football/players/431417.png",
+                "type": "Missing Fixture",
+                "reason": "Ankle Injury"
+            },
+            "team": {
+                "id": 794,
+                "name": "RB Bragantino",
+                "logo": "https://media.api-sports.io/football/teams/794.png"
+            },
+            "fixture": {
+                "id": 1478028,
+                "timezone": "UTC",
+                "date": "2025-11-26T22:00:00+00:00",
+                "timestamp": 1764194400
+            },
+            "league": {
+                "id": 71,
+                "season": 2025,
+                "name": "Serie A",
+                "country": "Brazil",
+                "logo": "https://media.api-sports.io/football/leagues/71.png",
+                "flag": "https://media.api-sports.io/flags/br.svg"
+            }
+        },
+        {
+            "player": {
+                "id": 6078,
+                "name": "E. Britez",
+                "photo": "https://media.api-sports.io/football/players/6078.png",
+                "type": "Missing Fixture",
+                "reason": "Inactive"
+            },
+            "team": {
+                "id": 154,
+                "name": "Fortaleza EC",
+                "logo": "https://media.api-sports.io/football/teams/154.png"
+            },
+            "fixture": {
+                "id": 1478028,
+                "timezone": "UTC",
+                "date": "2025-11-26T22:00:00+00:00",
+                "timestamp": 1764194400
+            },
+            "league": {
+                "id": 71,
+                "season": 2025,
+                "name": "Serie A",
+                "country": "Brazil",
+                "logo": "https://media.api-sports.io/football/leagues/71.png",
+                "flag": "https://media.api-sports.io/flags/br.svg"
+            }
+        },
+        {
+            "player": {
+                "id": 10186,
+                "name": "Joao Ricardo",
+                "photo": "https://media.api-sports.io/football/players/10186.png",
+                "type": "Missing Fixture",
+                "reason": "Shoulder Injury"
+            },
+            "team": {
+                "id": 154,
+                "name": "Fortaleza EC",
+                "logo": "https://media.api-sports.io/football/teams/154.png"
+            },
+            "fixture": {
+                "id": 1478028,
+                "timezone": "UTC",
+                "date": "2025-11-26T22:00:00+00:00",
+                "timestamp": 1764194400
+            },
+            "league": {
+                "id": 71,
+                "season": 2025,
+                "name": "Serie A",
+                "country": "Brazil",
+                "logo": "https://media.api-sports.io/football/leagues/71.png",
+                "flag": "https://media.api-sports.io/flags/br.svg"
+            }
+        },
+        {
+            "player": {
+                "id": 362718,
+                "name": "Lucca Prior",
+                "photo": "https://media.api-sports.io/football/players/362718.png",
+                "type": "Missing Fixture",
+                "reason": "Inactive"
+            },
+            "team": {
+                "id": 154,
+                "name": "Fortaleza EC",
+                "logo": "https://media.api-sports.io/football/teams/154.png"
+            },
+            "fixture": {
+                "id": 1478028,
+                "timezone": "UTC",
+                "date": "2025-11-26T22:00:00+00:00",
+                "timestamp": 1764194400
+            },
+            "league": {
+                "id": 71,
+                "season": 2025,
+                "name": "Serie A",
+                "country": "Brazil",
+                "logo": "https://media.api-sports.io/football/leagues/71.png",
+                "flag": "https://media.api-sports.io/flags/br.svg"
+            }
+        },
+        {
+            "player": {
+                "id": 10506,
+                "name": "Marinho",
+                "photo": "https://media.api-sports.io/football/players/10506.png",
+                "type": "Missing Fixture",
+                "reason": "Ankle Injury"
+            },
+            "team": {
+                "id": 154,
+                "name": "Fortaleza EC",
+                "logo": "https://media.api-sports.io/football/teams/154.png"
+            },
+            "fixture": {
+                "id": 1478028,
+                "timezone": "UTC",
+                "date": "2025-11-26T22:00:00+00:00",
+                "timestamp": 1764194400
+            },
+            "league": {
+                "id": 71,
+                "season": 2025,
+                "name": "Serie A",
+                "country": "Brazil",
+                "logo": "https://media.api-sports.io/football/leagues/71.png",
+                "flag": "https://media.api-sports.io/flags/br.svg"
+            }
+        },
+        {
+            "player": {
+                "id": 544677,
+                "name": "Rodrigo",
+                "photo": "https://media.api-sports.io/football/players/544677.png",
+                "type": "Missing Fixture",
+                "reason": "Knee Injury"
+            },
+            "team": {
+                "id": 154,
+                "name": "Fortaleza EC",
+                "logo": "https://media.api-sports.io/football/teams/154.png"
+            },
+            "fixture": {
+                "id": 1478028,
+                "timezone": "UTC",
+                "date": "2025-11-26T22:00:00+00:00",
+                "timestamp": 1764194400
+            },
+            "league": {
+                "id": 71,
+                "season": 2025,
+                "name": "Serie A",
+                "country": "Brazil",
+                "logo": "https://media.api-sports.io/football/leagues/71.png",
+                "flag": "https://media.api-sports.io/flags/br.svg"
+            }
+        },
+        {
+            "player": {
+                "id": 53966,
+                "name": "Breno Lopes",
+                "photo": "https://media.api-sports.io/football/players/53966.png",
+                "type": "Questionable",
+                "reason": "Injury"
+            },
+            "team": {
+                "id": 154,
+                "name": "Fortaleza EC",
+                "logo": "https://media.api-sports.io/football/teams/154.png"
+            },
+            "fixture": {
+                "id": 1478028,
+                "timezone": "UTC",
+                "date": "2025-11-26T22:00:00+00:00",
+                "timestamp": 1764194400
+            },
+            "league": {
+                "id": 71,
+                "season": 2025,
+                "name": "Serie A",
+                "country": "Brazil",
+                "logo": "https://media.api-sports.io/football/leagues/71.png",
+                "flag": "https://media.api-sports.io/flags/br.svg"
+            }
+        },
+        {
+            "player": {
+                "id": 196101,
+                "name": "Weverson",
+                "photo": "https://media.api-sports.io/football/players/196101.png",
+                "type": "Questionable",
+                "reason": "Hamstring Injury"
+            },
+            "team": {
+                "id": 154,
+                "name": "Fortaleza EC",
+                "logo": "https://media.api-sports.io/football/teams/154.png"
+            },
+            "fixture": {
+                "id": 1478028,
+                "timezone": "UTC",
+                "date": "2025-11-26T22:00:00+00:00",
+                "timestamp": 1764194400
+            },
+            "league": {
+                "id": 71,
+                "season": 2025,
+                "name": "Serie A",
+                "country": "Brazil",
+                "logo": "https://media.api-sports.io/football/leagues/71.png",
+                "flag": "https://media.api-sports.io/flags/br.svg"
+            }
+        }
+    ]
+}

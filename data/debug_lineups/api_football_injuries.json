@@ -1,0 +1,378 @@
+{
+    "get": "injuries",
+    "parameters": {
+        "fixture": "1478027"
+    },
+    "errors": [],
+    "results": 13,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "player": {
+                "id": 611323,
+                "name": "Caio Maia",
+                "photo": "https://media.api-sports.io/football/players/611323.png",
+                "type": "Missing Fixture",
+                "reason": "Knee Injury"
+            },
+            "team": {
+                "id": 1062,
+                "name": "Atletico-MG",
+                "logo": "https://media.api-sports.io/football/teams/1062.png"
+            },
+            "fixture": {
+                "id": 1478027,
+                "timezone": "UTC",
+                "date": "2025-11-26T00:30:00+00:00",
+                "timestamp": 1764117000
+            },
+            "league": {
+                "id": 71,
+                "season": 2025,
+                "name": "Serie A",
+                "country": "Brazil",
+                "logo": "https://media.api-sports.io/football/leagues/71.png",
+                "flag": "https://media.api-sports.io/flags/br.svg"
+            }
+        },
+        {
+            "player": {
+                "id": 6031,
+                "name": "Cuello",
+                "photo": "https://media.api-sports.io/football/players/6031.png",
+                "type": "Missing Fixture",
+                "reason": "Ankle Injury"
+            },
+            "team": {
+                "id": 1062,
+                "name": "Atletico-MG",
+                "logo": "https://media.api-sports.io/football/teams/1062.png"
+            },
+            "fixture": {
+                "id": 1478027,
+                "timezone": "UTC",
+                "date": "2025-11-26T00:30:00+00:00",
+                "timestamp": 1764117000
+            },
+            "league": {
+                "id": 71,
+                "season": 2025,
+                "name": "Serie A",
+                "country": "Brazil",
+                "logo": "https://media.api-sports.io/football/leagues/71.png",
+                "flag": "https://media.api-sports.io/flags/br.svg"
+            }
+        },
+        {
+            "player": {
+                "id": 16360,
+                "name": "A. Franco",
+                "photo": "https://media.api-sports.io/football/players/16360.png",
+                "type": "Missing Fixture",
+                "reason": "Injury"
+            },
+            "team": {
+                "id": 1062,
+                "name": "Atletico-MG",
+                "logo": "https://media.api-sports.io/football/teams/1062.png"
+            },
+            "fixture": {
+                "id": 1478027,
+                "timezone": "UTC",
+                "date": "2025-11-26T00:30:00+00:00",
+                "timestamp": 1764117000
+            },
+            "league": {
+                "id": 71,
+                "season": 2025,
+                "name": "Serie A",
+                "country": "Brazil",
+                "logo": "https://media.api-sports.io/football/leagues/71.png",
+                "flag": "https://media.api-sports.io/flags/br.svg"
+            }
+        },
+        {
+            "player": {
+                "id": 2038,
+                "name": "Guilherme Arana",
+                "photo": "https://media.api-sports.io/football/players/2038.png",
+                "type": "Missing Fixture",
+                "reason": "Inactive"
+            },
+            "team": {
+                "id": 1062,
+                "name": "Atletico-MG",
+                "logo": "https://media.api-sports.io/football/teams/1062.png"
+            },
+            "fixture": {
+                "id": 1478027,
+                "timezone": "UTC",
+                "date": "2025-11-26T00:30:00+00:00",
+                "timestamp": 1764117000
+            },
+            "league": {
+                "id": 71,
+                "season": 2025,
+                "name": "Serie A",
+                "country": "Brazil",
+                "logo": "https://media.api-sports.io/football/leagues/71.png",
+                "flag": "https://media.api-sports.io/flags/br.svg"
+            }
+        },
+        {
+            "player": {
+                "id": 9967,
+                "name": "Igor Gomes",
+                "photo": "https://media.api-sports.io/football/players/9967.png",
+                "type": "Missing Fixture",
+                "reason": "Red Card"
+            },
+            "team": {
+                "id": 1062,
+                "name": "Atletico-MG",
+                "logo": "https://media.api-sports.io/football/teams/1062.png"
+            },
+            "fixture": {
+                "id": 1478027,
+                "timezone": "UTC",
+                "date": "2025-11-26T00:30:00+00:00",
+                "timestamp": 1764117000
+            },
+            "league": {
+                "id": 71,
+                "season": 2025,
+                "name": "Serie A",
+                "country": "Brazil",
+                "logo": "https://media.api-sports.io/football/leagues/71.png",
+                "flag": "https://media.api-sports.io/flags/br.svg"
+            }
+        },
+        {
+            "player": {
+                "id": 10432,
+                "name": "Junior Santos",
+                "photo": "https://media.api-sports.io/football/players/10432.png",
+                "type": "Missing Fixture",
+                "reason": "Hip Injury"
+            },
+            "team": {
+                "id": 1062,
+                "name": "Atletico-MG",
+                "logo": "https://media.api-sports.io/football/teams/1062.png"
+            },
+            "fixture": {
+                "id": 1478027,
+                "timezone": "UTC",
+                "date": "2025-11-26T00:30:00+00:00",
+                "timestamp": 1764117000
+            },
+            "league": {
+                "id": 71,
+                "season": 2025,
+                "name": "Serie A",
+                "country": "Brazil",
+                "logo": "https://media.api-sports.io/football/leagues/71.png",
+                "flag": "https://media.api-sports.io/flags/br.svg"
+            }
+        },
+        {
+            "player": {
+                "id": 30476,
+                "name": "Lyanco",
+                "photo": "https://media.api-sports.io/football/players/30476.png",
+                "type": "Missing Fixture",
+                "reason": "Achilles Tendon Injury"
+            },
+            "team": {
+                "id": 1062,
+                "name": "Atletico-MG",
+                "logo": "https://media.api-sports.io/football/teams/1062.png"
+            },
+            "fixture": {
+                "id": 1478027,
+                "timezone": "UTC",
+                "date": "2025-11-26T00:30:00+00:00",
+                "timestamp": 1764117000
+            },
+            "league": {
+                "id": 71,
+                "season": 2025,
+                "name": "Serie A",
+                "country": "Brazil",
+                "logo": "https://media.api-sports.io/football/leagues/71.png",
+                "flag": "https://media.api-sports.io/flags/br.svg"
+            }
+        },
+        {
+            "player": {
+                "id": 415069,
+                "name": "Patrick Silva",
+                "photo": "https://media.api-sports.io/football/players/415069.png",
+                "type": "Missing Fixture",
+                "reason": "Inactive"
+            },
+            "team": {
+                "id": 1062,
+                "name": "Atletico-MG",
+                "logo": "https://media.api-sports.io/football/teams/1062.png"
+            },
+            "fixture": {
+                "id": 1478027,
+                "timezone": "UTC",
+                "date": "2025-11-26T00:30:00+00:00",
+                "timestamp": 1764117000
+            },
+            "league": {
+                "id": 71,
+                "season": 2025,
+                "name": "Serie A",
+                "country": "Brazil",
+                "logo": "https://media.api-sports.io/football/leagues/71.png",
+                "flag": "https://media.api-sports.io/flags/br.svg"
+            }
+        },
+        {
+            "player": {
+                "id": 10319,
+                "name": "Allan",
+                "photo": "https://media.api-sports.io/football/players/10319.png",
+                "type": "Missing Fixture",
+                "reason": "Inactive"
+            },
+            "team": {
+                "id": 127,
+                "name": "Flamengo",
+                "logo": "https://media.api-sports.io/football/teams/127.png"
+            },
+            "fixture": {
+                "id": 1478027,
+                "timezone": "UTC",
+                "date": "2025-11-26T00:30:00+00:00",
+                "timestamp": 1764117000
+            },
+            "league": {
+                "id": 71,
+                "season": 2025,
+                "name": "Serie A",
+                "country": "Brazil",
+                "logo": "https://media.api-sports.io/football/leagues/71.png",
+                "flag": "https://media.api-sports.io/flags/br.svg"
+            }
+        },
+        {
+            "player": {
+                "id": 10321,
+                "name": "Pedro",
+                "photo": "https://media.api-sports.io/football/players/10321.png",
+                "type": "Missing Fixture",
+                "reason": "Broken Hand"
+            },
+            "team": {
+                "id": 127,
+                "name": "Flamengo",
+                "logo": "https://media.api-sports.io/football/teams/127.png"
+            },
+            "fixture": {
+                "id": 1478027,
+                "timezone": "UTC",
+                "date": "2025-11-26T00:30:00+00:00",
+                "timestamp": 1764117000
+            },
+            "league": {
+                "id": 71,
+                "season": 2025,
+                "name": "Serie A",
+                "country": "Brazil",
+                "logo": "https://media.api-sports.io/football/leagues/71.png",
+                "flag": "https://media.api-sports.io/flags/br.svg"
+            }
+        },
+        {
+            "player": {
+                "id": 51572,
+                "name": "M. Vina",
+                "photo": "https://media.api-sports.io/football/players/51572.png",
+                "type": "Missing Fixture",
+                "reason": "Inactive"
+            },
+            "team": {
+                "id": 127,
+                "name": "Flamengo",
+                "logo": "https://media.api-sports.io/football/teams/127.png"
+            },
+            "fixture": {
+                "id": 1478027,
+                "timezone": "UTC",
+                "date": "2025-11-26T00:30:00+00:00",
+                "timestamp": 1764117000
+            },
+            "league": {
+                "id": 71,
+                "season": 2025,
+                "name": "Serie A",
+                "country": "Brazil",
+                "logo": "https://media.api-sports.io/football/leagues/71.png",
+                "flag": "https://media.api-sports.io/flags/br.svg"
+            }
+        },
+        {
+            "player": {
+                "id": 9458,
+                "name": "Leo Ortiz",
+                "photo": "https://media.api-sports.io/football/players/9458.png",
+                "type": "Questionable",
+                "reason": "Ankle Injury"
+            },
+            "team": {
+                "id": 127,
+                "name": "Flamengo",
+                "logo": "https://media.api-sports.io/football/teams/127.png"
+            },
+            "fixture": {
+                "id": 1478027,
+                "timezone": "UTC",
+                "date": "2025-11-26T00:30:00+00:00",
+                "timestamp": 1764117000
+            },
+            "league": {
+                "id": 71,
+                "season": 2025,
+                "name": "Serie A",
+                "country": "Brazil",
+                "logo": "https://media.api-sports.io/football/leagues/71.png",
+                "flag": "https://media.api-sports.io/flags/br.svg"
+            }
+        },
+        {
+            "player": {
+                "id": 5995,
+                "name": "N. de la Cruz",
+                "photo": "https://media.api-sports.io/football/players/5995.png",
+                "type": "Questionable",
+                "reason": "Inactive"
+            },
+            "team": {
+                "id": 127,
+                "name": "Flamengo",
+                "logo": "https://media.api-sports.io/football/teams/127.png"
+            },
+            "fixture": {
+                "id": 1478027,
+                "timezone": "UTC",
+                "date": "2025-11-26T00:30:00+00:00",
+                "timestamp": 1764117000
+            },
+            "league": {
+                "id": 71,
+                "season": 2025,
+                "name": "Serie A",
+                "country": "Brazil",
+                "logo": "https://media.api-sports.io/football/leagues/71.png",
+                "flag": "https://media.api-sports.io/flags/br.svg"
+            }
+        }
+    ]
+}

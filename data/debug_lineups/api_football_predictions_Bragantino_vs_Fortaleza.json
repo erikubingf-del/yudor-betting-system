@@ -1,0 +1,1400 @@
+{
+    "get": "predictions",
+    "parameters": {
+        "fixture": "1478028"
+    },
+    "errors": [],
+    "results": 1,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "predictions": {
+                "winner": {
+                    "id": 154,
+                    "name": "Fortaleza EC",
+                    "comment": "Win or draw"
+                },
+                "win_or_draw": true,
+                "under_over": null,
+                "goals": {
+                    "home": "-2.5",
+                    "away": "-2.5"
+                },
+                "advice": "Double chance : draw or Fortaleza EC",
+                "percent": {
+                    "home": "10%",
+                    "draw": "45%",
+                    "away": "45%"
+                }
+            },
+            "league": {
+                "id": 71,
+                "name": "Serie A",
+                "country": "Brazil",
+                "logo": "https://media.api-sports.io/football/leagues/71.png",
+                "flag": "https://media.api-sports.io/flags/br.svg",
+                "season": 2025
+            },
+            "teams": {
+                "home": {
+                    "id": 794,
+                    "name": "RB Bragantino",
+                    "logo": "https://media.api-sports.io/football/teams/794.png",
+                    "last_5": {
+                        "played": 5,
+                        "form": "60%",
+                        "att": "40%",
+                        "def": "60%",
+                        "goals": {
+                            "for": {
+                                "total": 6,
+                                "average": "1.2"
+                            },
+                            "against": {
+                                "total": 6,
+                                "average": "1.2"
+                            }
+                        }
+                    },
+                    "league": {
+                        "form": "DLWWWWWDLWWLWDLLLLLLWLDLDDWLLLLWWWL",
+                        "fixtures": {
+                            "played": {
+                                "home": 17,
+                                "away": 18,
+                                "total": 35
+                            },
+                            "wins": {
+                                "home": 8,
+                                "away": 5,
+                                "total": 13
+                            },
+                            "draws": {
+                                "home": 4,
+                                "away": 2,
+                                "total": 6
+                            },
+                            "loses": {
+                                "home": 5,
+                                "away": 11,
+                                "total": 16
+                            }
+                        },
+                        "goals": {
+                            "for": {
+                                "total": {
+                                    "home": 23,
+                                    "away": 17,
+                                    "total": 40
+                                },
+                                "average": {
+                                    "home": "1.4",
+                                    "away": "0.9",
+                                    "total": "1.1"
+                                },
+                                "minute": {
+                                    "0-15": {
+                                        "total": 7,
+                                        "percentage": "17.07%"
+                                    },
+                                    "16-30": {
+                                        "total": 5,
+                                        "percentage": "12.20%"
+                                    },
+                                    "31-45": {
+                                        "total": 9,
+                                        "percentage": "21.95%"
+                                    },
+                                    "46-60": {
+                                        "total": 7,
+                                        "percentage": "17.07%"
+                                    },
+                                    "61-75": {
+                                        "total": 2,
+                                        "percentage": "4.88%"
+                                    },
+                                    "76-90": {
+                                        "total": 11,
+                                        "percentage": "26.83%"
+                                    },
+                                    "91-105": {
+                                        "total": null,
+                                        "percentage": null
+                                    },
+                                    "106-120": {
+                                        "total": null,
+                                        "percentage": null
+                                    }
+                                },
+                                "under_over": {
+                                    "0.5": {
+                                        "over": 29,
+                                        "under": 6
+                                    },
+                                    "1.5": {
+                                        "over": 9,
+                                        "under": 26
+                                    },
+                                    "2.5": {
+                                        "over": 1,
+                                        "under": 34
+                                    },
+                                    "3.5": {
+                                        "over": 1,
+                                        "under": 34
+                                    },
+                                    "4.5": {
+                                        "over": 0,
+                                        "under": 35
+                                    }
+                                }
+                            },
+                            "against": {
+                                "total": {
+                                    "home": 23,
+                                    "away": 30,
+                                    "total": 53
+                                },
+                                "average": {
+                                    "home": "1.4",
+                                    "away": "1.7",
+                                    "total": "1.5"
+                                },
+                                "minute": {
+                                    "0-15": {
+                                        "total": 8,
+                                        "percentage": "15.38%"
+                                    },
+                                    "16-30": {
+                                        "total": 3,
+                                        "percentage": "5.77%"
+                                    },
+                                    "31-45": {
+                                        "total": 9,
+                                        "percentage": "17.31%"
+                                    },
+                                    "46-60": {
+                                        "total": 7,
+                                        "percentage": "13.46%"
+                                    },
+                                    "61-75": {
+                                        "total": 12,
+                                        "percentage": "23.08%"
+                                    },
+                                    "76-90": {
+                                        "total": 13,
+                                        "percentage": "25.00%"
+                                    },
+                                    "91-105": {
+                                        "total": null,
+                                        "percentage": null
+                                    },
+                                    "106-120": {
+                                        "total": null,
+                                        "percentage": null
+                                    }
+                                },
+                                "under_over": {
+                                    "0.5": {
+                                        "over": 26,
+                                        "under": 9
+                                    },
+                                    "1.5": {
+                                        "over": 17,
+                                        "under": 18
+                                    },
+                                    "2.5": {
+                                        "over": 7,
+                                        "under": 28
+                                    },
+                                    "3.5": {
+                                        "over": 2,
+                                        "under": 33
+                                    },
+                                    "4.5": {
+                                        "over": 1,
+                                        "under": 34
+                                    }
+                                }
+                            }
+                        },
+                        "biggest": {
+                            "streak": {
+                                "wins": 5,
+                                "draws": 2,
+                                "loses": 6
+                            },
+                            "wins": {
+                                "home": "4-2",
+                                "away": "0-2"
+                            },
+                            "loses": {
+                                "home": "0-3",
+                                "away": "5-1"
+                            },
+                            "goals": {
+                                "for": {
+                                    "home": 4,
+                                    "away": 2
+                                },
+                                "against": {
+                                    "home": 3,
+                                    "away": 5
+                                }
+                            }
+                        },
+                        "clean_sheet": {
+                            "home": 6,
+                            "away": 3,
+                            "total": 9
+                        },
+                        "failed_to_score": {
+                            "home": 2,
+                            "away": 4,
+                            "total": 6
+                        },
+                        "penalty": {
+                            "scored": {
+                                "total": 6,
+                                "percentage": "100.00%"
+                            },
+                            "missed": {
+                                "total": 0,
+                                "percentage": "0%"
+                            },
+                            "total": 6
+                        },
+                        "lineups": [
+                            {
+                                "formation": "4-2-3-1",
+                                "played": 34
+                            },
+                            {
+                                "formation": "4-4-1-1",
+                                "played": 1
+                            }
+                        ],
+                        "cards": {
+                            "yellow": {
+                                "0-15": {
+                                    "total": 5,
+                                    "percentage": "4.85%"
+                                },
+                                "16-30": {
+                                    "total": 9,
+                                    "percentage": "8.74%"
+                                },
+                                "31-45": {
+                                    "total": 17,
+                                    "percentage": "16.50%"
+                                },
+                                "46-60": {
+                                    "total": 19,
+                                    "percentage": "18.45%"
+                                },
+                                "61-75": {
+                                    "total": 24,
+                                    "percentage": "23.30%"
+                                },
+                                "76-90": {
+                                    "total": 9,
+                                    "percentage": "8.74%"
+                                },
+                                "91-105": {
+                                    "total": 17,
+                                    "percentage": "16.50%"
+                                },
+                                "106-120": {
+                                    "total": null,
+                                    "percentage": null
+                                },
+                                "": {
+                                    "total": 3,
+                                    "percentage": "2.91%"
+                                }
+                            },
+                            "red": {
+                                "0-15": {
+                                    "total": 1,
+                                    "percentage": "33.33%"
+                                },
+                                "16-30": {
+                                    "total": null,
+                                    "percentage": null
+                                },
+                                "31-45": {
+                                    "total": 1,
+                                    "percentage": "33.33%"
+                                },
+                                "46-60": {
+                                    "total": null,
+                                    "percentage": null
+                                },
+                                "61-75": {
+                                    "total": null,
+                                    "percentage": null
+                                },
+                                "76-90": {
+                                    "total": null,
+                                    "percentage": null
+                                },
+                                "91-105": {
+                                    "total": 1,
+                                    "percentage": "33.33%"
+                                },
+                                "106-120": {
+                                    "total": null,
+                                    "percentage": null
+                                }
+                            }
+                        }
+                    }
+                },
+                "away": {
+                    "id": 154,
+                    "name": "Fortaleza EC",
+                    "logo": "https://media.api-sports.io/football/teams/154.png",
+                    "last_5": {
+                        "played": 5,
+                        "form": "47%",
+                        "att": "67%",
+                        "def": "40%",
+                        "goals": {
+                            "for": {
+                                "total": 10,
+                                "average": "2.0"
+                            },
+                            "against": {
+                                "total": 9,
+                                "average": "1.8"
+                            }
+                        }
+                    },
+                    "league": {
+                        "form": "WDDLLDDWLLLLLDWLDLLLLWLWLWLLWDDDDW",
+                        "fixtures": {
+                            "played": {
+                                "home": 17,
+                                "away": 17,
+                                "total": 34
+                            },
+                            "wins": {
+                                "home": 6,
+                                "away": 2,
+                                "total": 8
+                            },
+                            "draws": {
+                                "home": 3,
+                                "away": 7,
+                                "total": 10
+                            },
+                            "loses": {
+                                "home": 8,
+                                "away": 8,
+                                "total": 16
+                            }
+                        },
+                        "goals": {
+                            "for": {
+                                "total": {
+                                    "home": 20,
+                                    "away": 17,
+                                    "total": 37
+                                },
+                                "average": {
+                                    "home": "1.2",
+                                    "away": "1.0",
+                                    "total": "1.1"
+                                },
+                                "minute": {
+                                    "0-15": {
+                                        "total": 7,
+                                        "percentage": "17.95%"
+                                    },
+                                    "16-30": {
+                                        "total": 6,
+                                        "percentage": "15.38%"
+                                    },
+                                    "31-45": {
+                                        "total": 6,
+                                        "percentage": "15.38%"
+                                    },
+                                    "46-60": {
+                                        "total": 4,
+                                        "percentage": "10.26%"
+                                    },
+                                    "61-75": {
+                                        "total": 10,
+                                        "percentage": "25.64%"
+                                    },
+                                    "76-90": {
+                                        "total": 6,
+                                        "percentage": "15.38%"
+                                    },
+                                    "91-105": {
+                                        "total": null,
+                                        "percentage": null
+                                    },
+                                    "106-120": {
+                                        "total": null,
+                                        "percentage": null
+                                    }
+                                },
+                                "under_over": {
+                                    "0.5": {
+                                        "over": 22,
+                                        "under": 12
+                                    },
+                                    "1.5": {
+                                        "over": 9,
+                                        "under": 25
+                                    },
+                                    "2.5": {
+                                        "over": 4,
+                                        "under": 30
+                                    },
+                                    "3.5": {
+                                        "over": 1,
+                                        "under": 33
+                                    },
+                                    "4.5": {
+                                        "over": 1,
+                                        "under": 33
+                                    }
+                                }
+                            },
+                            "against": {
+                                "total": {
+                                    "home": 22,
+                                    "away": 31,
+                                    "total": 53
+                                },
+                                "average": {
+                                    "home": "1.3",
+                                    "away": "1.8",
+                                    "total": "1.6"
+                                },
+                                "minute": {
+                                    "0-15": {
+                                        "total": 10,
+                                        "percentage": "19.61%"
+                                    },
+                                    "16-30": {
+                                        "total": 5,
+                                        "percentage": "9.80%"
+                                    },
+                                    "31-45": {
+                                        "total": 10,
+                                        "percentage": "19.61%"
+                                    },
+                                    "46-60": {
+                                        "total": 9,
+                                        "percentage": "17.65%"
+                                    },
+                                    "61-75": {
+                                        "total": 6,
+                                        "percentage": "11.76%"
+                                    },
+                                    "76-90": {
+                                        "total": 11,
+                                        "percentage": "21.57%"
+                                    },
+                                    "91-105": {
+                                        "total": null,
+                                        "percentage": null
+                                    },
+                                    "106-120": {
+                                        "total": null,
+                                        "percentage": null
+                                    }
+                                },
+                                "under_over": {
+                                    "0.5": {
+                                        "over": 26,
+                                        "under": 8
+                                    },
+                                    "1.5": {
+                                        "over": 16,
+                                        "under": 18
+                                    },
+                                    "2.5": {
+                                        "over": 6,
+                                        "under": 28
+                                    },
+                                    "3.5": {
+                                        "over": 3,
+                                        "under": 31
+                                    },
+                                    "4.5": {
+                                        "over": 2,
+                                        "under": 32
+                                    }
+                                }
+                            }
+                        },
+                        "biggest": {
+                            "streak": {
+                                "wins": 1,
+                                "draws": 4,
+                                "loses": 5
+                            },
+                            "wins": {
+                                "home": "5-0",
+                                "away": "2-3"
+                            },
+                            "loses": {
+                                "home": "0-5",
+                                "away": "5-0"
+                            },
+                            "goals": {
+                                "for": {
+                                    "home": 5,
+                                    "away": 3
+                                },
+                                "against": {
+                                    "home": 5,
+                                    "away": 5
+                                }
+                            }
+                        },
+                        "clean_sheet": {
+                            "home": 6,
+                            "away": 2,
+                            "total": 8
+                        },
+                        "failed_to_score": {
+                            "home": 7,
+                            "away": 5,
+                            "total": 12
+                        },
+                        "penalty": {
+                            "scored": {
+                                "total": 3,
+                                "percentage": "100.00%"
+                            },
+                            "missed": {
+                                "total": 0,
+                                "percentage": "0%"
+                            },
+                            "total": 3
+                        },
+                        "lineups": [],
+                        "cards": {
+                            "yellow": {
+                                "0-15": {
+                                    "total": 6,
+                                    "percentage": "6.06%"
+                                },
+                                "16-30": {
+                                    "total": 8,
+                                    "percentage": "8.08%"
+                                },
+                                "31-45": {
+                                    "total": 12,
+                                    "percentage": "12.12%"
+                                },
+                                "46-60": {
+                                    "total": 22,
+                                    "percentage": "22.22%"
+                                },
+                                "61-75": {
+                                    "total": 16,
+                                    "percentage": "16.16%"
+                                },
+                                "76-90": {
+                                    "total": 20,
+                                    "percentage": "20.20%"
+                                },
+                                "91-105": {
+                                    "total": 10,
+                                    "percentage": "10.10%"
+                                },
+                                "106-120": {
+                                    "total": null,
+                                    "percentage": null
+                                },
+                                "": {
+                                    "total": 5,
+                                    "percentage": "5.05%"
+                                }
+                            },
+                            "red": {
+                                "0-15": {
+                                    "total": 1,
+                                    "percentage": "11.11%"
+                                },
+                                "16-30": {
+                                    "total": null,
+                                    "percentage": null
+                                },
+                                "31-45": {
+                                    "total": null,
+                                    "percentage": null
+                                },
+                                "46-60": {
+                                    "total": null,
+                                    "percentage": null
+                                },
+                                "61-75": {
+                                    "total": 1,
+                                    "percentage": "11.11%"
+                                },
+                                "76-90": {
+                                    "total": 1,
+                                    "percentage": "11.11%"
+                                },
+                                "91-105": {
+                                    "total": 5,
+                                    "percentage": "55.56%"
+                                },
+                                "106-120": {
+                                    "total": null,
+                                    "percentage": null
+                                },
+                                "": {
+                                    "total": 1,
+                                    "percentage": "11.11%"
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "comparison": {
+                "form": {
+                    "home": "56%",
+                    "away": "44%"
+                },
+                "att": {
+                    "home": "38%",
+                    "away": "63%"
+                },
+                "def": {
+                    "home": "60%",
+                    "away": "40%"
+                },
+                "poisson_distribution": {
+                    "home": "55%",
+                    "away": "45%"
+                },
+                "h2h": {
+                    "home": "29%",
+                    "away": "71%"
+                },
+                "goals": {
+                    "home": "47%",
+                    "away": "53%"
+                },
+                "total": {
+                    "home": "47.5%",
+                    "away": "52.7%"
+                }
+            },
+            "h2h": [
+                {
+                    "fixture": {
+                        "id": 1351211,
+                        "referee": "Wagner do Nascimento Magalhaes, Brazil",
+                        "timezone": "UTC",
+                        "date": "2025-07-26T21:30:00+00:00",
+                        "timestamp": 1753565400,
+                        "periods": {
+                            "first": 1753565400,
+                            "second": 1753569000
+                        },
+                        "venue": {
+                            "id": 225,
+                            "name": "Est\u00e1dio Governador Pl\u00e1cido Aderaldo Castelo",
+                            "city": "Fortaleza"
+                        },
+                        "status": {
+                            "long": "Match Finished",
+                            "short": "FT",
+                            "elapsed": 90,
+                            "extra": 8
+                        }
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media.api-sports.io/flags/br.svg",
+                        "season": 2025,
+                        "round": "Regular Season - 17",
+                        "standings": true
+                    },
+                    "teams": {
+                        "home": {
+                            "id": 154,
+                            "name": "Fortaleza EC",
+                            "logo": "https://media.api-sports.io/football/teams/154.png",
+                            "winner": true
+                        },
+                        "away": {
+                            "id": 794,
+                            "name": "RB Bragantino",
+                            "logo": "https://media.api-sports.io/football/teams/794.png",
+                            "winner": false
+                        }
+                    },
+                    "goals": {
+                        "home": 3,
+                        "away": 1
+                    },
+                    "score": {
+                        "halftime": {
+                            "home": 2,
+                            "away": 1
+                        },
+                        "fulltime": {
+                            "home": 3,
+                            "away": 1
+                        },
+                        "extratime": {
+                            "home": null,
+                            "away": null
+                        },
+                        "penalty": {
+                            "home": null,
+                            "away": null
+                        }
+                    }
+                },
+                {
+                    "fixture": {
+                        "id": 1180581,
+                        "referee": "Alex Gomes",
+                        "timezone": "UTC",
+                        "date": "2024-08-17T21:30:00+00:00",
+                        "timestamp": 1723930200,
+                        "periods": {
+                            "first": 1723930200,
+                            "second": 1723933800
+                        },
+                        "venue": {
+                            "id": 220,
+                            "name": "Est\u00e1dio Nabi Abi Chedid",
+                            "city": "Bragan\u00e7a Paulista, S\u00e3o Paulo"
+                        },
+                        "status": {
+                            "long": "Match Finished",
+                            "short": "FT",
+                            "elapsed": 90,
+                            "extra": null
+                        }
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media.api-sports.io/flags/br.svg",
+                        "season": 2024,
+                        "round": "Regular Season - 23",
+                        "standings": true
+                    },
+                    "teams": {
+                        "home": {
+                            "id": 794,
+                            "name": "RB Bragantino",
+                            "logo": "https://media.api-sports.io/football/teams/794.png",
+                            "winner": false
+                        },
+                        "away": {
+                            "id": 154,
+                            "name": "Fortaleza EC",
+                            "logo": "https://media.api-sports.io/football/teams/154.png",
+                            "winner": true
+                        }
+                    },
+                    "goals": {
+                        "home": 1,
+                        "away": 2
+                    },
+                    "score": {
+                        "halftime": {
+                            "home": 1,
+                            "away": 1
+                        },
+                        "fulltime": {
+                            "home": 1,
+                            "away": 2
+                        },
+                        "extratime": {
+                            "home": null,
+                            "away": null
+                        },
+                        "penalty": {
+                            "home": null,
+                            "away": null
+                        }
+                    }
+                },
+                {
+                    "fixture": {
+                        "id": 1180392,
+                        "referee": "Davi de Oliveira Lacerda",
+                        "timezone": "UTC",
+                        "date": "2024-04-28T21:30:00+00:00",
+                        "timestamp": 1714339800,
+                        "periods": {
+                            "first": 1714339800,
+                            "second": 1714343400
+                        },
+                        "venue": {
+                            "id": 225,
+                            "name": "Est\u00e1dio Governador Pl\u00e1cido Aderaldo Castelo",
+                            "city": "Fortaleza, Cear\u00e1"
+                        },
+                        "status": {
+                            "long": "Match Finished",
+                            "short": "FT",
+                            "elapsed": 90,
+                            "extra": null
+                        }
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media.api-sports.io/flags/br.svg",
+                        "season": 2024,
+                        "round": "Regular Season - 4",
+                        "standings": true
+                    },
+                    "teams": {
+                        "home": {
+                            "id": 154,
+                            "name": "Fortaleza EC",
+                            "logo": "https://media.api-sports.io/football/teams/154.png",
+                            "winner": null
+                        },
+                        "away": {
+                            "id": 794,
+                            "name": "RB Bragantino",
+                            "logo": "https://media.api-sports.io/football/teams/794.png",
+                            "winner": null
+                        }
+                    },
+                    "goals": {
+                        "home": 1,
+                        "away": 1
+                    },
+                    "score": {
+                        "halftime": {
+                            "home": 1,
+                            "away": 1
+                        },
+                        "fulltime": {
+                            "home": 1,
+                            "away": 1
+                        },
+                        "extratime": {
+                            "home": null,
+                            "away": null
+                        },
+                        "penalty": {
+                            "home": null,
+                            "away": null
+                        }
+                    }
+                },
+                {
+                    "fixture": {
+                        "id": 1006003,
+                        "referee": "Denis Ribeiro Serafim",
+                        "timezone": "UTC",
+                        "date": "2023-11-30T23:30:00+00:00",
+                        "timestamp": 1701387000,
+                        "periods": {
+                            "first": 1701387000,
+                            "second": 1701390600
+                        },
+                        "venue": {
+                            "id": 220,
+                            "name": "Est\u00e1dio Nabi Abi Chedid",
+                            "city": "Bragan\u00e7a Paulista, S\u00e3o Paulo"
+                        },
+                        "status": {
+                            "long": "Match Finished",
+                            "short": "FT",
+                            "elapsed": 90,
+                            "extra": null
+                        }
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media.api-sports.io/flags/br.svg",
+                        "season": 2023,
+                        "round": "Regular Season - 36",
+                        "standings": true
+                    },
+                    "teams": {
+                        "home": {
+                            "id": 794,
+                            "name": "RB Bragantino",
+                            "logo": "https://media.api-sports.io/football/teams/794.png",
+                            "winner": false
+                        },
+                        "away": {
+                            "id": 154,
+                            "name": "Fortaleza EC",
+                            "logo": "https://media.api-sports.io/football/teams/154.png",
+                            "winner": true
+                        }
+                    },
+                    "goals": {
+                        "home": 1,
+                        "away": 2
+                    },
+                    "score": {
+                        "halftime": {
+                            "home": 1,
+                            "away": 2
+                        },
+                        "fulltime": {
+                            "home": 1,
+                            "away": 2
+                        },
+                        "extratime": {
+                            "home": null,
+                            "away": null
+                        },
+                        "penalty": {
+                            "home": null,
+                            "away": null
+                        }
+                    }
+                },
+                {
+                    "fixture": {
+                        "id": 1005817,
+                        "referee": "Andr\u00e9 Luiz",
+                        "timezone": "UTC",
+                        "date": "2023-07-29T21:30:00+00:00",
+                        "timestamp": 1690666200,
+                        "periods": {
+                            "first": 1690666200,
+                            "second": 1690669800
+                        },
+                        "venue": {
+                            "id": 225,
+                            "name": "Est\u00e1dio Governador Pl\u00e1cido Aderaldo Castelo",
+                            "city": "Fortaleza, Cear\u00e1"
+                        },
+                        "status": {
+                            "long": "Match Finished",
+                            "short": "FT",
+                            "elapsed": 90,
+                            "extra": null
+                        }
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media.api-sports.io/flags/br.svg",
+                        "season": 2023,
+                        "round": "Regular Season - 17",
+                        "standings": true
+                    },
+                    "teams": {
+                        "home": {
+                            "id": 154,
+                            "name": "Fortaleza EC",
+                            "logo": "https://media.api-sports.io/football/teams/154.png",
+                            "winner": false
+                        },
+                        "away": {
+                            "id": 794,
+                            "name": "RB Bragantino",
+                            "logo": "https://media.api-sports.io/football/teams/794.png",
+                            "winner": true
+                        }
+                    },
+                    "goals": {
+                        "home": 0,
+                        "away": 3
+                    },
+                    "score": {
+                        "halftime": {
+                            "home": 0,
+                            "away": 1
+                        },
+                        "fulltime": {
+                            "home": 0,
+                            "away": 3
+                        },
+                        "extratime": {
+                            "home": null,
+                            "away": null
+                        },
+                        "penalty": {
+                            "home": null,
+                            "away": null
+                        }
+                    }
+                },
+                {
+                    "fixture": {
+                        "id": 838357,
+                        "referee": "Ramon Abatti",
+                        "timezone": "UTC",
+                        "date": "2022-11-09T23:30:00+00:00",
+                        "timestamp": 1668036600,
+                        "periods": {
+                            "first": 1668036600,
+                            "second": 1668040200
+                        },
+                        "venue": {
+                            "id": 225,
+                            "name": "Est\u00e1dio Governador Pl\u00e1cido Aderaldo Castelo",
+                            "city": "Fortaleza, Cear\u00e1"
+                        },
+                        "status": {
+                            "long": "Match Finished",
+                            "short": "FT",
+                            "elapsed": 90,
+                            "extra": null
+                        }
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media.api-sports.io/flags/br.svg",
+                        "season": 2022,
+                        "round": "Regular Season - 37",
+                        "standings": true
+                    },
+                    "teams": {
+                        "home": {
+                            "id": 154,
+                            "name": "Fortaleza EC",
+                            "logo": "https://media.api-sports.io/football/teams/154.png",
+                            "winner": true
+                        },
+                        "away": {
+                            "id": 794,
+                            "name": "RB Bragantino",
+                            "logo": "https://media.api-sports.io/football/teams/794.png",
+                            "winner": false
+                        }
+                    },
+                    "goals": {
+                        "home": 6,
+                        "away": 0
+                    },
+                    "score": {
+                        "halftime": {
+                            "home": 4,
+                            "away": 0
+                        },
+                        "fulltime": {
+                            "home": 6,
+                            "away": 0
+                        },
+                        "extratime": {
+                            "home": null,
+                            "away": null
+                        },
+                        "penalty": {
+                            "home": null,
+                            "away": null
+                        }
+                    }
+                },
+                {
+                    "fixture": {
+                        "id": 838163,
+                        "referee": "Diego Pombo Lopez",
+                        "timezone": "UTC",
+                        "date": "2022-07-20T22:00:00+00:00",
+                        "timestamp": 1658354400,
+                        "periods": {
+                            "first": 1658354400,
+                            "second": 1658358000
+                        },
+                        "venue": {
+                            "id": 220,
+                            "name": "Est\u00e1dio Nabi Abi Chedid",
+                            "city": "Bragan\u00e7a Paulista, S\u00e3o Paulo"
+                        },
+                        "status": {
+                            "long": "Match Finished",
+                            "short": "FT",
+                            "elapsed": 90,
+                            "extra": null
+                        }
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media.api-sports.io/flags/br.svg",
+                        "season": 2022,
+                        "round": "Regular Season - 18",
+                        "standings": true
+                    },
+                    "teams": {
+                        "home": {
+                            "id": 794,
+                            "name": "RB Bragantino",
+                            "logo": "https://media.api-sports.io/football/teams/794.png",
+                            "winner": true
+                        },
+                        "away": {
+                            "id": 154,
+                            "name": "Fortaleza EC",
+                            "logo": "https://media.api-sports.io/football/teams/154.png",
+                            "winner": false
+                        }
+                    },
+                    "goals": {
+                        "home": 2,
+                        "away": 1
+                    },
+                    "score": {
+                        "halftime": {
+                            "home": 1,
+                            "away": 0
+                        },
+                        "fulltime": {
+                            "home": 2,
+                            "away": 1
+                        },
+                        "extratime": {
+                            "home": null,
+                            "away": null
+                        },
+                        "penalty": {
+                            "home": null,
+                            "away": null
+                        }
+                    }
+                },
+                {
+                    "fixture": {
+                        "id": 689226,
+                        "referee": "Rafael Traci",
+                        "timezone": "UTC",
+                        "date": "2021-11-13T22:00:00+00:00",
+                        "timestamp": 1636840800,
+                        "periods": {
+                            "first": 1636840800,
+                            "second": 1636844400
+                        },
+                        "venue": {
+                            "id": 220,
+                            "name": "Est\u00e1dio Nabi Abi Chedid",
+                            "city": "Bragan\u00e7a Paulista, S\u00e3o Paulo"
+                        },
+                        "status": {
+                            "long": "Match Finished",
+                            "short": "FT",
+                            "elapsed": 90,
+                            "extra": null
+                        }
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media.api-sports.io/flags/br.svg",
+                        "season": 2021,
+                        "round": "Regular Season - 32",
+                        "standings": true
+                    },
+                    "teams": {
+                        "home": {
+                            "id": 794,
+                            "name": "RB Bragantino",
+                            "logo": "https://media.api-sports.io/football/teams/794.png",
+                            "winner": true
+                        },
+                        "away": {
+                            "id": 154,
+                            "name": "Fortaleza EC",
+                            "logo": "https://media.api-sports.io/football/teams/154.png",
+                            "winner": false
+                        }
+                    },
+                    "goals": {
+                        "home": 3,
+                        "away": 0
+                    },
+                    "score": {
+                        "halftime": {
+                            "home": 2,
+                            "away": 0
+                        },
+                        "fulltime": {
+                            "home": 3,
+                            "away": 0
+                        },
+                        "extratime": {
+                            "home": null,
+                            "away": null
+                        },
+                        "penalty": {
+                            "home": null,
+                            "away": null
+                        }
+                    }
+                },
+                {
+                    "fixture": {
+                        "id": 689034,
+                        "referee": "Bruno Arleu de Araujo",
+                        "timezone": "UTC",
+                        "date": "2021-07-25T19:00:00+00:00",
+                        "timestamp": 1627239600,
+                        "periods": {
+                            "first": 1627239600,
+                            "second": 1627243200
+                        },
+                        "venue": {
+                            "id": 225,
+                            "name": "Est\u00e1dio Governador Pl\u00e1cido Aderaldo Castelo",
+                            "city": "Fortaleza, Cear\u00e1"
+                        },
+                        "status": {
+                            "long": "Match Finished",
+                            "short": "FT",
+                            "elapsed": 90,
+                            "extra": null
+                        }
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media.api-sports.io/flags/br.svg",
+                        "season": 2021,
+                        "round": "Regular Season - 13",
+                        "standings": true
+                    },
+                    "teams": {
+                        "home": {
+                            "id": 154,
+                            "name": "Fortaleza EC",
+                            "logo": "https://media.api-sports.io/football/teams/154.png",
+                            "winner": true
+                        },
+                        "away": {
+                            "id": 794,
+                            "name": "RB Bragantino",
+                            "logo": "https://media.api-sports.io/football/teams/794.png",
+                            "winner": false
+                        }
+                    },
+                    "goals": {
+                        "home": 1,
+                        "away": 0
+                    },
+                    "score": {
+                        "halftime": {
+                            "home": 1,
+                            "away": 0
+                        },
+                        "fulltime": {
+                            "home": 1,
+                            "away": 0
+                        },
+                        "extratime": {
+                            "home": null,
+                            "away": null
+                        },
+                        "penalty": {
+                            "home": null,
+                            "away": null
+                        }
+                    }
+                },
+                {
+                    "fixture": {
+                        "id": 328233,
+                        "referee": "Heber Roberto Lopes, Brazil",
+                        "timezone": "UTC",
+                        "date": "2020-12-12T20:00:00+00:00",
+                        "timestamp": 1607803200,
+                        "periods": {
+                            "first": 1607803200,
+                            "second": 1607806800
+                        },
+                        "venue": {
+                            "id": 220,
+                            "name": "Est\u00e1dio Nabi Abi Chedid",
+                            "city": "Bragan\u00e7a Paulista, S\u00e3o Paulo"
+                        },
+                        "status": {
+                            "long": "Match Finished",
+                            "short": "FT",
+                            "elapsed": 90,
+                            "extra": null
+                        }
+                    },
+                    "league": {
+                        "id": 71,
+                        "name": "Serie A",
+                        "country": "Brazil",
+                        "logo": "https://media.api-sports.io/football/leagues/71.png",
+                        "flag": "https://media.api-sports.io/flags/br.svg",
+                        "season": 2020,
+                        "round": "Regular Season - 25",
+                        "standings": true
+                    },
+                    "teams": {
+                        "home": {
+                            "id": 794,
+                            "name": "Bragantino",
+                            "logo": "https://media.api-sports.io/football/teams/794.png",
+                            "winner": true
+                        },
+                        "away": {
+                            "id": 154,
+                            "name": "Fortaleza EC",
+                            "logo": "https://media.api-sports.io/football/teams/154.png",
+                            "winner": false
+                        }
+                    },
+                    "goals": {
+                        "home": 2,
+                        "away": 1
+                    },
+                    "score": {
+                        "halftime": {
+                            "home": 1,
+                            "away": 1
+                        },
+                        "fulltime": {
+                            "home": 2,
+                            "away": 1
+                        },
+                        "extratime": {
+                            "home": null,
+                            "away": null
+                        },
+                        "penalty": {
+                            "home": null,
+                            "away": null
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

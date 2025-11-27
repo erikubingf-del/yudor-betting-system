@@ -1,0 +1,40 @@
+                 Generalized Linear Model Regression Results                  
+===============================================================================
+Dep. Variable:                   goals   No. Observations:                   10 
+Model:                           GLM   Df Residuals:                        0 
+Model Family:                Poisson   Df Model:                            9 
+Link Function:                     log   Scale:                           1.0000 
+Method:                          IRLS   Log-Likelihood:                    nan 
+Date:                Tue, 25 Nov 2025   Deviance:                       0.00000 
+Time:                        12:00:00   Pearson chi2:                    0.000 
+No. Iterations:                     1   Covariance Type:             nonrobust 
+=============================================================================================================
+                                                coef    std err          z      P>|z|      [0.025      0.975]
+-------------------------------------------------------------------------------------------------------------
+Intercept                                    -0.1054        nan        nan        nan         nan         nan
+team[T.Burnley]                               -0.7985        nan        nan        nan         nan         nan
+team[T.Chelsea]                                0.6931        nan        nan        nan         nan         nan
+team[T.Hoffenheim]                             0.3946        nan        nan        nan         nan         nan
+team[T.Levante]                               -0.1054        nan        nan        nan         nan         nan
+team[T.Mainz 05]                              -0.1054        nan        nan        nan         nan         nan
+team[T.Valencia]                               0.5878        nan        nan        nan         nan         nan
+team[T.West Ham United]                        0.6931        nan        nan        nan         nan         nan
+opponent[T.Brentford]                          0.5878        nan        nan        nan         nan         nan
+opponent[T.Burnley]                            0.6931        nan        nan        nan         nan         nan
+opponent[T.Chelsea]                           -0.7985        nan        nan        nan         nan         nan
+opponent[T.Hoffenheim]                        -0.1054        nan        nan        nan         nan         nan
+opponent[T.Levante]                            0.5878        nan        nan        nan         nan         nan
+opponent[T.Mainz 05]                           0.3946        nan        nan        nan         nan         nan
+opponent[T.West Ham United]                   -0.1054        nan        nan        nan         nan         nan
+home                                           0.1054        nan        nan        nan         nan         nan
+=============================================================================================================
+
+Model training complete.
+
+Predicting match: Valencia vs Levante
+
+Prediction Results:
+  Home win probability: 56.33%
+  Draw probability: 21.80%
+  Away win probability: 21.87%
+  Predicted score: 2.00 - 1.00
